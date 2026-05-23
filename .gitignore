@@ -1,0 +1,32 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Corpus — large & copyright
+Dataset/corpus_train/
+Dataset/corpus_val/
+Dataset/corpus_test/
+
+# Generated model artifacts (regeneratable from code)
+Dataset/Output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Intermediate progress files
+companies_all_progress*.xlsx
