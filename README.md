@@ -53,7 +53,9 @@ The following resources are provided as supplementary material:
 - **Appendix C** — Gold standard dataset (300 sentences, human-annotated): available on request
 - **Appendix D** — Corpus company list: `All_companies_with_industry.xlsx`
 
-> The training/validation/test corpus (.txt files) is not included in this repository due to copyright restrictions on the original ESG report content.
+> The full training/validation/test corpus (982 reports) is not included in this repository due to copyright restrictions on the original ESG report content. A sample of 50 reports used for annotation is provided in `Dataset/annotation_sample/` for reference and testing purposes.
+>
+> **To request access to the full corpus, please contact:** phamkhacnam2001@gmail.com
 
 ---
 

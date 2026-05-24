@@ -1,0 +1,6980 @@
+                                                                            
+Toplus Global  
+ 
+ 
+Toplus Global Co., Ltd. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+2 
+ 
+Table of Contents 
+ 
+Message from the Chairman ............................................................................................................................ 7 
+About This Report................................................................................................................................................ 9 
+Chapter 1: Material Topic Identification ..................................................................................................... 18 
+1.1. 
+Stakeholders and Materiality .................................................................................................... 18 
+1.1.1. 
+Stakeholder Engagement .............................................................................................. 18 
+1.1.2. 
+Process Steps ..................................................................................................................... 18 
+1.1.3. 
+Stakeholder Identification ............................................................................................. 18 
+1.1.4. 
+Stakeholder Communication ........................................................................................ 19 
+1.2. 
+Annual Material Topic analysis ................................................................................................. 22 
+1.2.1. 
+Sustainability Issue Collection ...................................................................................... 22 
+1.2.2. 
+Stakeholder Materiality Identification ....................................................................... 22 
+1.3. 
+Material topic performance and targets ................................................................................ 29 
+Chapter 2: Corporate Governance and Economic Issues ...................................................................... 38 
+2.1. 
+Corporate Governance and Management Structure ......................................................... 39 
+2.1.1. 
+Group Organizational Structure .................................................................................. 39 
+2.1.2. 
+Industry Value Chain ....................................................................................................... 40 
+2.1.3. 
+Highest Governing Body ................................................................................................ 40 
+2.1.4. 
+Collective Wisdom of the Highest Governance Body ........................................... 44 
+2.1.5. 
+Performance Evaluation of the Highest Governance Body ................................. 48 
+
+ 
+3 
+2.1.6. 
+Functional Committees .................................................................................................. 50 
+2.2. 
+Operational Management and Policy .................................................................................... 52 
+2.2.1. 
+Remuneration Policy ....................................................................................................... 52 
+2.2.2. 
+Quality and Safety G2 ..................................................................................................... 52 
+2.2.3. 
+Supplier Management and Food Sourcing G3 ....................................................... 54 
+2.2.4. 
+Compliance with Laws and Regulations .................................................................... 57 
+2.2.5. 
+Corporate Ethics and Moral Standards ..................................................................... 57 
+2.2.6. 
+Complaints and Remedies ............................................................................................. 58 
+2.3. 
+Operational Performance G1 .................................................................................................... 59 
+2.3.1. 
+Operational Overview ..................................................................................................... 59 
+2.3.2. 
+Subsidies and Grants ....................................................................................................... 60 
+2.4. 
+Sustainable Development Management ............................................................................... 60 
+2.4.1. 
+Sustainability Policy ......................................................................................................... 60 
+2.4.2. 
+Sustainable Business Framework ................................................................................ 61 
+2.5. 
+Participation in Public Associations ........................................................................................ 63 
+Chapter 3 Environmental Protection ........................................................................................................... 65 
+3.1. 
+Environmental Policy ................................................................................................................... 65 
+3.2. 
+TCFD Climate-Related Financial Disclosure .......................................................................... 65 
+3.2.1. 
+Climate-Related Financial Risk Factors ...................................................................... 65 
+3.2.2 Climate-Related Financial Opportunities ........................................................................ 67 
+
+ 
+4 
+3.3. 
+Energy Management E1 .............................................................................................................. 68 
+3.3.1. 
+Energy Consumption....................................................................................................... 69 
+3.4. 
+Greenhouse Gas Management ................................................................................................. 69 
+3.4.1. 
+Greenhouse Gas Emissions ........................................................................................... 70 
+3.4.2. 
+Measures for Emission Reduction ............................................................................... 70 
+3.5. 
+Water Resource Management E2 ............................................................................................ 71 
+3.6. 
+Waste Management E3 ............................................................................................................... 72 
+3.6.1. 
+Waste Management and Resource Recycling ......................................................... 72 
+3.6.2. 
+Waste-to-Energy .............................................................................................................. 73 
+Chapter 4 Social Inclusion ............................................................................................................................... 74 
+4.1. 
+Labor Practices S4 ......................................................................................................................... 74 
+4.1.1. 
+Workforce Structure ........................................................................................................ 74 
+4.1.2. 
+Employee Communication ............................................................................................ 77 
+4.1.3. 
+Employee Benefits and Retirement System ............................................................. 77 
+4.1.4. 
+Parental Leave ................................................................................................................... 78 
+4.1.5. 
+Employee Compensation and Benefits ..................................................................... 79 
+4.1.6. 
+Collective Bargaining Agreement ............................................................................... 80 
+4.2. 
+Occupational Safety and Health .............................................................................................. 81 
+4.2.1. 
+Occupational Safety and Health Management ....................................................... 81 
+4.2.2. 
+Attendance and Occupational Injury Management .............................................. 82 
+
+ 
+5 
+4.3 
+Employee Training and Development S1 .............................................................................. 84 
+4.3.1 
+Average Training Hours .................................................................................................. 84 
+4.4 
+Customer Health and Safety S3 ................................................................................................ 85 
+4.4.1 
+Food Safety ........................................................................................................................ 85 
+4.4.2 
+Food labeling ..................................................................................................................... 87 
+4.5 
+Customer Relationship Building and Maintenance S2 ...................................................... 88 
+4.6 
+Other Social Issues ....................................................................................................................... 88 
+4.6.1 
+Local Communities .......................................................................................................... 88 
+4.6.2 
+Public Policy ....................................................................................................................... 89 
+4.7 
+Social Care and Giving Back ...................................................................................................... 89 
+Appendix .............................................................................................................................................................. 91 
+GRI Index Table .......................................................................................................................................... 91 
+SASB Index Cross-Reference Table ...................................................................................................... 94 
+" Taiwan Stock Exchange Corporation Rules Governing the Preparation and Filing of 
+Sustainability Reports by TWSE Listed Companies " - Appendix 1-1 Sustainability 
+Disclosure Indicators Comparison Table ........................................................................................... 97 
+" Taiwan Stock Exchange Corporation Rules Governing the Preparation and Filing of 
+Sustainability Reports by TWSE Listed Companies " - Appendix II: Climate-Related 
+Information................................................................................................................................................ 101 
+Third-Party Assurance Report ............................................................................................................. 111 
+ 
+
+ 
+6 
+ 
+ 
+
+ 
+7 
+Message from the Chairman 
+Building a Sustainable Vision, Realizing Corporate Value 
+Since its inception, Toplus Global has been a leader in providing "integrated services that 
+merge exquisite dining experiences with lifestyle aesthetics." We are dedicated to 
+transforming the restaurant industry, shifting the focus from singular consumption moments 
+to comprehensive, aesthetically rich lifestyle scenarios. Guided by our philosophy of 
+"Innovation, Excellence, and Shared Prosperity," we firmly believe that sustainable corporate 
+growth must balance operational achievements with social responsibility and environmental 
+stewardship. Recognizing the urgency of global climate change, Toplus Global has integrated 
+ESG governance into its core business strategy. We have set a clear, ambitious goal to 
+achieve net-zero emissions across the entire group by 2030, demonstrating our generation's 
+commitment through decisive action. 
+ 
+In the first phase of our sustainability transformation, we focused on "establishing 
+foundations and mastering data." By 2024, Toplus Global had fully completed ISO 14064-1 
+greenhouse gas inventory verification across the entire group, successfully obtaining 
+certification from the international third-party organization DNV. Concurrently, we 
+implemented energy efficiency enhancements and carbon reduction measures. For instance, 
+the Amazing Hall Taoyuan Flagship Venue pioneered the upgrade of its central air 
+conditioning chiller system, significantly reducing operational energy consumption and 
+laying a solid foundation for future carbon neutrality. Building on these Phase One 
+achievements, we have initiated Phase Two's in-depth transformation. Toplus Global is 
+concurrently applying for carbon credits issued by the Environmental Protection 
+Administration and pursuing Science Based Targets initiative (SBTi) certification to ensure 
+future carbon reduction actions align with international standards. Regarding products and 
+supply chains, we actively promote seasonal local ingredients, fully support locally sourced 
+poultry eggs and fish-power co-generation agricultural products to reduce transportation 
+carbon footprints. Through innovative menu design, we minimize overall food waste, 
+deepening our low-carbon business model. 
+ 
+Toplus Global consistently centers its corporate culture around a " People-centered " 
+philosophy, prioritizing employee health, safety, and career development. All employees 
+undergo systematic ESG training, extending sustainability awareness from senior 
+management to every team member. The group actively participates in social welfare 
+initiatives, promotes a Diversity & Inclusion workplace culture, and implements a mutually 
+beneficial cycle with suppliers and consumers through restaurant reservation systems and 
+
+ 
+8 
+precision procurement models, demonstrating its profound commitment to society and the 
+environment. 
+ 
+Toplus Global has set a clear sustainability vision toward 2030, underpinned by four key 
+drivers of progress: Operational Net-Zero Transition, Sustainable Supply Chain Upgrades, 
+Robust Governance and Transparent Disclosure, and Deepening Social Inclusion Impact. We 
+are committed to leading with decisive action and strategic innovation. By joining hands with 
+our employees, partners, and the broader community, we will move progressively toward a 
+zero-carbon future and establish Toplus Global as a sustainability leader in the Taiwanese 
+and Asian restaurant sectors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sun Jeng-chyang, Chairman of Toplus Global 
+ 
+ 
+
+ 
+9 
+About This Report 
+Corresponding 
+Standards 
+ GRI 2-2 Entities included in the organization’s sustainability reporting  
+ GRI 2-3 Reporting period, frequency and contact point  
+ GRI 2-4 Restatements of information  
+ GRI 2-5 External assurance 
+Background 
+This report is one of the diverse communication channels established by Toplus Global Co., 
+Ltd. (hereinafter referred to as Toplus Global or the company) to review the effectiveness of 
+its sustainable business practices. It addresses the material issues prioritized by 
+stakeholders and short-, medium-, and long-term plans, articulating current strategies and 
+actual performance. Upholding transparency, integrity, and objectivity, we are fully 
+committed to pursuing the vision of sustainable corporate development. This report aims 
+to position Toplus Global as a practitioner of sustainable development and aspires to 
+become a benchmark for sustainability within the hospitality industry. 
+Report Publication 
+This report is the "Sustainability Report" for the preceding fiscal year issued by Toplus 
+Global Co., Ltd. The previous edition was published in 2024, with the next edition 
+scheduled for 2026. The report is published annually. This edition primarily discloses 
+information covering the 2024 fiscal year (January 1 to December 31, 2024), including 
+corporate sustainability and social responsibility commitments, policy pledges, 
+stakeholders, material issues, and corporate governance. 
+ Report Publication Date: August 2025 
+ Report Frequency: Annually 
+ Assurance Provider: Crowe (TW) CPAs 
+Reporting Boundary and Approach 
+The issue boundary of this report encompasses topics of concern to stakeholders both 
+within the organization (Toplus Global) and externally, including shareholders/investors, 
+individual customers, public associations, and suppliers. The content is structured around 
+material topics defined by Toplus Global, with other issues presented separately as special 
+topics. The reporting boundary encompasses the Head Office, 7 Amazing Hall banquet 
+venues, 1 DingXian Tainan Danzai Noodles outlet, 1 YanPang Handmade Bakery, 3 
+
+ 
+10 
+Hokkaido Keki cake shops, as well as Amazing Duck and Cross Strait Club, totaling 20 
+locations. This report's framework details Toplus Global's actions and recent achievements 
+across environmental, social, and governance dimensions, discloses material issues, and 
+links these to the 17 United Nations Sustainable Development Goals (SDGs). It also 
+references the "Regulations Governing the Preparation and Filing of Sustainability Reports 
+by Listed Companies," adheres to Global Reporting Initiative (GRI) standards, and follows 
+the Sustainability Accounting Standards Board (SASB) framework and the Task Force on 
+Climate-Related Financial Disclosures (TCFD) guidelines. 
+ 
+ Restatements of information 
+In 2024, Toplus Global introduced the premium brand "Cross Strait Club" and the shopping 
+mall brand "Amazing Duck." Organizational changes necessitated a realignment of reporting 
+boundaries, with the following impacts: 
+(1) Growth in Employee Numbers 
+The Group's total workforce increased by nearly 40%, primarily due to the expansion of 
+operational teams for new brands and additional kitchen and front-of-house staff. This 
+multi-brand strategy enhances market competitiveness while elevating overall brand 
+image and profitability. (See Section 4.1.1 Workforce Structure in this report) 
+(2) Changes in Organizational Greenhouse Gas Emissions 
+In response to organizational changes, the greenhouse gas emissions baseline year has 
+been reset to 2024. The combined emissions from Scope 1 direct emissions and Scope 2 
+indirect energy emissions increased by 5.57% compared to the previous year. 
+ 
+Contact Information 
+ Headquarters: Toplus Global Co., Ltd. 
+ Address: 13F, No. 216, Section 3, Zhonghua Road, Xinzhuang District, New Taipei City 
+ Tel: 02-2226-6277 
+ Website: https://www.toplusglobal.com  
+ Contact: Sustainable Development work group (Email: aries_chu@Amazing Hall.com.tw) 
+ 
+ 
+ 
+ 
+
+ 
+11 
+ 
+Corresponding 
+Standards 
+ GRI 2-1 Organizational Profile 
+Company Basic Information 
+Toplus Global Basic Information 
+Capital 
+NT$836 million 
+2024 Revenue 
+NT$900,026 thousand 
+Representative Sun Jeng-chyang, 
+Chairman 
+Stock Code 3522 
+Nature: Over-the-
+Counter (OTC) Listed 
+Company 
+Organizational 
+Scale 
+Number of 
+Employees: 534 
+Primary Products and Services: Food and 
+beverage products and ingredient sales 
+Primary Products and Services 
+Toplus Global Co., Ltd. operates a portfolio of renowned dining brands including "Ding Xian 
+Tainan Danzai Noodles," "Amazing Hall," "Cross Strait Club," "Amazing Duck," "Hokkaido 
+KEKI Cake House," "YanPang Handmade Bread Shop," " Amazing Dim Sum," and " Amazing 
+Cantonese Roast Duck Restaurant." With 14 production facilities, Toplus Global holds a 
+significant position in Taiwan's food service market. 
+Beyond its stable food service operations, Toplus Global established subsidiaries " Royal 
+Living Travel Service " and " Vision Living Co., Ltd " in 2023 to expand into tourism and hotel 
+management. In 2024, it formally entered the high-end dining and mall-based food service 
+sectors by incorporating "Cross Strait Club" and "Amazing Duck " diversifying its culinary 
+offerings to provide customers with comprehensive services. Toplus Global aims to integrate 
+catering, tourism, and hotel management, striving to transform into a "low-carbon hospitality 
+service platform" to advance globally and maximize group value. 
+Since 2023, Toplus Global Group has established an ESG team and committed its subsidiaries 
+to conducting carbon audits, advancing toward carbon neutrality. The group will collaborate 
+with relevant suppliers to join the carbon reduction initiative, building a "Zero-Carbon 
+Hospitality Platform." 
+【Brand Introduction】 
+(1) Amazing Hall 
+Established in June 2004, Amazing Hall is one of Toplus Global's flagship brands, 
+operating seven branches across Taiwan. Since its inception, it has served over one 
+million guests. Embracing the "Playful Wedding Philosophy," Amazing Hall creates 
+
+ 
+12 
+unique wedding experiences for couples, combining professional planning with 
+premium service and diverse banquet venues. Each of its seven venues boasts distinctive 
+features: Minquan Hall features world-class audio and immersive visual technology; 
+Sunlight Chanson creates an elegant ambiance with its column-free design; Bali Manor 
+combines theater-level luxury design; Zhonghe Hall amazes guests with its theater-style 
+layout; Fuzhong Hall offers understated grandeur with spacious seating for 900 guests; 
+Taoyuan Hall, adjacent to Taoyuan's arts district, stands as a European-style banquet 
+favorite and recipient of international design awards; Yufeng Hall in Hsinchu, near ASMO 
+Technology Park, delivers an elegant dining experience through modern design and 
+private rooms. 
+(2) Ding Xian Tainan Danzai Noodles 
+Taiwan's premier fresh seafood restaurant, 'Ding Xian Tainan Danzai Noodles,' features 
+consistent European royal-style elegance. Imported crystal chandeliers and century-old 
+European collectible tableware create an elegant and comfortable dining space. 
+Specializing in premium seafood dishes and traditional Taiwanese snacks, blends 
+culinary techniques from Taiwanese, Japanese, Cantonese, and French traditions, 
+infusing dishes with rich creativity and diverse ingredients. Focusing on meticulously 
+selected, top-tier live seafood prepared fresh on-site, the restaurant upholds exquisite 
+service quality and a spirit of innovative culinary development, continuously crafting 
+legends in Taiwanese cuisine since its inception. 
+(3) Amazing Cantonese Roast Duck Restaurant 
+Renowned for its gold-medal roast duck and classic Cantonese cuisine, the signature 
+"One Duck, Three Ways" features Yilan cherry duck with crispy skin and tender meat, 
+delivering an ultimate taste experience. Dining options include à la carte, multi-person 
+set menus, and banquet-style meals, with private rooms available. 
+(4) Hokkaido KEKI Cake House 
+Hokkaido KEKI Cake House stays true to its founding vision, crafting breads and desserts 
+with natural ingredients. It accompanies daily life and commemorative occasions for 
+neighbors and friends, thoughtfully delivering the taste of happiness. In 2022, the new 
+"HOKKAIDO KEKI" was born, featuring an elegant Tiffany blue palette that creates a 
+fresh, high-quality atmosphere. Sunlight streaming through the windows outlines a 
+relaxed and pleasant dessert time. In the future, "HOKKAIDO KEKI" will continue to create 
+touching desserts and breads, bringing families together and filling life with abundant 
+happiness! 
+(5) YanPang Handmade Bread Shop 
+
+ 
+13 
+Crafted with artisanal dedication, Salt Bun Handmade Bread Shop meticulously selects 
+four key ingredients to create dozens of rich flavors. Every bite is freshly baked, offering 
+you the same delicious taste as in Japan. Currently, Salt Bun Handmade Bread Shop 
+operates one location: the Xinyi Fuxing Store in downtown Taipei. 
+(6) Amazing Dim Sum 
+Under the Amazing Hall group, Amazing Dim Sum offers an all-you-can-eat experience 
+featuring Peking duck, Cantonese cuisine, and Hong Kong-style dim sum. Each dish is 
+prepared fresh upon order, showcasing the artisans' refined culinary artistry. Enjoy 
+unlimited access to cart-served dishes, buffet stations, and an array of desserts and 
+beverages within the allotted time. We welcome you to embark on a dreamlike culinary 
+journey. 
+(7) Vision Living CO., LTD 
+In addition to providing hotel development, pre-opening preparation, and operational 
+management services for the tourism and hospitality industry, we also offer clients 
+preliminary feasibility assessments, operational efficiency evaluations, and assistance 
+with reviewing and discussing architectural and interior design drawings. Furthermore, 
+leisure-related industries are also part of our service portfolio. 
+(8) Royal Living Travel Service 
+Royal Living Travel Service specializes in the Japanese tourism market, collaborating with 
+local partners to develop distinctive travel resources in Kyushu's Kumamoto, Shizuoka, 
+Oita, and Kagoshima regions. We offer high-quality, refined itineraries and emphasize 
+local partnerships. Responding to corporate demand for low-carbon travel, we provide 
+low-carbon domestic and international employee travel services, proactively 
+implementing corporate organizations' zero-carbon requirements starting in 2025. 
+(9) Cross Strait Club 
+Emerging to embrace the dawn of a new era, Cross Strait Club champions refined, high-
+end dining services. Centering on Taipei as the epicenter of this new era, it brings 
+together international top-tier cuisine, blending SHABU SHABU, sushi kaiseki, and fusion 
+cuisines, infusing innovative operational concepts. Transcending star-rated dining, it 
+cultivates premium culinary services with sincere hospitality for every guest. The Straits 
+Club primarily serves refined Chinese cuisine, emphasizing ingredient selection and dish 
+innovation. The restaurant offers diverse menus blending traditional and modern 
+elements to satisfy varied customer preferences. 
+ 
+ 
+
+ 
+14 
+(10) Amazing Duck 
+Amazing Duck is the first Toplus Global brand to enter department stores, with its 
+inaugural outlet opening at DaZhi Miramar Mall in 2025. Centered around roast duck, it 
+combines Hong Kong-style dim sum and Taiwanese snacks to create exciting new 
+flavors, ensuring every customer experiences the delight and fun of dining together. 
+Dining at Amazing Duck invites you to savor the vibrant moments of the day, guiding 
+you to discover delightful surprises—all for that one word from our guests: Yummy! 
+Competitive Advantage 
+As market demands grow increasingly diverse, competition in the wedding banquet 
+catering sector intensifies. Beyond traditional chain restaurants, new service formats like 
+specialty restaurants, outdoor weddings, and micro-weddings are emerging, reshaping 
+traditional banquet spaces and service models. These innovative offerings cater to 
+modern consumers' desire for creativity, personalization, and variety, while introducing 
+greater competitive challenges. Moreover, modern consumers increasingly value 
+regional distinctiveness and originality when selecting catering services. A growing 
+number of patrons prefer experiencing cuisine with local character and authentic flavors, 
+while also seeking novel cultural and experiential activities. Consequently, catering 
+services offering unique offerings rooted in local cultural heritage will gain greater 
+market appeal. 
+Our company possesses years of catering service experience and continuously enhances 
+service quality and innovation capabilities based on this foundation. By integrating hotel 
+management expertise with professional travel knowledge provided by travel agencies, 
+we will leverage our strengths in the tourism sector to actively develop new markets, 
+break through existing competitive landscapes, and thereby create higher business value 
+and competitive advantages. 
+Five Competitive Niche Advantages of Toplus Global Group: 
+(1) High-Quality Service 
+Operating premium seafood restaurants that serve high-end live seafood 
+dishes and authentic Taiwanese classic snacks. 
+(2) Premium, Carefully Selected Ingredients 
+We meticulously select the finest live seafood, emphasizing on-site preparation. 
+We strictly adhere to cooking processes free of any harmful chemicals, 
+
+ 
+15 
+preserving the natural sweetness of ingredients so customers savor both taste 
+and health. 
+(3) Deeply Rooted Brand 
+With a long-standing history and high brand recognition, we have earned 
+consumer trust through consistent principles. Every step is meticulously 
+handcrafted without cutting corners, ensuring the finest quality and most 
+delicious premium seafood cuisine. 
+(4) Innovative Cuisine 
+Driven by an innovative spirit that blends Eastern and Western culinary 
+traditions, the brand continuously creates new Taiwanese-style seafood 
+delicacies. 
+ (5) Effective Cost Management 
+ The wedding industry's defining characteristic is advance booking, enabling 
+optimal management and utilization of ingredient preparation and staffing. 
+Awards and Honors 
+In recent years, Toplus Global has actively pursued transformation and business expansion, 
+earning numerous external accolades that demonstrate our strength in the catering and 
+banquet services sector. Notable recent awards and honors include: 
+• 
+Asia-Pacific Annual Culinary Gold Awards: Restaurants under the Toplus Global 
+Group have repeatedly earned this distinction, including winning eight gold awards at 
+the "2024 Asia-Pacific Annual Culinary Gold Awards" and securing six major awards at 
+the "2025 Asia-Pacific Annual Culinary Gold Awards." This demonstrates their 
+excellence in culinary quality and service, regarded as a precursor to Michelin 
+recognition. 
+• 
+International Expansion and Collaboration: Proactively responding to global trends, 
+the group established the Kyushu region's first Japan-Taiwan integrated banquet hall, 
+"Japan-Taiwan Hall," in Kumamoto Prefecture, Japan. It also initiated in-depth 
+exchanges with Japan's "Japan-Taiwan Association," demonstrating its ambition and 
+capability in expanding overseas markets. 
+ 
+Toplus Global Group Award List: 
+ Achievement 
+ Remarks 
+ 2024 Chinese Culinary Culture Gold Award 
+ 【Toplus Global】 
+
+ 
+16 
+ "Asia-Pacific 
+Top 
+Ten 
+Souvenirs 
+- 
+Handcrafted Cookie Gift Box" 
+ "Asia-Pacific 
+Top 
+Ten 
+Souvenirs 
+- 
+Premium Rice Ice Drip Egg Roll Gift Box" 
+ 【Amazing Hall】 
+ "Asia-Pacific Top Ten Master Chef - Chen 
+Shiwei" 
+ "Asia-Pacific Top 10 Signature Dishes - 
+Grapefruit-Scented 
+Roasted 
+Chicken 
+Drumsticks" 
+ 【Ding Xian Tainan Danzai Noodles】 
+ "Asia-Pacific Top 10 Chefs - Wang 
+Qing'an" 
+ "Asia-Pacific Top Ten Dishes - Gold 
+Medal Crispy-Skinned Chicken" 
+ 【Amazing 
+Cantonese 
+Roast 
+Duck 
+Restaurant】 
+ "Asia-Pacific Top Ten Young Elite Chefs - 
+Tsai Yueh-fu" 
+ "Asia-Pacific Top Ten Signature Dishes - 
+Golden Sand Oatmeal Tiger Prawns" 
+ 2023 Chinese Culinary Culture Gold Award 
+ 【Amazing Hall】 
+ "Asia-Pacific Top Ten Signature Dishes - 
+Sesame Oil Marbled Pork with Glutinous 
+Rice" 
+ "Asia-Pacific Top 10 Chefs - Minquan 
+Branch Chef Liu Shuhao" 
+ 【Ding Xian Tainan Danzi Noodles】 
+ "Asia-Pacific Top Ten Dishes - Ding Xian 
+Jade Shrimp Rolls" 
+ 【Amazing Cantonese Roast Duck 
+Restaurant】 
+ "Asia-Pacific Top Ten Dishes - Amazing 
+Selection Peking Duck" 
+ 【Hokkaido Cake House】 
+ "Asia-Pacific Top Ten Souvenirs - Caiyue 
+Assorted Gift Box" 
+
+ 
+17 
+ 2023 Ministry of Economic Affairs 
+"Contemporary Taiwanese Cuisine Restaurant" 
+Selected Establishment 
+ Ding Xian Tainan Danzai Noodles 
+ 2022 Ministry of Economic Affairs "Mountain & 
+Sea Taiwanese Cuisine Restaurant" Selected 
+Establishment 
+ Ding Xian Tainan Danzai Noodles 
+ 2021 Chinese Culinary Culture Gold Award 
+ 【Amazing Hall】 
+ "Asia-Pacific Top Ten Souvenirs - Classic 
+Chicken Leg Oil Rice Gift Box" 
+ "Asia-Pacific Top Ten Souvenirs - 
+German Pork Knuckle" 
+ 【Ding Xian Tainan DanZai Noodles】 
+ "Asia-Pacific Top Ten Famous Dishes - 
+Fragrant Abalone Buddha Jumps Over the 
+Wall" 
+ "Asia-Pacific Top Ten Souvenirs - Ding 
+Xian Spicy Pepper Noodles" 
+ 
+ 
+ 
+ 
+
+ 
+18 
+ Chapter 1: Material Topic Identification 
+ 
+Corresponding 
+Criteria 
+ GRI 2-16 Communication of critical concerns 
+ GRI 2-29 Approach to stakeholder engagement 
+ GRI 3-1 Process to determine material topics 
+ GRI 3-2 List of material topics 
+ GRI 3-3 Management of material topic 
+ 
+1.1.  Stakeholders and Materiality 
+1.1.1.  Stakeholder Engagement 
+Sustainable development and success for a company hinge on meeting stakeholder needs. 
+Among numerous stakeholders, companies must identify those who directly impact its 
+operations or hold significant relevance to it, and understand their concerns and priorities. 
+This is crucial for advancing Toplus Global's ESG (Environmental, Social, and Governance) 
+strategy. 
+ 
+1.1.2.  Process Steps 
+To ensure the ESG implementation process and outcomes align with stakeholder 
+expectations, Toplus Global follows these steps when identifying stakeholders and 
+confirming material ESG topics: 
+(1) Stakeholder Identification: Identify all individuals or groups relevant to company 
+operations and establish accessible communication channels. 
+(2) Collecting Issues of Concern: Gathering various issues of interest to stakeholders, 
+including historically significant topics. 
+(3) Identify material issues: Screen historical Material Topics to select items that remain 
+of ongoing stakeholder concern and significantly impact company operations. 
+ 
+1.1.3.  Stakeholder Identification 
+Referencing the AA1000 SES (Stakeholder Engagement Standard) and AA1000 AP 
+(Accountability Principles), discussions and meetings were held within the internal cross-
+departmental sustainability function team. Following review principles of inclusivity, 
+materiality, responsiveness, Impact. The identified key stakeholders are: employees, 
+customers, investors, suppliers, and media journalists. 
+ 
+
+ 
+19 
+1.1.4.  Stakeholder Communication 
+Toplus Global values communication and mutual trust with stakeholders. We identify key 
+stakeholders including customers, employees, suppliers, and investors. Through diverse 
+channels such as customer service and internal meetings, we gather their priorities regarding 
+environmental, social, and governance (ESG) issues. Relevant opinions and suggestions are 
+incorporated into our sustainability management framework, serving as the basis for 
+operational improvements and strategic adjustments. We disclose our responses to 
+stakeholders to fulfill our commitment to transparent communication, meeting expectations, 
+and co-creating value. The methods and frequency of communication between Toplus 
+Global and stakeholders are listed below. In 2024, communication and response mechanisms 
+were further strengthened. Beyond explanations through routine meetings and institutional 
+announcements, internal promotion and feedback were completed on matters such as 
+attendance systems, gender equality prevention, and decision-making authority 
+adjustments. This demonstrates Toplus Global's ongoing efforts to enhance communication 
+transparency and stakeholder engagement. The table below lists stakeholder concerns and 
+communication outcomes on material issues. 
+ 
+ Stakeholders and Definitions 
+ Key Issues 
+ Key 
+Communic
+ation 
+Points 
+ 
+Communicat
+ion Methods 
+ Communication 
+Frequency & 
+Achievements 
+ Employees 
+ Individuals 
+working 
+together within 
+the same 
+company 
+(including 
+ Business 
+Performance
+, Training, 
+Product 
+Quality, 
+ Company 
+revenue, 
+Employee 
+developme
+nt and 
+growth, 
+ Routine 
+meetings 
+Weekly/Monthly/ 
+Quarterly 
+ Daily 
+communicati
+on via email, 
+etc. 
+As needed 
+
+ 
+20 
+managers and 
+employees) 
+ Customer 
+health and 
+safety 
+Product 
+quality and 
+safety, 
+Customer 
+satisfaction 
+with 
+company 
+services 
+and 
+deliverable
+s 
+ Labor-
+Managemen
+t Meetings 
+No formal labor-
+management 
+meetings were held 
+in 2024. However, 
+the HR department-
+maintained 
+communication 
+through policy 
+announcements, 
+employee feedback 
+mechanisms, and 
+internal 
+consultation 
+channels. Meetings 
+will be convened 
+sequentially by 
+company in 2025. 
+ 
+Announcem
+ents 
+ 
+Issued as needed 
+(e.g., reinforcing 
+attendance policies, 
+overtime request 
+procedures, gender 
+equality and illegal 
+infringement 
+prevention 
+campaigns, 
+complaint mailbox 
+announcements, 
+approval authority 
+adjustments) 
+ Suppliers 
+ Raw Material 
+and 
+Service 
+Providers 
+ Business 
+performance
+, Product 
+Quality 
+ Follow 
+clear 
+regulations 
+and sound 
+manageme
+ Daily 
+communicati
+on via 
+phone, fax, 
+email, etc. 
+As needed 
+
+ 
+21 
+nt practices 
+to ensure 
+third-party 
+suppliers 
+deliver 
+goods as 
+contracted 
+and claim 
+payments. 
+Conduct 
+annual 
+evaluations 
+and 
+maintain 
+supplier 
+data 
+sheets. 
+ Evaluation 
+and 
+assessment 
+Annual supplier 
+evaluations are 
+conducted, with 
+results serving as 
+the basis for 
+management 
+decisions. 
+ Customers 
+ Organizations 
+or enterprises as
+sales targets 
+Environment
+al Issues, 
+Product 
+Quality and 
+Safety 
+ Customer 
+Service, 
+Product 
+Informatio
+n, Brand 
+Marketing 
+ Daily phone 
+calls 
+As needed 
+ 
+Shareholders/
+Investors 
+ Company 
+investors 
+or 
+shareholders 
+ Operational 
+Performance
+, Sustainable 
+Developmen
+t 
+ Company 
+Profit/Loss 
+and 
+Dividend 
+Distributio
+n 
+Sustainable 
+developme
+nt planning 
+and 
+implement
+ation 
+ Meetings 
+ Public 
+Information 
+One shareholders' 
+meeting and one 
+investor conference. 
+Key discussion items 
+include: 2 items for 
+approval of 
+business results, 
+and 3 items for 
+discussion on 
+amendments to 
+procedures/bylaws 
+and private 
+placement matters 
+
+ 
+22 
+ Government 
+Agencies and 
+Community 
+Residents 
+ Competent 
+Authorities and
+Individual 
+Clients 
+in 
+the
+Company's 
+Location 
+ 
+Environment
+al issues, 
+ Product 
+quality and 
+safety 
+ 
+Complianc
+e, product 
+informatio
+n, brand 
+marketing 
+ Daily phone 
+calls and 
+emails 
+As needed 
+1.2.  Annual Material Topic analysis 
+For large enterprises like Toplus Global, ESG sustainability is no longer a mere "bonus 
+question." It has become a core element for safeguarding brand reputation, reduce 
+operational risks, attract capital, ensure compliance, and enhance long-term 
+competitiveness. The material topics prioritized by stakeholders become the focal points for 
+corporate sustainability initiatives. Materiality analysis enables companies to strategically 
+allocate resources and refine operational strategies to meet diverse expectations. 
+ 
+1.2.1.  Sustainability Issue Collection 
+Toplus Global formed a cross-departmental sustainability task force, authorized by the Board 
+of Directors and organized around the Management Department. This group meets to 
+establish the strategic foundation for the company's sustainability goals and information 
+disclosure. Its approach is built upon analyzing historical ESG issues raised by stakeholders, 
+validating these against past materiality findings, and aligning with the principles of the GRI 
+Standards (economic, environmental, and social pillars). 
+ 
+1.2.2.  Stakeholder Materiality Identification 
+Based on the GRI principles (inclusivity, sustainability context, materiality, completeness), the 
+cross-departmental sustainability task force performed the materiality assessment for this 
+report. The assessment involved evaluating each issue's actual or potential positive/negative 
+impact on internal operations and external stakeholders. The task force confirmed six 
+consistently stakeholder materiality and four applicable SASB industry-specific topics. These 
+core topics, supplemented by other secondary issues, guide the reporting and disclosure 
+within this document. The methodology and final findings are described in the subsequent 
+section. 
+ 
+ 
+
+ 
+23 
+ Reporting 
+Principles 
+ Materiality Identification Steps 
+ Stakeholder 
+Inclusiveness 
+ [Establishing Communication Goals] 
+ Through the disclosure of information in this report and engagement with 
+stakeholders, we aim to achieve the following objectives: 
+ 1. Disclose the company's governance, economic, environmental, and social 
+contributions to gain stakeholder recognition for Toplus Global. 
+ 2. Analyze past ESG material issues of stakeholder concern to identify those 
+with the highest recurrence. 
+ Sustainability 
+Context 
+ 【Issue Collection and Analysis】 
+1. 
+Conduct 
+issue 
+discussions 
+through 
+internal 
+cross-departmental 
+sustainability task force meetings 
+ 2. Review relevant topics including corporate operating policies, economic, 
+environmental, and social impacts across the value chain, operational risks and 
+opportunities, and alignment with GRI Standards. 
+ Materiality 
+ 【Identifying Annual Material Topics】 
+ For material issue identification, Toplus Global referenced historical Material 
+Topics and determined the economic, environmental, and social impact levels 
+through internal and external considerations: 
+ 1. Internal cross-departmental personnel assigned to the Sustainability Task 
+Force discuss the internal impacts and external influence of various issues 
+based on the company's annual operational plan and outlook. This includes: 
+ ◆ Internal: Risk management, financial management, and consideration of 
+risks and opportunities associated with climate change trends 
+ ◆ External: Value chain impacts and sustainable operations 
+ 2. Through data collection and analysis, the impact magnitude of each issue 
+on company operations is statistically determined. Key steps and content 
+are as follows: 
+ ◆ The Sustainability Task Force assesses the economic, environmental, and 
+social impacts of each sustainability issue, ultimately identifying six annual 
+Material Topics and four additional industry-specific criteria. 
+ ◆ The aforementioned topics will be prioritized for disclosure in this 
+report, covering 2024 performance and future strategic objectives. 
+ 
+Completeness 
+ 【Material Topic Management】 
+ 1. Through ESG Committee subcommittee meetings, topics are prioritized 
+based on their materiality and significance to the company. 
+
+ 
+24 
+ 2. Classify disclosed topics (material/non-material) into three dimensions: 
+economic, environmental, and social. 
+ 3. Based on stakeholder boundaries, explain the materiality reasons, and 
+impacts for each corresponding material topic. 
+ 4. 
+Establish 
+corresponding 
+short-term, 
+mid-term, 
+and 
+long-term 
+sustainability management objectives, and outline Materiality management 
+approaches in relevant sections of the report. 
+ 【Toplus Global Annual ESG Material Topic Analysis and Assessment】 
+ Material Topic 
+ 2017 
+ 2018 
+ 2019 
+2020 
+ 
+2021 
+ 
+2022 
+ 
+2023 
+ 
+2024 
+ Materiality 
+Disclosure 
+Considerations 
+ Operating 
+Performance 
+ v 
+ v 
+ v 
+ v 
+ v 
+ v 
+ 
+ G1 
+ Y "Negative 
+Reality" 
+ Risk 
+Management 
+ v 
+ 
+ v 
+ 
+ v 
+ v 
+ v 
+ 
+ Merged into 
+Corporate 
+Governance 
+ Employee 
+Training and 
+Development 
+ v 
+ v 
+ 
+ v 
+ v 
+ v 
+ 
+ S1 
+ Y "Positive and 
+Practical" 
+ Labor-
+Management 
+Communicatio
+n 
+ v 
+ v 
+ v 
+ v 
+ v 
+ v 
+ 
+ 
+ Merged into Labor 
+Practices 
+ Client 
+Relationship 
+Building and 
+Maintenance 
+ v 
+ v 
+ v 
+ v 
+ v 
+ v 
+ 
+ S2 
+ Y「Positive 
+Reality」 
+ Occupational 
+Health and 
+Safety 
+ v 
+ 
+ v 
+ v 
+ v 
+ v 
+ v 
+ 
+ Merged into Labor 
+Practices 
+ Quality 
+Management 
+ v 
+ v 
+ v 
+ v 
+ v 
+ v 
+ 
+ G2 
+ Y「Positive 
+Reality」 
+ Customer 
+Health and 
+Safety 
+ v 
+ v 
+ v 
+ v 
+ v 
+ v 
+ v 
+ S3 
+ Y「Positive and 
+Practical」 
+
+ 
+25 
+ Environmental 
+Compliance 
+ v 
+ v 
+ v 
+ v 
+ v 
+ v 
+ 
+ 
+ Merge into Supply 
+Chain Management 
+ Supply Chain 
+Management 
+ v 
+ 
+ 
+ 
+ 
+ 
+ v 
+ G3 
+ Y "Positive and 
+Practical" 
+ Customer 
+Privacy 
+ v 
+ 
+ v 
+ 
+ 
+ 
+ 
+ 
+ Not Material This 
+Year 
+ Low-Carbon 
+Packaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ v 
+ 
+ Not material this 
+year 
+ Energy 
+Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ v 
+ E1 
+ SASB Industry 
+Standards 
+ Water 
+Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ v 
+ E2 
+ SASB Industry 
+Standards 
+ Food 
+Nutrients 
+ 
+ 
+ 
+ 
+ 
+ 
+ v 
+ 
+ Consolidated into 
+Customer Health 
+and Safety 
+ Waste 
+Management 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E3 
+ SASB Industry 
+Standards 
+ Labor 
+Practices 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S4 
+ SASB Industry 
+Standards 
+ 【2024 Material Topics List】 
+ 
+Co
+de 
+ Disclosure 
+Topic 
+ Relevance to Toplus Global 
+ Reporting 
+Boundary and 
+Corresponding 
+ Stakeholders 
+Company Response 
+ Issue Indicators 
+G1 
+ Business 
+Performanc
+e 
+ Protecting the rights and 
+interests of shareholders/ 
+Investors, strengthening the 
+operation of the board of 
+directors, and enhancing the 
+company's reputation. 
+ Employees 
+ Shareholders/ 
+Investors 
+ Corporate 
+Governance, 
+ Revenue and 
+Profitability 
+G2 
+ Product 
+Quality and 
+Safety 
+ Food safety and product 
+quality form the cornerstone of 
+sustainable operations in the 
+food service industry, directly 
+ Suppliers 
+ Consumers 
+ Investors 
+Business Location 
+Management/ 
+Audit, Violation 
+and Penalties 
+
+ 
+26 
+impacting customer health and 
+brand reputation. As consumer 
+awareness of food hygiene, 
+ingredient transparency, and 
+nutritional information 
+continues to rise, the Company 
+has positioned food safety and 
+quality management as core 
+operational strategies. Through 
+standardized procedures and 
+self-inspection mechanisms, we 
+strengthen comprehensive 
+control from raw material 
+procurement to product 
+delivery, continuously 
+mitigating risks and enhancing 
+customer satisfaction to fulfill 
+our commitment to corporate 
+sustainability. 
+ Government 
+Agencies 
+G3 
+ Supply 
+Chain 
+Manageme
+nt and 
+Ingredient 
+Sourcing 
+ The quality and origin of 
+products supplied by vendors 
+are crucial to ensuring 
+consumer food safety and 
+fulfilling social responsibility. 
+ Customers 
+ Suppliers 
+ Government 
+Agencies 
+ Employees 
+ Raw Material 
+Supplier 
+Management and 
+Auditing, 
+Procurement 
+Process 
+ 
+E1 
+ Energy 
+Manageme
+nt 
+ Control operating costs, 
+mitigate the impact of electricity 
+price increases, and align with 
+sustainability goals. 
+ Employees 
+Shareholders/ 
+Investors 
+ Energy intensity, 
+greenhouse gas 
+emissions, 
+renewable energy 
+E2 
+ Water 
+Resource 
+Manageme
+nt 
+ Reduce water bills and 
+wastewater treatment costs, 
+comply with regulations, and 
+avoid penalties for 
+environmental pollution. 
+ Employees 
+ Government 
+Agencies 
+ Water 
+Consumption 
+ Wastewater 
+Treatment 
+
+ 
+27 
+E3 
+ Waste 
+Manageme
+nt 
+ Compliant waste collection 
+and disposal prevent 
+pollutants from escaping, 
+thereby avoiding 
+environmental contamination 
+and damage to corporate 
+reputation. 
+ Employees 
+ Government 
+Agencies 
+ Food waste/ used 
+oil generation, 
+ Waste Resource 
+Conversion 
+Processing 
+S1 
+ Employee 
+Training 
+and 
+Developme
+nt 
+ An effective talent training 
+system enhances employee 
+capabilities and retention, 
+serving as a crucial foundation 
+for the company's long-term 
+competitiveness and brand 
+value. 
+ Employees 
+ Training hours, 
+ Planning and 
+Achievement 
+Rate 
+S2 
+ Customer 
+Relationshi
+p 
+Establishm
+ent and 
+Maintenan
+ce 
+ In today's fiercely competitive 
+business landscape, 
+establishing and maintaining 
+customer relationships is no 
+longer merely part of after-
+sales service, it is essential for 
+sustainable corporate 
+development. Through 
+effective customer relationship 
+management, businesses can 
+not only enhance customer 
+loyalty and repurchase rates 
+but also generate powerful 
+word-of-mouth and referral 
+effects, driving organic growth 
+and market expansion. 
+Simultaneously, ongoing 
+customer engagement 
+facilitates the collection of 
+actionable feedback, enabling 
+optimization of product and 
+service quality to elevate the 
+overall customer experience. 
+ Employees 
+Shareholders/ 
+Investors 
+ Suppliers 
+ Customer 
+Complaints, 
+ Marketing 
+promotions 
+
+ 
+28 
+More importantly, solid 
+customer relationships build 
+brand trust and value 
+recognition, enabling 
+businesses to stand out in 
+highly homogeneous markets. 
+Such relationship management 
+also fosters internal cross-
+departmental collaboration 
+and resource integration, 
+making business operations 
+more efficient. By increasing 
+customer lifetime value, it 
+achieves long-term profitability 
+and stable growth. 
+S3 
+ Customer 
+Health and 
+Safety 
+ As consumers increasingly 
+prioritize dietary health, 
+nutritional content, and 
+information transparency, our 
+company recognizes the 
+responsibility of the food 
+service industry to enhance 
+customer health experiences 
+and improve information 
+disclosure. 
+ By progressively improving 
+menu design and 
+implementing transparent 
+labeling, we enhance our 
+brand image, meet diverse 
+consumer demands, and 
+deepen customer trust and 
+loyalty-laying the foundation 
+for long-term sustainable 
+business operations. 
+ Customers 
+ Government 
+Agencies/ 
+Community 
+Members 
+ Ingredient 
+sourcing 
+labeling, 
+ allergen coverage 
+rate, Customer 
+satisfaction 
+S4 
+ Labor 
+Practices 
+ A robust labor system 
+coupled with a transparent 
+Employee 
+ Employee 
+turnover rate, 
+
+ 
+29 
+ 
+1.3.  Material topic performance and targets 
+ The materiality assessment yielded a total of 10 material topics, categorized across the 
+Environmental (E), Social (S), and Governance/Economic (G) dimensions. The following 
+sections summarize Toplus Global's 2024 performance outcomes for these topics, along with 
+future operational strategy objectives and outlook. 
+ 【Material Topic Performance Outcomes and Outlook】 
+ (E) Environmental Topics 
+ Material 
+Topic 
+ Response 
+Indicator 
+ 2024 Performance and 
+Outcomes 
+Strategic Objectives and 
+Outlook 
+ E1 Energy 
+Management 
+ 1. Calculate 
+organizational 
+energy usage 
+and 
+management 
+ 2. Greenhouse 
+gas inventory 
+ 3. Renewable 
+Energy 
+Development 
+and Usage 
+Status 
+ 4. Purchase of 
+Renewable 
+ Energy 
+Usage 
+and 
+Management 
+ 1. Wedding banquet 
+venues will implement 
+zoned air conditioning 
+controls to reduce energy 
+consumption              
+2. Taoyuan venue 
+replaced its chiller to save 
+electricity. Smart meters 
+installed on Taoyuan 
+venue's HVAC system to 
+manage power 
+consumption. 
+ After replacing the 
+outdated chillers at the 
+Taoyuan venue, annual 
+electricity savings 
+compared to the old 
+equipment are: 
+ Chilled Water Unit --- 
+372,481 kWh. 
+ Chilled Water Pump --- 
+59,284 kWh. 
+ Cooling water pumps: 
+137,709 kWh. 
+ Circulation fans were 
+purchased for banquet 
+remuneration structure is 
+essential for attracting talent 
+and fostering strong internal 
+identification. These elements 
+serve as a critical foundation 
+for ensuring operational 
+stability and enhancing the 
+employer brand reputation. 
+ Employee 
+insurance 
+coverage, Basic 
+salary ratio 
+
+ 
+30 
+energy 
+Certificates 
+ Greenhouse 
+Gas 
+Inventory 
+ Scope 1 to Scope 3 
+emissions 
+across 
+the 
+Group's 
+20 
+locations 
+totaled 7,301.4361 metric 
+tons of CO2e, with an 
+emissions intensity of 8.11 
+per million in revenue. 
+halls. Based on 
+manufacturer experience, 
+increasing air velocity by 
+0.1 m/s allows raising the 
+air conditioning 
+temperature by 1.0°C, 
+saving approximately 1.2–
+6.7% in air conditioning 
+electricity consumption. If 
+the average indoor air 
+velocity is 0.3 m/s, a 
+temperature of 29–30°C 
+can still provide a 
+comfortable sensation, with 
+electricity savings of 
+approximately 15%. 
+Therefore, by using fans in 
+conjunction with the air 
+conditioning, the 
+temperature can be 
+appropriately raised to 26–
+28°C. 
+ E2 Water 
+Resource 
+Management 
+ 1. Water 
+Resource 
+Management 
+and Outcomes 
+ 2. 
+Environmental 
+Resource 
+Protection Policy 
+ Water Consumption and 
+Conservation Measures 
+ Installation of aerators 
+on faucets in all facilities 
+to significantly reduce 
+water waste. 
+ Toilet faucets have been 
+replaced with water-saving 
+faucets. Compared to 
+traditional faucets, these 
+energy-efficient models 
+conserve 30% to 50% of 
+water usage, saving 
+approximately 3 liters per 
+minute. 
+ Environmental Resource 
+Protection Policy 
+ Water-saving toilets have 
+been installed in the 
+banquet hall restrooms. 
+ E3 Waste  
+ Waste 
+Generation and 
+Resource 
+ Waste Generation 
+ Total waste volume: 
+150.273 tons, with food 
+waste accounting for 63%. 
+ 【Food Waste 
+Conversion】 
+ Monthly food waste 
+collection exceeded 1 ton 
+
+ 
+31 
+Conversion 
+Processing 
+ 
+per facility in 2024. 
+Collaborating with 
+specialized contractors, 
+food waste is converted 
+into fertilizer at with a 
+conversion rate of 
+approximately 30%, 
+yielding at least 300kg of 
+fertilizer per ton. 
+ 
+ Waste-to-Resource 
+Conversion (Waste-to-
+Energy) 
+ Food Waste: 
+Collaborating with 
+specialized food waste 
+recycling companies for 
+over six months, food 
+waste undergoes 
+technical processing to 
+convert 30% into fertilizer. 
+Waste Oil Collection and 
+Treatment: Achieved 
+100% completion in 2024. 
+ 
+ 
+ 
+
+ 
+32 
+ 
+(S) Major Social Topics 
+Material 
+Topics 
+Response 
+Indicators 
+2024 Performance and 
+Outcomes 
+Strategic Objectives and 
+Outlook 
+ S1 
+ Employee 
+Training and 
+Development 
+ 1. Annual 
+Training Hours 
+ 2. Training 
+Completion Rate 
+ 
+ Complete no 
+fewer than 20 
+internal training 
+sessions and 5 
+external training 
+sessions annually, 
+with training 
+participation 
+increasing by at 
+least 5% year-
+over-year. 
+ Annual Training 
+ Total internal training 
+participation in 2024 
+reached 489 
+participants, 
+representing an 81.11% 
+increase over the 
+previous year. 
+ 【Short-Term】 
+ Implement courses 
+according to the annual 
+training plan and introduce 
+post-training feedback 
+surveys to enhance 
+effectiveness. 
+ 【Mid-to-Long Term】 
+ Plans to incorporate ESG, 
+food safety regulations, 
+and carbon management 
+into annual training. 
+Establish competency 
+maps for career 
+development planning. 
+Create key talent and 
+succession programs, 
+integrating competency 
+maps for career 
+development planning. 
+ S2 
+ Customer 
+Relationship 
+Establishment 
+and 
+Maintenance 
+1.  Customer 
+Complaint 
+Handling 
+2.  Marketing 
+Campaign 
+Planning 
+ Handling customer 
+complaints and 
+consumer disputes 
+ In the event of 
+inadequate service or 
+consumer disputes 
+during an on-site visit, 
+the customer service 
+team assists the 
+customer in filling out a 
+complaint report form. 
+Headquarters receives 
+initial notification to 
+ 【Short-Term】 
+ 1. Establish a 
+comprehensive customer 
+database with 
+categorization. 
+ 2. Optimize customer 
+service processes and 
+response times. 
+ 3. Continuously launch 
+welcome offers, new 
+customer gifts, and loyalty 
+programs. 
+
+ 
+33 
+understand the 
+situation, initiating the 
+formal resolution 
+process upon the 
+customer's official 
+complaint submission or 
+proactive inquiry call. 
+ 4. Design satisfaction 
+surveys to gather direct 
+feedback. 
+ 5. Strengthen social 
+media engagement and 
+enhance brand visibility. 
+ 【Mid-to-Long Term】 
+ 1. Establish a membership 
+system or tiered rewards 
+program (e.g., point 
+accumulation, VIP tiers). 
+ 2. Implement 
+personalized marketing 
+based on customer 
+behavior (e-mail 
+marketing, LINE, SMS push 
+notifications). 
+ 3. Launch regular 
+communication content 
+(brand stories, customer 
+case studies, exclusive 
+events). 
+ 4. Host online or in-
+person customer 
+engagement events to 
+strengthen emotional 
+connections. 
+ 5. Continuously optimize 
+customer service 
+experiences and after-sales 
+support processes. 
+ 6. Develop customer 
+communities or brand 
+ambassador programs. 
+ 7. Co-create content with 
+loyal customers (user 
+ Customer Interaction 
+ Daily responses to 
+inquiries on the official 
+website and Facebook 
+page. For venue-related 
+inquiries, provide the 
+venue's Line@ account 
+to connect customers 
+directly with on-site 
+staff. 
+ 1. Maintain a dedicated 
+customer complaint 
+reporting channel for 
+on-site operations. 
+ 2. Upon opening 
+Fuzhong Amazing Dim 
+Sum, we implemented a 
+Google Form for 
+customer satisfaction 
+surveys to gather real-
+time feedback on 
+products and services. 
+ 3. The group utilizes 
+CRM system from Ocard 
+to build strong customer 
+relationships. 
+
+ 
+34 
+testimonials, exclusive 
+collaborations). 
+ S3 Customer 
+Health and 
+Safety 
+1.  Food Safety 
+and Balanced 
+Diet Indicators 
+2.  Customer 
+Satisfaction 
+Surveys 
+ Food Hygiene and 
+Safety Management 
+ 1. Ingredient sourcing 
+labeling and allergen 
+coverage rate ≥ 80%. 
+ 2. Annual increase of 
+20% in the number of 
+dishes featuring health 
+labels (e.g., low-salt, 
+low-oil). 
+ 
+ [Short-Term] 
+ Complete inventory of 
+product ingredient 
+information and gradually 
+increase meals with 
+nutritional labeling. 
+ 【Medium-to-Long 
+Term】 
+ Aim to progressively 
+promote healthy meal 
+options aligned with the 
+"Dietary Guidelines for 
+Daily Nutrition" principles 
+and establish a healthy 
+meal labeling system (e.g., 
+low-sodium, low-oil labels). 
+Integrate supplier 
+transparency and customer 
+education content to build 
+the brand's healthy eating 
+image, promoting 
+transparent labeling and 
+health knowledge on the 
+official website and social 
+media. 
+ Customer Satisfaction 
+ 3. Customer 
+satisfaction ≥ 90% 
+(regarding labeling and 
+food safety). 
+ 
+ S4 Labor 
+Practices 
+1.  Basic Wage 
+Ratio 
+2.  Employee 
+Turnover Rate 
+ Employee Salary and 
+Benefits 
+ 100% of wages paid at 
+or above the minimum 
+wage 
+ 【Short-Term】 
+ Optimize labor-
+management 
+communication and 
+benefit transparency. 
+ 【Mid-to-Long Term】 
+1.  Establish a system for 
+analyzing reasons for 
+entry-level employee 
+ Employee Retention 
+Annual turnover rate 
+below 31%, 100% 
+employee coverage 
+
+ 
+35 
+under labor insurance, 
+2024 overall turnover 
+rate at 27%, all 
+employees insured in 
+accordance with the law, 
+with salaries exceeding 
+statutory standards. 
+turnover, incorporating 
+satisfaction surveys as 
+the basis for system 
+adjustments. 
+2.  Enhance the fairness of 
+the Remuneration 
+system and career 
+advancement pathways, 
+and establish a 
+retention risk analysis 
+mechanism. 
+ 
+ 
+ 
+
+ 
+36 
+ 
+ (G) Governance and Economic Topics 
+Material 
+Topics 
+Response 
+Indicators 
+2024 Performance and 
+Outcomes 
+Strategic Objectives and 
+Outlook 
+ G1 
+ Operational 
+Performance 
+ Continuously 
+Enhancing Revenue 
+and Profitability 
+ For year 2024, the 
+Group's consolidated 
+operating revenue 
+reached NT$900,026 
+thousand, representing 
+a 22.59% increase 
+compared to the same 
+period last year. For the 
+full year 2024, the 
+Group's consolidated 
+net loss amounted to 
+NT$196,801 thousand, 
+reflecting a 77.32% 
+increase in net loss 
+compared to the same 
+period last year. 
+ 【Short-Term】 
+ 1. Continue to enhance 
+revenue and profitability, 
+targeting double-digit 
+growth rates. 
+ 2. Strengthen risk 
+management 
+(internal/external, 
+environmental, 
+information, financial, 
+supplier). 
+ 【Medium-to-Long 
+Term】 
+ Continue to enhance 
+revenue and profitability, 
+targeting double-digit 
+growth annually. 
+ G2 Product 
+Quality and 
+Safety 
+3.  Audit and 
+control of 
+activities at 
+business 
+locations 
+ 
+➢ 
+ Achieve 100% 
+compliance 
+rate in 
+ingredient 
+sampling 
+inspections 
+➢ 
+ Food safety 
+incident 
+frequency rate 
+≤ 0.01% 
+ Operational site audits 
+ 1. 100% pass rate for 
+ingredient sampling in 
+2024, with no food 
+safety incidents 
+occurring. 
+ 2. Completed supplier 
+verification and 
+document updates, 
+achieving 98% 
+compliance document 
+completeness rate. 
+ 3. Inspections 
+implemented at all 
+facilities with 100% 
+annual execution rate. 
+ 【Short-Term】 
+ 1. Standardize food safety 
+inspection procedures 
+across all facilities. 
+ 2. Conduct an inventory 
+of supplier compliance 
+documentation and 
+perform preliminary 
+categorization (e.g., 
+international certifications, 
+organic certifications). 
+ 3. Increase the frequency 
+of self-audits by adding 
+quarterly audits. 
+ 
+
+ 
+37 
+➢ 
+ Annual 
+supplier 
+compliance 
+document 
+completeness 
+rate ≥ 95% 
+➢ 
+ Food Safety 
+Inspection 
+Execution Rate: 
+100% (Monthly 
+or Quarterly) 
+ 
+4.  Regulatory 
+Compliance 
+and Incident 
+Response 
+Standards 
+ 
+ Violation Penalty 
+Cases 
+ Zero penalty cases for 
+violations in 2024 
+ 
+ Customer Complaints 
+ In 2024, a total of 7 
+customer complaints 
+were officially recorded, 
+with 100% resolution 
+rate.  
+ 
+ Food Safety Incidents 
+ Zero major food safety 
+incidents occurred. One 
+suspected food safety 
+incident was recorded 
+as a customer complaint 
+and resolved through a 
+compensation 
+agreement with the 
+customer.  
+ 【Medium-to-Long 
+Term】 
+ 1. Achieve annual 
+certification as a "Certified 
+Excellent Restaurant" 
+based on government or 
+local health authority 
+standards. 
+ 2. Increase quarterly self-
+audit frequency for high-
+risk items. 
+ 3. Plan for phased 
+implementation of ISO 
+22000 or HACCP 
+certification in key areas 
+and establish a smart food 
+safety monitoring system. 
+ G3 Supply 
+Chain 
+Management 
+and Food 
+Sourcing 
+ 1. Product quality 
+meets 
+environmental and 
+social standards 
+assessment 
+ 2. Supplier Audit 
+Procedures 
+ 
+ (1) Integrated 
+supply logistics 
+(vegetables, fruits, 
+seafood, meat, 
+processed foods, 
+etc.) shifted to 
+centralized 
+ The central warehouse 
+receiving model was 
+implemented starting 
+mid-2024. Among the 
+218 food ingredient 
+suppliers transacting 
+during this period, 40 
+suppliers delivered to 
+the central warehouse 
+(accounting for 
+approximately 55% of 
+total transaction value), 
+and ongoing efforts 
+continue to promote the 
+use of reusable 
+ 【Short-Term】 
+ Continue developing 
+high-quality suppliers 
+aligned with sustainability 
+initiatives, drive 
+procurement process 
+optimization, and 
+collaborate with the 
+Quality Assurance 
+department to strengthen 
+inspection strategies. 
+   
+ 【Mid-to-Long Term】 
+ 1. Establish and 
+continuously refine green 
+
+ 
+38 
+warehouse 
+receiving. All goods 
+are uniformly 
+delivered to each 
+store via our 
+dedicated logistics 
+vehicles, 
+significantly 
+reducing supply 
+chain carbon 
+emissions 
+(suppliers no 
+longer need to 
+deliver directly to 
+individual outlets). 
+ (2) Promoting the 
+use of reusable 
+packaging 
+materials among 
+suppliers delivering 
+to the central 
+warehouse. 
+packaging materials 
+among suppliers. 
+procurement strategies, 
+further systematizing 
+green supply chain and 
+traceability management 
+systems. 
+ 2. Increase the proportion 
+of traceable ingredients 
+and locally sourced raw 
+materials. 
+ 
+ Chapter 2: Corporate Governance and Economic Issues 
+Corresponding 
+Standard 
+ GRI 2-6 Activities, value chain and other business relationships 
+ GRI 2-9 Governance structure and composition 
+ GRI 2-10 Nomination and selection of the highest governance body 
+ GRI 2-11 Chair of the highest governance body 
+ GRI 2-12 Role of the highest governance body in overseeing the 
+management of impacts 
+GRI 2-13 Delegation of responsibility for managing impacts 
+ GRI 2-14 Role of the highest governance body in sustainability 
+reporting 
+ GRI 2-15 Conflicts of interest 
+ GRI 2-17 Collective knowledge of the highest governance body 
+
+ 
+39 
+ GRI 2-18 Evaluation of the performance of the highest governance 
+body 
+ GRI 2-24 Embedding policy commitments 
+ 
+2.1.  Corporate Governance and Management Structure 
+Toplus Global has established a corporate governance framework through shareholder 
+meetings, a board of directors with diverse professional backgrounds, functional committees 
+chaired by independent directors (including the Audit Committee, Remuneration Committee, 
+and Sustainability Committee), and internal governance and audit units. This framework 
+ensures operational transparency, efficiency, and regulatory compliance while strengthening 
+oversight of the board to protect shareholder interests and promote sustainable 
+development. 
+2.1.1.  Group Organizational Structure 
+This year's reporting scope covers financial and human resources data as group-wide 
+common information. Performance and strategy-related information on ESG issues primarily 
+pertains to the catering business (marked in red). In 2024, Toplus Global launched the 
+premium brand "Cross Strait Club" and the mall-based brand "Amazing Duck" formally 
+entering the high-end fine dining and department store food court markets, driving 
+operational scale expansion. Employee headcount grew by nearly 40%, primarily due to 
+increased staffing for new brand operations teams, kitchen operations, and front-of-house 
+personnel. This multi-brand strategy enhances market competitiveness while elevating 
+overall brand image and profitability. 
+
+ 
+40 
+  
+2.1.2.  Industry Value Chain 
+As an industry leader in the catering sector, Toplus Global occupies a "midstream" position 
+within the industry value chain. Its role involves sourcing basic raw materials—such as fresh 
+ingredients and general merchandise-from upstream suppliers. Through its operational 
+outlets, the company develops signature dishes and food products bearing the Toplus Global 
+brand identity, which are then supplied to downstream consumers or group clients.  
+ 
+ 
+2.1.3. Highest Governing Body   
+2.1.3 Highest Governing Body 
+ 
+
+ 
+41 
+Toplus Global designates the Board of Directors as the company's highest governing body, 
+representing the interests of all shareholders and responsible for deciding major corporate 
+matters. These include amending the Articles of Incorporation, appointing, and removing 
+directors, approving financial statements, and distributing dividends. Functional committees 
+are established under the Board to assist in fulfilling oversight duties and strengthening 
+corporate governance. 
+ 
+The Sustainability Committee, comprising two independent directors, ensures independence 
+and objectivity in identifying and deciding on sustainability issues. The committee first 
+conducts materiality analysis, identifying and prioritizing material sustainability issues by 
+gathering stakeholder feedback and reviewing internal/external circumstances and potential 
+impacts. Analysis results are submitted to the Sustainability Committee for review and 
+approval, with the committee concurrently assessing alignment with the company's long-
+term strategy and risk management. Following deliberation, the Sustainability Committee 
+approves the final material topics and management approaches for disclosure, ensuring 
+appropriate resource allocation and target setting. It then oversees the implementation of 
+supervision, control, and approval procedures for the sustainability report content. 
+ 
+【Board of Directors】Core Decision-Making and Oversight Body 
+Composition: Toplus Global's current 11th Board of Directors is composed of nine members 
+(six directors and three independent directors). The members collectively bring extensive 
+experience and expertise from diverse fields, including finance, business, legal affairs, and 
+management. This breadth of knowledge ensures the Board possesses the necessary 
+professional skills for robust decision-making, extending beyond the individual members' 
+primary areas of expertise. For detailed information, please refer to the "Investor Relations" 
+section on the Company's official website and the "Public Observation Information Station." 
+ 
+Board of Directors' Authority: 
+The Chairman of the Board serves as the Board Chair, representing the company externally 
+and overseeing all major corporate affairs. 
+The Vice Chairman assists the Chairman in promoting the company's development and 
+operations. 
+The Board of Directors is responsible for the Company's strategic planning, operational 
+decision-making, approval of major investment projects, and appointment and removal of 
+senior management. 
+The Board also regularly plans and reviews important corporate resolutions. 
+
+ 
+42 
+Basic information regarding the educational background and experience of Board members 
+is provided in the table below:  
+Title 
+Name 
+Gender 
+Age 
+Primary Education 
+Key Experience 
+Chairman 
+Sun 
+Jeng-
+chyang 
+Male 
+Master 
+of 
+Business 
+Administration (EMBA), 
+National Chiao Tung 
+University 
+Master 
+of 
+Business 
+Administration, 
+National 
+Chengchi 
+University 
+Bachelor of Science in 
+Chemical Engineering, 
+National 
+Taiwan 
+University 
+1. Chairman, Kaison Green Energy Co., 
+Ltd. 
+2. Chairman, East-Tender 
+Optoelectronics Corporation 
+3. Chairman, Yuguan Management 
+Consulting Co., Ltd. 
+4. Executive Director, Chinese Taipei 
+Basketball Association 
+Vice 
+Chairman 
+Li Jih-
+tung 
+Male 
+Department 
+of 
+Economics, Nagasaki 
+University, Japan 
+1. Vice Chairman, Toplus Global Co., Ltd. 
+2. Chairman, Dung Dung International 
+Enterprise Co., Ltd. 
+Director 
+Li 
+Chuan-
+wei 
+Male 
+Master of Journalism 
+and 
+Communication, 
+University of Missouri 
+Department 
+of 
+Journalism, 
+Chinese 
+Culture University 
+1. 
+Independent 
+Director, 
+FOXLINK 
+Group 
+2. Vice Chairman, Sixth Term, Chinese 
+Culture University Alumni Association 
+Director 
+Su 
+Tsung-
+ming 
+Male 
+Master 
+of 
+Business 
+Administration, 
+University of Iowa, USA 
+ 
+1. 
+Chairman, 
+Uni-President 
+Development Co., Ltd.  
+2. 
+Vice 
+President, 
+Uni-President 
+Enterprises Group 
+3. 
+General 
+Manager, 
+ScinoPharm 
+Taiwan, Ltd. 
+4. Independent Director, Bank Sinopac 
+Company Limited 
+
+ 
+43 
+Title 
+Name 
+Gender 
+Age 
+Primary Education 
+Key Experience 
+Director 
+Shen 
+Huei-
+cheng 
+Male 
+National 
+Chengchi 
+University, Department 
+of Law 
+1. Senior Vice President, Good Finance 
+Securities Co., Ltd. 
+2. Director, Ado Optronics Corporation 
+3. Independent Director, Cheer Time 
+Enterprise Co. Ltd. 
+Director 
+Yang 
+Tsung-
+han 
+ Male 
+Master of Science in 
+Financial Management, 
+National 
+Chengchi 
+University 
+ 
+ 
+1. Director, Corporate Development 
+Department, 
+Foxconn 
+Interconnect 
+Technology Limited 
+2. Chairman, Solaris Ventures Capital 
+Co., Ltd. 
+3. Independent Director, Kaison Green 
+Energy Technology Co., Ltd. 
+Independent 
+ Director 
+Wang 
+Wen-
+chieh 
+Male 
+Ph.D. in Law, National 
+Chengchi University 
+ 
+ 
+1. Professor, College of Law, National 
+Chengchi University 
+2. Independent Director, Sunny Friend 
+Environmental Technology Co., Ltd. 
+3. Independent Director, Ableprint 
+Technology Co., Ltd. 
+Independent 
+ Director 
+Lin 
+Horng-
+chang 
+ Male 
+Master of Science in 
+Finance, 
+George 
+Washington University, 
+USA 
+National 
+Taiwan 
+University 
+EMBA 
+Program, 
+Corporate 
+Finance Track 
+1. Chief Executive Officer, Hengchen 
+Investment Co., Ltd. 
+2. Director, Greenyn Biotechnology Co., 
+Ltd 
+3. 
+Independent 
+Director, 
+Nishoku 
+Technology Inc. 
+Independent 
+ Director 
+Li Jun-
+de 
+Male 
+Ph.D. 
+in 
+Economics, 
+Fujian 
+Normal 
+University 
+Master 
+of 
+Business 
+Administration, 
+National 
+Chengchi 
+University 
+1. Counselor, Financial Supervisory 
+Commission, Executive Yuan (FSC) 
+2. Deputy General Manager, Motor 
+Vehicle Accident Compensation Fund 
+ 
+
+ 
+44 
+2.1.4.  Collective Wisdom of the Highest Governance Body 
+The board of directors serves as the supreme governing body of corporate governance. The 
+collective intelligence of its members determines the lifeline and direction of company 
+operations. Board members undertake continuing education related to company operations 
+as required by law. The summary of training hours and programs is listed below. 
+Position 
+Name 
+Training 
+Date 
+Organizer 
+Course Title 
+Training 
+Hours 
+Corporate 
+Director 
+ 
+Representa
+tive 
+Chairman 
+Sun 
+Jeng-
+chyan
+g 
+June 16, 
+2024 
+Taiwan Investor 
+Relations 
+Institute 
+Hostile Takeovers - Focusing on 
+Ensuring Management Control 
+3 
+June 27, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Corporate Governance 3.0: 
+Practical Analysis of "Sustainability 
+Reports" 
+3 
+Vice 
+Chairman 
+Li Jih-
+tung 
+June 27, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Corporate Governance 3.0: 
+Practical Analysis of Sustainability 
+Reporting 
+3 
+August 14, 
+2024 
+Institute of 
+Financial Law 
+and Crime 
+Prevention 
+2024 Third Session Corporate 
+Governance Practical Workshop - 
+Analysis of Practical Cases 
+Involving Shareholders' Meeting 
+Disputes 
+3 
+Corporate 
+Directors 
+ 
+Representa
+tive 
+Su 
+Tsung-
+ming 
+January 5, 
+2024 
+Taipei 
+Foundation of 
+Finance 
+Corporate Governance - 
+Sustainable Governance - Trends 
+in Sustainable Development and 
+Governance 
+3 
+April 24, 
+2024 
+Taiwan 
+Academy of 
+Banking and 
+Finance 
+Corporate Governance Lecture 
+Series - Enterprise Risk 
+Management and Integrity 
+Management Practices 
+3 
+April 25, 
+2024 
+Taiwan Institute 
+of Directors 
+Global Economic Outlook 
+(Inflation, Interest Rate Policy, 
+Green Trade Wars) 
+3 
+
+ 
+45 
+Position 
+Name 
+Training 
+Date 
+Organizer 
+Course Title 
+Training 
+Hours 
+May 9, 
+2024 
+Taiwan 
+Academy of 
+Banking and 
+Finance 
+Corporate Governance Lecture 
+Series - Fair and Respectful 
+Treatment of Senior Clients and 
+Introduction to Regulations 
+Protecting Senior Policyholders' 
+Rights 
+3 
+May 16, 
+2024 
+Taiwan 
+Academy of 
+Banking and 
+Finance 
+Cybersecurity Governance 
+Seminar - Corporate Cybersecurity 
+Posture Under Digital Resilience 
+3 
+Corporate 
+Director 
+ 
+Representa
+tive 
+Shen 
+Huei-
+cheng 
+July 3, 
+2024 
+Other (Taiwan 
+Stock 
+Exchange) 
+2024 Cathay Sustainable Finance 
+and Climate Change Summit 
+6 
+August 14, 
+2014 
+Institute of 
+Financial Law 
+and Crime 
+Prevention 
+2024 Third Session Corporate 
+Governance Practical Workshop - 
+Analysis of Practical Cases 
+Involving Shareholders' Meeting 
+Disputes 
+3 
+Director 
+Yang 
+Tsung-
+han 
+June 27, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Corporate Governance 3.0: 
+Practical Analysis of "Sustainability 
+Reports" 
+3 
+July 3, 
+2024 
+Other (Taiwan 
+Stock 
+Exchange) 
+2024 Cathay Sustainable Finance 
+and Climate Change Summit 
+6 
+August 14, 
+2024 
+Institute of 
+Financial Law 
+and Crime 
+Prevention 
+2024 Third Session Corporate 
+Governance Practical Workshop - 
+Analysis of Practical Cases 
+Involving Shareholders' Meeting 
+Disputes 
+3 
+Corporate 
+Directors 
+Li 
+Chuan
+-wei 
+March 8, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Corporate Crisis Management and 
+Communication 
+3 
+
+ 
+46 
+Position 
+Name 
+Training 
+Date 
+Organizer 
+Course Title 
+Training 
+Hours 
+ 
+Representa
+tive 
+August 14, 
+2024 
+Institute of 
+Financial Law 
+and Crime 
+Prevention 
+2024 Third Session Corporate 
+Governance Practical Workshop - 
+Analysis of Practical Cases 
+Involving Shareholders' Meeting 
+Disputes 
+3 
+ 
+Independe
+nt Director 
+Wang 
+Wen-
+chieh 
+June 27, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Corporate Governance 3.0: 
+Practical Analysis of Sustainability 
+Reporting 
+3 
+August 6, 
+2024 
+Taipei 
+Foundation of 
+Finance 
+Corporate Governance: 
+Understanding Corporate and 
+Director/Supervisor 
+Responsibilities Under the 
+Securities and Exchange Act 
+3 
+August 14, 
+2024 
+Institute of 
+Financial Law 
+and Crime 
+Prevention 
+2024 Third Session Corporate 
+Governance Practical Workshop - 
+Analysis of Practical Cases 
+Involving Shareholders' Meeting 
+Disputes 
+3 
+Independe
+nt Director 
+ Lin 
+Horng
+-
+chang 
+May 30, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+How Companies Can Strengthen 
+Strategic Execution 
+3 
+June 27, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+New Approaches to Corporate 
+Risk Management Integrating 
+Strategic Development and ESG 
+3 
+August 14, 
+2024 
+Institute of 
+Financial Law 
+and Crime 
+Prevention 
+2024 Third Session Corporate 
+Governance Practical Training 
+Workshop - Analysis of Practical 
+Cases Involving Shareholders' 
+Meeting Disputes 
+3 
+
+ 
+47 
+Position 
+Name 
+Training 
+Date 
+Organizer 
+Course Title 
+Training 
+Hours 
+November 
+1, 2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Trends and Risk Management in 
+Digital Technology and Artificial 
+Intelligence 
+3 
+November 
+20, 2024 
+Taiwan Investor 
+Relations 
+Institute 
+Group Governance and 
+Performance Management 
+Practices - From a Financial 
+Perspective 
+3 
+Independe
+nt Director 
+ Li 
+Jun-de 
+ June 27, 
+2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Corporate Governance 3.0: 
+Practical Analysis of Sustainability 
+Reporting 
+3 
+ August 
+13, 2024 
+Securities and 
+Futures Institute 
+Corporate ESG: Environmental, 
+Social, and Governance - Analysis 
+of Relevant Judicial Cases and 
+Legal Liability 
+3 
+ August 
+14, 2024 
+Institute of 
+Financial Law 
+and Crime 
+Prevention 
+2024 Third Session Corporate 
+Governance Practical Training 
+Workshop - Analysis of Practical 
+Cases Involving Shareholders' 
+Meeting Disputes 
+3 
+October 4, 
+2024 
+Securities and 
+Futures Institute 
+2024 Insider Trading Prevention 
+Awareness Session 
+3 
+November 
+13, 2024 
+securities and 
+Futures Institute 
+of the Republic 
+of China 
+Latest Developments in Insider 
+Trading Practices in Taiwan and 
+Corporate Prevention Strategies 
+(Includes Gender Equality) 
+3 
+December 
+20, 2024 
+Taiwan 
+Corporate 
+Governance 
+Association 
+Corporate Performance 
+Management in the Digital Age: 
+Performance Reward Strategies 
+and Tool Applications 
+3 
+December 
+20, 2024 
+Taiwan 
+Corporate 
+Cybersecurity Governance 
+Mindset and Practices 
+3 
+
+ 
+48 
+Position 
+Name 
+Training 
+Date 
+Organizer 
+Course Title 
+Training 
+Hours 
+Governance 
+Association 
+2.1.5.  Performance Evaluation of the Highest Governance Body 
+For public listed companies, the performance evaluation of the highest governance body (the 
+board of directors) holds significant importance. In principle, it ensures the board can 
+effectively oversee management, formulate strategies, and safeguard the interests of 
+shareholders and investors. Through regular assessments, companies can identify the board's 
+strengths and weaknesses internally, driving continuous improvements in operational 
+efficiency and decision-making quality. Ultimately, this strengthens corporate governance, 
+contributing to the company's long-term stable development and market trust. The 2024 
+Board of Directors evaluation covers the following areas.  
+ 
+Evaluati
+on Cycle 
+Evaluatio
+n Period 
+Scope of 
+Evaluation 
+Evaluatio
+n Method 
+Evaluation Content 
+Once a 
+year 
+January 
+1, 2024~ 
+ 
+Decembe
+r 31, 
+2024 
+ Board of 
+Directors 
+Board of 
+Directors 
+Internal 
+Self-
+Assessme
+nt 
+ 1. Level of involvement in 
+company operations 
+ 2. Quality of Board 
+Decisions 
+ 3. Board Composition and 
+Structure 
+ 4. Director Selection and 
+Continuing Education 
+ 5. Internal Controls 
+Individual 
+Board 
+Members 
+Director 
+Self-
+Assessme
+nt 
+ 1. Understanding of 
+Corporate Goals and 
+Mission 
+ 2. Understanding of 
+Director Responsibilities 
+ 3. Level of involvement in 
+company operations 
+
+ 
+49 
+ 4. Management of Internal 
+Relationships and 
+Communication 
+ 5. Professional 
+Competence and 
+Continuing Education of 
+Directors 
+ 6. Internal Control 
+Audit 
+Committee 
+ 
+Remunerati
+on 
+Committee 
+Committe
+e Self-
+Assessme
+nt 
+ 1. Level of involvement in 
+company operations 
+ 2. Understanding of 
+Functional Committee 
+Responsibilities 
+ 3. Enhancing the Quality of 
+Functional Committee 
+Decision-Making 
+ 4. Composition and 
+Selection of Functional 
+Committee Members 
+ 5. Internal Control 
+Evaluation Results 
+The 2024 performance self-assessment was conducted 
+in accordance with the Company's "Board of Directors 
+Performance Evaluation Measures." Evaluation results 
+are presented across five levels: Number 1: Extremely 
+Poor (Strongly Disagree) Number 2: Poor (Disagree) 
+Number 3: Average (Neutral) Number 4: Good (Agree) 
+Number 5: Excellent (Strongly Agree) The evaluation 
+results are detailed as follows: 
+ 1. Board Self-Assessment: 
+ (1) Evaluation Dimensions: Five major dimensions 
+encompassing participation in company operations, 
+enhancement of board decision-making quality, board 
+composition and structure, director selection and 
+continuing education, and internal control, comprising 
+45 items in total. 
+
+ 
+50 
+ (2) Self-assessment result: Average score of 4.89 
+(Excellent/Agree). 
+ 2. Director (Self) Evaluation: 
+ (1) Evaluation Dimensions: Six dimensions 
+encompassing understanding of corporate goals and 
+missions, awareness of director responsibilities, level of 
+participation in company operations, internal 
+relationship management and communication, 
+directors' professional expertise and continuing 
+education, and internal controls, comprising 23 items. 
+ (2) Self-assessment results: Average score of 4.93 
+(Excellent/Agree). 
+ 3. Functional Committee Self-Assessment: 
+ (1) Evaluation Dimensions: Five dimensions 
+encompassing participation in company operations, 
+understanding of functional committee responsibilities, 
+enhancing functional committee decision-making 
+quality, functional committee composition and member 
+selection, and internal controls, comprising 26 items. 
+ (2) Self-assessment results: Average score of 4.92 
+(Excellent/Agree). 
+2.1.6.  Functional Committees 
+To strengthen the Board's oversight responsibilities and enhance management mechanisms, 
+Toplus Global has established the following functional committees, primarily composed of 
+independent directors: 
+➢ 
+ Audit Committee 
+Composition: Composed of all independent directors, with no fewer than three members, at 
+least one of whom must possess accounting or financial expertise. Currently chaired by an 
+independent director. 
+ Responsibilities: Assists the Board in fulfilling its oversight responsibilities, primarily 
+supervising the following matters: 
+✓ 
+ The fair presentation of the Company's financial statements. 
+✓ 
+ The appointment, removal, independence, and performance of the certifying 
+accountants. 
+✓ 
+ The effective implementation of the company's internal controls. 
+
+ 
+51 
+✓ 
+ Compliance with relevant laws and regulations. 
+✓ 
+ Management of existing or potential risks. 
+✓ 
+ Procedures for handling significant asset or derivative transactions, loans to others, 
+endorsements, or guarantees provided to others. 
+✓ 
+ Matters involving directors' personal interests. 
+✓ 
+ Appointment and removal of the chief financial officer, chief accounting officer, or 
+chief internal auditor. 
+ 
+➢ 
+Remuneration Committee  
+Toplus Global has established a Remuneration Committee, primarily composed of 
+independent directors, responsible for reviewing Remuneration systems for directors and 
+executives. The committee meets at least twice annually and conducts ad hoc discussions as 
+needed. The Remuneration Committee reviews and makes recommendations based on 
+company operational performance, individual performance evaluations, and industry 
+Remuneration trends. These recommendations are then submitted to the Board of Directors 
+for approval, ensuring decisions are professional, objective, and transparent. 
+ 
+Composition: Composed of three independent directors, one of whom serves as Chairperson 
+and Convener. 
+Responsibilities: Assists the Board in implementing and evaluating the Company's overall 
+Remuneration and benefits system, as well as the remuneration of directors and managers. 
+Responsibilities include: 
+✓ 
+Establishing and periodically reviewing policies, systems, standards, and structures for 
+evaluating the performance and determining the Remuneration of directors and 
+managers. 
+✓ 
+Periodically evaluating and determining the Remuneration for directors and managers. 
+➢ 
+Sustainable Development Committee 
+Toplus Global has established a "Sustainability Committee" under the Board of Directors, 
+with three category-specific working groups organized according to environmental, social, 
+and governance dimensions. These groups respectively execute corporate sustainability 
+strategies, impact assessments, and project plans. 
+ Composition: Composed of at least three members possessing expertise and capabilities in 
+corporate sustainability. The committee oversees the Sustainability Working Group. 
+ Responsibilities: The committee is responsible for formulating corporate sustainability 
+strategies, overseeing implementation, tracking performance, managing risks, and 
+communicating with stakeholders. The goal is to deepen Toplus Global's culture of 
+sustainable governance and achieve corporate sustainability objectives. 
+
+ 
+52 
+2.2.  Operational Management and Policy 
+Corresponding 
+Standards 
+ GRI 2-19 Remuneration policies 
+ GRI 2-20 Process to determine remuneration 
+ GRI 2-25 Processes to remediate negative impacts 
+ GRI 2-26 Mechanisms for seeking advice and raising concerns 
+ GRI 2-27 Compliance with laws and regulations 
+2.2.1.  Remuneration Policy 
+Toplus Global's Remuneration system is designed based on market salary surveys and 
+internal job grading systems, providing commensurate Remuneration according to job 
+functions, responsibilities, and performance. The Remuneration structure includes fixed 
+salary, variable pay, year-end bonuses, performance bonuses, and multiple employee 
+benefits, balancing external competitiveness and internal equity. Furthermore, we plan to 
+propose relevant initiatives to the Remuneration Committee to explore incorporating 
+sustainability performance indicators into the Remuneration incentive mechanism, thereby 
+strengthening the link between operational outcomes and sustainability goals. 
+ 
+In 2024, the ratio of the highest-paid individual to the median total Remuneration of all 
+employees was [3.68:1]. For salary adjustments, the ratio of their Remuneration increase to 
+the median employee increase was [1.54:1]. The company continuously reviews internal 
+Remuneration fairness and incorporates this ratio as one of its governance assessment 
+metrics to balance the remuneration structure between senior and entry-level positions. 
+(Remuneration calculations are based on employees with at least one year of service across 
+the entire group, totaling 212 individuals.) 
+ Highest-paid individual position: Vice Chairman 
+Ratio 
+ Annual Total Remuneration Ratio 
+ Highest Individual Annual Salary / Median Annual Salary of All Employees (Excluding 
+Highest-Paid Individual) 
+368.29% 
+ Annual Total Remuneration Change Rate 
+ Percentage increase in highest individual annual salary (%) / Percentage increase in 
+median annual salary of all employees (excluding highest-paid individual) (%) 
+58.79% 
+ 
+2.2.2.  Quality and Safety G2 
+To ensure the quality of services and products provided to consumers, Toplus Global strictly 
+adheres to standardized SOP procedures. From new menu item development, ingredient 
+
+ 
+53 
+selection, trial production/ tasting, to formal market launch, a comprehensive quality 
+management process is implemented.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+For quality control of ingredients and raw materials, the procurement department establishes 
+and implements internal food safety procurement strategies and preventive measures. 
+Additionally, a self-inspection mechanism is implemented for fresh ingredients to ensure 
+product quality. 
+【Food Safety Procurement Strategies and Preventive Measures】 
+Response Strategies and 
+Preventive Measures 
+Description 
+I. Supplier Management and 
+Verification System 
+1. Prioritize suppliers with food safety certifications 
+2. Implement a diversified supplier strategy to mitigate 
+risks from single-source supply 
+3. Prohibit high-risk suppliers (e.g., those with prior 
+major food safety violations) 
+II. Transparent and Standardized 
+Procurement System 
+1. Establish standardized procurement operating 
+procedures 
+III. Audits and Sampling 
+Inspections 
+1. Conduct on-site inspections or product sampling of 
+major suppliers' goods at least once weekly 
+2. Strictly document the results of each sampling 
+inspection 
+IV. Current Affairs Tracking 
+1. Stay updated on food safety news and monitor 
+official announcements 
+ 
+【2024 Self-Inspection Statistics for Fresh Food Ingredients】 
+ Category 
+ Inspection Item 
+ Frequency of Self-
+Inspection 
+ Number of 
+Samples 
+ Number 
+of Non-
+New Product 
+Development 
+ 
+Ingredient 
+Safety 
+Verification 
+ 
+Testing 
+and tasting 
+ 
+Official 
+Launch as 
+New Menu 
+Item 
+ 
+Rollout to 
+Restaurants 
+Order 
+ 
+ Product 
+Production 
+ 
+Serving 
+ 
+Customer 
+Feedback 
+ 
+Product 
+Production 
+Adjustments 
+
+ 
+54 
+Tested 
+(Annual) 
+Compliant 
+Samples 
+ Seafood 
+ Sulfites 
+ Monthly random 
+sampling of 3–5 
+product types 
+ 21 items 
+ 0 
+ Meat 
+ Ractopamine (Pork & 
+Beef) 
+ Randomly inspect 3–5 
+items monthly 
+ 42 items 
+ 0 items 
+ Fruits and 
+Vegetables 
+ EDICITSEP (pesticide 
+residue) 
+ Monthly random 
+sampling of 6–8 items 
+ 220 items 
+ 0 items 
+Total laboratory-related investment and expenditure costs amounted to NT$44,100. For the 
+2024 fiscal year, laboratory investment and expenditure accounted for 0.005% of net 
+operating revenue (group revenue). 
+2.2.3.  Supplier Management and Food Sourcing G3 
+Currently, Toplus Global does not procure products compliant with internationally recognized 
+product responsibility standards such as ISO or HACCP. In the future, we will actively 
+encourage existing suppliers to obtain relevant certifications and seek new suppliers that meet 
+internationally recognized product responsibility standards for procurement. 
+Our primary raw materials include seafood, meat, fresh produce, and beverages. Supply 
+conditions remain favorable, with stable cooperative relationships established with multiple 
+high-quality suppliers. This ensures consistent supply without any instances of shortages or 
+interruptions, particularly enabling the company to meet peak demand during large-scale 
+events such as wedding banquets. To ensure smooth business operations, we have developed 
+a raw material supply plan and adjusts strategies based on market demand. Specific strategies 
+are as follows: 
+(1) Diversified Supply Sources: 
+Through a rigorous supplier selection process, Toplus Global collaborates with 
+multiple high-quality suppliers to avoid over-reliance on any single source and 
+mitigate supply risks. All ingredients (e.g., seafood, meat, produce) are sourced 
+from vetted suppliers and adjusted seasonally and according to demand to 
+ensure freshness and sufficiency. 
+(2) Flexible Demand Adjustment: 
+To mitigate risks associated with market fluctuations, Toplus Global flexibly 
+adjusts procurement and product mix, especially during peak periods like 
+wedding banquets and corporate events, to ensure stable supply. Supply chain 
+
+ 
+55 
+readiness for pre-booked large-scale events and banquets is established through 
+advanced planning of delivery schedules and dedicated inventory reserves. 
+(3) Quality Control and Verification: 
+All ingredients undergo mandatory food safety inspections upon arrival to ensure 
+they are free from contamination and chemical additives. Multiple checks are 
+performed, and a comprehensive traceability system is established to guarantee 
+the origin of ingredients and maintain consistent quality. 
+(4) Emergency Response and Stockpiling Mechanism: 
+Toplus Global maintains contingency plans to address logistics delays or 
+unforeseen circumstances. We proactively stockpile goods based on demand 
+fluctuations to ensure stable supply during peak periods such as wedding 
+banquets and holidays. We coordinate with suppliers for priority delivery to 
+prevent supply disruptions. 
+Our emphasis on supply chain management and food sourcing primarily aligns with New 
+Taipei City's "Ingredient Registration Platform" product traceability system, which accounts 
+for approximately 43% of our traceability management. We also conduct regular supplier 
+evaluations. In 2024, we engaged with 218 food ingredient suppliers. All 218 underwent 
+annual routine supplier evaluations (covering approximately 100% of the total transaction 
+value in 2024). The evaluation forms were jointly assessed by the procurement and 
+acceptance units, covering: quality, delivery time, cooperation, price, and overall impression. 
+Additionally, 26 suppliers completed GRI-related surveys (representing approximately 62% of 
+the total transaction value in 2024). conducted via questionnaire covering: proportion of 
+locally sourced ingredients, relevant food certifications or validations, environmental impact 
+and sustainability initiatives, social engagement, and charitable activities). Evaluation results 
+showed 146 suppliers (67%) rated as Grade A - Priority Procurement, the highest category. 
+2024 Annual Routine Supplier Evaluation Results 
+Rating Score 
+Grade 
+Procurement Strategy 
+Evaluation Results 
+(Number of Suppliers) 
+Percentage 
+80–100 points 
+A 
+Priority Procurement 
+146 institutions 
+67% 
+70–79 points 
+B 
+General Procurement 
+72 units 
+33% 
+60–69 points 
+C 
+Provisionally 
+Qualified 
+0 
+0% 
+Below 60 points 
+D 
+Fail 
+0 establishments 
+0% 
+ 
+【Supplier Quality, Environmental, and Social Assessment】 
+
+ 
+56 
+ 
+Note: (1) + (2) represents the percentage of food purchases meeting environmental and social procurement 
+standards, and the percentage of food purchases certified by third-party environmental or social standards. 
+Referencing SASB's industry benchmark indicators for the food and beverage sector Supply 
+Chain Management and Food Sourcing (5) Toplus Global internally discussed management 
+strategies for environmental and social risks (including animal welfare) within the supply 
+chain. 
+Based on SASB Supply Chain Management and Food Sourcing results (as shown in (1) to (4) 
+above), we identified the following issues and established corresponding strategies: 
+ 1) Currently, there are no animal welfare-related procurement practices. 
+➢ 
+ Countermeasure: Actively expand partnerships with farms practicing animal-
+friendly husbandry practices. 
+ 2) The proportion of locally sourced ingredients is relatively low for certain categories. 
+➢ 
+ Countermeasure: Prioritize developing local suppliers for these categories. 
+ 3) Supplier certification for relevant food categories requires strengthening. 
+
+ 
+57 
+➢ 
+ Response Strategy: Require suppliers to obtain relevant certifications or validations, 
+incorporate this into supplier evaluations, and consider prioritizing procurement in 
+the future. 
+ 4) Suppliers demonstrate limited commitment to environmental impact and sustainability 
+implementation. 
+➢ 
+ Countermeasure: Encourage suppliers to actively implement social responsibility 
+initiatives, incorporate this into supplier evaluations, and consider prioritizing 
+procurement in the future. 
+2.2.4.  Compliance with Laws and Regulations 
+Toplus Global has established an effective internal control system. Internal auditors regularly 
+verify compliance with ethical business practices and the system's operational effectiveness 
+to ensure policy implementation.  
+ From January 2025 to December 2025, the Toplus Global Group had no records of 
+administrative penalties from competent authorities or major violations related to 
+environmental or operational compliance. Additionally, the number of Toplus Global product 
+recalls and the total weight of recalled products were both zero. 
+2.2.5.  Corporate Ethics and Moral Standards 
+Toplus Global bears the obligation to educate and regulate employees. Accordingly, we have 
+established the "New Employee Handbook," "Labor Contract," "Employee Reward and 
+Discipline Management Measures," "Sexual Harassment Prevention Measures," "Personal Data 
+Protection Management Measures," "Corporate Governance Code of Practice," "Integrity 
+Management Code," "Integrity Management Procedures and Conduct Guidelines," 
+"Whistleblowing System for Illegal, Unethical, or Dishonest Conduct," and "Code of Ethical 
+Conduct." These documents clearly outline the commitment of both employers and 
+employees to adhere to corporate ethics and professional conduct, ensuring all staff 
+understand their behavioral and ethical responsibilities. Our employee guidelines are as 
+follows: 
+ (1) Comply with legal regulations and social ethics and morals. 
+ (2) Remain dedicated to one's assigned duties, fulfill responsibilities diligently, cooperate 
+with colleagues, and comply with reasonable instructions from supervisors. 
+ (3) Maintain integrity and simplicity, streamline processes to enhance efficiency, conserve 
+energy, and avoid extravagant waste of environmental and material resources. 
+ (4) Maintain confidentiality regarding company business operations. Except when 
+conducting company-related business, do not represent the company's name externally 
+without prior authorization. 
+
+ 
+58 
+ (5) Uphold ethical conduct, value team honor, and safeguard the reputation of both the 
+department and the company. 
+Toplus Global actively implements business integrity, evidenced by the effective 
+management and verification of these codes. We strictly mandate that all management 
+decisions and conduct adhere to relevant laws and regulations. In 2024, we recorded zero 
+incidents of corporate ethics violations, moral standards breaches, or human rights 
+violations. The concept of integrity is regularly reinforced via internal policy promotion. Our 
+corporate culture, business philosophy, and established integrity management guidelines are 
+disclosed on the official company website. 
+2.2.6.  Complaints and Remedies 
+To uphold our customer-centric service ethos and enhance communication with external 
+stakeholders, Toplus Global has established diverse customer service and suggestion 
+reporting channels. Customers and partners are encouraged to provide feedback or raise 
+concerns regarding dining experiences, product quality, venue services, sustainability issues, 
+and related matters. All opinions serve as vital references for our ongoing efforts to improve 
+service quality and operational sustainability. 
+ Current reporting channels include: 
+✓ 
+ Customer Service Hotline: A dedicated hotline is available on business days at <02-
+2226-7959> to handle customer inquiries and complaints.  
+✓ 
+Official Website Contact Form: A "Contact Us" section is available on the official website 
+where visitors can leave messages or provide contact details for follow-up.  
+✓ 
+ Social Media Messaging Systems: Includes Facebook and LINE official accounts, each 
+equipped with customer service or operations response channels to enhance 
+responsiveness and approachability.  
+✓ 
+Email Feedback Mechanism: A dedicated customer service email address 
+<service@toplusglobal.com> is available for stakeholders to submit suggestions and 
+concerns. 
+Customer feedback is logged and categorized by operations or customer service 
+representatives before being routed to relevant departments. For cases requiring resolution, 
+customer service provides a progress update within 3–5 business days. Major incidents, 
+including customer complaints or food safety issues, trigger the immediate activation of 
+internal protocols to fully safeguard customer rights. Customers can submit feedback 
+anonymously, and we guarantee their personal information will not be disclosed or misused. 
+Furthermore, Toplus Global welcomes suggestions from external stakeholders regarding 
+sustainability-related topics to jointly promote corporate social responsibility. 
+
+ 
+59 
+2.3.  Operational Performance G1 
+Corresponding 
+Standard 
+ GRI 201 Economic Performance 
+2.3.1.  Operational Overview 
+ Toplus Global 2024 Operational Results 
+Toplus Global's consolidated net operating revenue for 2024 was NT$900,026 thousand, 
+representing a year-on-year growth rate of 22.59% compared to the previous year (2023). 
+The net loss attributable to owners of the parent company for 2024 was NT$189,006 
+thousand, with earnings per share (EPS) of (NT$2.28). 
+Major products, services, and sales regions are as follows:  
+ 
+Unit: NT$ Thousand; % 
+Products and Services 
+Fiscal Year 2024 
+Sales Amount 
+Sales Proportion 
+Food and Beverage Products 
+860,425 
+95.60% 
+Ingredient Sales 
+26,784 
+2.98% 
+Tourism Revenue 
+11,881 
+1.32% 
+Service Revenue 
+936 
+0.10% 
+Total 
+900,026 
+100.00% 
+Business Strategy 
+➢ 
+ Expand existing resources and create new brands to increase market share and brand 
+visibility. 
+➢ 
+ Develop diverse distribution channels and collaborate with e-commerce platforms to 
+launch culinary products. 
+➢ 
+ Integrate diverse brands to strengthen industry competitiveness. 
+➢ 
+ Strictly control costs, improve operational efficiency, and safeguard profitability. 
+➢ 
+ Strictly adhere to food service standard operating procedures to ensure food safety 
+and health management. 
+➢ 
+ Conduct regular employee training on food safety and hygiene knowledge to 
+enhance their awareness. 
+
+ 
+60 
+2.3.2.  Subsidies and Grants 
+In 2024, Toplus Global received no financial assistance, subsidies, or tax exemptions from the 
+government. Additionally, plans are underway to apply for human resources-related subsidy 
+programs starting in 2025. 
+2.4.  Sustainable Development Management 
+Corresponding 
+Standards 
+ GRI 2-13 Delegation of responsibility for managing impacts 
+ GRI 2-14 Role of the highest governance body in sustainability reporting 
+ GRI 2-22 Statement on sustainable development strategy 
+ GRI 2-23 Policy commitments 
+GRI 2-28 Membership associations 
+ 
+2.4.1.  Sustainability Policy 
+Toplus Global is committed to promoting a low-carbon hospitality platform, implementing 
+carbon audits, practicing carbon reduction actions, and creating a sustainable environment. 
+Guided by green business principles, we will continue to drive energy transition and circular 
+economy development, fulfilling our corporate responsibility for planetary sustainability. In 
+implementing carbon reduction initiatives, our subsidiary Amazing Hall (Taoyuan Branch) has 
+applied for the Environmental Protection Administration's Reduction Project Program. By 
+replacing energy-intensive legacy equipment, we enhance energy efficiency, reduce 
+consumption, and lower greenhouse gas emissions. 
+Toplus Global Group recognizes that its operations may cause adverse environmental and 
+social impacts. Upholding the principles of honest confrontation and proactive improvement, 
+we have established reporting and response mechanisms. These include immediate 
+reporting, issue tracking, accountability clarification, and external communication. We 
+provide remedial measures based on actual circumstances, such as product recalls, customer 
+Remuneration, facility improvements, or charitable contributions. Regarding employee rights 
+or workplace safety issues, we maintain a grievance and protection system to ensure proper 
+handling and response to incidents. We continuously review and optimize relevant 
+management systems, strengthen training, and risk early warning mechanisms, and strive to 
+effectively remedy and prevent similar negative impacts through institutionalized and 
+transparent processes, demonstrating our responsibility to society and stakeholders. 
+Regarding human rights, our company's human rights policy is published on our official 
+website (Investor Relations > Corporate Governance > Human Rights Protection). Toplus 
+Global respects human rights values and acknowledges and adheres to relevant international 
+
+ 
+61 
+human rights conventions. These include the "United Nations Universal Declaration of 
+Human Rights," "International Labor Conventions," and "United Nations Guiding Principles 
+on Business and Human Rights," committing to fulfilling our responsibility to respect and 
+uphold human rights. 
+2.4.2.  Sustainable Business Framework 
+Toplus Global is committed to becoming a sustainable food service enterprise that balances 
+environmental protection, social responsibility, and corporate governance. Guided by 
+principles of environmental stewardship, customer integrity, and employee care, we pledge 
+to actively implement environmental management measures in our operations. These 
+include energy conservation, carbon reduction, plastic reduction, waste minimization, and 
+food waste recycling to minimize ecological impact. We prioritize food safety and customer 
+health by continuously elevating hygiene standards. We provide employees with fair and 
+reasonable working conditions and development opportunities, striving to create a safe, 
+friendly, and diverse workplace. Simultaneously, we adhere to integrity in business 
+operations, strengthening internal governance, risk management, and stakeholder 
+communication mechanisms. Through setting sustainable goals and tracking performance, 
+we steadily advance our corporate responsibility and sustainable development vision, 
+creating long-term value for society. 
+To ensure the smooth implementation of corporate sustainability initiatives, our company 
+has established a cross-departmental Corporate Sustainability Task Force. The General 
+Manager/Chief Executive Officer serves as convener, with the Management Department 
+acting as the supporting unit. Department heads from General Affairs, Human Resources, 
+and Finance serve as representatives on the task force, driving ESG-related environmental, 
+social, and governance initiatives according to their respective responsibilities. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+62 
+ (1) Toplus Global Sustainability Management Organizational Chart 
+ (2) Sustainability Task Force Responsibilities and Mission Statement 
+ 
+ Unit 
+ Responsible Department 
+ Responsibility 
+Description 
+Environmental Protection 
+Group (E) 
+General Affairs and Engineering 
+Department 
+Energy Management, 
+Greenhouse Gas 
+Inventory, Wastewater 
+Discharge and Waste 
+Management, Water 
+Resource 
+Management 
+Social Responsibility Group 
+(S) 
+Human Resources Department 
+Labor-Management 
+Relations, Employee 
+Health, Safety, and 
+Well-being, 
+Workplace Diversity, 
+Remuneration and 
+Benefits, Recruitment 
+and Career 
+
+ 
+63 
+ 
+2.5.  Participation in Public Associations 
+Participation in local associations, unions, or organizations offers benefits for both internal 
+operations and local community development. The following lists the associations in which 
+the company or its senior management actively participates. 
+ Item 
+ Public Association Organization 
+Name 
+ Participation 
+Role 
+ Remarks 
+1 
+Council Member of the Chinese 
+Taipei Basketball Association (Group 
+Member) 
+Executive Director 
+Chairman's 
+Personal Capacity 
+2 
+Taoyuan Biotechnology Service 
+Business Association 
+Chairman 
+Chairman 
+(Individual) 
+3 
+New Taipei City Culinary Business 
+Association 
+Member 
+Amazing Hall 
+4 
+Taipei City Culinary Business 
+Association 
+Member 
+Amazing Hall 
+5 
+Taiwan Catering Industry Alliance 
+Association 
+Chairman 
+Vice Chairman 
+Personal 
+6 
+Taiwan Chain Franchise Promotion 
+Association 
+Honorary 
+Chairman 
+Vice Chairman 
+(Individual) 
+Development, Human 
+Rights, Customer 
+Privacy and Security, 
+Community Programs, 
+Consumer Rights 
+Protection 
+Corporate Governance Group 
+(G) 
+Finance Department 
+Internal Audit and 
+Compliance Policies, 
+Internal and External 
+Risk Management, 
+Shareholder Rights, 
+Business Ethics, 
+Competition Practices, 
+Board Governance 
+
+ 
+64 
+7 
+Taiwan Superior Food Development 
+Association 
+Director 
+Vice Chairman 
+(Individual) 
+8 
+French Blue Ribbon Culinary 
+Association 
+Honorary 
+President, Greater 
+China Region 
+Vice Chairman 
+(Individua) 
+ 
+ 
+ 
+
+ 
+65 
+Chapter 3 Environmental Protection 
+Corresponding 
+Standard 
+ GRI 303 Water and Effluent 
+ GRI 305 Emissions 
+ GRI 306 Waste 
+3.1.  Environmental Policy 
+ Environmental protection is fundamental to our business operations. We implement 
+environmental management considerations throughout our operations by establishing 
+environmental management policies and regulatory systems.  
+(1)  We adhere to environmental regulations and relevant international standards, striving to 
+achieve sustainable environmental goals. 
+(2)  We consider the ecological impact of our operations, promote, and advocate sustainable 
+consumption concepts, and strive to minimize the impact of our operations on the natural 
+environment and humanity. 
+(3)  We monitor the effects of climate change on our operations to minimize the impact of 
+our activities on climate change. 
+3.2.  TCFD Climate-Related Financial Disclosure 
+As a company primarily engaged in banquet, catering, and clubhouse operations, Toplus 
+Global has also actively expanded into high-end dining and overseas markets in recent years. 
+Toplus Global's business model faces multiple financial risks and opportunities under climate 
+change. Referencing the TCFD (Task Force on Climate-related Financial Disclosures) 
+framework, we explore relevant risks and opportunities from two major perspectives: 
+physical risks and transition risks. We employ two starkly different climate pathways from 
+IPCC AR5-RCP 2.6 and RCP 8.5 as parameters for scenario analysis and as the basis for future 
+climate assumptions. This enables Toplus Global to proactively integrate climate-related risks 
+and opportunities into strategic planning and financial decision-making. Not only can this 
+effectively manage potential financial impacts, but it also facilitates transformation to 
+enhance the Group's long-term competitiveness and sustainable value. 
+3.2.1.  Climate-Related Financial Risk Factors 
+1. Physical Risks 
+Physical risks primarily stem from the direct impacts of climate change, which may adversely 
+affect Toplus Global's operations: 
+• 
+Frequent Extreme Weather Events: 
+
+ 
+66 
+o Risk Factors: Increasingly frequent extreme weather events such as typhoons, 
+floods, droughts, and heatwaves may damage banquet halls, restaurant 
+buildings, or equipment, increasing repair costs or even causing prolonged 
+business closures and revenue losses. Examples include typhoon-damaged 
+banquet hall roofs or flooded restaurant basements. 
+o Financial Impact: Replacement or repair costs for damaged assets, increased 
+insurance premiums, revenue loss from operational disruptions, and damage to 
+brand reputation. 
+• 
+Supply Chain Disruptions: 
+o Risk Factors: Climate change may impact ingredient origins, leading to crop 
+failures, reduced fishing yields, and consequently driving up ingredient prices or 
+causing supply instability. For instance, droughts affecting vegetable supply or 
+extreme sea temperatures reducing seafood production. For Toplus Global's 
+overseas operations (e.g., Kumamoto, Japan), local extreme weather could 
+disrupt supply chains. 
+o Financial Impact: Increased ingredient procurement costs, menu adjustment 
+expenses, revenue losses due to supply shortages, and heightened inventory 
+management pressures. 
+• 
+Water scarcity: 
+o Risk Factors: The food service industry relies heavily on water resources. 
+Prolonged droughts may lead to increased water bills or usage restrictions, 
+impacting daily operations such as cleaning and cooking. 
+o Financial Impact: Increased water bills, higher water resource management 
+costs, and potential service capacity reductions if water restrictions are imposed. 
+2. Transition Risks 
+Transition risks stem from societal policy, regulatory, technological, and market shifts to 
+address climate change: 
+• 
+Policy and Regulatory Risks: 
+o Risk Factors: Increasingly stringent environmental regulations domestically and 
+internationally regarding carbon emissions, energy efficiency, and waste 
+management, such as carbon fee imposition, stricter pollution discharge 
+standards, and restrictions on single-use tableware. As a large-scale catering 
+enterprise, Toplus Global may have relatively high emissions and be directly 
+impacted. 
+o Financial Impact: Expenditures on carbon fees or taxes, costs for equipment 
+upgrades (e.g., replacing energy-efficient kitchen appliances, installing waste 
+
+ 
+67 
+treatment systems), increased compliance expenses, and potential fines for non-
+compliance. 
+• 
+Technical Risks: 
+o Risk Factors: Pressure to phase out traditional high-energy-consumption 
+cooking equipment; widespread adoption of emerging energy-saving 
+technologies (e.g., smart kitchen systems, high-efficiency air conditioning). 
+Failure to invest promptly may result in operational inefficiency. 
+o Financial Impact: Increased capital expenditures for new technology adoption; 
+failure to transform may result in diminished competitiveness. 
+• 
+Market Risk: 
+o Risk Factors: Rising consumer environmental awareness favors green dining and 
+sustainably operated restaurants. Failure to meet these expectations may result 
+in customer attrition. Additionally, heightened market demands for "green 
+supply chains" may impact partner selection. 
+o Financial Impact: Revenue decline due to customer attrition, damage to brand 
+reputation, and potential challenges in recruiting employees aligned with 
+sustainability values. 
+• 
+Reputational Risk: 
+o Risk Factors: Failure to effectively manage climate-related risks or poor 
+sustainability performance may result in negative media coverage, consumer 
+backlash, or investor criticism, damaging corporate image. 
+o Financial Impact: Brand value erosion, stock price volatility, and potentially 
+increased financing costs. 
+ 
+ 3.2.2 Climate-Related Financial Opportunities 
+Beyond risks, actively addressing climate change also presents numerous opportunities for 
+Toplus Global: 
+• 
+Enhanced Resource Efficiency: 
+o Opportunities: Adopting high-efficiency kitchen appliances, optimizing energy 
+management systems (e.g., smart lighting, HVAC systems), reducing water 
+waste, and implementing precise inventory management to minimize food 
+waste. 
+o Financial Benefits: Reduced energy expenses, water bills, ingredient 
+procurement costs, and waste disposal fees, while enhancing operational 
+efficiency. 
+• 
+Developing Green Products and Services: 
+
+ 
+68 
+o Opportunities: Launching low-carbon menus, local ingredient supply chains, 
+vegetarian or flexitarian options, eco-friendly packaging, and offering leftovers-
+to-go services. Toplus Global's "Low-Carbon Hospitality Service Platform" aligns 
+perfectly with this trend. 
+o Financial Benefits: Attract environmentally conscious consumers, expand 
+market share, increase revenue from new product lines, and enhance brand 
+value. 
+• 
+Market Expansion and Differentiation: 
+Opportunities: By emphasizing sustainable business practices—such as 
+obtaining green restaurant certifications and disclosing carbon footprints—
+companies can establish differentiated competitive advantages, attracting ESG-
+conscious investors and consumers. Overseas markets (e.g., Japan) prioritizing 
+sustainability may also present new business opportunities. 
+o Financial Benefits: Enhance market competitiveness, capture greater market 
+share, attract green finance investments, and improve financing terms. 
+• 
+Innovation and Technology Development: 
+o Opportunities: Invest in R&D for new technologies like food waste recycling 
+systems or smart energy-saving solutions, or collaborate with tech companies to 
+enhance operational resilience and efficiency. 
+o Financial Benefits: Reduce long-term operational costs, develop new revenue 
+streams, and strengthen technological leadership. 
+• 
+ Enhancing Corporate Resilience: 
+o Opportunities: Build robust climate risk management strategies (e.g., supply 
+chain diversification, contingency plans) to improve corporate resilience against 
+climate impacts. 
+o Financial Benefits: Minimizing operational disruption losses from climate events 
+and reducing emergency response costs. 
+3.3.  Energy Management E1 
+With years of experience and a solid foundation in energy management, Toplus Global 
+Group understands that electricity and fuel represent significant operational costs in the food 
+service industry. Effective energy management can substantially reduce operational expenses 
+and enhance profitability. For instance, optimizing kitchen equipment usage, switching to 
+energy-efficient appliances, upgrading HVAC systems, and precisely controlling cooking fuel 
+consumption all minimize energy waste. This not only enhances corporate competitiveness 
+but also aligns with global sustainability trends, establishing a green brand image that 
+attracts environmentally conscious consumers. Energy management has become an 
+
+ 
+69 
+indispensable strategic component in the food service industry. 
+3.3.1.  Energy Consumption 
+Statistical calculations of energy consumption and energy intensity for various energy 
+sources in 2024.  
+ 2024 Energy Consumption Statistics 
+Energy Type 
+Quantity 
+Unit 
+Calorific Value 
+Conversion 
+Unit 
+Gasoline 
+12,024.8 
+L 
+396.8184 
+GJ 
+Diesel 
+9,730.7 
+L 
+340.57 
+GJ 
+Natural Gas 
+585,429 
+M³ 
+19,319.16 
+GJ 
+Liquefied Petroleum Gas 
+556 
+Kg 
+27.8 
+GJ 
+Purchased Electricity 
+8,453,973 
+kWh 
+30,434.30 
+GJ 
+ Total Energy Consumption 
+50,518.65 
+GJ 
+Turnover 
+NTD million 
+900.026 
+Total Energy Intensity 
+ (GJ/NTD million) 
+56.13 
+Note: 
+ (1) Data Sources: Gasoline, diesel, and liquefied petroleum gas (LPG) are primarily based on actual purchase 
+volumes; natural gas and electricity are calculated by aggregating data from monthly billing statements and 
+electricity invoices across all operational sites. 
+ (2) Calorific value coefficient data source: Ministry of Environmental Protection Greenhouse Gas Emission Factor 
+Management Table Version 6.0.4. 
+ (3) Calorific Values: Gasoline 0.033 GJ/L, Diesel 0.035 GJ/L, Natural Gas 0.033 GJ/m³, Liquefied Petroleum Gas 
+0.050 GJ/kg, Electricity 1kWh = 0.0036 GJ. 
+3.4.  Greenhouse Gas Management 
+Toplus Global Group has taken the lead in completing an organizational greenhouse gas 
+inventory and obtained DNV international verification certification, establishing itself as a 
+pioneer in the food service industry. Years of commitment to greenhouse gas management 
+demonstrate Toplus Global's dedication to corporate sustainability and environmental 
+responsibility. We firmly believe that effective carbon management in the food service sector 
+enhances brand credibility and market competitiveness. 
+
+ 
+70 
+3.4.1.  Greenhouse Gas Emissions 
+Toplus Global has designated 2024 as the base year for its greenhouse gas inventory. The 
+scope of the inventory covers greenhouse gas emissions from all 20 locations under the 
+Toplus Global Group. The total greenhouse gas emissions from Scope 1 to Scope 3 amount 
+to 7,301.4361 metric tons of CO2e. (The base year was changed to 2024 due to structural 
+changes in the organizational boundary.)  
+ Unit: metric tons CO2e, % 
+Year 
+Scope 
+Source 
+Emissions * 
+Percentage 
+Share 
+Scope 1 Direct (Category 1) 
+1,602.7651 
+21.95% 
+Scope 2 Energy Indirect (Category 2) 
+4,172.6354 
+57.15% 
+Scope 3 
+Other Significant Indirect 
+(Categories 3–6) 
+1,526.0356 
+20.90% 
+Total greenhouse gas emissions 
+7,301.4361 
+100% 
+Revenue 
+(NT$ million) 
+900.026 
+Greenhouse Gas Emission 
+Intensity 
+(Category 1+2+3 emissions/per 
+million in revenue) 
+8.11 
+Note: 
+（1）  The greenhouse gas emissions in this report are based on the final version verified by DNV Global in 
+August 2025. 
+（2）  The greenhouse gas inventory was conducted using the operational control approach and in 
+accordance with ISO 14064-1 procedures. 
+（3）  The greenhouse gases included in the inventory are: carbon dioxide (CO₂), methane (CH₄), nitrous 
+oxide (N₂O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF₆), and nitrogen 
+trifluoride (NF₃), totaling seven greenhouse gases. 
+（4）  Scope 1 (Category 1) includes: stationary combustion sources, mobile combustion sources, process 
+emission sources, and fugitive emission sources. 
+（5）  Scope 2 (Category 2) includes: electricity. 
+（6）  Global Warming Potential (GWP) values are referenced from the IPCC Sixth Assessment Report (2021). 
+Carbon emission factor for purchased electricity: The Ministry of Economic Affairs, Bureau of Energy's 
+2024 electricity factor of 0.474 kg CO2e/kWh is referenced. 
+3.4.2.  Measures for Emission Reduction 
+Toplus Global reduces energy consumption through regular greenhouse gas inventories, 
+equipment upgrades, and operational process optimization. In the future, increasing the 
+
+ 
+71 
+proportion of renewable energy use will significantly reduce our Scope 2 emissions from 
+purchased electricity and align with the global trend toward net-zero carbon emissions. 
+Specific Energy-Saving Measures: 
+• 
+Toplus Global implements energy conservation and carbon reduction initiatives led by 
+relevant company personnel, including: 
+o Installing energy-efficient variable-frequency air conditioners with eco-labels to 
+reduce electricity consumption. 
+o Replacing machinery and equipment with higher-efficiency models to enhance 
+operational efficiency and further reduce energy consumption. 
+o Diversifying menus and refining cooking techniques to lower energy 
+consumption during food preparation, thereby achieving carbon reduction 
+targets. 
+Product Carbon Footprint Management: 
+• 
+ Toplus Global has pioneered integrating sustainability into product development, 
+launching "Zero-Carbon Mooncakes" and "Zero-Carbon Year-End Banquets and 
+Spring Banquets," reducing carbon emissions by 3 metric tons and 153 metric tons 
+respectively. This demonstrates our commitment to driving carbon reduction not only 
+at the operational level but also through its products and services. 
+3.5. Water Resource Management E2 
+Water is vital to the food service industry—it is the foundation of cooking, essential for 
+cleanliness and hygiene, and the lifeblood of operations. Effective water management 
+significantly reduces operational costs, minimizes wastewater discharge, and enhances a 
+company's environmental reputation. Through installing water-saving equipment, 
+implementing wastewater recycling, and training staff in water conservation practices, the 
+food service industry can achieve sustainable water use, mitigate operational risks, and 
+address the increasingly severe water challenges posed by climate change. For Toplus Global, 
+this goes beyond cost considerations; it is a demonstration of corporate social responsibility. 
+All water used by our company is tap water. In the Taipei area, water is sourced from the 
+Taipei Water Supply Company, while outside Taipei, it is sourced from the Taiwan Water 
+Corporation. No water is sourced from areas with high or extremely high baseline water 
+pressure. The 2024 water consumption statistics are as follows:  
+ 2024 Water Resource Usage 
+ Statistical Item 
+ Quantity 
+ Unit 
+Total Water Withdrawal 
+136.471 
+million liters 
+
+ 
+72 
+Total Water Discharge 
+136.471 
+million liters 
+Total water consumption 
+0 
+million liters 
+Internal water circulation volume 
+0 
+million liters 
+Water recycling rate 
+0 
+% 
+Revenue 
+900.026 
+NT$ million 
+Water Intensity  
+(Total Water Withdrawal / Revenue) 
+ 0.152 
+(million liters/NT$ million) 
+（1）  Source: Water withdrawal volume is calculated by aggregating monthly water meter 
+readings from all operational sites 
+（2）  As water consumption in the food and beverage industry is difficult to quantify, the 
+scenario assumes water withdrawal = wastewater discharge. 
+（3）  Water recycling rate (%) = In-plant recycled water volume / (Water withdrawal volume + In-
+plant recycled water volume) * 100%. 
+（4）  One million liters equals one thousand cubic meters. 
+3.6.  Waste Management E3 
+3.6.1.  Waste Management and Resource Recycling 
+We implement waste reduction and sorting measures; resource recovery operations are 
+entrusted to licensed waste disposal contractors for processing. Consequently, all corporate 
+waste management and resource recovery activities comply with relevant statutory 
+regulations. Toplus Global's waste primarily consists of general garbage and waste oil. 
+Discarded food waste is classified as recyclable resources. All venue kitchens are equipped 
+with oil-water separators and other facilities. Qualified contractors are engaged for the 
+recycling of waste oil and food waste, progressively achieving waste reduction objectives. 
+ The 2024 waste generation statistics are as follows: 
+Category 
+Waste Weight (tons) 
+Percentage 
+General Waste 
+54.9 
+37% 
+Food Waste 
+61.097 
+41% 
+Used cooking oil 
+6.606 
+4% 
+Waste oil mixture 
+27.67 
+18% 
+Total 
+150.273 
+100% 
+ Toplus Global has no record of administrative penalties for violating environmental 
+regulations due to waste issues in recent years. 
+
+ 
+73 
+3.6.2.  Waste-to-Energy 
+In 2024, Amazing Hall joined the Waste-to-Energy Program. By connecting waste sources 
+with upstream and downstream technical supply chains, contracted vendors collect food 
+waste weekly from restaurant outlets. This waste is transported to a biomass energy center 
+where it undergoes seven processing steps: feeding, sorting, crushing, dewatering, pre-
+mixing, maturation reaction, and discharge. Within three hours, discarded food waste and 
+waste oil are converted into bio-fertilizer (compost soil) and wastewater suitable for 
+agricultural use. 
+ 
+The 2024 reported volume of discarded food waste was 61.097 tons, yielding approximately 
+18.33 tons of convertible fertilizer. With a conversion rate of about 30%, the output is 
+distributed to the bioenergy center and production-marketing groups, establishing a 
+sustainable circular carbon reduction model.  
+ 
+ 
+ 
+
+ 
+74 
+Chapter 4 Social Inclusion 
+Corresponding 
+Standards 
+ GRI 2-7 Employees 
+ GRI 2-8 Workers who are not employees 
+ GRI 2-21 Annual total compensation ratio 
+ GRI 2-30 Collective bargaining agreements 
+ GRI 202 Market Position 2016 
+ GRI 405 Employee Diversity and Equal Opportunity 2016 
+ SASB FB-RN-310a.2 Labor Practices 
+4.1.  Labor Practices S4 
+Toplus Global continues to expand its group scale through steady operations. As of the end 
+of 2024, the group employed 534 staff members, including both full-time and part-time 
+personnel. Approximately 59% of employees are male and 41% are female, reflecting a stable 
+structure. We prioritize workforce diversity and local talent strategies, flexibly allocating 
+personnel across properties based on operational needs. Future efforts will focus on further 
+optimizing staffing arrangements. Beyond formally employed staff, the Group utilizes 
+outsourced personnel for operational support, primarily in roles such as cleaning staff and 
+professional consultants. The number of non-employee workers utilized in 2024 showed 
+minimal fluctuation compared to the previous year. All contracted vendors must comply with 
+basic labor standards and company operational protocols, ensuring non-staff workers enjoy 
+reasonable working conditions and fundamental protections during their engagement. 
+4.1.1.  Workforce Structure 
+Employees form the foundation of the food service industry and the operational backbone of 
+the company. Compared to 2023, the overall workforce size showed significant growth in 
+2024, primarily driven by the Taipei-New Taipei City region, which accounts for over 60% of 
+all employees. This expansion reflects the Group's growing operational footprint, fueled by 
+workforce additions driven by new brands "Cross Strait Club" and "Amazing Duck" The 
+overall turnover rate remains stable, reflecting sound workforce management during the 
+expansion phase. Overall, Toplus Global is in a steady phase of workforce expansion, 
+demonstrating the results of brand diversification and market positioning. 
+ Toplus Global Group maintains a workforce exceeding 500 employees. The total number 
+and proportion of employees categorized by gender, age, and nationality/region are detailed 
+below: 
+ 
+
+ 
+75 
+Gender/Nationalit
+y 
+Female (Local Nationality) 
+Female (Non-Local) 
+Male (Local 
+Nationality) 
+Male (Non-
+Local) 
+Subtotal 
+Type 
+Position 
+Unde
+r 30 
+31-50 
+years old 
+50-year-old 
+and above 
+Unde
+r 30 
+31–50-
+year-old 
+50 and 
+above 
+Unde
+r 30 
+31-
+50 
+50 and 
+older 
+Unde
+r 30 
+31-
+50 
+50 and 
+older 
+Full-time 
+ 
+Employe
+es 
+Manage
+ment 
+7 
+30 
+16 
+- 
+- 
+- 
+7 
+53 
+22 
+ 
+2 
+- 
+ 
+13
+7 
+General 
+Staff 
+15 
+31 
+8 
+- 
+- 
+- 
+7 
+21 
+5 
+ 
+ 
+- 
+ 87 
+Service 
+Staff 
+27 
+28 
+27 
+- 
+- 
+- 
+22 
+22 
+3 
+ 
+ 
+- 
+ 
+12
+9 
+Kitchen 
+Staff 
+3 
+4 
+2 
+- 
+- 
+- 
+26 
+96 
+21 
+ 
+2 
+- 
+ 
+15
+4 
+Casual 
+workers 
+Part-
+time 
+staff 
+9 
+7 
+4 
+- 
+- 
+- 
+5 
+1 
+ 
+1 
+ 
+- 
+ 27 
+ Subtotal 
+ 61 
+100 
+57 
+0 
+0 
+0 
+67 
+19
+3 
+51 
+1 
+4 
+0 
+53
+4 
+Total 
+218 
+0 
+311 
+5 
+53
+4 
+Total 
+218 
+316 
+53
+4 
+Ratio 
+41% 
+59% 
+10
+0% 
+Note: 
+ 1. Management positions: Grade 8 and above. 
+ 2. General Staff: Grade 7 and below. 
+ 3. Front-of-house service staff: Grade 7 or below. 
+ 4. Kitchen staff: Grade 7 or below. 
+ 5. Part-time Staff: Part-time employees. 
+【Worker Categories】 
+Year 
+2022 
+2023 
+2024 
+Full-time Employees 
+358 
+358 
+507 
+Contract Staff 
+- 
+- 
+- 
+
+ 
+76 
+Part-time Staff 
+30 
+29 
+27 
+Non-employee work 
+- 
+- 
+- 
+Total 
+388 
+387 
+534 
+ 
+【Educational Background Distribution】Employee Education and Experience 
+ Total 
+Number of 
+Employees 
+ Education Statistics 
+534 
+Master's 
+Degree 
+Technical 
+College/University 
+High School 
+Junior High 
+School 
+Elementary 
+School 
+ 
+Number Ratio Number 
+Ratio 
+Number 
+Ratio 
+Number Ratio Number Ratio 
+Total 
+Management 
+4 
+0.75% 
+78 
+14.61% 
+46 
+8.61% 
+9 
+1.69% 
+0 
+0.00% 
+137 
+General Staff 
+1 
+0.19% 
+65 
+12.17% 
+21 
+3.93% 
+0 
+0.00% 
+0 
+0.00% 
+87 
+Service Staff 
+0 
+0.00% 
+61 
+11.42% 
+50 
+9.36% 
+11 
+2.06% 
+7 
+1.31% 
+129 
+Kitchen Staff 
+0 
+0.00% 
+41 
+7.68% 
+87 
+16.29% 
+25 
+4.68% 
+1 
+0.19% 
+154 
+Part-time 
+staff 
+0 
+0.00% 
+14 
+2.62% 
+12 
+2.25% 
+1 
+0.19% 
+0 
+0.00% 
+27 
+Total 
+5 
+0.94% 
+259 
+48.50% 
+216 
+40.45% 
+46 
+8.61% 
+8 
+1.50% 
+534 
+ 
+【Grade Statistics】 
+ 
+Under 30 
+31-50 
+51 and above 
+Total 
+ Category 
+Male Female Male Female Male 
+Female 
+ Administrative Management Position 
+7 
+7 
+55 
+30 
+22 
+16 
+137 
+ General Staff 
+7 
+15 
+21 
+31 
+5 
+8 
+87 
+ Outdoor Service Staff 
+22 
+27 
+22 
+28 
+3 
+27 
+129 
+ Kitchen Staff 
+26 
+3 
+98 
+4 
+21 
+2 
+154 
+ Part-time Staff 
+6 
+9 
+1 
+7 
+0 
+4 
+27 
+ Total Number of Employees 
+68 
+61 
+197 
+100 
+51 
+57 
+534 
+ 
+ 【Regional Distribution of Workforce】 
+  
+Full-time Employees 
+Part-time Employees 
+Headquarte
+rs 
+Greater 
+Taipei 
+Area 
+Taoyuan
+-Hsinchu 
+Region 
+Kaohsiung 
+Region 
+Headquarte
+rs 
+Greater 
+Taipei 
+Area 
+Taoyuan
+-Hsinchu 
+Region 
+Kaohsiung 
+Region 
+Male 
+43 
+211 
+28 
+27 
+1 
+6 
+- 
+- 
+Female 
+42 
+124 
+17 
+15 
+3 
+17 
+- 
+- 
+
+ 
+77 
+Subtotal 
+85 
+335 
+45 
+42 
+4 
+23 
+- 
+- 
+Total 
+507 
+27 
+Total 
+534 
+ 
+【Human Resource Distribution by Business Unit】 
+Gender 
+Toplus 
+Global 
+Amazing 
+Hall 
+Dingxian 
+Top 
+Brandchain 
+Royal 
+Living 
+Travel 
+Vision 
+Living 
+Cross 
+Strait 
+Club 
+Jing 
+Chiang 
+ Total 
+Male 
+20 
+267 
+31 
+14 
+3 
+3 
+76 
+2 
+316 
+Female 
+16 
+127 
+19 
+7 
+8 
+1 
+40 
+- 
+218 
+Subtotal 
+36 
+294 
+50 
+21 
+11 
+4 
+116 
+2 
+534 
+ 
+ 
+4.1.2.  Employee Communication 
+Toplus Global complies with relevant provisions of the Labor Standards Act to safeguard 
+employees' legal rights and interests. Regular labor-management meetings are held to serve 
+as a bridge for communication between labor and management. All policy announcements 
+and issues related to employee rights are conducted through two-way communication. For 
+resolutions involving major operational changes, the minimum timeframe for internal 
+employee communication and notification is approximately within 1 day.  
+4.1.3.  Employee Benefits and Retirement System 
+【Employee Benefits】 
+1. Annual Employee Health Checkups: Mobile health screening units are dispatched to all 
+branches for annual health examinations. 
+2. Group Insurance: Provides group insurance and $1 million accident coverage for 
+employees, supplemented by employer liability insurance. 
+3. Marriage Bonus: Marriage bonuses are provided for employees and their children. 
+4. Birthday Gift: Birthday gifts are provided to employees. 
+5. Funeral Expenses: Funeral assistance is provided for the employee, spouse, or immediate 
+family members. 
+6. Work Injury Hospitalization Condolence Fund: Provides a condolence fund for employees 
+hospitalized due to work-related injuries. 
+7. Annual Employee Trip or Equivalent Gift Certificates. 
+8. Childbirth gift. 
+ 
+
+ 
+78 
+【Employee Insurance】 
+ Insurance Coverage 
+ Employer's Liability Insurance 
+(ED) 
+ Group Disability Insurance (GD) for  
+Non-Work-Related Incidents 
+ Insured 
+Amount NTD 
+Death and Disability Benefits 
+Death and Disability Benefit 
+$1,000,000 
+Medical Expense Benefits 
+Death and Disability Benefit 
+$20,000 
+Hospitalization Expense 
+Reimbursement 
+Injury Medical Insurance Benefit - 
+Reimbursement Type 
+$2,000 
+ 
+4.1.4.  Parental Leave 
+【Statistics on Parental Leave Status】 
+ 2024 Parental Leave Statistics 
+ Parental Leave Application 
+Categories 
+Male 
+Female 
+Total 
+ Return-to-Work 
+Rate After Parental 
+Leave (%) 
+ Remarks 
+Number of Employees Eligible for 
+Parental Leave in 2024 (A1) (Within 
+3 Years of Maternity Leave 
+Commencement) 
+2 
+4 
+6 
+100 % 
+ Parental Leave 
+Application Rate (%) 
+Actual Number of Employees 
+Taking Parental Leave in 2024 (A2) 
+2 
+4 
+6 
+Projected Number of Employees 
+Returning from Parental Leave in 
+2024 (B1) 
+1 
+1 
+2 
+100 % 
+ Return-to-work rate 
+after parental leave (%) 
+Actual Number of Employees 
+Returning from Parental Leave in 
+2024 (B2) 
+1 
+1 
+2 
+Number of Employees Who 
+Continued Working for One Year 
+After Returning from Parental 
+Leave in 2024 (C1) 
+1 
+1 
+2 
+100 % 
+ Childcare Leave 
+Absenteeism Rate (%) 
+Number of Employees Returning 
+from Parental Leave in 2024 (C2) 
+1 
+1 
+2 
+ 
+
+ 
+79 
+4.1.5.  Employee Compensation and Benefits 
+Toplus Global's compensation system is designed based on market salary surveys and 
+internal job grading standards, providing reasonable remuneration according to 
+competency, responsibility, and performance. The compensation structure includes fixed 
+salary, variable pay, year-end bonus, performance bonus, and various benefits, balancing 
+external competitiveness and internal equity. 
+Category/Year (NT$ 
+thousand/person) 
+2022 
+2023 
+Category/Year (NT$ 
+thousand/person) 
+2024 
+Difference 
+from Previous 
+Year 
+Average Annual 
+Salary for Non-
+Managerial 
+Positions 
+576 
+617 
+Average Annual 
+Salary for Non-
+Managerial Positions 
+793 
+176 
+Median Annual 
+Salary for Non-
+Managerial 
+Positions 
+515 
+570 
+Median annual salary 
+for non-managerial 
+positions 
+717 
+147 
+ Number of non-
+supervisory 
+employees 
+243 
+228 
+Number of non-
+supervisory staff 
+16 
+-212 
+Note 1: Statistics for 2022 and 2023 are based on the parent company and major subsidiaries. 
+Note 2: 2024 statistics are based on the parent company. 
+ 
+【Salary to Minimum Wage Ratio】 
+Entry-level 
+Employees 
+Salary 
+Analysis 
+2024 
+Local Statutory 
+Minimum 
+Wage 
+Salary Multiplier Ratios (%) 
+Management 
+Non-
+Management 
+Ratio of Employee 
+Minimum Wage 
+to Statutory 
+Minimum Wage 
+Ratio of 
+Maximum to 
+Minimum Wage 
+Male Female  Male Female 
+Male 
+Female 
+Male 
+Female 
+Headquarters 
+264% 
+253% 169% 
+156% 
+155% 
+143% 
+303% 
+421% 
+27,470  
+Greater Taipei 
+Area 
+304% 
+295% 202% 
+161% 
+131% 
+113% 
+407% 
+425% 
+
+ 
+80 
+Taoyuan-
+Hsinchu 
+Region 
+329% 
+289% 225% 
+187% 
+163% 
+133% 
+423% 
+425% 
+Kaohsiung 
+Region 
+262% 
+212% 176% 
+144% 
+118% 
+130% 
+328% 
+365% 
+ Note: *Statistics cover 198 full-time employees with at least one year of service. 
+ 
+【Performance Appraisal】 
+Toplus Global conducts annual evaluations twice yearly in May and November. The 2024 
+evaluation covered 227 personnel, including direct, indirect, and senior managers. Eligible 
+employees must have completed one full year of service. Employees not evaluated primarily 
+include those with less than one year of service or new hires who have completed their three-
+month probationary period evaluation. 
+Annual 
+Regular Performance Evaluation Statistics 
+2022 
+Assessment 
+Participants: 
+251 people 
+Number of Employees 
+Evaluated in 2023: 
+222 
+people 
+2024 
+Assessment 
+Participants: 
+227 
+people 
+Male 
+Female 
+Male 
+Female 
+Male 
+Female 
+Number 
+Ratio 
+Number 
+Ratio 
+Number 
+Ratio 
+Number 
+Ratio 
+Number 
+Ratio 
+Number 
+Ratio 
+Direct 
+Personnel 
+56 
+22.3% 
+3 
+1.2% 
+55 
+24.8% 
+7 
+3.2% 
+49 
+21.6% 
+6 
+3% 
+Indirect 
+Personnel 
+48 
+19.1% 79 
+31.5% 
+35 
+15.8% 
+75 
+33.8% 
+38 
+16.7% 
+74 
+32.6% 
+Senior 
+Executives 
+39 
+15.5% 26 
+10.4% 
+32 
+14.4% 
+18 
+8.1% 
+37 
+16.3% 
+23 
+10.1% 
+Note: 
+ Direct Personnel: Back-of-house staff. 
+ Indirect Personnel: Front-of-house staff and general back-office personnel. 
+ Senior Management: Assistant Manager level and above. 
+ 
+4.1.6.  Collective Bargaining Agreement 
+Toplus Global currently does not have an enterprise labor union and therefore has not 
+established a collective bargaining agreement. However, to prioritize employee rights and 
+welfare, we regularly hold labor-management meetings in accordance with the Labor 
+
+ 
+81 
+Standards Act and the Implementation Measures for Labor-Management Meetings. 
+Representatives are elected from each facility to participate in labor-management 
+negotiations. Through institutionalized communication, Toplus Global continuously 
+improves working conditions and welfare measures. Consequently, labor-management 
+relations are harmonious, and no labor disputes have occurred. 
+ 
+4.2.  Occupational Safety and Health 
+4.2.1.  Occupational Safety and Health Management 
+Toplus Global has established the "Worker Safety and Health Operating Regulations" in 
+accordance with the Occupational Safety and Health Act to manage and ensure workplace 
+environmental safety. These regulations outline the responsibilities and authorities of each 
+unit's worker safety and health personnel, department supervisors, and on-site operational 
+staff regarding worker safety and health management matters. Specific areas include: 
+equipment maintenance and inspection standards, occupational safety training, first aid and 
+rescue procedures, preparation, maintenance, and use of protective equipment, as well as 
+accident notification and reporting protocols. Relevant procedures are as follows: 
+ Step 1: Implement emergency response measures according to the Occupational Safety and 
+Health Procedures. 
+ Step 2: Immediately notify supervisors, on-site personnel in charge, occupational safety 
+personnel, and all relevant personnel. 
+ Step 3: For major occupational accidents, report to the labor inspection authority within 8 
+hours. 
+ Step 4: Conduct post-incident investigation and analysis, formulate countermeasures and 
+improvement plans. 
+ 
+All business units of Toplus Global are staffed with certified fire safety managers, 
+occupational safety, and health supervisors, and first aid personnel. Equipment maintenance 
+and inspections are conducted monthly in accordance with the "Occupational Safety and 
+Health Regulations." Training programs cover emergency response procedures, firefighting, 
+first aid knowledge, and the use of protective equipment to ensure every employee and 
+customer enjoys a safe environment. Concurrently, Toplus Global regularly organizes 
+occupational safety and health seminars or courses to reinforce essential workplace safety 
+awareness among employees. In 2024, Toplus Global conducted 17 workplace safety and 
+health-related seminars/courses. 
+ 
+
+ 
+82 
+To ensure the personal safety and workplace environment of our employees, Toplus Global 
+has established various operational procedures and regulations, requiring all staff to strictly 
+adhere to them. 
+ (1) Employees are enrolled in labor insurance, health insurance, and group insurance. 
+ (2) Schedules annual health checkups for employees. 
+ (3) Engages an external cleaning company daily during working hours to maintain 
+workplace cleanliness and hygiene. 
+ (4) Daily implementation of 5S management. 
+ (5) Annual fire safety equipment inspections and drills are conducted. 
+ 
+4.2.2.  Attendance and Occupational Injury Management 
+ (1) Absenteeism Rate 
+ 2024 Employee Attendance Statistics and Explanation 
+ 
+Attendance Statistics 
+Year 
+Work-Related 
+Injuries 
+(Occupational 
+Accidents) 
+Number of 
+Cases 
+Hours 
+Lost 
+Sick Leave Hours 
+Total Employee Hours 
+Worked 
+Absenteeism 
+Rate (%) 
+Male 
+Female 
+Male 
+Female 
+Male 
+Female 
+2022 
+12 
+1,124 
+1,936 
+312 
+310,000 
+222,000 
+0.36% 
+0.06% 
+2023 
+22 
+928 
+1,272 
+584 
+316,728 
+241,032 
+0.23% 
+0.10% 
+2024 
+8 
+428 
+857 
+0 
+629,472 
+434,256 
+0.08% 
+0.00% 
+Note: Absenteeism rate is calculated based solely on regular employees. 
+     Absenteeism Rate: (Sick Leave Hours / Total Employee Working Hours) * 100% 
+ 
+ (2) Employee Turnover Rate 
+ 
+Ratio of 
+New Hires 
+to 
+Departing 
+Employees 
+Gender 
+2022 
+2023 
+2024 
+New Hires 
+Departing 
+Employees 
+New Hires 
+Departing 
+Employees 
+New Hires 
+Departing 
+Employees 
+Number Ratio Number Ratio Number Ratio Number Ratio Number Ratio Number Ratio 
+Under 30 
+Male 
+17 
+11% 
+7 
+6% 
+19 
+15% 
+18 
+16% 
+28 
+15% 
+22 
+15% 
+Female 
+22 
+14% 
+17 
+15% 
+17 
+13% 
+15 
+13% 
+23 
+12% 
+18 
+12% 
+31-50 
+years old 
+Male 
+61 
+39% 
+52 
+45% 
+44 
+34% 
+41 
+37% 
+75 
+40% 
+55 
+38% 
+Female 
+35 
+23% 
+23 
+20% 
+25 
+19% 
+20 
+18% 
+29 
+16% 
+21 
+14% 
+
+ 
+83 
+51 years 
+old and 
+above 
+Male 
+10 
+6% 
+10 
+9% 
+16 
+12% 
+12 
+11% 
+18 
+10% 
+17 
+12% 
+Female 
+10 
+6% 
+7 
+6% 
+8 
+6% 
+6 
+5% 
+14 
+7% 
+12 
+8% 
+Individual Total 
+Calculation 
+155 
+100% 
+116 
+100% 
+129 
+100% 
+112 
+100% 
+187 
+100% 
+145 
+100% 
+Total number of 
+employees in the 
+group 
+388  
+387 
+534 
+ 
+New Hire Rate 
+Resignation 
+rate 
+New Hire 
+Rate 
+Resignation 
+Rate 
+New Hire 
+Rate 
+Turnover 
+Rate 
+ 
+40% 
+30% 
+33% 
+29% 
+35% 
+27% 
+ 
+ 2024 
+ Ratio of New Hires to Departing Employees 
+New Hires 
+Departing Employees 
+Number 
+Ratio 
+Number 
+Ratio 
+Region 
+Headquarters 
+45 
+24% 
+24 
+17% 
+Greater Taipei Area 
+123 
+66% 
+107 
+74% 
+Taoyuan-Hsinchu Region 
+14 
+7% 
+7 
+5% 
+Kaohsiung Region 
+5 
+3% 
+7 
+5% 
+Total 
+187 
+100% 
+145 
+100% 
+ 
+ 
+ (3) Occupational Injury and Disability Statistics  
+ In 2024, Toplus Global recorded 7 male employees and 1 female employee injured in 
+occupational accidents. Compared to 2023, this represents a significant decrease. Toplus 
+Global will continue strengthening workplace safety and health education to reduce 
+employee injury risks. Additionally, no fire incidents resulting in personnel injuries occurred 
+at any operational sites in 2024. Considering this, Toplus Global will pursue workplace safety 
+improvements with the goal of achieving zero occupational injury incidents. Furthermore, as 
+shown in the table below, Toplus Global regularly conducts occupational safety and health 
+seminars and awareness campaigns. These programs help employees understand relevant 
+work regulations and protect their safety in the workplace. 
+ 
+ The following table details work injury categories by region and gender, injury rates (IR), 
+occupational disease rates (ODR), lost-time injury rates (LDR), and work-related fatality 
+statistics: 
+Year 
+2024 
+Type 
+Male 
+Female 
+
+ 
+84 
+Total Number of Employees 
+316 
+218 
+Injured during commute 
+2 
+0 
+Injured during work hours 
+5 
+1 
+Number of Injured 
+7 
+1 
+Annual working hours 
+629,472  
+434,256  
+Absence Hours (Work Injury Leave) 
+856.5 
+0 
+Absenteeism Rate (AR) 
+0.08% 
+0.00% 
+Occupational Disease Rate (ODR) 
+0 
+0 
+Lost Time Injury Frequency Rate (LTR) 
+506.8427 
+0 
+ Note: Absenteeism rate is calculated as days absent divided by days scheduled to work. Days scheduled to 
+work are the sum of the total annual working days across all operational locations. 
+Occupational Disease Rate (ODR) = (Total Occupational Diseases ÷ Total Work Hours) × 200,000. 
+ Lost-Time Day Rate (LDR) = (Work-related injury lost days ÷ Total work hours) × 200,000. 
+ Absenteeism Rate (AR) = (Absentee Days ÷ Total Work Hours) x 100%. 
+ 
+4.3  Employee Training and Development S1 
+Corresponding 
+Standard 
+ GRI 201 Economic Performance 2016 
+ GRI 401 Labor Practices 2016 
+ GRI 410 Security Practices 2016 
+ 
+4.3.1 Average Training Hours 
+ Statistics on training participants and hours by employee category and gender. In 2024, the 
+number of training participants increased by 81.11% compared to the previous year, with 
+both total training hours and average hours per participant showing significant growth.  
+ Training Statistics 
+Statistical Categories 
+ 
+Course 
+ Number of 
+Trainees 
+ Training Hours 
+ Average Training 
+Hours 
+2022 2023 2024 2022 2023  2024 2022 2023 2024 
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+Male 
+Female
+Male
+Female
+Male
+Female
+Male
+Female
+New Employee 
+Training 
+Employee Handbook and Work 
+Rules 
+155 53 35 65 51 155 53 35 65 51 
+1 
+1 1 1 1 
+Sexual Harassment Prevention 
+Act Awareness Campaign 
+155 53 35 65 51 155 53 35 65 51 
+1 
+1 1 1 1 
+
+ 
+85 
+Occupational Safety and Health 
+Awareness 
+155 53 35 65 51 155 53 35 65 51 
+1 
+1 1 1 1 
+Occupational 
+Safety and Health 
+Fire Safety Officer Training 
+1 0 0 0 3 1 8 0 0 0 30 12 8 0 0 0 10 12 
+Occupational Safety and Health 
+Supervisor Training 
+1 0 1 0 3 2 35 0 21 0 54 70 35 0 21 0 18 35 
+First Aid Personnel Safety and 
+Health Training 
+0 0 1 0 0 1 0 0 16 0 0 16 0 0 16 0 0 16 
+Food Service Personnel 
+Sanitation Training 
+- 
+- 
+- 
+- 79 0 - 
+- 
+- 
+- 632 0 
+- 
+- 
+- 
+- 8 0 
+Professional 
+Training Related 
+Board Member Continuing 
+Education 
+- 
+- 
+- 
+- 18 3 - 
+- 
+- 
+- 54 9 - 
+- 
+- 
+- 3 3 
+Professional Development 
+0 1 0 4 4 6 0 18  0 
+ 
+36 
+33 
+ 
+37 
+ 0 
+ 
+18 
+ 0  9  8  6 
+ESG Continuing Education 
+- 
+- 
+- 
+- 14 7 - 
+-  -  - 
+ 
+11
+3 
+ 
+39 
+ -  -  -  -  8  6 
+Total 
+468  270 
+489 
+526 
+337 1447 
+64 
+52 
+139 
+ 
+4.4  Customer Health and Safety S3 
+Corresponding 
+Standard 
+GRI 416, Customer Health and Safety 
+GRI 417, Marketing and Labeling 
+SASB FB-RN-250a.1, FB-RN-250a.2, FB-RN-250a.3, FB-RN-250a.2, FB-RN-
+260a.1&2, FB-RN-260a.3 
+4.4.1 Food Safety 
+We place great importance on food safety and the customer dining experience, and are 
+committed to providing safe and delicious meals. Over the past year, we experienced one 
+incident related to food flavor perception. During a wedding banquet, guests at the main 
+table mistakenly believed a zucchini dish had spoiled due to its sweet-and-sour sauce. On-
+site staff immediately notified the chef. After tasting the dish, the chef confirmed the zucchini 
+itself was fine, and the sourness originated from the specially prepared sauce. The on-site 
+manager promptly provided a detailed explanation to the guests, who accepted the 
+clarification upon understanding. To prevent similar food safety concerns in the future, we 
+have incorporated this incident into our internal review process. Moving forward, for all 
+dishes featuring a mildly sour flavor, we will proactively explain to customers upon serving 
+
+ 
+86 
+that this is a characteristic of the dish, not spoilage, thereby enhancing customer trust and 
+satisfaction. 
+ 
+Beyond this isolated flavor perception incident, we have received no other food safety-
+related customer complaints over the past year. All customer feedback is treated with the 
+utmost importance and is handled by dedicated personnel to ensure every concern receives 
+prompt and appropriate resolution. 
+We will continue to strictly adhere to food hygiene regulations, conduct regular internal 
+audits, and cooperate with inspections by government authorities. This ensures all meal 
+preparation processes, ingredient sourcing, and storage methods meet the highest 
+standards, striving to provide customers with a safe dining environment. Upholding the spirit 
+of sustainable operation, we continuously improve in food safety and customer service, 
+aiming to create a superior and more reassuring dining experience for all customers. 
+ Investment in food safety and quality maintenance has always been a top priority for the 
+Toplus Global Group. We take the major food safety incidents in the food and beverage 
+industry, extensively reported in the news in 2024, as a cautionary lesson. Drawing insights 
+from current events, we have discussed and established Toplus Global's crisis management 
+and preventive measures.  
+ Response, Prevention, or Media Handling for Major 2024 Food Safety Incidents: 
+ Food Safety 
+Incident 
+ Toplus Global's Crisis Management 
+ Preventive Measures 
+Chili powder 
+contaminated with 
+Sudan dyes spread 
+across Taiwan 
+✓ 
+ Immediately cross-reference 
+supplier lists and relevant 
+procurement records. 
+✓ 
+ Immediately request suppliers to 
+provide documentation for the 
+most recent shipments, 
+inspections, and related 
+certifications. 
+✓ 
+ Notify "potential user units" of 
+this food safety incident and 
+establish alternative products to 
+ensure consumer safety. 
+✓ 
+ Multi-Supplier 
+Redundancy Strategy 
+✓ 
+ Ban high-risk brand 
+products. 
+✓ 
+ Require suppliers to 
+provide relevant 
+documentation such as 
+purchase receipts and 
+inspection certificates. 
+OO Tea House 
+Poisoning Incident 
+✓ 
+ Immediately cross-referenced 
+our supplier list with relevant 
+procurement records. 
+✓ 
+ Multi-supplier backup 
+strategy 
+
+ 
+87 
+✓ 
+ Immediately request suppliers to 
+provide proof of most recent 
+procurement, inspection, and 
+related documentation. 
+✓ 
+ Notify "potential user units" of 
+the food safety incident and 
+establish alternative products to 
+ensure consumer safety. 
+✓ 
+ Ban high-risk brand 
+products. 
+ Require suppliers to 
+provide relevant 
+documentation such as 
+purchase receipts and 
+inspection reports. 
+Taiwan Food and 
+Drug 
+Administration 
+(TFDA) published 
+December import 
+food inspection 
+data totaling 
+101 non-compliant 
+cases 
+✓ 
+ Immediately cross-reference 
+your supplier list and relevant 
+procurement records. 
+✓ 
+ Immediately request suppliers to 
+provide relevant documentation 
+for the most recent import and 
+inspection. 
+✓ 
+ Notify "potential users" of the 
+food safety incident and establish 
+alternative products to ensure 
+consumer safety. 
+✓ 
+ Implement a multi-
+supplier backup 
+strategy. 
+✓ 
+ Conduct on-site 
+inspections or product 
+sampling of major 
+suppliers' goods at least 
+1-2 times weekly. 
+Taipei City 
+Department of 
+Health announces 
+44 cases of non-
+compliant 
+pesticide residues 
+in fruits and 
+vegetables 
+✓ 
+ Immediately cross-reference the 
+company's supplier list and 
+relevant procurement records. 
+✓ 
+ Immediately request suppliers to 
+provide the most recent import 
+and inspection certificates. 
+✓ 
+ Notify "potential user units" of 
+the food safety incident and 
+establish alternative products to 
+ensure 
+✓ 
+ consumer safety. 
+✓ 
+ Implement a multi-
+supplier backup 
+strategy. 
+✓ 
+ Conduct on-site 
+inspections or product 
+sampling of major 
+suppliers' products at 
+least 1-2 times per week. 
+ 
+4.4.2 Food labeling 
+Nutritional Content and Labeling 
+For years, Toplus Global has provided consumers with the highest quality catering services. In 
+addition to wedding banquet services at Amazing Hall and Tainan Ding Xian Danzai Noodles, 
+we also operate Hokkaido KEKI Cake House and YanPang Handmade Bread Shop, selling 
+
+ 
+88 
+bread, desserts, and related products. This further establishes Toplus Global as a multifaceted 
+catering provider, enhancing its comprehensive food and beverage services. Simultaneously, 
+Toplus Global will label nutritional content and ingredient proportions on product 
+packaging, ensuring items reaching customers meet health and national standards. This 
+approach allows patrons to balance wellness with culinary satisfaction. 
+ 
+4.5  Customer Relationship Building and Maintenance S2 
+Toplus Global is committed to building long-term, stable, and mutually trusting customer 
+relationships. Through integrity in operations, transparent information sharing, and 
+customer-centric marketing strategies, we enhance customer satisfaction and loyalty, further 
+expanding business and creating win-win outcomes. We have established diverse customer 
+communication channels and mechanisms, including: 
+✓ 
+Dedicated customer service representatives and survey feedback system. 
+✓ 
+ Provide product information through diverse channels including social media and 
+official websites. 
+✓ 
+ Establish a dedicated customer service hotline to enhance response efficiency and 
+service quality. 
+We adhere to integrity principles throughout marketing execution. All product information 
+undergoes internal review to ensure accuracy. Promotional materials include detailed 
+specifications, risk disclosures, and contact information, respecting consumers' right to 
+informed choice. 
+When expanding into new markets or developing new clients, we places particular emphasis 
+on ESG principles, prioritizing partnerships with collaborators who share similar sustainability 
+values. Through green product promotion initiatives, we guide clients toward solutions with 
+greater environmental and social benefits. 
+4.6  Other Social Issues 
+4.6.1 Local Communities 
+As a deeply rooted local dining brand, Toplus Global has long been committed to fostering 
+positive interactions and long-term connections with the communities where we operate. 
+Since 2022, taking Amazing Roast Duck Restaurant as an example, we launched the "Local 
+Resident Discount" program. Residents living within the administrative district of any of our 
+brand's branches can enjoy a 10% discount upon presenting valid identification. This 
+initiative not only tangibly reduces living expenses for community members but also 
+
+ 
+89 
+strengthens emotional ties between residents and the brand, further stimulating local 
+economic vitality and community identity. 
+ We firmly believe that businesses should not only pursue profits but also act as integral 
+members of community life. Moving forward, we will expand the "Community-Friendly Store" 
+model to other brands and integrate initiatives such as senior care and environmental 
+advocacy to create more sustainable local engagement mechanisms. 
+ 
+4.6.2 Public Policy 
+In 2024, Toplus Global did not provide political contributions to any entity.  
+ 
+4.7  Social Care and Giving Back 
+Toplus Global pursues two primary approaches to social care and giving: first, supporting 
+sports promotion to foster positive social energy; and second, conducting regular food 
+donations to safeguard the basic needs of vulnerable groups.  
+ 
+【Supporting Sports Promotion to Foster Positive Social Energy】 
+To encourage nationwide sports participation and advance athletic development, since 2023 
+our company has consistently sponsored domestic basketball initiatives. This includes title 
+sponsorship of the professional basketball league team "Hsinchu Toplus Lioneers," 
+committing tangible resources to diversify sports ecosystem in Taiwan. 
+In 2024, we sponsored international basketball competitions, becoming a primary sponsor of 
+the " William Jones Cup International Tournament" hosted by the Chinese Taipei Basketball 
+Association. This support ensured the event's smooth execution and enhanced its 
+international visibility. We believe that supporting sports not only improves public health but 
+also strengthens social cohesion and fosters positive youth development. 
+Event Details: 
+(1) The 43rd William Jones Cup International Basketball Invitational 
+ The 43rd William Jones Cup International Basketball Invitational was held at the New 
+Taipei City Xinzhuang Gymnasium in July 2024. The women's division took place from July 
+6 to July 10, while the men's division ran from July 13 to July 21. A total of 15 games were 
+played. 
+(2) Hsinchu Toplus Lioneers 
+ Title sponsorship for the 2024-2025 season. A total of 36 games. 
+(3) "TPBL League" Professional League 
+ 2024-25 Preseason Games, October 5-13. Total of 8 games. 
+
+ 
+90 
+ 
+【Double Your Wedding Happiness with Charity Gifts】 
+In partnership with the " Taiwan Happy Dog Stray Rescue Association " we have procured 
+5,000 exquisite "Cat Paw Scented Candles" as wedding favors. These are not only a 
+thoughtful gift for the couple and guests but also a meaningful gesture. Every purchase 
+directly supports the association, helping stray animals receive better medical care, stable 
+shelter, and a life free from hunger. 
+Through this partnership, wedding joy translates into tangible action, warming the hearts of 
+many furry friends awaiting love. This small cat paw scented candle symbolizes a warm 
+promise, ensuring the happiness radiating from every wedding illuminates more corners in 
+need.  
+【Regular Food Donations: Safeguarding the Well-being of Vulnerable Populations】 
+ 
+Our company prioritizes the efficient distribution of food resources and social care. 
+Partnering with domestic food banks, we regularly donate daily usable but unsold food items 
+from "Hokkaido KEKI Cake House" and "YanPang Handmade Bread Shop" to social welfare 
+organizations, underprivileged families, and marginalized communities. 
+ 
+Recipients 
+Contents/Reason 
+Shing Yi Social Welfare 
+Foundation 
+Monthly donation of a batch of bread to supplement 
+food and daily necessities for economically 
+disadvantaged families 
+ 
+ 
+
+ 
+91 
+ Appendix 
+ GRI Index Table 
+ GRI Standards 
+ Corresponding Sections and Special 
+Notes 
+ Page 
+ 2-1 Organizational Details 
+ Company Basic information 
+11-14 
+ 2-2 Entities Included in the 
+Organizational Sustainability Report 
+ About This Report 
+ (Organizational Structure Changes) 
+9-10 
+ 2-3 Reporting Period, Frequency, and 
+Contact Person 
+ About This Report 
+9-10 
+ 2-4 Restatements of information 
+ 1. Organizational changes: Added "Cross 
+Strait Club" and "Amazing Duck." 
+ 2. Impact of changes: Approximately 40% 
+increase in employee headcount, revised 
+greenhouse gas emissions base year, and 
+Scope 1+2 emissions increased by 5.57%. 
+10 
+ 2-5 External Assurance/Verification 
+ About This Report 
+9 
+ 2-6 Activities, value chain and other 
+business relationships 
+ 2.1.2 Industry Value Chain 
+40 
+ 2-7 Employees 
+ 4.1.1 Workforce Structure 
+74-77 
+2-8 Workers who are not employees 
+ 4.1.1 Workforce Structure 
+4-77 
+ 2-9 Governance structure and 
+composition 
+ 2.1 Corporate Governance and 
+Management Structure 
+39-40 
+ 2-10 Nomination and selection of the 
+highest governance body 
+ 2.1.3. Highest Governance Body  
+40-44 
+ 2-11 Chair of the highest governance 
+body 
+ 2.1.3. Highest Governing Body 
+40-44 
+ 2-12 Role of the highest governance 
+body in overseeing the management of 
+impacts 
+ 2.1.3 Highest Governance Body 
+40-44 
+ 2-13 Responsible Person for Impact 
+Management 
+ 2.1.6 Functional Committees 
+50-52 
+ 2-14 Role of the highest governance 
+body in sustainability reporting 
+ 2.1.3 Highest Governance Body 
+41 
+ 2-15 Conflicts of interest 
+ 2.1 Corporate Governance and 
+Management Structure (*See p.52 of the 2024 
+Annual Report) 
+39-52 
+
+ 
+92 
+ 2-16 Communication of critical 
+concerns 
+ 1.1.4 Stakeholder Communication 
+ 1.2.2. Identification of Key Stakeholder 
+Topics 
+19-22 
+22-24 
+ 2-17 Collective knowledge of the 
+highest governance body 
+ 2.1.4 Collective Wisdom of the Highest 
+Governance Body 
+44-48 
+ 2-18 Evaluation of the performance of 
+the highest governance body 
+ 2.1.5 Performance Evaluation of the 
+Highest Governance Unit (*See p.31 of 2024 
+Annual Report) 
+48-50 
+ 2-19 Remuneration policies 
+ 2.2.1 Remuneration Policy 
+52-53 
+ 2-20 Process to determine 
+remuneration 
+ 2.1.6 Functional Committees (*See p.38 of the 
+2024 Annual Report) 
+51-52 
+ 2-21 Annual total compensation ratio 
+ 2.2.1 Remuneration Policy 
+52-53 
+ 2-22 Statement on sustainable 
+development strategy 
+ Message from the Chairman 
+ 2.4.1 Sustainability Policy 
+7-8 
+60-61 
+ 2-23 Policy commitment 
+ 2.4.1 Sustainable Development Policy 
+60-61 
+ 2-24 Embedding policy commitments 
+ 2.1 Corporate Governance and 
+Management Structure 
+ 2.4.1 Sustainability Policy 
+39-40 
+60-61 
+ 2-25 Processes to remediate negative 
+impacts 
+ 2.2.6 Complaints and Remedies 
+58-59 
+ 2-26 Mechanisms for seeking advice 
+and raising concerns 
+ 2.2.6 Complaints and Remedies 
+58-59 
+ 2-27 Compliance with laws and 
+regulations 
+ 2.2.4 Compliance with Laws and 
+Regulations 
+57 
+ 2-28 Membership associations 
+ 2.5 Participation in Professional 
+Associations 
+63-64 
+ 2-29 Approach to stakeholder 
+engagement 
+ 1.1.4 Stakeholder Communication 
+19-22 
+ 2-30 Collective bargaining agreements 
+ 4.1.6 Collective Bargaining Agreements 
+80-81 
+ GRI 3: Material Topics 
+ 
+ 3-1 Process to determining material 
+topics 
+ 1.1.2 Process Steps 
+18 
+ 3-2 List of material topics 
+ 1.2.2 Stakeholder Materiality Identification 
+25-29 
+ 3-3 Management of material topics 
+ 1.3 Material Topic Performance and 
+Targets 
+29-38 
+ GRI Topic Guidelines/Material Topics 
+ 
+
+ 
+93 
+ GRI 201 Economic Performance 
+ 2.3 Operational Performance 
+ 4.1.5 Employee Compensation and 
+Benefits (*Employee compensation statistics 
+only based on parent company) 
+59-60 
+79 
+ GRI 204 Procurement Practices 
+ 2.2.2 Quality and Safety 
+ 2.2.3 Supplier Management and Food 
+Sourcing 
+53 
+54-56 
+ GRI 302 Energy 
+ 3.3 Energy Management 
+68 
+ GRI 303 Water and Effluents 
+ 3.5 Water Resource Management 
+71 
+ GRI 305 Emissions 
+ 3.4 Greenhouse Gas Management 
+69-71 
+ GRI 306 Waste 
+ 3.6 Waste Management 
+72-73 
+ GRI 402 Labor/Management Relations 
+ 4.1 Labor Practices 
+74-80 
+ GRI 404 Training and Education 
+ 4.3 Employee Training and Development 
+84 
+ GRI 416 Customer Health and Safety 
+ 4.4 Customer Health and Safety 
+ 4.5 Customer Relationship Building and 
+Maintenance 
+85 
+88 
+ GRI 417 Marketing and Labeling 
+ 4.5 Customer Relationship Development 
+and Maintenance 
+88 
+ 
+ 
+ 
+ 
+ 
+
+ 
+94 
+ SASB Index Cross-Reference Table 
+ Criteria 
+Number 
+ Industry Topic 
+ Disclosure Metric 
+ Performance 
+ Outcomes 
+ FB-RN-
+130a.1 
+ Energy 
+Management 
+ (1) Total energy consumption. 
+ 50,518.65 GJ 
+ (2) Percentage of Grid Electricity. 
+ 100% 
+ (3) Percentage of Renewable Energy. 
+ 0% 
+ FB-RN-
+140a.1 
+ Water and 
+wastewater 
+management 
+ (1) Total water withdrawal. 
+ 136.47 million 
+liters 
+ (2) Total water consumption; proportion 
+in areas with high or very high baseline 
+water stress. 
+ 0 million liters; 
+0% 
+ FB-RN-
+150a.1 
+ Waste and 
+Hazardous 
+Substance 
+Management 
+ (1) Total waste generated. 
+150.273 tons 
+ (2) Food waste ratio. 
+ 63% 
+ (3) Reduction or conversion rate. 
+ Waste-to-
+energy 
+conversion rate: 
+30% 
+ FB-RN-
+150a.2 
+ (4) Total weight of food packaging. 
+ Not calculated 
+ (5) Percentage from recycled or 
+renewable materials. 
+ Not used 
+ (6) Percentage recyclable, reusable, or 
+compostable. 
+ Not calculated 
+ FB-RN-
+250a.1 
+ Product Quality 
+and Safety 
+ (1) Percentage of restaurants inspected 
+by food safety regulatory authorities. 
+ 100% 
+ (2) Percentage receiving major 
+violations. 
+ 0% 
+ FB-RN-
+250a.2 
+ (3) Number of recalls issued. 
+ 0% 
+ (4) Total volume of recalled food 
+products. 
+ 0 
+ FB-RN-
+250a.3 
+ (5) Number of confirmed foodborne 
+disease outbreaks. 
+ 0 
+ (6) Percentage of cases that led to 
+investigation by public health authorities. 
+ 0 
+ FB-RN-
+260a.1 
+ (1) Percentage of meal options meeting 
+dietary guidelines. 
+ Not calculated 
+
+ 
+95 
+ Customer 
+Health and Well-
+being 
+ (2) Revenue generated from these 
+options. 
+ Not calculated 
+ FB-RN-
+260a.2 
+ (3) Percentage of children's meal options 
+meeting children's dietary guidelines. 
+ Not calculated 
+ (4) Revenue from these options, as 
+mentioned in the previous question. 
+ Not calculated 
+ FB-RN-
+260a.3 
+ (5) Percentage of advertising exposure 
+targeting children. 
+ 0% 
+ (6) Percentage of ad impressions 
+targeting children that promote products 
+compliant with the Dietary Guidelines for 
+Children. 
+ 0% 
+ FB-RN-
+310a.1 
+ Labor Practices 
+ (1) Voluntary turnover rate among 
+restaurant employees. 
+ 27% 
+ (2) Involuntary turnover rate. 
+ 0% 
+ FB-RN-
+310a.2 
+ (3) Average hourly wage by region. 
+ $233.5 
+ (4) Percentage of restaurant employees 
+receiving minimum wage by region. 
+ 0% 
+ FB-RN-
+310a.3 
+ Total monetary losses resulting from 
+legal proceedings related to the following 
+reasons: 
+ 
+ (5) Violation of labor laws. 
+ 0 
+ (6) Employment discrimination. 
+ 0 
+ FB-RN-
+430a.1 
+ Supply Chain 
+Management 
+and Food 
+Sourcing 
+ (1) Percentage of food purchases 
+meeting environmental and social 
+procurement standards. 
+ 38% 
+ (2) Percentage of food purchases 
+certified by third-party environmental or 
+social standards. 
+ 69% 
+ FB-RN-
+430a.2 
+ (3) Percentage of eggs sourced from 
+non-cage environments. 
+ 0% 
+ (4) Percentage of pork produced without 
+the use of gestation crates. 
+ Not calculated 
+ FB-RN-
+430a.3 
+ (5) Discussion of management strategies 
+for environmental and social risks 
+ Not calculated 
+
+ 
+96 
+(including animal welfare) in the supply 
+chain. 
+ 
+ 
+ 
+ 
+
+ 
+97 
+" Taiwan Stock Exchange Corporation Rules Governing the Preparation and 
+Filing of Sustainability Reports by TWSE Listed Companies " - Appendix 1-1 
+Sustainability Disclosure Indicators Comparison Table 
+ Food manufacturing and catering revenue constitutes 50% or more of total operating revenue 
+ 
+No. 
+ Indicator 
+ Indicator 
+Type 
+ Annual Disclosure 
+Status 
+ Unit 
+ 
+Corresponding 
+Section 
+1 
+The evaluation 
+and improvement 
+regarding the 
+company's 
+personnel, work 
+environment, 
+hygiene 
+management of 
+facilities and 
+quality control 
+system to improve 
+food sanitation, 
+safety, and quality, 
+as well as the 
+significant 
+product and 
+service categories 
+and the 
+percentage 
+affected. 
+Quantitative, 
+Qualitative 
+Description 
+ 1. The pass rate 
+for self-inspection 
+of ingredients and 
+the 
+implementation 
+rate of inspections 
+across all facilities 
+both reached 
+100%.             
+2. Based on sales 
+impact, the 
+proportion of 
+services provided 
+by product 
+category is as 
+follows: food and 
+beverage products 
+95.60%, ingredient 
+sales 2.98%, 
+tourism revenue 
+1.32%, labor 
+services revenue 
+0.10%. 
+ Ratio (%) 
+1.3. Material 
+topic 
+performance 
+and targets 
+ 
+2.3.1 
+Operational 
+Overview 
+2 
+The types and 
+number of 
+incidents of 
+violation against 
+the applicable 
+food safety and 
+Quantitative 
+and 
+Qualitative 
+Description 
+ 0, no regulatory 
+violations or 
+product recalls. 
+Quantity, 
+metric tons 
+(t) 
+ 2.2.4 
+Compliance 
+with Laws and 
+Regulations 
+
+ 
+98 
+sanitation laws 
+and 
+noncompliance 
+with product and 
+service 
+information and 
+labeling laws. 
+3 
+The percentage of 
+the purchased 
+volume in 
+accordance with 
+internationally 
+recognized 
+responsible 
+production 
+standards, 
+categorized by 
+standards. 
+ Quantified 
+Currently, Toplus 
+Global does not 
+procure products 
+that meet 
+internationally 
+recognized 
+product 
+responsibility 
+standards. In the 
+future, the 
+company will 
+actively encourage 
+existing suppliers 
+to obtain relevant 
+certifications and 
+seek new suppliers 
+that meet 
+internationally 
+recognized 
+product 
+responsibility 
+standards for 
+procurement. 
+Percentage 
+(%) 
+ 2.2.3 Supplier 
+Management 
+and Food 
+Sourcing 
+4 
+The percentage of 
+the production 
+volume 
+manufactured in 
+sites certified by 
+an independent 
+ Quantified 
+69% of suppliers 
+hold food safety 
+certifications. 
+Ratio (%) 
+ 2.2.3 Supplier 
+Management 
+and Food 
+Sourcing 
+
+ 
+99 
+third party 
+according to 
+internationally 
+recognized food 
+safety 
+management 
+system standards. 
+5 
+The number and 
+percentage of 
+suppliers audited, 
+and the audit 
+items and results. 
+Quantitative 
+and 
+qualitative 
+description 
+ 218 suppliers 
+audited, 
+accounting for 
+100% of total 
+procurement 
+amount with 100% 
+achieving Grade A 
+or Grade B ratings. 
+ Quantity, 
+ Ratio (%) 
+2.2.3 Supplier 
+Management 
+and Food 
+Sourcing 
+6 
+The product trace 
+and track 
+management 
+conducted 
+voluntarily or 
+according to the 
+applicable laws, 
+and the 
+percentage of 
+such relevant 
+products to the 
+whole products. 
+Quantitative, 
+Qualitative 
+Description 
+ New Taipei City's 
+"Ingredient 
+Registration 
+Platform" product 
+traceability system, 
+with product 
+traceability 
+management 
+accounting for 
+approximately 43%. 
+ Ratio (%) 
+2.2.3 Supplier 
+Management 
+and Food 
+Sourcing 
+7 
+The food safety 
+laboratories 
+established 
+voluntarily or 
+according to the 
+applicable laws, 
+testing items, 
+testing results, 
+relevant expenses 
+ 
+Quantitative 
+and 
+Qualitative 
+Description 
+ 
+ Conducted 
+pesticide residue 
+and specific 
+chemical 
+substance testing 
+on aquatic 
+products, meat, 
+and fruit/vegetable 
+sources. In 2024, a 
+ Reporting 
+Currency, 
+Ratio (%) 
+2.2.2 Quality 
+and Safety 
+
+ 
+100 
+and the 
+percentage of 
+such expenses to 
+the net revenue 
+total of 283 
+samples were 
+tested, with a 100% 
+compliance rate. 
+Expenditure 
+amounted to NTD 
+44,100, 
+representing 
+0.005% of net 
+revenue. 
+8 
+Total energy 
+consumption, 
+percentage of 
+purchased 
+electricity, and 
+rate of use of 
+renewable energy 
+ Quantified 
+Total energy 
+consumption: 
+50,518.65 GJ; 
+Percentage of 
+purchased 
+electricity: 100%; 
+Renewable energy 
+usage: 0%. 
+ 
+Gigajoules 
+(GJ), 
+Percentage 
+(%) 
+ 3.3.1 Energy 
+Consumption 
+9 
+ Total Water 
+Withdrawal and 
+Total Water 
+Consumption 
+ Quantified 
+ 136.471 thousand 
+cubic meters. 
+ Thousand 
+cubic 
+meters 
+(1,000m³) 
+ 3.5 Water 
+Resource 
+Management 
+10 
+Weight of 
+products sold and 
+number of 
+production venues 
+ Quantified 
+Number of 
+production 
+venues: 14. 
+ Metric 
+tons (t), 
+ Quantity 
+Company 
+Basic 
+Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+101 
+" Taiwan Stock Exchange Corporation Rules Governing the Preparation and 
+Filing of Sustainability Reports by TWSE Listed Companies " - Appendix II: 
+Climate-Related Information 
+1 Implementation Status of Climate-Related Information. 
+ Item 
+ Implementation Status 
+1.Describe the board of directors and 
+management's oversight and governance of 
+climate-related risks and opportunities. 
+ A 
+Sustainability 
+Committee 
+and 
+Sustainability 
+Task 
+Force 
+have 
+been 
+established, with regular progress reports 
+presented during board meetings. 
+2.Describe how the identified climate risks 
+and opportunities affect the business, 
+strategy, and finances of the business (short, 
+medium, and long term). 
+ Current assessments indicate no significant 
+immediate or long-term physical risks in the 
+short to medium term. However, under long-
+term 
+and 
+extreme 
+scenarios, 
+future 
+simulations show a clear possibility of rising 
+maximum temperatures. This could increase 
+operational water usage, air conditioning, 
+and refrigeration demands, raising energy 
+resource costs across all organizational sites. 
+It may also necessitate upgraded material 
+storage 
+conditions 
+or 
+specifications, 
+introducing 
+operational 
+management 
+variables and increased expenditures. 
+ Transition risks related to policy and 
+regulatory changes, such as the Greenhouse 
+Gas Reduction Management Act, also warrant 
+attention. For instance, if greenhouse gas 
+emission regulations for the service sector 
+and future carbon fees are progressively 
+tightened and expanded to cover the food 
+service industry, there could be significant 
+financial implications in the medium to long 
+term. 
+ Business Strategy Continue monitoring 
+emerging market demand for low-carbon 
+
+ 
+102 
+ Item 
+ Implementation Status 
+products and evaluate whether to maintain 
+(enhancing market image or sales) or 
+discontinue (reducing additional costs). 
+ Short-term definition: Within 1 to 5 years 
+ Medium-term definition: Within 5 to 15 
+years 
+ Long-term definition: 15–30 years 
+ Short-term adjustments to business plans 
+and emergency response strategies may be 
+required to address sudden climate events 
+and risks. 
+ Medium-term adjustments may involve 
+revising business strategies, including supply 
+chain 
+diversification, 
+energy 
+efficiency 
+improvements, 
+and 
+innovative 
+product 
+development, to adapt to market shifts driven 
+by climate change. 
+ Long-term: Increased investment in climate-
+related technologies and solutions is needed 
+to drive innovation in tackling climate change 
+challenges while developing new business 
+opportunities. 
+3.Describe the financial impact of extreme 
+weather events and transformative actions. 
+ Extreme weather events such as heatwaves 
+and torrential rains will directly cause factors 
+like ingredient supply shortages or price 
+volatility. Diversified product development or 
+sourcing reasonable alternative ingredients 
+should be pursued. 
+ This will drive the Group to enhance energy 
+efficiency, accelerate the construction of 
+diversified supply chains, and strengthen 
+business resilience to bolster the Group's 
+financial resilience. 
+4.Describe how climate risk identification,  1. Climate Risk Identification: 
+
+ 
+103 
+ Item 
+ Implementation Status 
+assessment, and management processes are 
+integrated into the overall risk management 
+system. 
+ Define climate-related risks: Clearly identify 
+various risks climate change may pose to the 
+enterprise, 
+including 
+extreme 
+weather 
+events, climate policy risks, and market 
+volatility risks. 
+ Identify climate risk factors that may impact 
+the business, such as geographic location, 
+industry type, and supply chain structure. 
+ Employ 
+systematic 
+methodologies, 
+including scientific data, climate models, and 
+risk heatmaps to identify climate risks. 
+ 2. Assessing Climate Risks: 
+ Analyze the probability and severity of risks 
+to assess the magnitude and potential 
+impacts of climate risks. 
+ Consider risks under different climate 
+scenarios, including extreme conditions and 
+uncertainties. 
+ Determine potential impacts on business 
+operations, assets, supply chains, brand 
+reputation, and other areas. 
+ 3. Integrate into risk management systems: 
+ Ensure 
+climate 
+risk 
+management 
+is 
+interconnected and integrated with the 
+overall risk management framework. 
+ Incorporate climate risk into all stages of 
+the 
+enterprise's 
+risk 
+identification, 
+assessment, control, monitoring, and review 
+processes. 
+ Incorporate climate risk management into 
+corporate policies, procedures, guidelines, 
+and 
+training 
+to 
+ensure 
+employee 
+understanding and engagement. 
+ 4. Develop Response Measures: 
+
+ 
+104 
+ Item 
+ Implementation Status 
+ Develop specific response strategies and 
+measures based on assessment outcomes, 
+including risk transfer, risk avoidance, and 
+risk mitigation. 
+ Consider synergies between climate risk 
+management and other risk management 
+measures to minimize risks. 
+ 5. Monitoring and Tracking: 
+ The internal sustainability ESG task force, 
+after receiving external professional training, 
+establishes 
+climate 
+risk 
+assessment 
+capabilities and regularly evaluates short-, 
+medium-, 
+and 
+long-term 
+risks 
+and 
+opportunities, reporting to top management 
+and functional committees. 
+5.If scenario analysis is used to assess 
+resilience to climate change risks, the 
+scenarios, 
+parameters, 
+assumptions, 
+analysis factors and major financial impacts 
+used should be described. 
+ 1. Scenario Description: 
+Risk analysis and associated assessments for 
+operational sites under various climate 
+change scenarios, such as rising temperatures 
+and extreme weather events, considering 
+their development at different points in time 
+(annual basis). 
+ 2. Parameters and Assumptions: 
+ The IPCC AR5 scenarios RCP 2.6 and RCP 8.5, 
+representing two starkly different climate 
+pathways, are adopted as parameters for 
+scenario analysis and as the basis for 
+assumptions 
+regarding 
+future 
+climate 
+conditions. 
+ 3. Analysis Factors: 
+ Identify key factors affecting corporate 
+resilience, including supply chain resilience, 
+operational resilience, financial resilience, and 
+corresponding assessment metrics. 
+
+ 
+105 
+ Item 
+ Implementation Status 
+ 4. Key Financial Impacts: 
+ Information 
+gathering 
+is 
+ongoing 
+to 
+facilitate quantification. The fundamental 
+approach 
+involves 
+analyzing 
+potential 
+impacts on corporate financial health under 
+different climate change scenarios, including 
+direct losses, indirect costs, and shifts in 
+market demand. 
+ Consider the potential impacts of climate 
+change 
+on 
+corporate 
+asset 
+values, 
+productivity, market position, and other 
+factors to assess their potential implications 
+for financial performance. 
+ 5. Risk Assessment: 
+ Once key financial impact data is quantified, 
+further assessment will determine whether 
+Toplus Global's current resilience level is 
+sufficient to address risks and challenges 
+under various scenarios. 
+6.If there is a transition plan for managing 
+climate-related risks, describe the content of 
+the plan, and the indicators and targets used 
+to identify and manage physical risks and 
+transition risks. 
+ Initiated in 2025, Toplus Global conducted 
+an ISO 14064-1 compliant greenhouse gas 
+inventory for categories 1-6 covering 2024. 
+Based on the inventory results, ongoing 
+carbon 
+reduction 
+projects 
+are 
+being 
+implemented, and the feasibility of adopting 
+group-wide net-zero as a long-term goal is 
+being evaluated. 
+7.If internal carbon pricing is used as a 
+planning tool, the basis for setting the price 
+should be stated. 
+ According 
+to 
+the 
+Ministry 
+of 
+the 
+Environment's Climate Change Response Act 
+announcement, companies subject to the first 
+and second waves of carbon fee collection 
+must pay carbon fees at the following rates 
+based on their category: General Rate: 
+NT$300 per ton of carbon; Preferential Rate A: 
+
+ 
+106 
+ Item 
+ Implementation Status 
+NT$50 per ton of carbon; Preferential Rate B: 
+NT$100 per ton of carbon. The Ministry of 
+Environmental Protection announced the 
+third wave of regulated entities on March 24, 
+2025, covering commercial service categories 
+(e.g., 
+department 
+stores, 
+hotels, 
+retail 
+businesses, etc.). Although our company is 
+not currently included in this list, remains 
+committed 
+to 
+ensuring 
+long-term 
+compliance 
+and 
+preparing 
+relevant 
+countermeasures. We are therefore assessing 
+internal emission hotspots at our company 
+and subsidiaries' operational sites based on 
+the domestic standard rate of NT$300 per 
+ton, while also reviewing greenhouse gas 
+emissions generated within our external 
+Scope 3 value chain. This aims to effectively 
+mitigate the financial impact of carbon costs. 
+8.If climate-related targets have been set, 
+the 
+activities 
+covered, 
+the 
+scope 
+of 
+greenhouse gas emissions, the planning 
+horizon, and the progress achieved each 
+year should be specified. If carbon credits or 
+renewable energy certificates (RECs) are 
+used to achieve relevant targets, the source 
+and quantity of carbon credits or RECs to be 
+offset should be specified. 
+ Toplus Global prioritizes optimizing carbon 
+accounting for Scope 1, Scope 2, and Scope 3 
+emissions 
+through 
+operational 
+control 
+methods, including subsidiaries, with the 
+principle of obtaining international third-
+party verification. Toplus Global first reviews 
+the distribution of its own carbon emissions, 
+identifies emission hotspots, and further 
+plans short-term, medium-term, and long-
+term carbon reduction targets. 
+ In concrete actions, we replaced outdated air 
+conditioning units at Amazing Hall Taoyuan 
+in 2024 and actively participated in the 
+Ministry of the Environment's Voluntary 
+Reduction Program. It expects to obtain 
+voluntary reduction credits in 2025, thereby 
+
+ 
+107 
+ Item 
+ Implementation Status 
+reducing greenhouse gas emissions and 
+achieving 
+carbon 
+reduction 
+actions. 
+Concurrently, Toplus Global will commit to 
+Science Based Targets (SBTi) in 2025 and 
+establish a carbon reduction pathway based 
+on SBTi methodology. This will provide clear 
+visibility 
+into 
+annual 
+carbon 
+reduction 
+volumes, associated reduction plans, and 
+define short-, medium-, and long-term net-
+zero emission targets. 
+9.Greenhouse gas inventory and assurance 
+status (separately fill out in point 1-1 below). 
+ Please refer to pages 69-71 for Toplus 
+Global's greenhouse gas inventory and 
+verification status for the most recent two 
+years. 
+ 2. Company Greenhouse Gas Inventories and Assurance Status for the Most Recent 
+Two Years 
+ (1) Greenhouse Gas Inventory Information 
+ State the company's greenhouse gas emissions (metric tons of CO2e), intensity (metric 
+tons of CO2e per million NTD), and data coverage for the most recent two years. 
+In accordance with the Financial Supervisory Commission's (FSC) "Roadmap for Sustainable 
+Development of Listed Companies" (March 2022), Toplus Global, with paid-in capital below 
+NT$5 billion, is required to implement phased greenhouse gas (GHG) inventory and 
+verification: Phase III (Parent Company): Inventory completion by 2026 and verification 
+completion by 2028. 
+Phase IV (Consolidated Subsidiaries): Inventory completion by 2027 and verification 
+completion by 2029. 
+To ensure compliance, we will establish dedicated units, develop detailed implementation 
+timelines, formulate comprehensive inventory procedures, and monitor phased targets 
+under the Board's supervision. Progress reports will be submitted to the Board to 
+continuously track the completion of the GHG inventory and verification schedules. 
+Proactive Implementation: Toplus Global commenced the ISO 14064-1:2018 organizational 
+
+ 
+108 
+GHG inventory for the parent company and consolidated subsidiaries in fiscal year 2024. 
+DNV completed third-party verification in the same year, providing a comprehensive 
+understanding of internal and external carbon emission distribution. Inventory and 
+verification activities for 2025 are ongoing, with expected completion by the end of August 
+2025. The parent company's inventory data, such as: 
+ Scope of Verification 
+ 2023 Emissions (tons 
+CO2e) 
+ 2024 Emissions (tons 
+CO2e) 
+Toplus 
+Global 
+ Scope 1 Direct 
+GHG Emissions 
+ 0.7855 
+ 1,602.7651 
+ Scope 2 Indirect 
+Greenhouse Gas 
+Emissions 
+ 14.1665 
+ 4,172.6354 
+ Scope 2 Other 
+Significant 
+Indirect Emissions 
+ 0.00 
+ 1,526.0356 
+ 
+ Total 
+ 14.9520 
+ 7,301.436 
+ Certification Body 
+ DNV 
+Carbon emissions data as 
+of August 31th, 2025, with 
+DNV as the final version. 
+   (2) Greenhouse Gas Assurance Information 
+ This section describes the assurance status for the two most recent fiscal years as of the date 
+of publication of this annual report, including the scope of assurance, the assurance provider, 
+the assurance standard, and the assurance opinion. 
+ For the two most recent fiscal years ending on the date of publication of this annual report, 
+Toplus Global prepared a Greenhouse Gas Inventory Report, Greenhouse Gas Inventory 
+Register, and Greenhouse Gas Inventory Procedure Manual in accordance with ISO 14064-
+1:2018 and obtained the Verification Statement from DNV. The verification scope covered the 
+Company and its subsidiaries' Greenhouse Gas Inventory Report, Greenhouse Gas Inventory 
+Register, and Greenhouse Gas Inventory Procedures. Based on the verification procedures 
+conducted by the international third-party verification body and the supporting 
+documentation obtained, no material deficiencies were identified in the Greenhouse Gas 
+
+ 
+109 
+Inventory Report, inventory, or procedures. The 2024 fiscal year obtained the ISO 14064-
+1:2018 Greenhouse Gas Inventory Verification Statement (January 1, 2023 to December 31, 
+2023). The 2025 fiscal year obtained the ISO 14064-1: 2018 (January 1, 2024 to December 31, 
+2024). 
+ 3. Greenhouse Gas Reduction Targets, Strategies, and Concrete Action Plans 
+ Describe the greenhouse gas reduction baseline year and its data, reduction targets, 
+strategies, specific action plans, and the status of achieving reduction targets. 
+In line with the Financial Supervisory Commission's (FSC) "Roadmap for Sustainable 
+Development of Listed Companies" (March 2022), Toplus Global falls under the category of 
+companies with paid-in capital below NT$5 billion. This requires phased implementation of 
+greenhouse gas (GHG) inventory and verification: 
+ 
+Entity 
+FSC 
+Phase 
+Inventory 
+Deadline 
+Verification 
+Deadline 
+Parent Company 
+Phase III 
+By 2026 
+By 2028 
+Consolidated 
+Subsidiaries 
+Phase IV 
+By 2027 
+By 2029 
+ 
+We will establish dedicated units, develop detailed implementation timelines, and formulate 
+comprehensive inventory procedures in accordance with relevant regulatory guidelines. The 
+Board of Directors will oversee and control these phased targets, receiving continuous 
+progress reports to ensure adherence to all disclosure schedules. 
+ 
+GHG Base Year and Reduction Targets: 
+Following the completion of the 2025 GHG inventory (covering 2024 emissions), we will 
+propose corresponding reduction targets, strategies, and action plans. 
+To formulate its reduction strategy, we established the baseline using the 2024 consolidated 
+financial statements boundary, resulting in 2024 as the Base Year. Total baseline emissions 
+are distributed as follows: 
+ 
+．Scope 1:  1,602.7651 tons CO2e 
+
+ 
+110 
+．Scope 2:  4,172.6354 tons CO2e 
+．Scope 3:  1,526.0356 tons CO2e 
+ 
+Toplus Global aims to achieve a 4.2% reduction from the baseline year by 2025 through 
+concrete actions and is actively pursuing validation for the Science Based Targets initiative 
+(SBTi). 
+ 
+GHG Reduction Strategy and Action Plan 
+ 
+Toplus Global integrates carbon management directly into its operational strategy. This 
+includes implementing organizational GHG inventories and internal controls for 
+sustainability information to identify opportunities for carbon reduction breakthroughs. The 
+strategy will focus on developing and implementing specific mitigation actions across the 
+organization. 
+ 
+ 
+
+ 
+111 
+ 
+ Third-Party Assurance Report 
+ 
+
+ 
+112 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+113 
+ 
+ 
+ 
+
+ 
+114 
+ 
+ 

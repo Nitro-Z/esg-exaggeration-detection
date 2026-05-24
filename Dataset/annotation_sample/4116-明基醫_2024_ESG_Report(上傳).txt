@@ -1,0 +1,5444 @@
+2024 ESG Report / 1 
+!
+About This Report    
+BenQ Medical Technology Corporation (hereinafter referred to as "BenQ Medical") published its first Sustainability 
+Report in 2024, covering the year 2023, as part of its commitment to corporate sustainability and enhanced 
+information transparency. 
+The Company publishes its first Sustainability Report in 2024, The previous publication date was August 2024.
+This report discloses BenQ Medical’s management approach, commitments, and performance in the areas of 
+Environmental Protection (E), Social Responsibility (S), and Corporate Governance (G), collectively known as ESG. 
+A dedicated “ESG” Section is available on the Company's official website to address stakeholder concerns and 
+expectations regarding sustainability. Through this platform, BenQ Medical aims to establish long-term partnerships 
+with stakeholders and promote inclusive society and sustainable development.
+This report is prepared in accordance with the 2021 GRI Standards issued by the Global Reporting Initiative (GRI). 
+The Reporting period covers January 1, 2024, to December 31, 2024, consistent with the reporting period of BenQ 
+Medical’s 2024 Annual Report.
+The organizational boundary of this report includes the headquarters and manufacturing sites of Guishan and Taichung 
+Plants, covering economic, environmental, and social material topics and the corresponding management approaches 
+and performance.
+BenQ Medical Technology Corporation Sustainability Committee
+Contact Person: Shen, Jia-Han
+Phone: 02-8797-5533 ext. 5977
+Address: 7F, No. 46, Zhouzi Street, Neihu District, Taipei City
+Website: https://www.benqmedicaltech.com/
+Email: CSR@BenQMedicalTech.com
+Headquarters: 7F, No. 46, Zhouzi Street, Neihu District, Taipei City, Taiwan
+Guishan Plant: 3F, No. 159, Shanying Road, Guishan District, Taoyuan City, Taiwan
+Taichung Plant: 3F & 5F, No. 63, Jingke Road, Nantun District, Taichung City, Taiwan
+Reporting Period and Framework
+Reporting Scope
+Sustainability Development Committee
+2024 ᱘ᇅ㴰ℊ⽆ᇲༀᴈ / 0 
+ġ
+ġ
+ġ
+ġ
+
+2024 ESG Report / 2 
+ 
+  
+ 
+ 
+  2024 ESG Report / 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+Message From the Chairman
+Although the global market in 2024 showed signs of gradual recovery, the overall 
+macroeconomic environment remained deeply influenced by the U.S. presidential election 
+and related policy shifts, resulting in persistent operational uncertainty. Nevertheless, under 
+the steady leadership of our management team and the collective efforts of all colleagues, 
+BenQ Medical achieved stable growth throughout the year. The Company’s consolidated 
+annual revenue reached NT$4.767 billion, representing a 5% increase compared to the 
+previous year. I extend my sincerest gratitude to every member of our team for their 
+dedication and contributions.
+As global awareness of sustainability continues to rise, customers and investors are placing 
+greater emphasis on the sustainability performance of companies and their supply chains. 
+Sustainability is no longer merely a demonstration of corporate social responsibility; it 
+has become a key factor in building partnerships and attracting investment. At BenQ 
+Medical, we actively strengthen corporate governance and fully embrace ESG principles 
+by integrating environmental protection, social responsibility, and corporate governance 
+into the management systems. The Company uphold transparency, regulatory compliance, 
+and responsible governance, while fostering trustworthy and collaborative business 
+relationships. Through these efforts, the Company aims to unlock sustainable opportunities 
+and continuously create long-term value for all stakeholders.
+In line with the Financial Supervisory Commission’s ESG implementation roadmap, the 
+Company has completed ISO 14064-1 Greenhouse Gas Inventory for both standalone and 
+consolidated entities. The Company is also planning to undergo third-party verification 
+by 2026 to enhance the transparency of the sustainability disclosures and strengthen 
+stakeholder trust.
+Looking ahead, I firmly believe that with united efforts from all team members, BenQ 
+Medical will continue to generate positive value for society and realize our vision of shared 
+success and long-term sustainability.
+Chairman: 
+Chi-Hong (Peter) Chen 
+
+  2024 ESG Report / 4 
+01 
+02 
+ 
+1. 
+ 
+06 
+07 
+08 
+10 
+12 
+2. 
+ 
+16 
+17 
+19 
+ 
+3. 
+ 
+22 
+ 
+27 
+ 
+28 
+30 
+32 
+34 
+35 
+36 
+4. 
+38 
+42 
+44 
+45 
+46 
+5. 
+48 
+49 
+49 
+50 
+ 
+51 
+52 
+54 
+6. 
+56 
+61 
+61 
+7. 
+62 
+66 
+67 
+68 
+ 
+Contents 
+ 
+  2024 ESG Report / 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1 Company Profile
+1.2 Major Milestones in Company Development
+1.3 Major Products and Industry Value Chain
+1.4 Organizational Profile
+1.5 Business Overview
+Group Overview
+Sustainability Governance 
+and Management
+Social Welfare /  
+Community Engagement
+Appendix
+Environmental 
+Sustainability
+Friendly Workplace
+Corporate Governance
+2.1 Corporate Sustainability
+2.2 Stakeholder Identification and Engagement
+2.3 Material Topic Management
+3.1 Corporate Governance Structure
+3.2 Ethical Business Practices
+3.3 Risk Management
+3.4 Information Security Management
+3.5 Product Responsibility
+3.6 Customer Service
+3.7 Supply Chain Management
+3.8 Emergency Incident Reporting
+4.1 Climate Change and Carbon Management
+4.2 Greenhouse Gas (GHG) Management
+4.3 Energy Management
+4.4 Water Resource Management
+4.5 Waste Management
+5.1 Talent Recruitment and Development
+5.2 Diversity and Non-Discrimination
+5.3 Employee Retention and Development
+5.4 Performance Management System
+5.5 Labor Rights and Equality
+5.6 Happy Workplace and Employee Care
+5.7 Occupational Safety and Health Management
+About This Report
+Message From the Chairman
+6.1 Public Welfare Activities
+6.2 Public Relations
+6.3 Association Membership
+7.1 Appendix
+7.2 United Nations Global Compact (UNGC)
+7.3 TCFD Climate-related Financial Disclosure Index
+7.4 SASB Sustainability Accounting Standards Index
+
+ 
+  2024 ESG Report / 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1998
+ 
+ 
+1999
+ 
+ISO9001
+EN46001
+CE
+ 
+2000
+ 
+50
+ 
+2002
+ 
+ 
+2004
+ 
+ 
+2010
+ 
+BenQ 
+ 
+2011
+ 
+4116
+ 
+2013
+ 
+100%
+ 
+ 
+2015
+ 
+ 
+2017
+ 
+ ISO 14001:2015 
+ & ISO 13485:2016 
+ 
+52%
+ 
+2020
+ 
+70%
+ 
+2021
+ 
+ TFDA QMS 
+ & CE PPER 
+ 
+ 
+25%
+ 
+2022
+ 
+60%
+ 
+15%
+ 
+33.33%
+ 
+2023
+ 
+33.33%
+ 
+40%
+ 
+40%
+ 
+2024
+ 
+ 
+60%
+ 
+Group Overview
+1.1 Company Profile
+Founded in 1989, BenQ Medical Technology Corporation (BenQ Medical) became a member of 
+the BenQ Group in 2010, when the Group acquired a controlling stake and assumed management 
+rights. The Company was officially listed on the Taipei Exchange (TPEx) in 2015 under the 
+stock code 4116. BenQ Medical specializes in the research, development, and manufacturing 
+of medical surgical lights, operating tables, and ultrasound devices, and also serves as the 
+exclusive distributor of various high-precision and professional medical consumables from 
+overseas. Through professional operations and strong expertise, the Company has demonstrated 
+remarkable capabilities. Its products have received multiple international certifications for quality 
+and are marketed globally, establishing BenQ Medical as one of the most reputable and capable 
+players in Taiwan’s medical equipment industry.
+[ Business Philosophy ]
+The BenQ brand is committed to the fields of consumer electronics, enterprise operations, 
+healthcare, and education. Through better products, systems, and solutions, BenQ strives to 
+enhance and enrich various aspects of human life by delivering:
+[ Delivering the Best Solutions to Global 
+Customers ]
+BenQ Medical is actively expanding its technological 
+collaborations with partners in Europe, the United 
+States, Japan, and other regions, while establishing 
+sales networks in more than 50 countries worldwide. 
+The Company is dedicated to cultivating the "BenQ" 
+brand and gradually building a globally integrated sales 
+presence.
+Upholding a philosophy rooted in integrity and 
+compassionate service, BenQ Medical continues to 
+identify its niche in the healthcare industry and strives 
+to create new blue ocean opportunities. Guided by 
+its core principles—Respect for Life, Commitment to 
+Professionalism, Pursuit of Excellence, and Sustainable 
+Development, BenQ Medical is firmly committed to 
+advancing healthcare for the benefit of all.
+High-quality digital lifestyle experiences / Enhanced corporate competitiveness and productivity 
+/ Exceptional medical services, equipment, and personal healthcare products / Flexible and 
+innovative educational solutions. With unwavering dedication and wholehearted commitment, 
+BenQ focuses on what truly matters to people.
+Guishan Plant
+Taichung Plant
+Headquarters
+1989
+Established Trident Medical Corporation.
+1998
+Merged with Shin Sheng Instruments Co., Ltd. and Tung Yang Instruments Co., Ltd., marking the first successful merg-
+er in Taiwan’s medical device industry.
+1999
+The factory obtained ISO 9001 and EN 46001 certifications for medical devices, with multiple products certified by the 
+European Union CE mark.
+2000
+To date, the Company has received certifications from numerous countries and markets its products in over 50 coun-
+tries worldwide.
+2002
+Listed on the Emerging Stock Market (Taiwan OTC).
+2004
+Merged with Feng Yang Co., Ltd.
+2010
+BenQ Group acquired shares and officially assumed management control of Trident Medical Corporation.
+2011
+Renamed the company to BenQ Medical Technology Corporation. The stock abbreviation was changed from “Trident 
+Medical” to “BenQ Medical,” while the stock code “4116” remained unchanged.
+2013
+BenQ Medical acquired 100% equity in Lily Medical Corporation.
+Established a subsidiary, BenQ AB DentCare Corporation.
+2015
+BenQ Medical was officially listed on the Taipei Exchange (TPEx).
+2017
+Obtained ISO 14001:2015 Environmental Management System certification and ISO 13485:2016 Medical Device Qual-
+ity Management certification.
+Established a subsidiary, BenQ Hearing Co., Ltd.; BenQ Hearing acquired a 52% stake in New Best Hearing Internation-
+al Trade Co. Ltd.
+2020
+Acquired a 70% stake in EASTECH Co., Ltd.
+2021
+Obtained TFDA QMS certification for medical devices and CE PPER certification.
+Renamed subsidiary BenQ Hearing Co., Ltd. to BenQ Healthcare Corporation.
+Acquired 25% of common shares in CONCORD MEDICAL CO., LTD. through private placement.
+2022
+Subsidiary BenQ Healthcare Corporation acquired a 60% stake in CKCARE CO., LTD.
+Completed the public acquisition of CONCORD MEDICAL CO., LTD. and acquired 15% equity.
+Established a joint venture, Concord Healthcare Corporation with subsidiary CONCORD MEDICAL CO., LTD., holding a 
+33.33% equity stake.
+2023
+Transferred a 33.33% equity stake in Concord Healthcare Corporation to subsidiary CONCORD MEDICAL CO., LTD
+Jointly acquired a 40% stake in K2 INTERNATIONAL MEDICAL INC. with subsidiary ASIACONNECT INTERNATIONAL Co., 
+Ltd.
+Transferred a 40% equity stake in Sanfong Dongsing Medical Equipment (Jiang Su) Co., Ltd.
+2024
+Renamed subsidiary LILY Medical (SUZHOU) Co., Ltd to BenQ Smart Healthcare (Shanghai) Co., Ltd.
+Subsidiary K2 INTERNATIONAL MEDICAL INC. acquired a 60% equity stake in ERA Bioteq Enterprise Co., Ltd.
+1.2 Major Milestones in Company Development
+1.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 9 
+ 
+ 
+ 
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.3 Major Products and Industry Value Chain
+[ Medical Consumables Category]
+[ Healthcare Services Category ]
+Industry Value Chain Overview: BenQ Medical provides products across medical equipment, medical consumables, 
+and healthcare services. The Company integrates clinical medical applications with a wide range of technologies, 
+including electronics, optics, information systems, mechanical engineering, materials science, and precision 
+manufacturing. Downstream consumers primarily include hospitals, agents, and distributors. The effective use and 
+performance of these products rely on the professional operation by healthcare personnel.
+BenQ Medical and its subsidiaries operate in the medical consumables segment through two business models: 
+distribution of third-party products and in-house manufacturing. The Company provides high-quality medical 
+consumables to both domestic and international healthcare institutions, as well as overseas distributors and agents. 
+The industry value chain for medical consumables, including upstream, midstream, and downstream segments, is as 
+follows:
+BenQ AB DentCare Corporation, a subsidiary of the Company, operates in the dental medical materials segment 
+through two main business models: distribution of international brands and development of proprietary products. 
+The distribution business primarily sources consumable products from well-known international dental material 
+companies such as Meisinger and Kulzer.
+Proprietary offerings include dental implants and prosthetic components from joint-venture parent company AB 
+Dental, as well as various BenQ-branded products, such as 3D printers, thermoforming aligner sheets, thermoforming 
+machines, dental endoscopes, oral care products, and other consumables. By combining market feedback with 
+internal technical expertise, BenQ Dental develops products that are user-friendly for dental professionals and 
+beneficial to patients. Accordingly, the upstream, midstream, and downstream segments of the industry value chain in 
+which BenQ AB DentCare operates are as follows:
+BenQ Healthcare Corporation, a subsidiary of the Company, primarily engages in the distribution of healthcare-
+related products from well-known domestic and international brands, including hearing aids, face masks, and health 
+supplements. By adopting a phygital (physical + digital) business model, the Company vertically integrates online and 
+offline channels to offer comprehensive health products and services within the healthcare market.
+[ Medical Equipment Category ]
+BenQ Medical’s medical equipment segment is subdivided into operating room equipment and medical imaging 
+systems. The value chain relationships for the operating room equipment industry, including upstream, midstream, 
+and downstream segments, are outlined as follows:
+The Industry Value Chain of Medical Imaging Equipment – Ultrasound Diagnostic Systems
+The upstream, midstream, and downstream segments of the industry related to ultrasound diagnostic systems are as 
+follows:
+BenQ Medical’s medical imaging equipment products are positioned in the downstream segment of the industry value 
+chain. The Company acts as a distributor for both domestic and international ultrasound brands, supplying products to 
+specialized departments within medical centers.
+Upstream
+Upstream
+Upstream
+Upstream
+Firmware Design
+Metal Materials
+Surgical Tables
+Agents
+Plastic Raw Materials
+Plastic Components
+Precision Molds
+Molding Equipment
+Medical Device 
+Manufacturer
+Distributors
+Retailer
+Medical Institutions / 
+Hospital
+Medical Device Distributor
+Automated Assembly 
+Equipment
+Sterilization Equipment
+Original Medical Device 
+Manufacturers
+Metal Materials
+Implant Systems
+Dental Consumables
+Dental Equipment
+Precision Machining
+Biomedical Materials
+Optical Modules
+Distributors
+Medical Institutions / 
+Hospital
+Surgical Lights
+Medical Pendant Systems
+Integrated OR Imaging and 
+Information System / iQOR
+Plastic Materials
+Automation Control
+Optical Components
+Precision Machining
+Other Components
+High-Resolution Displays
+Precision Molds
+Ultrasound System 
+Manufacturer
+Agents
+Agents
+Distributors
+Distributors
+Medical Institutions / 
+Hospital
+Medical Institutions / 
+Hospital
+Ultrasound Probe 
+Manufacturer
+Software Development
+Piezoelectric Materials
+Other Components
+Midstream
+Midstream
+Midstream
+Midstream
+Downstream
+Downstream
+Downstream
+Downstream
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shareholders' Meeting
+Board of Director
+Chairman
+Vice Chairman
+General Manager
+Audit Office
+Audit Committee
+Remuneration Committee
+Sustainability Committee
+Risk Management 
+Committee
+Information Security 
+Committee
+Strategic Planning Office
+Finance and Operations 
+Management
+Equipment Business Unit
+Human Resources 
+Department
+Quality Assurance 
+Department
+Consumables Business Unit
+Imaging Business Unit
+China Sales Division
+Legal Office
+1.4 Organizational Profile
+[ Organizational Structure ]
+[ Organizational Functions Overview ]
+To establish a sound corporate governance framework, the Company has adopted a Corporate Governance Best 
+Practice Principles in accordance with the “Corporate Governance Best Practice Principles for TWSE/TPEx Listed 
+Companies.” Furthermore, the Company designs and implements an internal control system in compliance with the 
+“Regulations Governing Establishment of Internal Control Systems by Public Companies.” This system is continually 
+reviewed and evaluated to ensure its ongoing effectiveness. The organizational structure of the Company is as follows:
+Department
+Key Responsibilities
+General Manager
+Establish the Company’s operational framework, evaluate and integrate operational management 
+plans across departments, and ensure the achievement of business objectives. Plan and promote 
+initiatives to optimize corporate operations and execute resolutions passed by the Board of Direc-
+tors.
+Audit Office
+Formulate and execute the annual audit plan based on risk assessment results. In addition to eval-
+uating the effectiveness of control design and execution, assist department heads in understanding 
+the timeliness of their staff’s operations and verifying compliance with applicable laws, regulations, 
+and internal Company policies.
+Legal Office
+Assist in drafting and reviewing external documents and contracts. Provide consultation on legal 
+matters and maintain communication with legal advisors.
+Strategic Planning Office
+Analyze future trends and competitive advantages of specific project-based products. Conduct R&D 
+on new technologies for these products, and participate in the development and integration of the 
+Company’s medium- and long-term strategies.
+Finance and Operations 
+Management 
+(Finance Department / Oper-
+ations Support Department / 
+IT Department)
+Finance Department is responsible for formulating the Company’s accounting system, asset registra-
+tion, reviewing and keeping accounting vouchers, operational or cost analysis, accounting statistics, 
+cash budgeting, treasury management, and financial planning. Also oversees document processing, 
+clerical affairs, file and seal management, preparation for board and shareholder meetings, issu-
+ance of company stocks and bonds, and all relevant matters required by law regarding shareholder 
+notifications, announcements, and reporting.
+Operations Support Department is responsible for asset management and the procurement of gen-
+eral supplies and equipment. Oversees the requisition, purchasing, and customs clearance of both 
+domestic and international medical equipment and consumables.
+IT Department is responsible for planning, establishing, and managing the company’s computer net-
+works and IT systems, including software and hardware infrastructure. Also in charge of evaluating 
+and planning computer operating systems, conducting technical R&D on software, and maintaining 
+and securing digital data.
+Equipment Business Unit
+Responsible for the domestic and international sales of equipment products and after-sales ser-
+vices. Key duties include product reporting, pricing strategy, coordination and analysis of production 
+and sales, suggestions for new product development, customer credit checks, training and educa-
+tion, revenue collection and reconciliation, as well as gathering market intelligence on competitors 
+and customers. The unit also develops product positioning strategies and explores new market 
+opportunities. The Guishan Plant, under the jurisdiction of this business unit, is in charge of manu-
+facturing equipment products and managing internal administrative affairs, including clerical work, 
+document and file management, procurement, preparation and analysis of manufacturing costs, 
+and computer system operations. The plant also handles production scheduling, order allocation, 
+shipment, warehouse and inventory management, capacity planning, and manufacturing opera-
+tions. In addition, it is responsible for maintaining environmental protection measures and occupa-
+tional safety and health within the facility.
+Consumables Business Unit
+Responsible for the domestic and international sales of medical consumable products and the provi-
+sion of after-sales services. Key duties include product reporting, pricing strategy, coordination and 
+analysis of production and sales, suggestions for new product development, customer credit evalu-
+ation, training and education, revenue collection and reconciliation, as well as gathering market and 
+competitor intelligence. The unit also formulates product positioning and market entry strategies 
+for new markets. The Taichung Plant, under the jurisdiction of this business unit, is responsible for 
+the manufacturing of medical consumables and the overall management of plant operations. This 
+includes administrative affairs, clerical work, document and file management, procurement, prepa-
+ration and analysis of manufacturing costs, computer system operations, production scheduling, or-
+der allocation, shipping, warehouse and inventory management, production capacity planning, and 
+manufacturing operations. The plant is also responsible for maintaining environmental protection 
+standards and occupational safety and health within the facility.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 12 
+ 
+ 
+ 
+  2024 ESG Report / 13 
+ 
+ 
+ 
+Department
+Key Responsibilities
+Imaging Business Unit
+Responsible for the domestic and international sales and maintenance of imaging equipment, in-
+cluding ultrasound systems. Key duties include pricing strategy, market development planning, cus-
+tomer credit evaluation, and training and education services.
+China Sales Division
+Responsible for the sales and after-sales services of medical devices in the China region. Key duties 
+include customer credit evaluation, client development, coordination of production and sales, cus-
+tomer communication, and reconciliation and collection of revenue payments.
+Quality Assurance Depart-
+ment
+Responsible for the inspection of equipment and medical consumables, including raw materials, 
+in-process materials, and finished products, as well as process monitoring, documentation, statis-
+tical analysis, and the proposal of corrective actions. The department is also in charge of ISO docu-
+mentation management and related quality assurance affairs.
+Human Resources Depart-
+ment
+Responsible for managing and coordinating employee compensation, bonus distribution, labor and 
+health insurance, physical examinations, and other labor safety-related matters. The department 
+also implements training procedures, workplace regulations, performance evaluations, rewards and 
+disciplinary actions, and is responsible for establishing, promoting, and improving these practices in 
+accordance with relevant company policies.
+Audit Committee
+Assists the Board of Directors in overseeing the quality and integrity of the Company’s accounting, 
+auditing, financial reporting processes, and financial controls.
+Remuneration Committee
+In an independent and objective capacity, the committee evaluates the compensation policies and 
+systems for the Company’s directors and managerial officers, and provides recommendations to the 
+Board of Directors.
+Sustainability Committee
+Responsible for promoting initiatives related to corporate governance, corporate social responsibil-
+ity (CSR), and ethical business practices. The committee also evaluates matters concerning gover-
+nance, environmental sustainability, and social responsibility.
+Risk Management Commit-
+tee
+Responsible for ensuring the Company’s sustainable operations and sound risk management by es-
+tablishing, implementing, overseeing, and maintaining the Company’s risk management programs.
+Information Security Com-
+mittee
+Responsible for ensuring the confidentiality, integrity, availability, and legality of the Company’s 
+information assets, including hardware, software, data, documents, and personnel involved in in-
+formation processing, and for preventing intentional or accidental threats from both internal and 
+external sources.
+Note: The Sustainability Committee was established in 2024.
+1.5 Business Overview
+Looking back at 2024, BenQ Medical 
+achieved steady growth. Consolidated 
+revenue reached NT$4.767 billion, 
+representing a 5% increase compared to 
+the previous year. Gross profit amounted 
+to NT$1.448 billion, with a gross margin 
+of 30.4%. Net income attributable to 
+owners of the parent company was 
+NT$105 million, resulting in earnings per 
+share (EPS) of NT$2.35.
+In 2024, BenQ Medical achieved 
+significant results in its business 
+expansion. The key accomplishments 
+include:
+Enhancing Product Functions and Expanding Agency Product Lines
+Expanding Medical Service Channels
+Optimizing Existing Businesses
+For proprietary products, with the active involvement of the R&D and management teams, the Company has upgraded 
+product functions, enhanced operational efficiency, and strengthened cost control to strike a balance between quality 
+and price, thereby maintaining product competitiveness. In response to overseas "local manufacturing" policies, 
+the Company has proactively adapted and deployed strategies in a timely manner to drive revenue growth through 
+strategic collaborations. As for agency products, the Company continues to expand the presence in the home-use 
+pet consumer market. In 2024, recognizing the steady growth of the global endoscope equipment market, BenQ 
+Medical Group invested in ERA Biotech, entering the endoscopic market and further expanding the layout of medical 
+equipment field.
+In 2024, BenQ Medical is striving to expand its presence in the medical service sector. NEW BEST HEARING 
+INTERNATIONAL TRADE Co., LTD. has added six new outlets, enhancing customer service through retail expansion. 
+BenQ Healthcare, in collaboration with Tin Tin Drugstore, launched store-in-store locations within Carrefour Taiwan, 
+leveraging the group's synergy. Additionally, BenQ Medical secured the direct dealership rights for "Cheong Kwan 
+Jang" retail outlets. By the fourth quarter of 2024, the BenQ Medical fleet had surpassed 70 sales outlets across 
+Taiwan.
+Looking ahead to 2025, BenQ Medical will continue to focus on three major operational directions: "Optimizing 
+Existing Businesses," "Expanding Medical Services," and "Developing Smart Healthcare," aiming for greater 
+achievements and creating long-term value for the Company.
+In 2024, BenQ Medical prepared to establish a manufacturing facility 
+in China. By leveraging the advantages of three production bases — 
+MIT (Made in Taiwan), MII (Made in India), and MIC (Made in China) 
+— the Company aims to enhance its global market competitiveness. 
+At the same time, it continues to develop high-end surgical equipment 
+while expanding into postoperative rehabilitation and home healthcare 
+products. EASTECH LTD. "EASTECH PET" series continues to promote 
+home rehabilitation and healthcare equipment for pets, and plans to 
+introduce pet wellness products to offer a comprehensive product line 
+for the pet market.
+In the medical consumables segment, LILY Medical Corp. is actively 
+expanding distribution channels to promote its feeding product line 
+and is developing a chemotherapy drug infusion system to broaden its 
+existing product range. It also continues efforts towards automation 
+in production, thereby improving product quality and gross margins. 
+Through its subsidiary, ERA Biotech, K2 International Medical Inc. 
+has entered the endoscopy market. The endoscopic medical device 
+business is expected to complete new product registrations and officially 
+launch in 2025, targeting applications such as laparoscopic surgeries 
+and endoscopic fundoplication. Additionally, the business unit plans to 
+establish a new department focused on the agency and distribution of 
+professional rehabilitation equipment, further expanding its business 
+scope and enhancing market competitiveness.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 14 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 15 
+ 
+ 
+ 
+Expanding Medical Services
+Strategic Advancement in Smart Healthcare
+BenQ Healthcare will broaden its product portfolio, introduce new agency product lines, and venture into overseas 
+sales markets. NEW BEST HEARING INTERNATIONAL TRADE Co., LTD. plans to develop the infant and young child 
+hearing loss market while continuing to promote sleep apnea care solutions. CKCARE CO., LTD. (CK-Care Pharmacy) 
+will consolidate logistics needs from allied pharmacies and provide integrated logistics services for strategic alliance 
+pharmacies.
+Concord Medical Co., Ltd. focuses on the needs of the aging population, assisting regional hospitals in developing 
+geriatric care departments. It also plans to leverage group resources to organize activities that support disadvantaged 
+communities, thereby strengthening connections between regional hospitals and communities while practicing ESG 
+principles. Concord HealthCare Corp. continues to enhance management support for dental clinics to improve their 
+operational performance. BenQ AB DentCare Corp. aims to become a full-service provider of digital dental solutions 
+by actively launching new products and increasing the proportion of proprietary product sales. Through co-hosted 
+courses with key opinion leaders and social media marketing, it drives product sales while participating in international 
+dental exhibitions to enhance brand and product visibility and boost market recognition.
+Leveraging a comprehensive smart medical imaging integration platform, the Company is committed to delivering 
+precise and intelligent healthcare services tailored for the next generation of smart operating rooms. The second-
+generation smart operating room solution, iQOR, integrates 5G smart connectivity, 4K surgical imaging, surgical 
+navigation robotics, medical equipment control, online real-time video conferencing, and AI-based surgical report 
+compilation, achieving a significant smart upgrade of the surgical environment. This integrated solution not only 
+enhances surgical efficiency and medical safety but also enables remote surgical assistance and real-time clinical 
+decision-making, thereby driving the advancement and application of smart healthcare technologies.
+[ Condensed Consolidated Statement of Comprehensive Income ]
+[ Condensed Separate Statement of Comprehensive Income ]
+Unit: Thousands of NTD
+Year
+Item
+2020
+2021
+2022
+（Restated）
+2023
+2024
+Operating revenue
+1,400,850
+1,464,594
+4,376,505
+4,543,001
+4,767,352
+Gross profit
+551,628
+511,477
+1,246,419
+1,345,434
+1,448,364
+Income From Operations Profit and Loss
+97,211
+46,460
+350,264
+365,438
+333,020
+Non-Operating Income and Expenses
+8,460
+15,323
+93,970
+7,660
+(3,639)
+Income Before Tax
+105,671
+61,783
+444,234
+373,098
+329,381
+Profit From Continuing Operations for The Year
+84,119
+49,036
+365,088
+263,192
+237,253
+Loss Of Discontinued Operation
+-
+-
+-
+-
+-
+Net Income (Loss) 
+84,119
+49,036
+365,088
+263,192
+237,253
+Other Comprehensive Income - After Tax
+1,891
+(204)
+23,563
+2,361
+14,267
+Total Comprehensive Income
+86,010
+48,832
+388,651
+265,553
+251,520
+Net Income Attributable to:
+　Owners of the Parent
+62,051
+28,840
+180,244
+114,581
+104,831
+　Non-controlling Interests
+22,068
+20,196
+56,353
+85,680
+132,422
+　Previously Held Interests under Common Control
+-
+-
+43,077
+20,888
+-　
+　Equity Interests Not under Common Control Prior  
+        to Merger
+-
+-
+85,414
+42,043
+-　
+Total Comprehensive Income Attributable to:
+　
+　Owners of the Parent
+63,942
+28,636
+182,935
+111,939
+111,364
+　Non-controlling Interests
+22,068
+20,196
+56,353
+72,928
+140,156
+　Previously Held Interests under Common Control
+-
+-
+48,057
+25,425
+-　
+　Equity Interests Not under Common Control Prior  
+        to Merger
+-
+-
+100,856
+55,261
+-　
+Earnings Per Share (NTD)
+1.39
+0.65
+4.04
+2.57
+       2.35 
+Unit: Thousands of NTD
+Year
+Item
+2020
+2021
+2022
+（Restated）
+2023
+2024
+Operating revenue
+599,554
+539,561
+557,360
+432,524
+468,207
+Gross profit
+177,017
+97,536
+122,414
+129,261
+111,415
+Income From Operations Profit and Loss
+19,342
+(56,628)
+(44,203)
+(21,717)
+(38,773)
+Non-Operating Income and Expenses
+47,910
+76,754
+261,699
+175,862
+144,766
+Income Before Tax
+67,252
+20,126
+217,496
+154,145
+105,993
+Profit From Continuing Operations for The Year
+62,051
+28,840
+223,321
+135,469
+104,831
+Loss Of Discontinued Operation
+-
+-
+-
+-
+-
+Net Income (Loss) 
+62,051
+28,840
+223,321
+135,469
+104,831
+Other Comprehensive Income - After Tax
+1,891
+(204)
+8,121
+1,895
+6,533
+Total Comprehensive Income
+63,942
+28,636
+231,442
+137,364
+111,364
+Net Income Attributable to:
+　Owner of the Company
+62,051
+28,840
+180,244
+114,581
+104,831
+　Previously Held Interests under Common Control
+-
+-
+43,077
+20,888
+-
+Total Comprehensive Income Attributable to:
+　
+　Owner of the Company
+63,942
+28,636
+182,935
+111,939
+111,364
+　Previously Held Interests under Common Control
+-
+-
+48,507
+24,425
+-
+Earnings Per Share (NTD)
+1.39
+0.65
+4.04
+2.57
+2.35
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 17 
+ 
+ 
+ 
+ 
+ 
+Sustainability Governance and Management
+2.1 Corporate Sustainability
+[ Information Transparency and Strengthening Corporate Governance ]
+BenQ Medical is committed to safeguarding the rights and interests of stakeholders. In 
+addition to establishing relevant departments and personnel to address stakeholder 
+concerns, the Company actively strives to enhance corporate value and reputation, 
+aiming to become a key force in sustainable development. Since its listing on the Taipei 
+Exchange in 2015, BenQ Medical has returned value to shareholders through stable 
+dividend distribution and has maintained sound capital planning and financial structure. 
+The Company ensures timely, accurate, and transparent disclosure of its operational and 
+financial information. All announcements required by regulatory authorities are published 
+on the Market Observation Post System (MOPS) and the Company’s official website.
+[ Community Engagement and Local Care ]
+Beyond strict compliance with relevant laws and regulations to avoid negative impacts 
+on local communities and the environment, BenQ Medical also engages in regular 
+interactions with nearby communities through various activities, maintaining positive 
+relationships with local stakeholders.
+[ Stakeholder Identification ]
+Based on the stakeholder categories defined by the GRI Standards, and with reference to the AA1000 Stakeholder 
+Engagement Standard (including the principles of dependency, responsibility, tension, influence, and diverse 
+perspectives), BenQ Medical conducted internal discussions across responsible departments to identify its key 
+stakeholders. These include: investors, employees, customers, communities, suppliers, and government authorities.
+The Company is committed to maintaining constructive engagement with its stakeholders. Various internal and 
+external communication mechanisms are implemented, with each issue of concern assigned to responsible 
+departments and incorporated into their work plans. In response to evolving environmental trends and regulatory 
+updates, cross-departmental collaboration is used to ensure effective action. To maintain open and effective 
+communication channels, each stakeholder contact window collects and reports relevant information to management. 
+This feedback serves as a reference for future improvement and strategic planning, helping the Company meet 
+stakeholder expectations.
+[ Regulatory Compliance ]
+To ensure that all operations and business activities comply with applicable regulations, 
+each department of the Company conducts an annual review and update of the domestic 
+and international regulations relevant to its functions. Internal processes are adjusted 
+accordingly to reflect the latest regulatory requirements.
+In view of the specific nature of the medical device industry, BenQ Medical has established 
+a dedicated regulatory affairs department to oversee product compliance. Additionally, 
+the Company regularly obtains updated legal and regulatory information and practical 
+insights through professional agents and consultants. When necessary, external legal 
+advisors are engaged to provide expert consultation and assist with legal protection 
+measures.
+[ Risk Management ]
+BenQ Medical has established the "Risk Management Committee Operational Procedures" 
+to implement enterprise-level risk management and continuously strengthen its risk 
+management framework to ensure stable operations.
+The Company has formed a Risk Management Committee responsible for establishing, 
+implementing, overseeing, and maintaining the risk management program. Risks are 
+identified, assessed, and addressed in accordance with internal risk management 
+procedures. The Committee also leads discussions and evaluations on risk-related issues.
+2.2 Stakeholder Identification and Engagement
+Stakeholders refer to individuals or entities that are affected 
+by the Company’s operations, products, and services. In recent 
+years, society has placed increasing expectations on corporate 
+ethics, advocating that companies should not only pursue profit 
+maximization, but also enhance employee satisfaction and uphold 
+the rights and interests of all stakeholders, aiming to create win-
+win outcomes for both business and society. To achieve this goal, 
+companies must first recognize their responsibilities to stakeholders 
+and the public, and engage in meaningful communication to 
+assess the extent of stakeholder influence. Through this dialogue, 
+businesses can better understand the risks and information needs 
+of stakeholders, ensuring that communication is both effective and 
+accurate, ultimately helping to mitigate potential risks.
+Investors
+Employees
+Communities
+Government 
+Authorities
+Customers
+Suppliers
+2.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 18 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 19 
+ 
+[ Stakeholder Concerns and Communication Channels ]
+The Company firmly believes that fulfilling corporate social responsibility cannot be achieved by the Company 
+alone. Establishing a foundation of mutual trust and cooperation with stakeholders through diverse communication 
+channels is essential to achieving long-term sustainability. In addition to providing designated email accounts and 
+contact phone numbers on both internal and external websites to facilitate communication, the Company also 
+discloses up-to date information, including financial data, news releases, product details, and corporate governance 
+materials, via the Market Observation Post System (MOPS) and the official website, ensuring that stakeholders have 
+access to relevant information at all times.
+The Company places great importance on stakeholder rights and feedback. Established communication mechanisms 
+allow BenQ Medical to promptly understand and respond to stakeholder concerns, while also providing valuable 
+input for reviewing management strategies and performance across different areas, thereby driving continuous 
+improvement. The key stakeholder concerns, communication channels, and frequency of engagement are outlined 
+as follows:
+Stakeholder 
+Category
+Key Concerns
+Communication Channel
+Frequency of 
+Communication
+2024 Communication
+ Outcomes
+Investors
+1.5 Operational Performance
+3.2 Ethical Business Practices
+3.3 Risk Management
+3.5 Product Responsibility
+4.1 Climate Change and Car-
+bon Management
+4.2 Greenhouse Gas (GHG) 
+Management
+4.3 Energy Management
+CSR Website \ Sustainability 
+Report
+Annual General Shareholders’ 
+Meeting
+Institutional Investor Conference
+Financial Reports
+Company Website
+Shareholder Services Mailbox
+Investor Forum
+Institutional Shareholder Visits
+Annually
+Annually
+Annually
+Quarterly
+Irregular
+Irregular
+Irregular
+Irregular
+Held 1 Annual General 
+Shareholders’ Meeting 
+and 1 Institutional Investor 
+Conference.
+In addition, the Compa-
+ny promptly responded 
+to investor inquiries via 
+conference calls and email 
+to maintain open and 
+effective communication 
+channels.
+Customers
+3.4 Information Security Man-
+agement
+3.5 Product Responsibility
+3.6 Customer Service
+4.1 Climate Change and Car-
+bon Management
+4.2 Greenhouse Gas (GHG) 
+Management
+4.3 Energy Management
+5.5 Labor Rights and Equality
+5.7 Occupational Safety and 
+Health Management
+CSR Website \ Sustainability 
+Report
+Customer Satisfaction Survey
+Business Review Meetings with 
+Customers
+Customer Audits
+Company Website
+Annually
+Annually
+Irregular
+Irregular
+Irregular
+Customer needs and 
+feedback are promptly 
+conveyed to senior man-
+agement across relevant 
+departments. Through 
+effective internal commu-
+nication and engagement, 
+concrete action plans are 
+formulated to respond 
+swiftly to customer expec-
+tations and requirements.
+Suppliers
+3.7 Supply Chain Manage-
+ment
+3.3 Risk Management
+4.1 Climate Change and Car-
+bon Management
+4.2 Greenhouse Gas (GHG) 
+Management
+4.3 Energy Management
+5.5 Labor Rights and Equality
+CSR Website \ Sustainability 
+Report
+Questionnaire Survey and Annu-
+al Audit Visit
+Supplier Audit
+Regular Business Review Meet-
+ings
+Environmental, Health, and 
+Safety (EHS) Briefing
+Annually
+Annually
+Annually
+Quarterly
+Irregular
+Annual Supplier Evaluation
+Request for Supplier Cor-
+porate Social Responsibili-
+ty Declarations
+Promotion of Electronic 
+Procurement Processes
+Stakeholder 
+Category
+Key Concerns
+Communication Channel
+Frequency of
+ Communication
+2024 Communication 
+Outcomes
+Employees
+5.1 Talent Recruitment and 
+Development
+5.3 Employee Retention and 
+Development
+5.4 Performance Manage-
+ment System
+5.5 Labor Rights and Equality
+5.6 Healthy Workplace and 
+Employee Well-being
+Labor-Management Meetings
+Employee Performance Appraisal
+Employee Welfare Committee 
+Meetings
+Company Intranet
+Company Mailbox
+Quarterly
+Semi-annually
+Irregular
+Irregular
+Real-time
+Regular labor-manage-
+ment and employee wel-
+fare committee meetings 
+are held, and an internal 
+communication mailbox 
+is established to ensure 
+open and effective stake-
+holder engagement.
+Communities
+4.4 Water Resource Manage-
+ment
+4.5 Waste Management
+6.1 Public Welfare and Com-
+munity Engagement
+CSR Website \ Sustainability 
+Report
+Corporate Donations and Spon-
+sorship of Public Welfare Activi-
+ties
+Company Website
+Company Mailbox
+Annually
+Irregular
+Irregular
+Irregular
+The company organized 2 
+green space protection ac-
+tivities and participated in 
+3 volunteer service events 
+Government 
+Authorities
+2.1 Corporate Sustainability
+3.2 Ethical Business Practices
+4.1 Climate Change and Car-
+bon Management
+4.2 Greenhouse Gas (GHG) 
+Management
+4.3 Energy Management
+5.5 Labor Rights and Equality
+5.7 Occupational Safety and 
+Health Management
+Official Correspondence
+Market Observation Post System 
+(MOPS)
+Company Website
+Government-organized Briefings 
+and Events
+Real-time
+Real-time
+Irregular
+Irregular
+The Company continu-
+ously engages in com-
+munication and actively 
+optimizes its management 
+systems on a range of 
+material topics, including 
+ethical business practices, 
+risk management, product 
+responsibility, customer 
+service, supply chain man-
+agement, climate change 
+and carbon management, 
+greenhouse gas manage-
+ment, energy manage-
+ment, talent recruitment 
+and development, labor 
+rights and equality, and 
+social welfare.
+2.3 Material Topic Management
+[ Identification of Material Topics ]
+In accordance with the GRI Sustainability Reporting Standards, the assessment of material topics must take into 
+account a comprehensive range of internal and external factors. These include the company’s overall mission and 
+competitive strategy, the level of stakeholder concern, societal expectations, and the Company’s impact on the supply 
+chain and customers. In addition, relevant international norms and regulations applicable to the company must also 
+be considered. If the assessment indicates that these internal and external factors could have a significant impact 
+on stakeholders or on economic, social, or environmental aspects, the topic is deemed material and requires active 
+management or control.
+Following the aforementioned communication channels and guided by the GRI Standards, a stakeholder engagement 
+survey was conducted in 2024 to better understand stakeholder concerns and expectations regarding the Company’s 
+sustainability initiatives. A total of 57 valid responses were received. The results of the survey were analyzed to 
+determine the level of concern various stakeholder groups placed on specific sustainability issues.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 20 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               
+            
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 21 
+ 
+ 
+Material Topics of Key Stakeholders in 2024
+Economic
+Environmental
+Social
+ Corporate Sustainability
+ Operational Performance
+ Ethical Business Practices
+ Risk Management
+ Information Security Manage-
+ment
+ Product Responsibility
+ Customer Service
+ Supply Chain Management
+ Climate Change and Carbon 
+Management
+ Greenhouse Gas (GHG) Man-
+agement
+ Energy Management
+ Water Resource Management
+ Waste Management
+ Talent Recruitment and Devel-
+opment
+ Diversity and Non-discrimina-
+tion
+ Employee Retention and Devel-
+opment
+ Performance Management Sys-
+tem
+ Labor Rights and Equality
+ Healthy Workplace and Employ-
+ee Well-being
+ Occupational Safety and Health 
+Management
+ Public Welfare and Community 
+Engagement
+[ Material Topic Analysis Chart ]
+After identifying the key topics, they were evaluated based on two dimensions: "Level of Impact on Stakeholders", and 
+"Degree of Impact on the Economy, Environment, and Society". Each dimension was categorized into three levels— 
+Low, Medium, and High — to prioritize material topics. As shown in the chart below, 13 topics were identified as 
+having high impact on stakeholders and creating significant impact on the economy, environment, and society.
+[ Material Topic Boundaries ]
+The issues of concern to stakeholders have always been key 
+considerations for the Company. In addition to facilitating 
+communication through the aforementioned stakeholder 
+engagement channels, this report also addresses each material 
+topic within the relevant sections. The table below outlines the 
+boundaries of each material topic, the corresponding GRI Standards, 
+and the sections where each topic is addressed. In addition to 
+assessing the impact of these topics both within and outside the 
+organization, corresponding management approaches have also 
+been developed for each material issue. BenQ Medical upholds the 
+concept of sustainable development by formulating appropriate 
+management approaches for each material topic, aiming to meet the 
+expectations of internal and external stakeholders and embedding 
+corporate social responsibility into its organizational culture. Based 
+on the objectives and strategies set forth in the management 
+approach, the Company regularly reviews performance outcomes 
+and discloses the results in its CSR report. This approach allows the 
+Company to focus on relevant issues and continuously improve its 
+management policies. Modifications to the management approach 
+are evaluated in response to stakeholder feedback.
+The following table lists 13 material topics, along with the corresponding GRI Standards and response sections based 
+on the nature of each topic and the characteristics of the industry, to address stakeholder concerns accordingly.
+High
+Risk Management
+Ethical Business Practices
+Customer Service
+Healthy Workplace and Employee 
+Well-being
+Waste Management
+Information Security Management
+Labor Rights and Equality
+Public Welfare and Community 
+Engagement
+Performance Management System
+Supply Chain Management
+Public Welfare and Community 
+Engagement
+Occupational Safety and Health 
+Management
+Corporate Sustainability
+Supply Chain Management
+Climate Change and Carbon 
+Management
+Energy Management
+Talent Recruitment and 
+Development
+Employee Retention and 
+Development
+Operational Performance
+Product Responsibility
+Diversity and Non-discrimination
+High
+Low
+Degree of Impact on the Economy, Environment, and Society (Human Rights)
+Level of Impact on Stakeholders
+Material Topic and Corresponding Section
+Relevant GRI Specific Disclosures
+Topic Boundary
+Within the 
+Organization
+Outside the 
+Organization 
+(Upstream)
+Outside the 
+Organization 
+(Downstream)
+Economic
+1.5 Operational Performance
+201 Economic Performance
+⊚
+○
+○
+3.2 Ethical Business Practices
+205 Anti-corruption
+206 Anti-competitive Behavior
+⊚
+○
+○
+3.3 Risk Management
+201 Economic Performance
+⊚
+○
+○
+3.5 Product Responsibility
+201 Economic Performance
+⊚
+3.6 Customer Service
+418 Customer Privacy
+⊚
+⊚
+3.7 Supply Chain Management
+308 Supplier Environmental 
+Assessment
+414 Supplier Social Assessment
+⊚
+⊚
+Environmental
+4.1 Climate Change and Carbon 
+Management
+201 Economic Performance
+302 Energy
+305 Emissions
+⊚
+○
+○
+4.2 Greenhouse Gas (GHG) 
+Management
+201 Economic Performance
+305 Emissions
+⊚
+4.3 Energy Management
+302 Energy
+⊚
+○
+Social
+5.2 Talent Recruitment and 
+Development
+404 Training and Education
+⊚
+5.2 Diversity and Non-discrimination 406 Non-discrimination
+412 Human Rights Assessment
+⊚
+○
+○
+5.5 Labor Rights and Equality
+405 Diversity and Equal Opportunity
+406 Non-discrimination
+408 Child Labor
+409 Forced or Compulsory Labor
+412 Human Rights Assessment
+⊚
+○
+○
+6.1 Public Welfare and Community 
+Engagement
+203 Indirect Economic Impacts
+⊚
+○
+⊚:Direct Impact ○: Indirect Impact
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Governance
+3.1 Corporate Governance Structure
+BenQ Medical has established a corporate governance framework and implemented 
+related practices in accordance with the Company Act, the Securities and Exchange Act of 
+the Republic of China, and other relevant laws and regulations. The Company’s governance 
+model is composed of three key entities: the Board of Directors, the Audit Committee, 
+and the Remuneration Committee. Both the Audit Committee and the Remuneration 
+Committee are comprised entirely of Independent Directors, while all Directors (including 
+Independent Directors) are elected by shareholders through voting. The Company’s 
+corporate governance structure centers around the Board of Directors, led by the 
+Chairman, which is responsible for formulating business strategies and implementing 
+resolutions passed by the shareholders’ meeting. The Internal Audit Office assists the 
+management team in reviewing deficiencies in the internal control system and providing 
+recommendations, in accordance with the internal control system approved by the Board 
+of Directors.
+This governance framework is based on internal organizational rules that clearly define 
+the roles and responsibilities of each unit. The Company achieves effective governance 
+through a system of checks and balances among the shareholders’ meeting, the Board 
+of Directors, and other governance bodies. Key aspects of BenQ Medical’s governance 
+implementation include: strengthening the functions of the Board, safeguarding the rights 
+of shareholders and stakeholders, enhancing transparency in information disclosure, and 
+ensuring the effective operation of internal controls and audit mechanisms.
+The following sections describe the actual operations of the Board and functional 
+committees, as well as the Company’s performance in corporate governance, ethical 
+business practices, and risk management. The governance structure is illustrated below:
+Shareholders' Meeting
+Board of Director
+Chairman
+Vice Chairman
+General Manager
+Audit Office
+Audit Committee
+Remuneration Committee
+Sustainability Committee
+Risk Management 
+Committee
+Information Security 
+Committee
+Strategic Planning Office
+Finance and Operations 
+Management
+Equipment Business Unit
+Human Resources 
+Department
+Quality Assurance 
+Department
+Consumables Business Unit
+Imaging Business Unit
+China Sales Division
+Legal Office
+[ Board of Directors ]
+As the Company’s highest governance body, the Board of Directors is elected by shareholders in accordance with 
+the “Rules for the Election of Directors.” The 15th term of the Board consists of seven directors with diverse and 
+extensive academic and professional backgrounds. In accordance with legal procedures, a Chairman is elected from 
+among the directors to act as the Company’s top executive and legal representative, ensuring that the Company 
+operates smoothly and in compliance with relevant regulations. Under the leadership of the Chairman, the Board 
+of Directors regularly receives reports from the management team on company operations, performance goals, 
+growth strategies, and sustainability efforts. Each board member actively engages in regular communication with 
+management and staff at all levels to understand and promptly respond to the expectations of stakeholders. 
+The Company has established a dedicated email address for stakeholders to voice concerns or suggestions, with 
+a designated team responsible for timely response and follow-up, ensuring open and effective communication 
+channels.
+3.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 25 
+ 
+ 
+ 
+ 
+ 
+The Company has established a Sustainability Development Committee, chaired by the General Manager as the 
+highest-level coordinator. Implementation work is carried out by a task force composed of department heads or 
+designated representatives from various business units. The committee holds at least one meeting annually to set 
+sustainability goals across economic, environmental, and social dimensions, and to implement relevant action plans. 
+The Company adopts the Global Reporting Initiative (GRI) Standards for preparing its sustainability disclosures, 
+aligning itself with international best practices.
+The Board of Directors regularly reviews the progress and effectiveness of the Company’s sustainability goals. In 
+the future, the Company will prepare and submit an annual sustainability report to the Board, serving as a tool to 
+evaluate each unit’s performance on economic, environmental, and social issues. This ensures that the Company's 
+sustainability strategy is aligned with stakeholder expectations and supports the realization of the Company’s vision.
+[ Diversity of The Board of Director  ]
+On October 8, 2015, the Company’s Board of Directors approved the adoption of the "Corporate Governance 
+Best Practice Principles," which includes a diversity policy under Chapter 3: "Enhancing the Function of the Board 
+of Directors." Board members are nominated and selected through a candidate nomination system. In addition 
+to evaluating each candidate's academic and professional qualifications, the opinions of stakeholders are also 
+considered. The process adheres to the "Rules for Election of Directors" and the "Corporate Governance Best 
+Practice Principles" to ensure diversity and independence among board members.
+Board members should generally possess the knowledge, skills, and character necessary to perform their duties. To 
+achieve the goals of sound corporate governance, the board as a whole should have the following capabilities:
+(1) Ability to make operational judgment.
+(2) Ability to perform accounting and financial analysis.
+(3) Ability to conduct management administration.
+(4) Ability to conduct crisis management.
+(5) Industrial knowledge.
+(6) International market perspective.
+(7) Ability to lead.
+(8) Ability to make decisions.
+(9) Risk management knowledge and ability.
+[ Board Performance Evaluation ]
+The results of the internal evaluation have been submitted to the Company’s first Board meeting of 2025.
+[ Remuneration Committee ]
+The Company established the Remuneration Committee on June 10, 2013. Comprising three independent 
+directors, the Committee functions in a professional and objective capacity to evaluate the policies and systems 
+for remuneration of the Company’s directors and managerial officers, and to provide recommendations to the 
+Board of Directors. The function of the Remuneration Committee is to evaluate the Remuneration policies and 
+systems for the Company’s directors and managerial personnel from a professional and objective standpoint, 
+and to make recommendations to the Board of Directors. In accordance with the Securities and Exchange Act 
+of the Republic of China, relevant administrative orders, and the BenQ Medical’s Remuneration Committee 
+Charter, members of the Remuneration Committee are appointed by the Board of Directors and must consist of 
+at least three independent directors.
+The Committee shall act with the care of a prudent manager and faithfully perform the following duties, 
+submitting its recommendations to the Board for discussion:
+1. Periodically review and propose amendments to this Charter.
+2. Establish and periodically review the Company's annual and long-term performance goals for directors and 
+managerial personnel, as well as policies, systems, standards, and structures of their Remuneration.
+3. Periodically evaluate the achievement of performance goals by directors and managerial personnel and 
+determine their individual remuneration packages and amounts.
+Evaluation 
+Cycle
+Conducted once every year
+Evaluation 
+Period
+From January 1, 2024 to December 31, 2024
+Evaluation 
+Scope
+Board of Directors and Individual Board Members
+Functional Committees (Including the Audit Committee 
+and Compensation Committee)
+Evaluation 
+Method
+Internal Self-Evaluation of the Board of Directors
+Internal Self-Evaluation of Functional Committees
+Evaluation 
+Content
+Understanding of Company Goals and Missions; Level 
+of Participation in Company Operations; Management 
+of Internal Relationships and Communication; 
+Enhancement of Board Decision-Making Quality; Board 
+Composition and Structure; Awareness of Director 
+Responsibilities; Director Selection; Professionalism 
+and Continuing Education; Internal Control
+Level of Participation in Company Operations; 
+Awareness of Functional Committee Responsibilities; 
+Decision-Making Quality of Functional Committees; 
+Composition and Member Selection of Functional 
+Committees; Internal Control
+Evaluation 
+Results
+Excellent
+Good
+Satisfactory
+Needs 
+Improvement
+Excellent
+Good
+Satisfactory
+Needs 
+Improvement
+The internal evaluation of the Board of Directors and 
+individual members for fiscal year 2024 achieved a 
+completion rate of 99.94%, with the evaluation result 
+rated as “Excellent.”
+The internal evaluation of the Audit Committee and 
+its individual members for fiscal year 2024 achieved a 
+completion rate of 99.67%, with the evaluation result 
+rated as “Excellent.” 
+The internal evaluation of the Compensation Committee 
+and its individual members for fiscal year 2024 achieved 
+a completion rate of 98.75%, with the evaluation result 
+rated as “Excellent.”
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 26 
+ 
+ 
+ 
+  2024 ESG Report / 27 
+ 
+ 
+When performing the above duties, the Committee shall adhere to the following principles:
+1. Ensure that the Company’s compensation arrangements comply with applicable laws and are sufficient to 
+attract top talent.
+2. Performance evaluations and compensation for directors and managerial personnel should be benchmarked 
+against industry standards and take into account individual time commitments, responsibilities, achievement 
+of personal goals, performance in other positions, and historical compensation for similar positions. 
+Evaluations should also consider the Company's short- and long-term business goals, financial status, and 
+the reasonableness of linking individual performance with corporate performance and future risk.
+3. Compensation policies should not encourage directors and managerial personnel to engage in risk-taking 
+beyond the Company’s risk appetite.
+4. When determining the ratio of bonuses and the timing of variable compensation payouts based on short-
+term performance, the characteristics of the industry and the nature of the Company's business should be 
+considered.
+5. Members of the Committee shall not participate in discussions or voting on their own remuneration 
+decisions.
+1. Adoption or amendment of the internal control system in accordance with Article 14-1 of the Securities and 
+Exchange Act.
+2. Assessment of the effectiveness of the internal control system.
+3. Adoption or amendment of procedures for major financial operations such as acquisition or disposal of 
+assets, derivatives trading, lending of funds to others, and endorsements or guarantees for others, pursuant 
+to Article 36-1 of the Securities and Exchange Act.
+4. Matters involving conflicts of interest for directors themselves.
+5. Major asset or derivatives transactions.
+6. Significant lending of funds, endorsements, or provision of guarantees.
+7. Raising, issuance, or private placement of equity-type securities.
+8. Appointment, dismissal, or compensation of the certified public accountant (CPA).
+9. Appointment or dismissal of financial, accounting, or internal audit officers.
+10. Annual financial reports and second quarter financial reports that must be audited and certified by a CPA.
+11. Other major matters as stipulated by the company or competent authorities.
+The Company’s Remuneration Committee consists of three members. The current term is from June 9, 2023, 
+to June 8, 2026. The Committee convened two regular meetings in 2024, with an attendance rate of 100%.
+The current term of the Audit Committee is from June 9, 2023 to June 8, 2026. The Committee convened 
+four regular meetings in 2024, with an attendance rate of 100%.
+[ Audit Committee ]
+The Company established its Audit Committee on June 6, 2014. The committee is composed of three 
+independent directors and is intended to assist the Board of Directors in fulfilling its oversight responsibilities 
+with respect to accounting, auditing, financial reporting processes, and the quality and integrity of financial 
+controls. 
+3.2 Ethical Business Practices
+[ Conflict of Interest Avoidance ]
+The Company has established a “Code of Ethical Corporate 
+Management,” which clearly prohibits directors, managerial officers, and 
+all employees from engaging in any business activities listed under Article 
+7, Paragraph 2 of the “Ethical Corporate Management Best Practice 
+Principles for TWSE/GTSM Listed Companies” or any other operations 
+deemed to carry a high risk of unethical conduct within the Company’s 
+business scope. The Code sets forth clear operating procedures, 
+behavioral guidelines, disciplinary measures, and a grievance system, all 
+of which are rigorously implemented. At the end of each year, a report 
+on the execution of ethical corporate management is submitted to the 
+Board of Directors, during which the need for any amendments to the 
+Code is reviewed.
+Within the Board of Directors, all members uphold a high standard of 
+self-discipline. For board proposals in which a director has a conflict of 
+interest that may harm the Company’s interests, such director shall voluntarily recuse themselves from discussion 
+and voting, and may not vote on behalf of other directors. If a director’s spouse, a relative within the second degree 
+of kinship, or a company in which the director has a controlling/subordinate relationship has a vested interest in 
+the matter, the director shall be deemed to have a personal interest in the matter and shall recuse themselves in 
+accordance with the above provisions.
+[ Ethical Business Conduct and Anti-Corruption ]
+The Company has adopted the “Code of Ethical Corporate Management” and “Code of Ethical Conduct”, both 
+approved by the Board of Directors, which clearly articulate our policies and practices on ethical business conduct, 
+along with the commitment of the Board and senior management to implementing these principles.
+The Company evaluates the integrity of counterparties before establishing business relationships; however, clauses 
+pertaining to ethical conduct are not explicitly included in contract terms. Both the Company and its subsidiaries 
+are committed to ethical business practices, and these principles are fully integrated into internal management and 
+business operations. Commercial activities are conducted in accordance with the principles of integrity, fairness, and 
+transparency.
+To strengthen the management of ethical business practices, the Company and its subsidiaries have designated 
+responsible personnel to oversee the formulation and execution of anti-corruption and integrity programs. Regular 
+reports are made to the Board of Directors. On March 3, 2025, the Board was informed that in 2024: There were no 
+material violations of the Code of Ethical Corporate Management, 100% of employees completed the required ethics 
+training and testing, and no whistleblower complaints related to integrity were received.
+The Company’s Code of Ethical Corporate Management and Rules of Procedure for Board Meetings establish conflict 
+of interest avoidance mechanisms. For Board proposals where a director or the legal entity they represent has a 
+conflict of interest that may harm the Company’s interests, the director may express opinions and respond to inquiries 
+but must abstain from participating in discussion and voting, and may not act as a proxy for other directors. These 
+Conflict of Interest Guidelines are also communicated to employees to prevent losses caused by business-related 
+conflicts of interest.
+An integrity reporting channel has been established via the dedicated email: Integrity@BenQMedicalTech.com.
+The Company has established an Internal Control System (including supervision and management of subsidiaries). The 
+internal audit unit periodically evaluates risks and develops audit plans accordingly. Audits are performed based on 
+the plan, with additional special audits conducted when necessary. Audit results are reported regularly to the Audit 
+Committee and the Board of Directors, enabling management to monitor the effectiveness of internal controls and 
+achieve sound governance.
+In November 2024, the Company completed company-wide ethics training through an online course and test for all 
+employees.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 28 
+ 
+ 
+ 
+  2024 ESG Report / 29 
+ 
+ 
+3.3 Risk Management
+[ Risk Management Policy ]
+(1) To ensure sustainable operations, the Risk Management Committee shall annually identify, assess, address, 
+report, and monitor risks that may adversely impact the Company’s operational objectives.
+(2) Risks shall be identified and controlled prior to the occurrence of incidents; losses shall be minimized during 
+incidents; and products and services shall be promptly restored afterward. For major risk scenarios identified by 
+the Risk Management Committee, business continuity plans shall be established.
+(3) For risks that fall within the Company’s risk tolerance threshold, various management tools may be adopted 
+based on cost-effectiveness. However, the following situations are excluded from such discretion:
+•	Risks with negative impacts on employee safety and life;
+•	Risks that may result in violations of laws or regulations;
+•	Risks with potential to damage the Company’s reputation.
+[ Risk Management Vision ]
+(1) The Company is committed to the continuous provision of products and services that create long-term value for 
+customers, shareholders, employees, and society.
+(2) Risk management must be supported by a systematic organizational framework and operating procedures 
+to timely and effectively identify, assess, address, report, and monitor material risks that could impact the 
+Company’s ability to operate. This also includes strengthening risk awareness among all employees.
+(3) The goal of risk management is not to eliminate all risks, but rather to pursue optimal benefits within acceptable 
+risk levels, thereby optimizing the cost of risk management.
+(4) Particular attention shall be paid to risks that may negatively impact the Company’s reputation.
+[ Risk Management Process ]
+[ Risk Management Matrix ]
+•	 Board of Directors
+•	 Risk Management 
+Committee
+•	 Business Units
+•	 Business Units
+•	 Risk Management 
+Department
+Risk Oversight
+Risk 
+Identification
+Risk 
+Assessment
+Risk Response
+The Company’s risk management procedures are governed by the Risk Management Guidelines, which define the 
+processes of risk detection, assessment, implementation, and review. Risk is managed through a three-tier structure:
+(1) Risk Management Committee chaired by the General Manager. The Risk Management Committee, chaired by 
+the General Manager, is responsible for reviewing risk warning mechanisms and response plans proposed by 
+operational departments. Upon approval of these proposals, the Committee identifies not only the department 
+initially reporting the risk but also other departments involved, thereby facilitating cross-departmental 
+collaboration to mitigate the potential impact of the risk on the Company’s overall operations. Additionally, the 
+Audit Office conducts an annual audit of the established response plans to ensure proper functioning of the risk 
+warning mechanisms.
+(2) Operational Department Heads are responsible for identifying risk items. Upon review by the Risk Management 
+Executive Secretary and approval by the Committee Chair, a formal risk management report is drafted. Each 
+quarter, departments implement and track risk mitigation plans and present updates at quarterly risk management 
+meetings. An annual risk management report must also be compiled and submitted for review.
+(3) As the first line of defense in risk control, Operational Departments are tasked with identifying and assessing short-, 
+medium-, and long-term risks relevant to their functions. Departments perform either qualitative or quantitative 
+risk assessments and, based on the outcomes, formulate preliminary risk warning mechanisms and response 
+plans.
+Risk 
+Category
+Risk Item
+Risk Description / Mitigation Measures
+Strategy
+Software Licensing and 
+Compliance
+• The current Office software version is nearing end-of-support. Failure to update in a timely manner 
+may result in risks related to information security, compatibility, technical support, and potential 
+business disruption. Additionally, insufficient licensing for some software may lead to legal and com-
+pliance issues, brand and reputational damage, and financial risks.
+• The proposed strategy is to upgrade the software and ensure adequate licensing to mitigate the 
+aforementioned risks.
+Finance
+Capital Management
+• In the event of significant capital needs, failure to properly assess the optimal source of funding may 
+result in increased financing costs, which could negatively impact profitability. Inappropriate capital 
+planning may also lead to negative media coverage, affecting the Company’s image and stakeholder 
+confidence, and may further cause funding disruption that jeopardizes business continuity.
+• Proposed actions include: expanding relationships with new banks, increasing credit limits with exist-
+ing banks, conducting quarterly briefings with securities firms to stay informed on market conditions 
+and financing strategies, and proactively planning timelines for equity-based fundraising tools.
+Operations
+Compliance Oversight
+• In response to the revised US FDA QMSR requirements, failure to implement timely updates may 
+affect healthcare institutions’ and consumers’ confidence in product quality, damage brand reputa-
+tion, and result in an inability to sell products in the U.S. market.
+• Plan to establish and implement procedures aligned with the updated US FDA QMSR quality man-
+agement system.
+Business Concentration
+• Domestic sales of precision infusion sets are overly concentrated. The National Health Insurance 
+conducts a price-volume survey every four years, and reductions in reimbursement points may lower 
+hospital purchase prices for medical supplies, impacting revenue and profitability.
+• Plan to expand product portfolio to reduce reliance on a single item; increase the proportion of 
+export business.
+Business Continuity
+• To prevent business disruption in retail stores caused by cyberattacks.
+• Plan to establish a backup system and improve backup mechanisms; upgrade IT infrastructure; en-
+hance the professional capabilities of IT and cybersecurity personnel; plan employee cybersecurity 
+awareness training to strengthen preventive measures.
+Hazard
+Employee Health and 
+Safety
+• Prevent personnel from being caught or injured by operating automated equipment.
+• Plan to ensure that machinery, equipment, or tools with potential hazards are equipped with neces-
+sary safety and health devices and measures in accordance with regulatory requirements.
+Note: List of high and medium-level risks in the current year
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 30 
+ 
+ 
+ 
+  2024 ESG Report / 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A/B/C
+A 
+ 
+All 
+A/B/C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4 Information Security Management
+[ Information Security Policy ]
+BenQ Medical has established an Information Security Management Committee, with the General Manager serving as 
+the Chief Convener. Dedicated information security officers and personnel are appointed to ensure the confidentiality, 
+integrity, availability, and legality of information assets, including hardware, software, data, documents, and personnel 
+related to information processing. This is to prevent intentional or accidental threats from both internal and external 
+sources. The policy is formulated based on the Company's operational needs and with reference to the international 
+standard ISO 27001 for information security.
+[ Information Security Management Process ]
+Through the implementation of the Information Security Management System, the Company enforces its information 
+security policy, protects customer data and intellectual property, strengthens incident response capabilities, and 
+achieves the measurable objectives of the information security policy. This approach fulfills the expectations of 
+stakeholders and continuously enhances the Company's information security controls through the PDCA cycle, thereby 
+contributing to improved competitiveness.
+[ Information Security Incident Reporting Procedure ]
+According to the “Emergency Incident Reporting Procedure,” information security incidents are categorized into 
+three levels, A, B, and C, from high to low severity. When an employee encounters an information security incident, 
+the incident responder or the information security officer will assess and respond accordingly, determining whether 
+to activate the emergency response plan or handle it as a routine issue. After the response is concluded, an incident 
+report must be completed to prevent recurrence of similar incidents.
+[ Information Security Risk Management ]
+To effectively protect the Company’s information assets within the information security management system, relevant 
+regulations are established and implemented, along with conducting risk assessments to determine the risk levels 
+of information assets. Based on the results of the assessments and internal discussions, appropriate risk treatment 
+measures are adopted to mitigate, transfer, eliminate, or accept the risks.
+Each year, the Company reviews applicable laws and evaluates internal information security regulations to ensure legal 
+compliance and effectiveness. Information security policies are regularly promoted to prevent violations that could 
+harm the Company.
+In the supply chain environment, contracts with third-party service providers include requirements for confidentiality 
+and cybersecurity compliance. In addition to basic information security training during onboarding, the company 
+conducts regular phishing simulation exercises and provides training on secure email handling and other cybersecurity 
+practices to reduce the risk of employees clicking on malicious emails. These training activities not only raise 
+employees’ awareness of information security but also help integrate security practices into daily operations.
+•	 	Establish an information security management organization to supervise the implementation of the information 
+security management system, identify internal and external issues, and understand the expectations and 
+requirements of relevant stakeholders regarding the Company’s information security.
+•	 Assess and manage information security risks within internal Company processes.
+•	 	Enhance information security awareness among all employees and define roles and responsibilities.
+•	 	Ensure that external vendors comply with the Company’s information security requirements.
+•	 	Develop information security performance indicators.
+•	 	Establish and conduct drills for the business continuity plan of IT operations.
+•	 	Respond to and manage information security incidents.
+•	 	Ensure compliance with applicable laws 
+and regulations.
+•	 	Arrange information security insurance 
+coverage.
+[ Information Security Control Measures ]
+Issue Public 
+Notification
+Detection of 
+Information 
+Security Incident
+Report to 
+Information 
+Security Officer
+Notify 
+Implementation and 
+Risk Control Units
+Report to Headquarters: 
+Committee Chair / Vice 
+Chair
+Report to Headquarters :
+Responsible Committee Members 
+/ Officers / Chief Officer
+ Execute 
+Response Plan
+Notify Headquarters 
+Information Security 
+Officer
+Incident Handling
+Completion: Fill in Operation Log or 
+Incident Report
+General Events
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 32 
+ 
+ 
+ 
+  2024 ESG Report / 33 
+ 
+ 
+ 
+ 
+ 
+ISO 13485:2016/ EN ISO 13485:2016 
+2023/09/05~2026/09/06 
+ 
+6
+2
+/
+2
+1
+/
+5
+2
+0
+2
+~
+5
+2
+/
+2
+1
+/
+2
+2
+0
+2
+  
+5
+1
+0
+2
+:
+1
+0
+0
+4
+1
+ 
+O
+S
+I
+MDR 2017/745/EU
+Class I
+ 
+ 
+PPER 2016/425/EU
+Module D
+ 
+2023/10/09~2026/10/09 
+QMS Quality Management System for Medical Device Manufacturers
+ 
+2023/12/22~2027/04/30 
+ 
+ 
+ 
+ISO 13485:2016/ EN ISO 13485:2016 
+2023/09/05~2026/09/06 
+QMS Quality Management System for Medical Device Manufacturers 
+2023/04/05~2026/04/05 
+ 
+ 
+ 
+ 
+[ Information Security Management Actions ]
+[ Quality Management Systems and Validity Periods ]
+Action Program
+Action Plan
+Execution Results
+Information Securi-
+ty Framework
+Appoint a Chief Information Security 
+Officer (CISO) and an Information Security 
+Staff Member
+In June and October 2023, reported the appointment 
+of one CISO and one information security staff member. 
+The CISO is responsible for planning, implementing, and 
+strengthening information security. Security risks are re-
+viewed annually at the Risk Management Committee, and 
+improvement progress is tracked quarterly.
+Firewall and Cyber Insurance
+Upgraded one firewall device in October 2023. Jointly pur-
+chased cyber insurance with the group as a risk manage-
+ment solution against cybersecurity threats, with coverage 
+of USD 15 million.
+Information Securi-
+ty Defense
+Information Security Training covers cyber-
+security concepts, awareness campaigns, 
+security risks and intrusion techniques, 
+case studies, and countermeasures.
+In 2024, a total of 278 employees completed online cyber-
+security training and assessments. Two rounds of social 
+engineering phishing email simulations were conducted. 
+More than five cybersecurity bulletins were issued to com-
+municate important regulations and precautions related to 
+information protection.
+Irregular Selection of Information Security 
+Incident Cases
+Important information security awareness is promoted 
+across the Company via system announcements or email 
+based on selected incident cases.
+Participation in Group-Level Information 
+Security Meetings
+Participated in 12 joint information security work brief-
+ings and 4 thematic discussions with the Group in 2024 to 
+address various cybersecurity issues and develop corre-
+sponding countermeasures.
+3.5 Product Responsibility
+BenQ Medical adopts the quality management policy “Design and manufacture products and services that 
+meet expected performance and ensure safe use in compliance with regulatory requirements, in order to satisfy 
+customer needs.”. The Company’s quality management system is established in accordance with relevant regulatory 
+requirements for medical device quality management systems in various countries. Through the continual operation of 
+this system, the Company aims to establish a reliable quality control mechanism that ensures the quality of products 
+and services throughout the entire lifecycle meets customer expectations. To ensure the effective implementation 
+and consistency of the quality system, internal audits are initiated annually by the Quality Assurance Department, and 
+external audits are conducted once a year to verify the system's execution.
+The Guishan Plant obtained ISO 13485:2016 and ISO 14001:2015 certifications in 2017, received EU CE MDR 
+certification for Class I medical devices in 2021, and acquired EU CE PPER certification for personal protective 
+equipment (FFP2/N95) in 2023. It has also held a Medical Device Manufacturer Quality Management System (QMS) 
+Certificate since 2023. The Taichung Plant obtained ISO 13485:2016 certification in 2017 and has maintained its QMS 
+certification for medical device manufacturing since 2021. The validity of all certificates is maintained through annual 
+surveillance.
+Management Systems (Guishan Plant)
+Management Systems (Taichung Plant)
+Item
+Explanation
+Validity Period
+Validity Period
+No expiration date
+Quality Training and 
+Education
+1. A total of 20 hours of regulatory and technical training were provided to TFDA-
+certified medical device technical personnel. The training covered topics 
+including: ISO 11135: Standards and Practical Applications, ISO 17665: Standards 
+and Practical Applications, Medical Device Quality Management System (QMS) 
+and QSD Application Practices
+2. Key personnel completed specialized training programs: 1 participant completed 
+training for Instrument Calibration Management, 2 participants completed 
+training for Validation Implementation, 1 participant completed training for 
+Clinical Evaluation, 2 participants completed training for Risk Management
+[ Future Quality Planning ]
+With the continuous expansion of the Company’s business and the diversification of product lines, the Company 
+successfully obtained QMS certification for air mattresses and ISO 13485 certification for ceiling pendants in 2024. 
+In 2025, the Company plans to apply for product registration and ISO 13485 certification for a new laser therapy 
+device. The Company will ensure that quality management planning and control mechanisms are implemented 
+throughout the entire product lifecycle, including design, development, production, storage, sales, and after-sales 
+service. It is in full compliance with ISO 13485 quality management system requirements.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 35 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+408 
+35 
+ 
+3.6 Customer Service
+3.7 Supply Chain Management
+BenQ Medical's products are distributed both domestically and internationally, with overseas markets spanning Asia, 
+the Americas, Europe, and other regions. Customer services are managed by respective business units, covering 
+product training, after-sales support, and related services. A toll-free service hotline (0800-015533) and dedicated 
+email address (tm.Service@BenQMedicalTech.com) are available for handling customer inquiries and complaints, 
+which are managed by assigned personnel.
+A high-quality and stable supply chain is fundamental to the product development of BenQ Medical. The Company 
+ensures that the procurement of raw materials and services complies with sustainable development principles, while 
+fostering mutual prosperity and collaboration with suppliers through its supply chain management system.
+In 2024, a total of four customer complaint reports were issued, all of which have been closed, 
+achieving a 100% closure rate. There were no MDR reportable incidents, and no product recalls 
+due to regulatory changes.
+[ Customer Satisfaction Survey ]
+The Marketing and Product Management Department conducts an annual customer satisfaction survey, covering three 
+major regions: China, Taiwan, and international markets. Survey items include satisfaction with marketing information, 
+product performance, sales service, customer service handling, and logistics. The survey results are presented in the 
+management review meeting, where customer feedback is also analyzed to set satisfaction targets for the following 
+year.
+In 2024, a survey was conducted targeting key customers, with 29 valid responses collected. The average customer 
+satisfaction score was 90.1 out of 100. All feedback and suggestions provided by customers were thoroughly analyzed 
+by the Marketing and Product Management Department, and corresponding solutions and improvement measures 
+were formulated and implemented. All issues were addressed appropriately, with no significant impact on business 
+operations.
+[ Supplier Evaluation Results ]
+In 2024, a total of 408 suppliers underwent evaluation, with 1 supplier rated as non-compliant, resulting in a 
+compliance rate of 99.75%.
+If a supplier is deemed non-compliant due to quality issues, the Quality Department shall issue an analysis report and 
+notify relevant departments. When necessary, a review meeting will be convened for further discussion. For suppliers 
+whose evaluation scores are near the threshold of non-compliance due to quality issues, the Quality Department will 
+assist in identifying root causes and define a re-evaluation date for reassessment.
+If the non-compliance arises from factors other than quality, such as delivery performance or service. Procurement 
+will engage in discussions with the supplier for improvement. If the supplier fails to comply after negotiation, an 
+alternative supplier will be sourced for replacement.
+[ Supplier Management Principles ]
+[ Number and Types of Suppliers ]
+[ Customer Complaint Handling Process ]
+Product 
+Notification 
+(Product Recall)
+Customer 
+Complaint 
+Received
+Root Cause 
+Analysis
+Customer Closure
+Record Retention
+Determined as 
+Non-Complaint
+Determined 
+as 
+Customer 
+Complaint
+Completion:Final Review and Record 
+Retention by Management Representative
+Complete CAPA 
+Form (Corrective/
+Preventive Action)
+Customer fills out 
+the Complaint 
+Handling Form
+MDR Event
+Customer 
+Feedback
+Supplier Management Process
+Sustainable Supplier Management Requirements
+Suppliers
+Supplier Evaluation Process
+Supplier Evaluation Criteria
+Quantity Statistics
+1. Supplier Selection
+     Data collection and preliminary screening
+2.	 Supplier Evaluation
+     Supplier quotations, delivery timelines, cooperation criteria, and 
+sample product submission
+3.	 Supplier Review and Approval
+4.	 Supplier Registration
+5.	 Transaction Records
+General Suppliers
+Critical Component Suppliers
+1. Suppliers in Mass Production / An annual evaluation shall 
+be conducted based on the “Supplier/Subcontractor 
+Evaluation Form” scoring criteria. This assessment is 
+performed at least once per year and is implemented in 
+the first quarter (Q1) of the following year.
+2. Suppliers of Critical Components in Mass Production / In 
+addition to the annual evaluation, a mid-year assessment 
+is required and shall be conducted in the third quarter 
+(Q3) of the same year.
+1. Delivery Performance/ Scored based on late delivery rate 
+(%) and divided into five levels: 20 / 15 / 10 / 5 / 0 points.
+2. Service Quality / Evaluated by procurement personnel, 
+with a maximum score of 20 points. 
+3. Product Quality / Scored based on defect rate (%) and 
+divided into five levels: 60 / 50 / 40 / 30 / 20 points.
+Total score: 100 points. A score below 60 is considered 
+unqualified, and suppliers of critical components must score 
+at least 70 points to be deemed qualified.
+1. Give priority to suppliers in compliance with EU RoHS regulations.
+2. Promote supply chain localization by prioritizing local suppliers to 
+improve service efficiency, shorten delivery time, reduce transportation 
+distance of raw materials, and minimize carbon emissions.
+3. Encourage and cooperate with suppliers in packaging material recycling.
+4. Request suppliers to respond to corporate social responsibility (CSR) 
+initiatives.
+5. Promote and implement an electronic procurement process.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 36 
+ 
+A/B/C 
+A 
+All 
+A/B/C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.8 Emergency Incident Reporting
+According to the Emergency Incident Reporting Procedure, incidents are categorized into three levels: A, B, and C, in 
+descending order of severity. When an incident occurs, it is handled by designated incident response personnel or the 
+Information Security Officer, who assesses whether to activate the emergency response plan or proceed with general 
+handling procedures.
+[ Emergency Incident Reporting Procedure ]
+[ Incident Reporting Classification Levels ]
+Issue Public 
+Notification
+Detection of 
+Information 
+Security Incident
+Report to 
+Information 
+Security Officer
+Notify 
+Implementation and 
+Risk Control Units
+Report to Headquarters: 
+Committee Chair / Vice 
+Chair
+Report to Headquarters :
+Responsible Committee Members 
+/ Officers / Chief Officer
+ Execute 
+Response Plan
+Notify Headquarters 
+Information Security 
+Officer
+Incident Handling
+Completion: Fill in Operation Log or 
+Incident Report
+General Events
+Reporting 
+Categories
+Time Limits
+Major Emergency Types
+A
+Within 2 hours
+ Environmental, Health and 
+Safety (EHS) Incident
+ Social Responsibility / 
+Public Health
+ Public Affairs
+ Business Interruption
+ Supplier Disruption
+ Transportation Incident
+ HUB Cargo Loss
+ Property Loss
+ Litigation / Legal Dispute
+ Maintenance Service 
+Interruption / Customer 
+Complaint
+ Information Security Incident
+B
+Within 4 hours
+C
+Within 8 hours
+General Events
+Pursuant to the regulations
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 38 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 39 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1 Climate Change and Carbon Management
+[ TCFD Climate-Related Financial Disclosures ]
+Environmental Sustainability
+Core 
+Framework
+Response Measures
+Governance
+Board of 
+Directors
+The Board of Directors is primarily responsible for overseeing 
+and providing guidance on climate-related matters, including 
+the assessment of financial risks arising from climate issues, 
+climate-related capital expenditures, and leveraging R&D to 
+capture opportunities related to climate challenges. In the 
+future, when evaluating mergers or investments, the Board will 
+require climate-related due diligence on the target Company’s 
+operations as a prerequisite for approving such transactions.
+Sustainability 
+Development 
+Committee
+The Sustainability Development Committee is responsible 
+for initiating and promoting practices related to corporate 
+governance, corporate social responsibility, and ethical business 
+conduct. It also evaluates matters concerning governance, 
+environmental, and social responsibilities.
+Risk 
+Management 
+Committee
+To ensure sustainable business operations and a sound risk 
+management framework, the Risk Management Committee 
+is responsible for implementing, promoting, monitoring, and 
+maintaining the company’s risk management plans.
+Strategy
+Definition of 
+Short, Medium, 
+and Long-
+Term Risks and 
+Opportunities
+BenQ Medical defines short-term (within 3 years), medium-
+term (within 10 years), and long-term (beyond 10 years) risks 
+and opportunities based on its financial planning, strategic 
+direction, and corporate vision. These definitions are aligned 
+with sustainability trends and the analyses provided by the 
+Sustainability Development Department, allowing the company 
+to adjust its operational planning accordingly over time.
+Enhancing the 
+Application of 
+TCFD
+The TCFD framework serves as the foundation for evaluating 
+climate-related risks and opportunities. Building on existing 
+analysis results, the Company continuously strengthens its 
+overall climate-related management system to enhance its 
+response to climate issues.
+Strengthening 
+Scenario Analysis
+The Company continuously monitors the latest findings from 
+the IPCC Assessment Reports and incorporates them into the 
+planning of risk and opportunity response measures.
+Risk 
+Management
+Information 
+Mastery
+The Company will continue to monitor climate risk-related 
+information, resources, and tools both domestically and 
+internationally. The ongoing effort supports the updating of 
+the Company’s risk baseline data, facilitates the assessment of 
+physical risk severity, and enables timely adjustments to risk 
+response measures.
+Phased 
+Implementation
+Based on the current assessment of risk materiality and the 
+projected short-, medium-, and long-term timeframes of 
+potential risks, BenQ Medical gradually implements appropriate 
+risk response measures in a phased manner.
+Performance 
+Evaluation
+For implemented response measures, performance is evaluated 
+against the objectives set at the project level. Major climate-
+related proposals are submitted to the Board of Directors for 
+review and rolling adjustments are made accordingly.
+Metrics and 
+Targets
+Key Management 
+Indicators
+BenQ Medical plans to establish sustainability performance 
+indicators and manage them using ISO standards or other inter-
+nationally recognized frameworks and tools.
+International 
+Initiative Goals
+In alignment with the parent company’s strategy, BenQ Medi-
+cal supports international carbon reduction initiatives such as 
+RE100.
+Note: Sustainable Development Committee was established in 2024.
+[ Risk and Opportunity Assessment Procedure ]
+Following the TCFD framework, BenQ Medical analyzes global climate-related trends and industry-specific 
+focus areas to identify physical and transition-related climate risks and opportunities. The Company’s TCFD 
+implementation process consists of the following four key steps: (1) Collection of Climate-Related Risk and 
+Opportunity Topics (2) Identification of Material Climate Risks (3) Analysis of Financial Impacts (4) Development 
+of Response Strategies.
+Step
+Approach
+1. Collection of Climate-Related 
+Risk and Opportunity Topics
+Through climate change research reports published by international 
+research institutions and engagement with stakeholders, BenQ 
+Medical collects potential risk and opportunity issues related to its 
+operations, environment, and products.
+2. Identification of Material 
+Climate Risks
+Through discussions, all potential climate-related risks and 
+opportunities that may impact operations are consolidated.
+3. Analysis of Financial Impacts
+Quantify the financial impact of key risks to understand potential 
+effects on operations, and adjust the existing risk management 
+mechanisms accordingly.
+4. Development of Response 
+Strategies.
+Propose response measures for the identified risks and 
+opportunities.
+4.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 41 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[ Climate-Related Risks and Response Measures ]
+[ Climate-Related Opportunities and Mitigation Measures ]
+Type
+Risk
+Description
+Potential Financial Impact
+Response Measures
+Transition 
+Risks
+Policy and Legal
+ Government-imposed 
+carbon reduction 
+regulations
+ Competition for 
+renewable energy 
+certificates
+ Replacement of 
+production equipment, 
+increased operational 
+costs
+ Actively develop low-carbon and 
+green products; long-term planning 
+helps drive order growth and 
+increase revenue.
+ Disclose greenhouse gas inventory 
+results and implement greenhouse 
+gas reduction projects.
+Technology
+ Market demand for 
+low-carbon goods and 
+services
+ Implementation of 
+carbon fees
+ New operational cost 
+expenditure
+ Implement greenhouse gas 
+reduction projects.
+Market
+ Development of low-
+carbon green products
+ Low-carbon green raw 
+materials are difficult 
+to obtain, leading to 
+increased operating costs, 
+process challenges and 
+declining revenue
+ Collect information on green 
+products domestically and 
+internationally, and develop 
+environmental sustainability 
+programs.
+ Enhance green procurement 
+management and improve process 
+technology.
+Reputation
+ Increasing attention and 
+negative feedback from 
+stakeholders.
+ Impact on workforce 
+management and 
+planning.
+ Provide employee retention and 
+development measures
+Physical 
+Risks
+Immediate Risks  Typhoons and heavy 
+rainfall causing flooding
+ Damage to production 
+capacity, decline in 
+reputation
+ Capital losses
+ Establish remote work arrangements 
+and shift-based production 
+strategies
+Long-term Risks
+ Water resource scarcity
+ Disruption in product 
+manufacturing, decline in 
+revenue
+ Improve drainage systems
+ Adopt water-saving devices to 
+reduce domestic water consumption
+Type
+Risk
+Description
+Potential Financial Impact
+Response Measures
+Opportunities
+Resource 
+Efficiency
+ Reduce water usage and 
+consumption
+ Recycle and reuse 
+resources
+ Reduce operating costs
+ Install water-saving devices to 
+reduce domestic water waste
+ Gradually increase the use of eco-
+friendly packaging materials to 
+lower greenhouse gas emissions 
+and reduce carbon footprint
+Energy Source
+ Utilize low-carbon energy 
+sources
+ Adopt new technologies
+ Reduce operating costs
+ Enhanced reputation and 
+increased demand for 
+products/services
+ Actively establish renewable 
+energy generation measures
+Products and 
+Services
+ Develop low-carbon 
+products and services
+ Increase revenue through 
+growing demand for low-
+carbon products and services
+ Develop low-carbon green 
+products and implement long-
+term planning to support order 
+growth and increase revenue
+Market
+ Leverage public sector 
+incentive programs
+ Increase revenue by entering 
+emerging markets
+ Strengthen ESG initiatives and 
+actively participate in government 
+sustainability award evaluations
+Resilience
+ Diversification
+ Enhance organizational 
+resilience by increasing 
+revenue through new 
+products
+ Actively develop new processes 
+and new products
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 42 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 
+37.2395 
+28.3686  
+0.0336  
+52.9153 
+517.2328  
+72.2663  
+90.1548 
+545.6014 
+72.2999 
+1.6370 
+2024 
+38.9928 
+31.8228 
+1.0910 
+46.6707 
+496.4517 
+51.8935 
+85.6635 
+528.2746 
+52.9845 
+1.4244 
+ 
+2024 
+71.9067 
+295.1541 
+367.0608 
+595.0159 
+1306.2450 
+1901.2609  
+666.9225 
+3712.9798 
+2268.3217   
+0.4758 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 43 
+ 
+Year
+Year
+Category
+Subsidiaries
+Item
+Item
+Headquarters
+BenQ Medical
+Scope 1 Direct Emissions (tCO₂e)
+Scope 1 Direct Emissions (tCO₂e)
+Scope 1 Direct Emissions (tCO₂e)
+Scope 2 Indirect Emissions (tCO₂e)
+Scope 2 Indirect Emissions (tCO₂e)
+Scope 2 Indirect Emissions (tCO₂e)
+Total Emissions (tCO₂e)
+Total Emissions (tCO₂e)
+Total Emissions (tCO₂e)
+Emission Intensity (tCO₂e / NT$ million in revenue)
+Emission Intensity (tCO₂e / NT$ million in revenue)
+Emission Intensity (tCO₂e / NT$ million in revenue)
+Guishan Plant
+Subsidiaries
+Taichung Plant
+Total
+4.2 Greenhouse Gas (GHG) Management
+[ Scope 1 and Scope 2 Emissions ]
+Note: Greenhouse gas emissions by individual companies
+Note: Greenhouse gas emissions by Consolidated company
+BenQ Medical’s consolidated subsidiaries completed the 2024 greenhouse gas inventory in April 2025. A total of 17 
+subsidiaries were included, as follows:
+Asiaconnect International Co., Ltd. \ BenQ AB Dentcare Corporation \ Lily Medical Corporation 
+\ EASTECH CO., LTD. \ BenQ Healthcare Corporation \ CKCARE CO., LTD. \ New Best Hearing 
+International Trade Co. Ltd. \ Concord Medical Co., Ltd \ Concord Healthcare Corporation \ K2 
+INTERNATIONAL MEDICAL INC. \ ERA BIOTEQ ENTERPRISE CO., LTD.
+HIGHVIEW INVESTMENTS LIMIED \ BenQ Medical Technology (Shanghai) Ltd. \ BenQ 
+Intelligent Medical Devices Corp.( Shanghai) \ K2 (Shanghai) International Medical Inc. \ K2 
+MEDICAL(THAILAND)CO., LTD. \ PT FRISMED HOSLAB INDONESIA
+Domestic
+(10 companies)
+International
+(7 companies)
+[ Greenhouse Gas Reduction Initiatives ]
+According to the Science Based Targets initiative (SBTi), companies are expected to achieve an annual absolute linear 
+reduction of at least 4.2% in Scope 1 and 2 greenhouse gas emissions. BenQ Medical plans to reduce its GHG emissions by 
+5% in 2025 and has adopted the following measures to achieve this goal:
+Eduction Item
+Action Plan
+Energy Efficiency 
+Improvement
+(1) Conduct energy efficiency audits on electrical equipment to identify energy-
+intensive hotspots. 
+(2) Replace with high-efficiency, energy-saving equipment.
+Equipment 
+Replacement
+(1) Replace high-energy-consuming and outdated equipment (e.g., boilers, air 
+compressors, chillers).
+(2) Incorporate both energy-saving and low-carbon technologies.
+Transportation and 
+Logistics
+(1) Minimize the use of company vehicles by utilizing remote meetings whenever 
+possible. 
+(2) Arrange visits to customers, suppliers, and factories within the same area in a single 
+trip to reduce fragmented travel. 
+(3) Encourage shared transportation for meetings to reduce single-occupant vehicle 
+use.
+Resource Circulation 
+and Waste 
+Reduction
+(1) Establish processes for resource recycling, waste sorting, and reuse. 
+(2) Reduce process losses and scrap rates. 
+(3) Promote paper reduction and paperless office practices.
+Energy Conservation 
+Awareness
+(1) Educate employees on energy conservation practices: turn off lights and monitors 
+during breaks. 
+(2) Adjust office air conditioning usage guidelines and utilize circulation fans to reduce 
+energy consumption.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 44 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 
+107,116.0000 
+1,047,030.0000 
+140,662.0000 
+107,116.0000  
+1,047,030.0000  
+140,662.0000  
+0.0000 
+0.0000 
+0.0000 
+107,116.0000  
+1,047,030.0000  
+140,662.0000  
+2993.6096  
+0.0000 
+0.0000  
+0.0000  
+25.3588  
+174.2757  
+17.5812  
+522.9986  
+119.4017  
+0.0000  
+0.0000 
+0.0000  
+0.0126  
+385.6133  
+3769.2661  
+506.3776  
+933.9707  
+4062.9435  
+523.9714  
+ 
+12.7643 
+2024 
+94,475.0000  
+1,004,963.0000  
+101,958.0000  
+94,475.0000  
+1,004,963.0000  
+101,958.0000  
+0.0000  
+0.0000  
+0.0000  
+94,475.0000  
+1,004,963.0000  
+101,958.0000  
+2,565.9505 
+0.0000 
+0.0000  
+0.0000  
+0.0000 
+169.7075  
+6.6809  
+504.9683  
+173.7869  
+0.0000  
+0.0000  
+0.0000  
+0.0088  
+340.1062  
+3617.8266  
+367.0447  
+845.0745 
+3961.3209  
+373.7344  
+ 
+11.0638 
+ 
+  2024 ESG Report / 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 
+1495.0000 
+6786.0000 
+528.0000 
+ 
+20.3665 
+2024 
+1393.0000 
+6,833.0000 
+182.0000 
+ 
+17.9579 
+4.3 Energy Management
+4.4 Water Resource Management
+[ Energy Usage ]
+To improve energy use efficiency, the Company implements various energy management measures, promotes energy 
+conservation and carbon reduction in offices, reduces resource and energy consumption, and strives to enhance 
+energy recovery and reuse in order to minimize environmental impact.
+During the product development stage, the Company prioritizes reducing environmental pollution and resource 
+consumption in the manufacturing process, seeks to use raw materials with minimal environmental impact, and 
+develops products that comply with international environmental regulations such as RoHS and REACH.
+[ Water Resource Usage ]
+Year
+Year
+Item
+Item
+Headquarters
+Headquarters
+Purchased Non-Renewable Electricity (KWh)
+Purchased Non-Renewable Electricity (KWh)
+Consumed Non-Renewable Electricity (KWh)
+Consumed Non-Renewable Electricity (KWh)
+Total Consumed Renewable Electricity (KWh)
+Water Withdrawal (tons)
+Water Withdrawal (tons)
+Total Consumed Renewable Electricity (KWh)
+Natural Gas (GJ)
+Natural Gas (GJ)
+Diesel (GJ)
+Diesel (GJ)
+Gasoline (GJ)
+Gasoline (GJ)
+Steam (GJ)
+Steam (GJ)
+Electricity (GJ)
+Electricity (GJ)
+Total Energy Consumption (GJ)
+Total Energy Consumption (GJ)
+Total Electricity Consumption (KWh)
+Water Intensity (tons per NT$ million in revenue)
+Water Intensity (tons per NT$ million in revenue)
+Total Electricity Consumption (KWh)
+Electricity Intensity (kWh/million NTD in revenue)
+Electricity Intensity (kWh/million NTD in revenue)
+Energy Consumption Intensity (GJ/million NTD in revenue)
+Energy Consumption Intensity (GJ/million NTD in revenue)
+Guishan Plant
+Guishan Plant
+Taichung Plant
+Taichung Plant
+     [ Energy Management ]
+To improve energy utilization efficiency, the Company implements various energy sources and plans relevant management 
+measures to practice office energy conservation and carbon reduction, reduce resource and energy consumption, and 
+enhance the recovery and reuse of energy to minimize environmental impact.
+     [ Water Management ]
+The Company’s water usage is primarily for air conditioning, drinking water, cleaning, and catering services, with users 
+consisting of employees, visitors, and contractors. There is no significant demand for process water. The water resource 
+management policy involves the gradual replacement of equipment with water-saving label certifications and the 
+effective promotion of water conservation through employee training and behavioral guidelines, thereby reducing water 
+resource waste.
+     [ Wastewater Management ]
+The Company’s product manufacturing processes do not 
+generate wastewater.
+The Company will continue to invest in energy efficiency improvement projects and capital expenditures, such as 
+upgrading to high energy-efficiency equipment, replacing lighting systems with LED fixtures, and installing smart meters 
+and energy monitoring systems, to utilize energy more effectively and further enhance energy-saving performance.
+Note: Energy consumption of the individual Company
+Note: Water Resource Usage of the individual Company
+Productivity and Energy Efficiency
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 46 
+ 
+ 
+  2024 ESG Report / 47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.5 Waste Management
+[ Waste Utilization ]
+Year
+Item
+Headquarters
+Guishan Plant
+Taichung Plant
+2023
+General Industrial 
+Waste
+Reuse/Recycle
+0.0000
+0.0000
+0.0000
+Non-Reuse/Recycle 
+– Incineration
+Incineration
+8.6000
+18.9000
+6.0000
+Landfill
+0.0000
+0.0000
+0.0000
+Other Disposal
+0.0000
+0.0000
+0.0000
+Total (tons)
+8.6000
+18.9000
+6.0000
+Hazardous Industrial 
+Waste
+Reuse/Recycle
+0.0000
+0.0000
+0.0000
+Non-Reuse/Recycle 
+– Incineration
+Incineration
+0.0000
+0.0000
+0.0000
+Landfill
+0.0000
+0.0000
+0.0000
+Other Disposal
+0.0000
+0.0000
+0.0000
+Total (tons)
+0.0000
+0.0000
+0.0000
+Waste Intensity (tons per million NTD of revenue)
+       0.0775
+2024
+General Industrial 
+Waste
+Reuse/Recycle
+0.0000
+0.0000
+0.0000
+Non-Reuse/Recycle 
+– Incineration
+Incineration
+8.6000
+22.4000
+6.0000
+Landfill
+0.0000
+0.0000
+0.0000
+Other Disposal
+0.0000
+0.0000
+0.0000
+Total (tons)
+8.6000
+22.4000
+6.0000
+Hazardous Industrial 
+Waste
+Reuse/Recycle
+0.0000
+0.0000
+0.0000
+Non-Reuse/Recycle 
+– Incineration
+Incineration
+0.0000
+0.0000
+0.0000
+Landfill
+0.0000
+0.0000
+0.0000
+Other Disposal
+0.0000
+0.0000
+0.0000
+Total (tons)
+0.0000
+0.0000
+0.0000
+Waste Intensity (tons per million NTD of revenue)
+       0.0790
+Note: Waste Utilization of the individual Company
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+2024 ESG Report / 48
+ 
+ 
+ 
+ 
+2022 
+2023 
+2024 
+ 
+ 
+ 
+ 
+ 
+176 
+115 
+202 
+ 
+494 
+569 
+503 
+ 
+670 
+684 
+705 
+ 
+39.1 
+39.4 
+38.3 
+ 
+6.0 
+6.5 
+5.5 
+ 
+ 
+ 
+ 
+ 
+0.2% 
+0.3% 
+0.3% 
+ 
+12.6% 
+11.7% 
+17.2% 
+ 
+64.8% 
+67.8% 
+67.8% 
+ 
+18.8% 
+16.9% 
+12.2% 
+ 
+3.6% 
+3.4% 
+2.5% 
+ 
+ 
+2024 ESG Report / 49
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Friendly Workplace
+5.
+5.1 Talent Recruitment and Development
+       [ Employee Structure ]
+       [ Recruitment Policy ]
+The Company formulates its staffing requirements each year based on its operational 
+strategy and workforce allocation assessment, recruiting outstanding talent from various 
+channels. The Company strictly complies with government labor regulations in employing 
+personnel and uphold the principle of equal opportunity. Through open recruitment 
+channels, we select diverse and exceptional talent without discrimination based on race, 
+gender, age, religion, or nationality, ensuring the right person is placed in the right position. 
+The Company strictly prohibits the employment of child labor and the occurrence of forced 
+labor.
+       [ Employee Retention ]
+To retain outstanding talent, the Company provides various incentives tailored to employees with different levels of 
+seniority and expertise. These include new hire orientation, employee care and engagement programs, long-service and 
+outstanding employee awards, internal job transfers, promotions, salary structure adjustments, and employee bonuses 
+based on performance evaluations. Through these measures, we are committed to building a professional, talented, and 
+happy workplace.
+       [ Employee Development ]
+The purpose of learning and development is to cultivate talent who are self-motivated, proactive, and possess a strong 
+sense of belonging and responsibility toward the Company. By fostering personal growth and continuous learning, 
+employees can improve work performance and help achieve organizational goals. Employee training and development 
+is one of BenQ Medical’s key priorities. The Company encourages employees to “Keep Learning and Problem-Solving,” 
+continuously expanding their professional knowledge, enhancing their skills, improving service quality, and injecting 
+innovative energy into the organization.
+       [ Continuing Education and Training System ]
+As younger generations enter the workforce with a preference for self-directed learning and flexible work arrangements, 
+and with remote work becoming the new normal in the post-pandemic era, BenQ Medical offers a variety of learning 
+channels to allow employees to choose their preferred methods for professional development. In addition to courses 
+delivered by external instructors and On-the-Job Training (OJT), we provide a self-developed digital learning platform 
+— “e-Learning” — enabling employees worldwide to log in via computers, tablets, or mobile devices to access online 
+courses, complete quizzes, and submit satisfaction surveys anytime, anywhere. This eliminates time and location 
+constraints, allowing employees to utilize their schedules flexibly to complete training programs. Through the digital 
+learning platform, BenQ Medical also effectively delivers best practices, corporate culture, and strategic directions 
+to all employees across the group. Course designs incorporate pre-class reading materials, pre-class assignments, in-
+class exercises, and post-class group practice, helping employees learn how to communicate effectively with different 
+audiences.
+Direct Employees
+Doctorate
+Master’s Degree
+College/University
+Senior High School
+Below Senior High School
+Indirect Employees
+Total
+Number of Employees (persons)
+Average Age (years)
+Average Years of Service (years)
+Educational Background 
+Distribution (%)
+Note: Employees Structure of Consolidated Entities
+5.2 Diversity and Non-Discrimination
+5.3 Employee Retention and Development
+“Valuing Diversity and Inclusion” is one of BenQ Medical’s core corporate values. Guided by the principles of “Respect for 
+Human Rights” and “Employing People According to Their Talents,” the Company implements diversity initiatives in the 
+talent recruitment, strictly complying with national regulations such as the Labor Standards Act and the Act of Gender 
+Equality in Employment. Professional competence serves as the primary criterion for selection. In line with the principles 
+advocated by the Universal Declaration of Human Rights, the International Labour Organization (ILO) Conventions, and 
+the United Nations Global Compact, the Company ensures fair compensation—above the local minimum living wage—
+along with freedom of association and comprehensive employee benefits. The Company firmly prohibits discrimination, 
+forced labor, child labor, or any infringement on human or labor rights, thereby fostering a friendly and inclusive work 
+environment.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+2024 ESG Report / 50
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 
+60 
+2024 
+36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2024 ESG Report / 51
+ 
+ 
+ 
+To enhance personnel quality, the Company conducts both internal and external training programs to strengthen job 
+competencies, with periodic refresher courses to maintain professional capabilities. Through structured learning and 
+development planning, the Company encourages employees to continuously learn and grow.
+Year
+In-house Training 
+Sessions
+In-house Training 
+Man-hours
+External Training  
+Man-hours
+Training Expenses
+2,809 Man-hours
+319 Man-hours
+NT$ 128,379
+1,310 Man-hours
+136 Man-hours
+NT$ 130,600
+       [ Integrity Management, Information Security, and Human Rights Courses ]
+The Company requires all new employees to attend an eight-hour onboarding training program, which includes a one-
+hour course on integrity and ethics. The participation rate for new employees in this training reaches 100%. For current 
+employees, the Company periodically offers multiple in-depth courses on integrity management, risk awareness, 
+information security, and human rights.
+       [ Human Rights Policy ]
+Talent is the most important asset of an enterprise. The Company is committed to complying with international social 
+responsibility standards, labor regulations, the Gender Equality in Employment Act, and other applicable national laws. 
+Upholding the principles of “respect for human rights,” “equal employment,” and “merit-based hiring,” we ensure 
+that employees are neither favored nor discriminated against based on gender, age, race, nationality, religion, marital 
+status, political stance, or any other personal background. The Company is dedicated to creating an ethical, safe, and 
+internationally competitive work environment. To uphold labor rights, BenQ Medical promotes awareness of human 
+rights concepts and policies among employees, reinforces education on sexual harassment prevention, and extends 
+such prevention to all forms of harassment, including verbal, physical, and stalking behaviors. In addition, the Company 
+maintains diverse and accessible labor-management communication channels to ensure a high-quality and safe workplace 
+for all employees.
+       [ Parental Leave ]
+The Company encourages employees to balance family care with contributing their expertise, achieving harmony between 
+family and work. When employees have new family members requiring more time for care and are unable to balance 
+work commitments, BenQ Medical implements the provisions of the Act of Gender Equality in Employment by offering a 
+comprehensive parental leave system and assisting employees in smoothly transitioning and adapting upon their return 
+to the workplace.
+In 2023, approximately three employees applied for parental leave, while in 2024, four employees submitted 
+applications.
+Year 
+Category
+Course Title
+Hours 
+Number of 
+Trainees
+Number of Trainees
+(Hours × Number of Trainees)
+2023
+Integrity Management
+Risk Awareness
+Integrity Handbook
+2
+99
+198
+Prohibition and Prevention of 
+Insider Trading
+2
+100
+200
+Information Security
+Information Security and Social 
+Engineering Awareness
+2
+100
+200
+Human Rights
+Integrity Handbook
+2
+99
+198
+2024
+Integrity Management 
+and Human Rights
+Integrity Handbook
+2
+140
+280
+Risk Awareness
+Prohibition and Prevention of 
+Insider Trading
+2
+100
+200
+Information Security
+Information Security and Social 
+Engineering Awareness
+2
+97
+194
+Workplace Ethics
+Prevention of Sexual Harassment
+2
+119
+238
+5.4 Performance Management System
+1.	 Establish a performance-oriented evaluation system to identify outstanding talent, ensure the right 
+people are in the right positions within the organization, and create mechanisms for employee 
+development.
+2.	 Emphasize goal management in work plans, ensuring that unit objectives and work plans are effectively 
+implemented to achieve business performance.
+3.	 Provide timely recognition to high-performing employees, and offer immediate guidance or 
+adjustments for employees with lower performance.
+4.	 Build a performance database for employees to serve as a reference for reserving outstanding talent.
+       [ Employee Communication Channels ]
+Management treats employees with a conscientious and responsible attitude, operating the company in an ethical 
+manner. Regular labor-management meetings are held to ensure that employees have the right to access information 
+regarding the company’s operations and decisions, as well as the opportunity to express their opinions. Employees may 
+raise any grievances through these meetings for negotiation.
+In 2024 and up to April 1, 2025 (the publication date of this annual report), the Company did not incur any losses due 
+to labor disputes.
+5.5 Labor Rights and Equality
+Human Rights Issues
+BenQ Medical Policy
+Diversity in Employment and 
+Non-Discrimination
+・Communicate BenQ Medical’s corporate spirit to every new hire, including “valuing cultural 
+diversity and inclusiveness.”
+・Employ the legally required number of persons with disabilities in accordance with the law.
+Prohibition of Child Labor 
+and Forced Labor
+・Verify the identification documents of new hires to confirm they meet the legally recognized 
+working age.
+・Hire in accordance with the law, strictly prohibiting forced labor, as well as slavery and 
+human trafficking.
+Equal Pay for Equal Work
+・Evaluate compensation based on professional ability, with no differences due to gender, 
+nationality, race, religion, or other factors.
+Occupational Health and 
+Safety
+・Establish the “Labor Safety Work Guidelines” and comply with government regulations to 
+minimize the risk of occupational accidents and environmental, health, and safety hazards.
+Prevention of All Forms of 
+Harassment
+・Formulate and publicly disclose measures for the prevention of sexual harassment and all 
+other forms of harassment.
+Freedom of Association
+・Refrain from any interference in the establishment, operation, or management of 
+organizational activities or collective bargaining.
+・Establish labor-management meetings at all business locations to ensure employees can fully 
+exercise their freedom of association and collective bargaining rights.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+2024 ESG Report / 52
+ 
+ 
+ 
+2022 
+2023 
+2024 
+ 
+ 
+4
+2
+1
+ 
+5
+4
+1
+114 
+ 
+2
+8
+8
+ 
+9
+8
+8
+910 
+ 
+7
+2
+8
+ 
+4
+9
+7
+838 
+ 
+ 
+ 
+ 
+ 
+2024 ESG Report / 53
+ 
+ 
+ 
+ 
+       [ Competitive Compensation ]
+To offer employees market-competitive rewards and benefits, attract and retain outstanding talent, safeguard shareholder 
+interests, and maintain employees’ living standards while ensuring the Company’s long-term stable development, the 
+Company regularly adjusts salary levels based on factors such as price levels, market supply and demand, wage standards, 
+and local legal requirements. Additionally, a comprehensive promotion system is provided.
+The salaries of full-time employees who are not in managerial positions in the parent company are as follows:
+       [ Welfare System ]
+The Company offers market-competitive compensation and incentive programs, along with various employee benefits 
+tailored to the needs of BenQ Medical’s workforce. In addition, an Employee Welfare Committee has been established to 
+ensure that both employees and their families receive proper care and support.
+       [ Retirement System ]
+The Company has established employee retirement regulations and, in April 1999, set up the Labor Retirement Reserve 
+Supervision Committee, which was duly filed and approved by the Taipei City Government’s Department of Labor. Since its 
+establishment, the Company has allocated 2%–15% of total monthly salaries to the retirement reserve. Starting from July 
+2005, the new Labor Pension System has been implemented in accordance with the law. Pursuant to the requirements 
+of the International Financial Reporting Standards (IFRS), the Company engages an actuary to assess the labor retirement 
+reserve and provide an actuarial valuation report.
+5.6 Happy Workplace and Employee Care
+Number of Employees (persons)
+Average Salary (NT$ thousand)
+Median Salary (NT$ thousand)
+Note: The Company reports the number of employees and salary data for personnel with at least six 
+months of service, in accordance with the requirements of the competent authorities.
+Item
+Benefits
+Compensation and Incentives
+• Labor Day, Mid-Autumn Festival, and Dragon Boat Festival bonuses
+• Annual year-end performance bonus, sales bonus, and employee profit sharing, subject to 
+business performance
+Work/ Life Balance Measures
+• Quarterly gatherings to strengthen employee bonds
+• Family Day
+• Parent-child volunteer trips
+• Annual year-end celebration
+• Birthday cash gifts
+• Complimentary musical tickets to support local theater groups and encourage participation 
+in arts and cultural activities
+• Group activities such as sports competitions, karaoke contests, and various lectures
+Subsidies
+• Department gathering allowances
+• Travel subsidies
+• Cash gifts and condolences for weddings, funerals, and other occasions
+• Car/motorcycle parking spaces, personal vehicle allowances for business use, business 
+telecom subsidies
+• External training subsidies
+• Overseas assignment allowances and family allowances for overseas assignments
+Physical and Mental Health
+• Employee health check-ups
+• Gym access
+• Health Seminars
+Others
+• Employee Welfare Committee to regularly discuss employee welfare matters and organize 
+activities according to the annual plan
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+2024 ESG Report / 54
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2024 ESG Report / 55
+ 
+ 
+ 
+       [ Occupational Safety Management ]
+To ensure that the Company’s occupational safety and health operations comply with relevant government self-inspection 
+regulations and other health-related requirements, the Company has established relevant labor safety operating 
+procedures. The detailed implementation items are carried out in accordance with the annual Occupational Safety and 
+Health Management Plan and relevant records are maintained for documentation.
+       [ Occupational Injuries and Occupational Disease Statistics ]
+BenQ Medical’s head office, Guishan Plant, and Taichung Plant all reported 
+zero cases, with no incidents of occupational injury resulting in fatalities, severe 
+occupational injuries, or occupational diseases.
+       [ Workplace Safety Measures ]
+5.7 Occupational Safety and Health Management
+Regular
+Ad Hoc
+ Monthly online reporting of occupational accidents
+ Establishment of labor safety, health, and workplace 
+regulations
+ Semi-annual outsourced workplace environment and 
+noise monitoring ( Guishan Plant and Taichung Plant)
+ Formulation and public disclosure of sexual 
+harassment prevention measures
+ Semi-annual fire and first-aid drills, with annual fire 
+safety inspection filings and building public safety 
+inspection filings in accordance with regulations
+ Labor safety and health training for new employees
+ Labor safety and health training every three years
+ Ongoing safety and health training for contractors 
+(Guishan Plant and Taichung Plant)
+ Unscheduled safety inspections of plant facilities
+Year
+Item
+Headquarters
+Guishan Plant
+Taichung Plant
+2023
+Employee
+Occupational Injury Fatality Rate
+0
+0
+0
+Serious Occupational Injury Rate
+0
+0
+0
+Lost Time Injury Frequency Rate (LTIFR)
+0
+0
+0
+Occupational Disease Fatality Rate
+0
+0
+0
+Recordable Occupational Disease Rate
+0
+0
+0
+All non-employees whose 
+work and/or workplace 
+are controlled by the 
+organization
+Occupational Injury Fatality Rate
+0
+0
+0
+Serious Occupational Injury Rate
+0
+0
+0
+Lost Time Injury Frequency Rate (LTIFR)
+0
+0
+0
+Occupational Disease Fatality Rate
+0
+0
+0
+Recordable Occupational Disease Rate
+0
+0
+0
+2024
+Employee
+Occupational Injury Fatality Rate
+0
+0
+0
+Serious Occupational Injury Rate
+0
+0
+0
+Lost Time Injury Frequency Rate (LTIFR)
+0
+0
+0
+Occupational Disease Fatality Rate
+0
+0
+0
+Recordable Occupational Disease Rate
+0
+0
+0
+All non-employees whose 
+work and/or workplace 
+are controlled by the 
+organization
+Occupational Injury Fatality Rate
+0
+0
+0
+Serious Occupational Injury Rate
+0
+0
+0
+Lost Time Injury Frequency Rate (LTIFR)
+0
+0
+0
+Occupational Disease Fatality Rate
+0
+0
+0
+Recordable Occupational Disease Rate
+0
+0
+0
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 56 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 57 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Social Welfare / Community Engagement
+6.
+6.1 Public Welfare Activities
+In 2024, the Company participated in public welfare activities organized by the BenQ 
+Foundation , including the “DOC Volunteer Mini-Trip” for agricultural labor experiences 
+such as summer tea harvesting in Hengshan, Hsinchu, grass jelly harvesting in Guanxi, 
+Hsinchu, and chrysanthemum harvesting in Tongluo, Miaoli. Employees and their families 
+were invited to step into nature, connect with local farms, and engage in agricultural 
+harvest work, embodying the spirit of passionate service.
+To promote “friendly farming,” the Company encouraged employees to donate and adopt 
+rice fields, thereby supporting the green economy, advocating environmentally friendly 
+farming methods, and ensuring environmental sustainability. Harvested rice was shared 
+with local community organizations to support communal meal programs for senior 
+citizens, providing safe, nutritious, and healthy rice. In addition, employees voluntarily 
+adopted nearly 10 units of rice fields, continuing to spread the power of goodwill in society.
+The Company also hosted the “BenQ International Sculpture Camp,” inviting multiple 
+artists for on-site creation, fostering artistic exchange between domestic and international 
+communities. The Company donated sculpture works to the Taoyuan City Government, 
+which were installed in the Taoyuan Arts Plaza of the Taoyuan Exhibition Center, allowing 
+art to become part of daily life and enriching the community’s cultural spirit.
+In addition to the Foundation’s activities, and in response to the Sustainable Development Goals (SDGs), the Company 
+carried out the “Atayal Secret Land Alpinia Planting” initiative, which combined tree planting with ecological conservation 
+efforts. A total of 40 shell ginger plants were planted, with an estimated annual carbon sequestration of approximately 
+232 kilograms, contributing to mitigating the impacts of climate change and protecting the global environment (aligned 
+with SDG 15: Life on Land). Alpinia is a fully utilizable plant that not only supports the development of the local “Alpinia 
+zerumbet economy” but also creates opportunities for indigenous youth to return to their hometowns for employment, 
+fostering local industrial revitalization and balanced urban-rural development (aligned with SDG 11: Sustainable Cities and 
+Communities, and SDG 12: Responsible Consumption and Production). In addition, the Company organized the “Green 
+Space Preservation – Removal of Mile-a-Minute Weed” campaign, successfully clearing approximately 40 kilograms of 
+the invasive alien species Mikania micrantha. This effectively prevented the plant from damaging terrestrial and aquatic 
+ecosystems, concretely implementing the invasive species management objectives emphasized in the Convention on 
+Biological Diversity, and demonstrating the Company’s proactive commitment to biodiversity conservation.
+Year 
+Project Name
+ Investment 
+(NTD) 
+Manpower
+2023
+Beach Cleanup
+2,700 
+(Sponsored by 
+the BenQ Group) 
+19 participants 
+(including family members)
+approximately 600 participants 
+from 25 group companies
+Tree Planting
+14,400 
+(Sponsored by 
+the BenQ Group)
+20 participants (including family 
+members) approximately 1,000 
+participants from the Group
+Volunteer Service
+0
+17 participants
+Donation to BenQ Foundation 
+1,000,000
+10 participants
+2024
+Planting Alpinia in Atayal Secret 
+Land
+160,000
+40 participants 
+(including family members)
+Protecting Green Spaces: 
+Removing Mile-a-Minute Weed 
+108,490
+60 participants 
+(including family members)
+Volunteer Service
+0
+18 participants 
+(including family members)
+“Love Without Haste” Mid-
+Autumn Festival Gift Boxes 
+(Donated to the Taiwan Down 
+Syndrome Foundation) 
+50,000
+3 participants
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+
+ 
+  2024 ESG Report / 58 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 59 
+ 
+ 
+ 
+ 
+ 
+ 
+       [ Photos of Public Welfare Activities ]
+Beipu of Hsinchu \ 
+Green Space Preservation – Removal of Mile-a-Minute Weed
+Jianshi, Hsinchu \  
+Planting Alpinia in the Tayal Secret Land
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+BenQ Foundation
+BenQ Foundation
+
+ 
+  2024 ESG Report / 60 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  2024 ESG Report / 61 
+ 
+ 
+BenQ Medical maintains good public relations with government agencies, local organizations, the media, and investors. 
+Under the premise of complying with laws, regulations, and the company’s internal policies, the Company promotes 
+a virtuous cycle of mutual interaction, assist in community development, continuously support various local activities, 
+engage in friendly communication with residents, and strive to provide assistance.
+6.2 Public Relations
+6.3 Association Membership
+Attribute
+Association Name
+Importance of Participation
+Business
+Taiwan Medical and Biotech Industry Association
+To stay informed on market import/export trends, 
+industry certifications, and changes in corporate-related 
+regulations and policies, enabling timely responses to 
+industry trends and regulatory compliance.
+Taipei City Medical Equipment Commercial Association
+Taoyuan Industrial Association
+Taipei Neihu Technology Park Development Association 
+To integrate resources from industry, government, 
+academia, and research sectors to promote the 
+development of the Taipei Neihu Technology Park, 
+create a high-quality environment, and share mutual 
+prosperity with the community.
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+BenQ Foundation
+BenQ Foundation
+
+ 
+2024 ESG Report / 63
+ 
+ 
+ 
+ 
+2024 ESG Report / 62
+ 
+ 
+ 
+ 
+Appendix
+7.
+7.1 GRI
+       [ GRI Universal Standards ]
+       [ GRI Topic Standards]
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+GRI Topic
+Disclosured Item
+Corresponding Chapter
+Page 
+Number
+Remark
+Organization 
+and Reporting 
+Practices
+2-1
+Organizational details
+1.1 Company Profile
+4
+2-2
+Entities included in the 
+organization’s sustainability 
+reporting
+About This Report
+1
+2-3
+Reporting period, frequency and 
+contact point
+About This Report
+1
+2-4
+Information Reorganization
+About This Report
+1
+2-5
+External Verification / Assurance
+-
+-
+Not Assurance
+Activities 
+and 
+Workers
+2-6
+Activities, Value Chains and other 
+Business Relationships
+1.3 Major Products and Industry 
+Value Chain
+6
+2-7
+Employee 
+5.1 Talent Recruitment and 
+Development
+39
+2-8
+Non-employee worker
+5.1 Talent Recruitment and 
+Development
+39
+Governance
+2-9
+Governance Structure and 
+Composition
+3.1 Corporate Governance Structure
+18
+2-10
+Nominating and selecting of the 
+highest Governance Unit
+3.1 Corporate Governance Structure
+18
+2-11
+Chair of the highest Governance 
+Unit
+3.1 Corporate Governance Structure
+18
+2-12
+The role of the highest 
+governance body in Overseeing 
+Impact Management
+3.1 Corporate Governance Structure
+18
+2-13
+Delegation of Responsibility for 
+Managing Impacts
+3.1 Corporate Governance Structure
+18
+2-14
+The Role of the Highest 
+Governance Body in Sustainability 
+Reporting
+3.1 Corporate Governance Structure
+18
+2-15
+Conflicts of Interest
+3.1 Corporate Governance Structure
+18
+2-16
+Communicating Critical Concerns 3.1 Corporate Governance Structure
+18
+2-17
+Collective Knowledge of Highest 
+Governance Unit
+3.1 Corporate Governance Structure
+18
+2-18
+Evaluating the highest 
+Governance Unit’s performance
+3.1 Corporate Governance Structure
+18
+2-19
+Remuneration Policies
+3.1 Corporate Governance Structure
+18
+2-20
+Process for Determining 
+Remuneration
+3.1 Corporate Governance Structure
+18
+2-21
+Annual total compensation ratio
+-
+-
+Not Disclosed 
+Due to Privacy 
+Concerns
+Strategy, Policy 
+and Practice
+2-22
+Statement of Sustainability 
+Strategy
+Message From the Chairman
+1
+2-23
+Policy Commitment
+2.1 Corporate Sustainability
+13
+2-24
+Fulfillment of Policy 
+Commitments
+2.1 Corporate Sustainability
+13
+2-25
+Procedures for Remediating 
+Negative Shocks
+2.1 Corporate Sustainability
+13
+2-26
+Mechanisms for Seeking Advice 
+and Raising Concerns
+2.1 Corporate Sustainability
+13
+2-27
+Legal Compliance
+2.1 Corporate Sustainability
+13
+2-28
+Membership of Public 
+Associations
+6.3 Association Membership
+50
+Stakeholder 
+Negotiation
+2-29
+Stakeholder Negotiation Policy
+2.2 Stakeholder Identification and 
+Engagement
+14
+2-30
+Collective Bargaining Agreements
+-
+-
+No Labor Union 
+Established and No 
+Collective Bargaining 
+Agreement Signed
+GRI Topic
+Disclosured Item
+Corresponding Chapter
+Page 
+Number
+Remark
+Economic 
+Performance
+201-1
+Direct economic value generated and distributed
+1.5 Business Overview
+10
+201-2
+Financial impacts, risks, and opportunities arising 
+from climate change
+4.1 Climate Change and Carbon 
+Management
+32
+201-3
+Definition of benefit plan obligations and other 
+retirement plans
+5.6 Happy Workplace and Employee 
+Care
+43
+201-4
+Financial assistance from the government
+-
+-
+No subsidy
+Market Position
+202-1
+Ratio of the standard entry-level wage by gender 
+compared to the local minimum wage
+-
+-
+Not Disclosed Due to 
+Privacy Concerns
+202-2
+Proportion of senior management hired from the 
+local community
+5.1 Talent Recruitment and 
+Development
+40
+Indirect 
+Economic 
+Impacts
+203-1
+Investment in infrastructure and development of 
+support services and their impacts
+6.1 Public Welfare Activities
+46
+203-2
+Significant indirect economic impacts
+Procurement 
+Practices
+204-1
+Proportion of spending on local suppliers
+3.7 Supply Chain Managemen
+30
+Anti-corruption
+205-1
+Operations assessed for risks related to corruption
+3.2 Ethical Business Practices
+22
+205-2
+Communication and training about anti-corruption 
+policies and procedures
+3.2 Ethical Business Practices
+22
+205-3
+Confirmed incidents of corruption and actions taken
+3.2 Ethical Business Practices
+22
+Anti-competitive 
+Behavior
+206-1
+Legal actions for anti-competitive behavior, anti-trust, 
+and monopoly practices
+3.2 Ethical Business Practices
+22
+Tax
+207-1
+Tax Policy
+3.2 Ethical Business Practices
+22
+207-2
+Tax governance, control and risk management
+3.3 Risk Management
+23
+207-3
+Stakeholder engagement and management on tax-
+related matters
+2.2 Stakeholder Identification and 
+Engagement
+14
+207-4
+Country-by-Country reporting
+-
+-
+Not applicable
+Materials
+301-1
+Weight or volume of materials used
+-
+-
+301-2
+Use of recycled input materials
+-
+-
+301-3
+Reclaimed products and their packaging materials
+-
+-
+Energy
+302-1
+Energy consumption within the organization
+4.3 Energy Management
+37
+302-2
+Energy consumption outside the organization
+4.3 Energy Management
+37
+302-3
+Energy Intensity
+4.3 Energy Management
+37
+302-4
+Reduction of energy consumption
+4.3 Energy Management
+37
+302-5
+Reduction of energy requirements of products and 
+services
+4.3 Energy Management
+37
+Water and 
+Effluents
+303-1
+Shared water resources impact
+4.4 Water Resource Management
+38
+303-2
+Management of water discharge-related impacts
+4.4 Water Resource Management
+38
+303-3
+Water withdrawal
+4.4 Water Resource Management
+38
+303-4
+Water discharge
+4.4 Water Resource Management
+38
+303-5
+Water consumption
+4.4 Water Resource Management
+38
+Biodiversity
+304-1
+Operational sites owned, leased, managed, or 
+adjacent to areas of environmental protection or 
+areas of high biodiversity value
+-
+-
+304-2
+Significant impacts of activities, products, and 
+services on biodiversity
+-
+-
+304-3
+Protected or restored habitats
+-
+-
+304-4
+Species listed on the IUCN red list and national 
+conservation lists in habitats affected by operations
+
+ 
+2024 ESG Report / 65
+ 
+ 
+ 
+ 
+2024 ESG Report / 64
+ 
+ 
+ 
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+GRI Topic
+Disclosured Item
+Corresponding Chapter
+Page 
+Number
+Remark
+Emission
+305-1
+Direct (Scope 1) Greenhouse Gas (GHG) Emissions
+4.2 Greenhouse Gas (GHG) 
+Management
+35
+305-2
+Energy Indirect (Scope 2) Greenhouse Gas (GHG) 
+Emissions
+4.2 Greenhouse Gas (GHG) 
+Management
+35
+305-3
+Other Indirect (Scope 3) Greenhouse Gas (GHG) 
+Emissions
+4.2 Greenhouse Gas (GHG) 
+Management
+35
+305-4
+Greenhouse Gas (GHG) Emissions Intensity
+4.2 Greenhouse Gas (GHG) 
+Management
+35
+305-5
+Greenhouse Gas (GHG) Emissions Reduction
+-
+-
+No Targets Set
+305-6
+Emissions of Ozone-Depleting Substances (ODS)
+-
+-
+None
+305-7
+Emissions of Nitrogen Oxides (NOx), Sulfur Oxides 
+(SOx), and other significant air emissions
+-
+-
+None
+Waste
+306-1
+Waste generation and significant waste-related 
+impacts
+4.5 Waste Management
+39
+306-2
+Management of significant waste-related impacts
+4.5 Waste Management
+39
+306-3
+Waste generated
+4.5 Waste Management
+39
+306-4
+Waste diverted from disposal
+4.5 Waste Management
+39
+306-5
+Waste directed to disposal
+4.5 Waste Management
+39
+Supplier 
+Environmental 
+Assessment
+308-1
+New suppliers that were screened using 
+environmental criteria
+3.7 Supply Chain Managemen
+30
+308-2
+Negative environmental impacts in the supply chain 
+and actions taken
+3.7 Supply Chain Managemen
+30
+Labor–
+Management 
+Relations
+401-1
+New employee hires and employee turnover
+5.1 Talent Recruitment and 
+Development
+40
+401-2
+Minimum notice periods regarding operational 
+changes
+5.2 Diversity and Non-Discrimination
+40
+401-3
+Parental leave
+5.5 Labor Rights and Equality
+42
+Labor/
+Management 
+Relations  
+402-1
+Minimum notice periods regarding operational 
+changes
+5.5 Labor Rights and Equality
+42
+Occupational 
+Health and 
+Safety
+403-1
+Occupational health and safety management system
+5.7 Occupational Safety and Health 
+Management
+44
+403-2
+Hazard identification, risk assessment, and incident 
+investigation
+5.7 Occupational Safety and Health 
+Management
+44
+403-3
+Occupational health services
+5.7 Occupational Safety and Health 
+Management
+44
+403-4
+Worker participation, consultation, and 
+communication on occupational health and safety
+5.7 Occupational Safety and Health 
+Management
+44
+403-5
+Worker training on occupational health and safety
+5.7 Occupational Safety and Health 
+Management
+44
+403-6
+Promotion of worker health
+5.6 Happy Workplace and Employee 
+Care
+43
+403-7
+Prevention and mitigation of occupational health 
+and safety impacts directly linked by business 
+relationships
+5.7 Occupational Safety and Health 
+Management
+44
+403-8
+Workers covered by an occupational health and 
+safety management system
+5.7 Occupational Safety and Health 
+Management
+44
+403-9
+Occupational injuries
+5.7 Occupational Safety and Health 
+Management
+44
+No occupational 
+injuries occurred
+403-10
+Occupational diseases
+5.7 Occupational Safety and Health 
+Management
+44
+No occupational 
+diseases occurred
+GRI Topic
+Disclosured Item
+Corresponding Chapter
+Page 
+Number
+Remark
+Training and 
+Education
+404-1
+Average hours of training per year per employee
+5.3 Employee Retention and 
+Development
+41
+404-2
+Programs for upgrading employee skills and transition 
+assistance programs
+5.3 Employee Retention and 
+Development
+41
+404-3
+Percentage of employees receiving regular 
+performance and career development reviews
+5.3 Employee Retention and 
+Development
+41
+Diversity 
+and Equal 
+Opportunity
+405-1
+Diversity of governance units and employees
+5.2 Diversity and Non-Discrimination
+40
+405-2
+Ratio of basic salary and remuneration of women to 
+men
+-
+-
+Not disclosed due to 
+privacy concerns
+Non-
+discrimination
+406-1
+Incidents of discrimination and corrective actions 
+taken
+5.2 Diversity and Non-Discrimination
+40
+No events
+Freedom of 
+Association 
+and Collective 
+Bargaining
+407-1
+Operations and suppliers in which the right to 
+freedom of association and collective bargaining may 
+be at risk
+None
+Child Labor
+408-1
+Operations and suppliers at significant risk for 
+incidents of child labor
+5.5 Labor Rights and Equality
+42
+No child labor
+Forced or 
+Compulsory 
+Labor
+409-1
+Operations and suppliers at significant risk for 
+incidents of forced or compulsory labor
+5.5 Labor Rights and Equality
+42
+No forced incidents
+Security 
+Practices
+410-1
+Security personnel trained in human rights policies or 
+procedures
+5.5 Labor Rights and Equality
+42
+Rights of 
+Indigenous 
+Peoples
+411-1
+Incidents of violations involving rights of indigenous 
+peoples
+6.2 Public Relations
+50
+None
+Local 
+Communities
+413-1
+Operations with local community engagement, 
+impact assessments, and development programs
+6.2 Public Relations
+50
+413-2
+Operations with significant actual and potential 
+negative impacts on local communities
+6.2 Public Relations
+50
+Supplier Social 
+Assessment
+414-1
+New suppliers that were screened using social criteria 3.7 Supply Chain Management
+30
+414-2
+Negative social impacts in the supply chain and 
+actions taken
+3.7 Supply Chain Management
+30
+Public Policy
+415-1
+Political contributions
+-
+-
+No political 
+contributions
+Customer Health 
+and Safety
+416-1
+Assessment of the health and safety impacts of 
+product and service categories
+3.5 Product Responsibility
+27
+416-2
+Incidents of non-compliance concerning the health 
+and safety impacts of products and services
+3.5 Product Responsibility
+27
+None
+Marketing and 
+Labeling
+417-1
+Requirements for products and service information 
+and labeling
+3.5 Product Responsibility
+27
+417-2
+Incidents of non-compliance concerning product and 
+service information and labeling
+3.5 Product Responsibility
+27
+None
+417-3
+Incidents of non-compliance concerning marketing 
+communications
+3.5 Product Responsibility
+27
+None
+Customer 
+Privacy
+418-1
+Substantiated complaints concerning breaches of 
+customer privacy and losses of customer data
+3.6 Customer Service
+29
+
+ 
+2024 ESG Report / 67
+ 
+ 
+ 
+ 
+2024 ESG Report / 66
+ 
+ 
+ 
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+Environmental 
+Sustainability
+Social Welfare /  
+Community Engagement
+Appendix
+Friendly Workplace
+7.2 United Nations Global Compact (UNGC)
+7.3 TCFD Climate-related Financial Disclosure Index
+Category
+10 Principles
+Possible Actions
+Corresponding Chapter
+Human Rights
+Principle 1 
+Businesses should support 
+and respect the protection 
+of internationally proclaimed 
+human rights.
+ Human Rights Policy
+“People-oriented” has always been the core 
+value that BenQ Medical upholds. The Company 
+supports and adheres to internationally 
+recognized human rights standards and principles, 
+including the Universal Declaration of Human 
+Rights, the United Nations Global Compact, the 
+UN Guiding Principles on Business and Human 
+Rights, and the International Labor Organization’s 
+Declaration on Fundamental Principles and Rights 
+at Work. In compliance with applicable laws and 
+regulations in the jurisdictions where we operate, 
+the Company has established its Human Rights 
+Policy. Through the principles of protection, 
+respect, and remedy, the Company is committed 
+to implementing and safeguarding human rights 
+across all aspects of the operations.
+ Scope of Application
+The Human Rights Policy of BenQ Medical applies 
+to the Company and its invested subsidiaries. The 
+policy covers all stakeholders.
+ Implementation Guidelines
+• Provide a safe and healthy working 
+environment for all employees.
+• Ensure equal employment opportunities and 
+prohibit any form of discrimination.
+• Offer fair and reasonable compensation and 
+working conditions.
+• Respect employees’ freedom of association 
+and collective bargaining rights.
+• Prohibit child labor and forced labor in any 
+form.
+• Uphold integrity and anti-corruption values, 
+strictly forbidding bribery and improper 
+benefits.
+• Establish effective communication channels for 
+stakeholders.
+5.1 Talent Recruitment 
+and Development
+5.2 Diversity and Non-
+Discrimination
+5.5 Labor Rights and 
+Equality
+5.6 Happy Workplace and 
+Employee Care
+Principle 2 
+Ensure that is not complicit in 
+human rights abuses.
+Labor
+Principle 3
+Uphold the freedom of 
+association and the effective 
+recognition of the right to 
+collective bargaining.
+Principle 4
+Elimination of all forms of 
+forced and compulsory labor.
+Principle 5
+Effective abolition of child 
+labor.
+Principle 6
+Elimination of discrimination 
+in respect of employment and 
+occupation.
+Environment
+Principle 7
+Businesses should support a 
+precautionary approach to 
+environmental challenges.
+• Provide innovative green designs to deliver 
+high-quality products and enhance corporate 
+competitiveness.
+• Develop energy-saving processes to improve 
+production efficiency.
+4.3 Energy Management
+4.4 Water Resource 
+Management
+4.5 Waste Management
+Principle 8
+Undertake initiatives 
+to promote greater 
+environmental responsibility.
+Principle 9
+Encourage the development 
+and diffusion of 
+environmentally friendly 
+technologies.
+Anti-Corruption
+Principle 10
+Companies should eliminate 
+all forms of corruption, 
+including extortion and 
+bribery
+• Conduct integrity management training programs 
+on a regular annual basis.
+• Establish and continuously improve internal 
+regulations on integrity management.
+3.2 Ethical Business 
+Practices
+Category
+Item
+Corresponding Chapter
+Governance
+Board oversight of climate-related risks and opportunities
+1.4 Organizational Profile
+3.1 Corporate Governance Structure
+4.1 Climate Change and Carbon Management
+4.2 Greenhouse Gas (GHG) Management
+4.3 Energy Management
+Management’s role in assessing and managing climate-related risks 
+and opportunities
+2.3 Material Topic Management
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+4.2 Greenhouse Gas (GHG) Management
+4.3 Energy Management
+Strategy
+Climate-related risks and opportunities identified over the short, 
+medium, and long term
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+Climate-related risks and opportunities with significant impacts on 
+the organization’s businesses, strategy, and financial planning
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+Potential impacts of different climate-related scenarios on the 
+organization’s businesses, strategy, and financial planning
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+4.2 Greenhouse Gas (GHG) Management
+4.3 Energy Management
+Risk Management
+Processes for identifying and assessing climate-related risks
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+Processes for managing climate-related risks
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+Integration of climate-related risk identification, assessment, and 
+management into the organization’s overall risk management
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+Targets and Indicators
+Indicators used by the organization to assess climate-related 
+risks and opportunities in alignment with its strategy and risk 
+management processes
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+Disclosure of GHG emissions (Scope 1, 2, and 3) and related risks
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+Indicators applied by the organization, in line with its strategy and 
+risk management processes, to evaluate climate-related risks and 
+opportunities
+3.3 Risk Management
+4.1 Climate Change and Carbon Management
+
+ 
+2024 ESG Report / 68
+ 
+ 
+Group Overview
+Sustainability Governance  
+and Management
+Corporate 
+Governance
+7.4 SASB Sustainability Accounting Standards Index
+Healthcare Services Disclosure Metrics
+Industry Category: Health Care
+Industry Name: Medical Equipment & Supplies
+Topic
+ Accounting Metric
+Metric Code
+Corresponding Section / 
+Explanation
+Page Number
+Affordability & Pricing
+Ratio of the weighted average percentage change in net 
+selling price to the annual percentage change in the U.S. 
+CPI
+HC-MS-240a.1
+Not applicable
+-
+Description of how product pricing information is 
+communicated to consumers or distributors
+HC-MS-240a.2
+1.3 Major Products and 
+Industry Value Chain
+6
+Product Safety
+Number of product recalls issued, total units recalled
+HC-MS-250a.1
+No occurrence in 2024
+-
+List of products listed in the U.S. FDA’s Medical Device 
+Safety Alerts database
+HC-MS-250a.2
+NA
+-
+Number of fatalities associated with products listed 
+in the FDA’s Medical Device Adverse Event Reporting 
+database
+HC-MS-250a.3
+NA
+-
+Number of FDA enforcement actions taken in relation to 
+products, by type, for violations of cGMP
+HC-MS-250a.4
+No occurrence in 2024
+-
+Ethical Marketing
+Total monetary losses as a result of legal proceedings 
+(litigation, fines) associated with false marketing claims
+HC-MS-270a.1
+No occurrence in 2024
+-
+Description of ethical guidelines and policies for 
+managing off-label use in promotional materials
+HC-MS-270a.2
+No occurrence in 2024
+-
+Product Design & 
+Lifecycle Management
+Description of the processes for assessing and managing 
+environmental and human health considerations 
+of chemicals in products to meet sustainability 
+requirements
+HC-MS-410a.1
+CH.4 Environmental 
+Sustainability
+32
+Quantity of products collected through take-back 
+programs for reuse, recycling, or donation, categorized 
+by (1) devices and equipment, and (2) consumables
+HC-MS-410a.2
+Not applicable
+-
+Supply Chain 
+Management
+Percentage of product quality audits conducted by third 
+parties, broken down by (1) production facilities and (2) 
+Tier 1 supplier production facilities
+HC-MS-430a.1
+3.7 Supply Chain 
+Management
+30
+Description of efforts to maintain traceability across the 
+supply chain
+HC-MS-430a.2
+3.5 Product Responsibility
+27
+Description of the management of risks associated with 
+the use of critical materials
+HC-MS-430a.3
+3.7 Supply Chain 
+Management
+30
+Business Ethics
+Total amount of monetary losses as a result of legal 
+proceedings (litigation, fines, or penalties) associated 
+with corruption or bribery incidents
+HC-MS-510a.1
+No occurrence in 2024
+-
+Description of ethical guidelines for managing 
+interactions with healthcare professionals
+HC-MS-510a.2
+Not applicable
+-

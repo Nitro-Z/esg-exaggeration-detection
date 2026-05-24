@@ -1,0 +1,5489 @@
+ 
+ 
+Auras Technology 
+Sustainability Report 
+2023 
+ESG
+
+About the 
+Report 
+Message 
+from the 
+Chairman 
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+2 
+ 
+About the Report 
+Preparation principles 
+In addition to pursuing corporate growth, Auras Technology Co., Ltd. (hereinafter referred to as “Auras Technology”) is also committed to 
+fulfilling its corporate social responsibility as a corporate citizen. We implement employee care, social care, and environmental protection, and 
+constantly strive for excellence. 
+This is the 4th Sustainability Report of Auras Technology. The content of the Report was provided and compiled by all units within the 
+Company, with the GRI Standards (GRI Standards) published by the Global Reporting Initiative (GRI) followed. In addition, this report has 
+been compiled in accordance with the industry’s disclosure topics of the Electronic Manufacturing Services & Original Design Manufacturing 
+industry disclosure topics of the Sustainability Accounting Standards Board (SASB). Information on Environmental (E), social (S), and 
+corporate governance (G) aspects is disclosed in accordance with the “Procedures for Preparation and Filing of Sustainability Reports by 
+TPEx-Listed Companies.” This report is released to the public after approval by each unit head and the Chairman. 
+ 
+Boundary and Scope of the Report 
+The contents of this report are the sustainable development practices and achievements of Auras Technology. In addition to the Taiwan 
+Headquarters, part of the information disclosure scope of the report covers the Kunshan Factory, the Guangzhou Factory, the Chongqing 
+Factory, the Hefei Factory, and the Thailand Factory. The boundaries have not changed from them of the previous year. 
+The data and content disclosed are for the period January 1 to December 31, 2023, covering various material issues of concern to stakeholders. 
+The data disclosed in this report covers economic, environmental, and social aspects. The data for this report was compiled by the 
+Sustainability and Corporate Governance Office with material provided by various units. Considering the comparability of the information, 
+the data of the most recent three years will be disclosed for some of the performances. If there are factories that are not included in the scope 
+or data measurement, they will be explained in a special remark in that paragraph. 
+ 
+Basis of Calculation 
+The statistical data disclosed in the report are all from our own statistics and survey results and are presented in the commonly used 
+numerical description methods. However, the financial data is released publicly after being certified by a CPA, and the GHG emission 
+information has also been verified by an impartial third party. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman 
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+3 
+ 
+ 
+Report Management 
+Internal audit 
+The head of each department reviews the content and accuracy of the information 
+in each chapter, and the Sustainability and Corporate Governance Office reviews 
+and confirms that the relevant data complies with the principles of integrity, 
+transparency, and disclosure of this report to ensure the rationality and veracity 
+of the content. The report is submitted in May every year subject to be reviewed 
+by the Board of Directors. 
+External Verification 
+Financial data: PwC Taiwan 
+Environmental data: ISO 14001, ISO 14064-1 
+Sustainability data: ISO 45001 
+ 
+Report Release Date 
+Auras Technology releases the Sustainability Report on an annual basis and is 
+available for browsing and download from the Company’s website.  
+Current issue: Issued in June 2024 (previous issue: Issued in June 2023) 
+Next issue: Scheduled in June 2025. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If there is any inadequacy in the editing of 
+the 2023 Sustainability Report, we are 
+grateful for your generous advice, so that 
+we can continue to improve. You are 
+welcome to contact us. 
+Contact person: Joanna Ooi,  
+Sustainability and 
+Corporate Governance 
+Office 
+(02) 8990-1653 #526 
+Address: 3F., No. 6, Wuquan 3rd Rd., 
+Xinzhuang Dist., New Taipei City 
+E-mail: joanna_ooi@auras.com.tw 
+Feedback and Contact 
+
+About the 
+Report 
+Message 
+from the 
+Chairman 
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+4 
+ 
+Table of Contents 
+Message from the Chairman ....................................................... 5 
+1. 
+About Auras Technology ...................................................... 7 
+1.1 Origin and History of the Company ........................... 9 
+1.2 Company Overview .................................................... 10 
+1.3 Main Business Activities ............................................ 14 
+1.4 Vision and Mission ..................................................... 15 
+2. 
+Sustainable Management ................................................... 16 
+2.1 Sustainable Development Strategies and Main Axes .. 
+ .................................................................................... 17 
+2.2 Sustainable Issue Management ................................. 18 
+3. 
+Material Issues .................................................................... 19 
+3.1 Identification of Material Issues ............................... 20 
+3.2 Stakeholder Identification and Communication ..... 21 
+3.3 Results of Materiality Identification ........................ 22 
+3.4 Material Issue Matrix ................................................ 23 
+3.5 Impact of Material Issues .......................................... 24 
+4. 
+AURAS Sustainability Goals ............................................. 26 
+4.1 AURAS Sustainability Goals ..................................... 27 
+5. 
+Administration .................................................................... 32 
+5.1 Corporate Governance, Compliance With Laws and 
+Regulations, and Ethical Corporate Management . 33 
+5.2 Information Security .................................................. 47 
+5.3 Risk Management....................................................... 48 
+6. 
+Upgrade ................................................................................ 51 
+6.1 Technological Innovation and Market Layout ........ 52 
+7. 
+Retention .............................................................................. 55 
+7.1 Talent Attraction, Cultivation, and Retention ........ 56 
+7.2 Labor Relations, Wages and Benefits ...................... 63 
+7.3 Workplace Health and Safety ................................... 72 
+7.4 Social Welfare Participation ..................................... 79 
+8. 
+Accounting ........................................................................... 83 
+8.1 Operational and financial performance ................... 84 
+9. 
+Sustainability ....................................................................... 85 
+9.1 Environmental Sustainability ................................... 86 
+9.2 GHG Management ..................................................... 87 
+9.3 Water Resource and Waste Management ............... 90 
+9.4 Sustainable Supply Chain Management .................. 95 
+ 
+Appendix 1: GRI Index Comparison Table ............................. 98 
+Appendix 2: SASB Index Comparison Table ........................ 104 
+Appendix 3: Sustainability-Related Certificates ................... 106 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+5 
+ 
+Message from the Chairman 
+ 
+To our partners who care about the corporate sustainability of Auras Technology: 
+It is a great honor to share our fourth Sustainability Report with you. Thanks 
+to the support and trust of all business partners and friends who care about 
+our company, our gross profit margin reached a record high in 2023. 
+ 
+In 2021, the United Nations issued “a code red for humanity” to convey to the 
+world the urgency and risk of global warming. However, two years later, 
+extreme weather events have become more frequent or even unabated. In 
+2023, the United Nations issued a louder warning that global climate change 
+has reached the era of global boiling. 
+ 
+As a corporate citizen, Auras never forgets to face up to its corporate 
+governance and takes ESG actions. As the global demand for computing 
+power continues to increase, we understand that energy consumption and 
+carbon emissions are a byproduct of high-speed processing. To solve the 
+problem of high-power consumption and heat energy in data centers, big 
+data, edge computing, and artificial intelligence, we provide liquid cooling 
+and energy-saving cooling solutions for customers to optimize the power 
+usage effectiveness (PUE) from above 1.5 to below 1.1. This significantly 
+improves energy efficiency and reduces carbon emissions, thereby 
+contributing to the earth. 
+ 
+In addition to the Company’s improvement of energy-saving technologies, the 
+Auras Foundation extends its climate action to employees’ families through 
+the “Auras for Sustainability” family day tree planting event, so that 
+everyone can take action to reduce GHG emissions, mitigating environmental 
+damage. 
+ 
+Chairman, Auras Technology 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+6 
+ 
+“Innovation, Persistence, and Mutual Prosperity” are our core corporate values. We firmly believe that a co-prosperous society is 
+based on mutual support and shared prosperity. For our migrant workers who work hard with us, we also sponsor the Migrant 
+Workers Literature Award to give them the opportunity to share their life experiences. By doing this, more people are able to share 
+their life stories, creating a virtuous cycle together. 
+ 
+The Book of Rites states: “With courtesy, you will be safe; without courtesy, you are at risk.” 
+Currently, the earth’s environmental resources are depleting, and the impact of climate change is getting worse. Many crises stem 
+from the endless exploitation and destruction of the environment and ecology by mankind for a long time. As a result, our 
+generation is about to face huge challenges. In order to protect the earth's environment and reverse the crisis caused by climate 
+change, Auras and all the employees, as one big family, are all aware of our responsibilities and obligations. With our development 
+capabilities, technical strength, and the efforts of each employee, we will continue to expand the development of energy-saving 
+liquid-cooling systems to provide the industry with more efficient solutions with lower energy consumption. At the same time, we 
+take care of our families and contribute to the environment and society so that we can all become better together. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+7 
+ 
+          
+1.1 Origin and History of 
+the Company 
+1.2 Company Overview 
+1.3 Main Business Activities 
+1.4 Vision and Mission 
+About Auras Technology 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+8 
+ 
+ 
+Auras Technology Profile
+Auras Technology Co., Ltd.
+Company name
+1998 08 24
+Date of foundation
+2005 05 13 (3324)
+Date of listing on 
+TPEx
+NTD884 million
+Share capital
+4,951
+Number of 
+employees in 2023
+12, 12,629
+2023 Consolidated 
+revenue
+(NTD thousand)
+Headquarters: Taiwan
+3F., No.6, Wuquan 3rd Rd., Xinzhuang 
+Dist., New Taipei City 242
+Factories in Mainland China: 
+Guangzhou, Kunshan, Chongqing, Hefei
+Thailand Factory: Ban Po Industrial 
+Park
+Factory distribution
+Server, VGA, MB, NB, DT, automotive
+Product Application
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+9 
+ 
+1.1 Origin and History of the Company 
+Auras Technology Co., Ltd. was established in 1998. At first, Auras was mainly engaged in the design of NB heat sinks, and the manufacturing and sales of cooling modules. 
+To expand new markets and business scale, the market was extended to include the manufacturing of air cooling technology modules for servers, graphic cards, motherboards, 
+workstations, and other air-cooled technologies. Auras has been investing in energy-saving and cooling technologies for many years. We understand that as the demand for 
+more rigid data centers and computing power continues to rise, power consumption will also increase. Therefore, in addition to liquid cooling technology, we have also 
+advanced liquid-cooling technology. The company will actively introduce liquid cooling technology and continue to develop the cooling product business in areas such as AI 
+computing, cloud servers, HPC, self-driving cars, charging devices, and other fields. We will also continue to promote mid-term and long-term operational growth, striving 
+to become a comprehensive cooling solutions provider. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+10 
+ 
+1.2 Company Overview 
+Auras is headquartered in Xinzhuang District, New Taipei City, Taiwan, as a sales and R&D center. In 2003, the Company set up a factory in Kunshan, and 
+expanded production lines in Guangzhou, Chongqing, and Hefei, China over the past 10 years. At the same time, we have also increased the rate of in-house 
+production of heat pipes and vapor chambers, meeting the needs of our customers for customized design of heat-dissipating. In order to meet customer needs, 
+the Company went to Thailand to build a factory in 2020, and mass production started smoothly in the first half of 2021.  
+In terms of the strategic deployment of production bases, the factories in mainland China continue to upgrade the automated production lines in order to 
+optimize the product cost structure and improve production efficiency. The factories in Thailand, for the sake of responding to customer’s supply chain 
+management, have expanded the production capacity for liquid-cooling technology related products, servers, laptops, etc. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+11 
+ 
+1.2.1 Auras Organization Chart 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+12 
+ 
+1.2.2 The responsibilities of various divisions  
+Department 
+ 
+Main Responsibilities 
+Source: The Company’s 2023 Annual Report 
+Audit Office 
+⚫ Establishment, amendment and examination of the internal audit system 
+⚫ Auditing on the operation of each department and the execution and promotion of the Company’s self-
+evaluation 
+Chairman Office 
+⚫ Responsible for the Group’s engineering integration and development related to product technology 
+⚫ Enhancement and development of technical ability and promotion and supervision of product development 
+R&D Division 
+In addition to taking charge of the affairs related to the Company’s product developing plans, it is responsible 
+for assisting with solving technical problems such as technics, quality and costs from production to sales 
+service 
+Business Division 
+Responsible for matters related to marketing plans, domestic and overseas sales, operating and sales activity 
+strategies, promotion of market expansion and sales ensuring, transportation, storage and marketing of 
+products, accounts receivable and payable, and others related to after sales service 
+Global 
+Procurement 
+Center 
+Procurement plans for production materials, selection and management of suppliers, production plans, 
+storage management, outsourcing management and the relevant operation matters 
+Growth 
+strategy 
+committee 
+⚫ Based on the analysis and management of the Company’s overall operational performance, the expertise of 
+relevant functional departments was combined, and the resources of various business units was integrated 
+to assist the Company in promoting and enhancing the business performance of each business unit to 
+achieve annual goals. 
+⚫ Develop and plan medium- and long-term, strategic and investment development plans of the Company’s 
+competitive advantages, and expand the subsidiaries and functional units to lead the Company’s overall 
+organizational operations to continuously grow and gain profit. 
+Corporate 
+Governance and 
+Sustainable 
+Management 
+Committee 
+The Company takes the shareholders’ meeting as the highest authority of the Company and with the 
+chairman chairing the board of directors, it implements and supervises the business operations. In order to 
+demonstrate the determination to fulfill corporate citizenship responsibilities and implement sustainable 
+business, the Corporate Governance and Sustainability Committee is responsible for implementing the 
+company’s sustainable operations. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+13 
+ 
+ 
+ 
+ 
+Department 
+ 
+Main Responsibilities 
+Source: The Company’s 2023 Annual Report 
+Audit Committee 
+Assistance to the Board in performing its function of supervising the accounting, audit, financial 
+reporting process and financial control for assurance of quality and integrity. 
+Legal Affairs 
+Office 
+Businesses related to the Company’s legal affairs, including domestic and overseas commercial 
+contracts, patents and other intellectual property right management, and litigations 
+Information 
+Management 
+Office 
+⚫ Responsible for analyzing the costs and performance of business computerization 
+⚫ Planning and designing software system and writing computer programs 
+⚫ Matters such as the hardware characteristics of computer system and solving the operational 
+problems 
+Human Resource 
+Administration 
+Division 
+⚫ Responsible for matters related to human resource management, administration and general 
+affairs management 
+⚫ Planning, integration and management of the system related to receiving orders, shipments and 
+inventories 
+⚫ Responsible for planning, integration and management of the Group’s Document Management 
+Center. 
+⚫ Responsible for matters related to human resource management, administration and general 
+affairs management 
+Financial Division 
+⚫ Research, design, promotion and revision of financial management 
+⚫ Utilization and dispatching of long-term and short-term funds, and processing of each investment 
+⚫ Processing of financial and cashier matters 
+⚫ Planning and execution of matters related to investor relationship, shareholders service 
+management, shareholders’ meetings and each functional committee 
+⚫ Research, design, promotion and revision of accounting system 
+⚫ Analysis and reporting of the summary, control and execution results of annual budget 
+⚫ Processing of accounting and cashier matters 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+14 
+ 
+1.3 Main Business Activities 
+Since establishment, we have adhered to the philosophy of “satisfying the customers” and constantly pursued technological innovation and 
+excellence. In addition to liquid cooling technology, we have also advanced liquid cooling technology to provide customers with total cooling 
+solutions. 
+At Auras, we take advantage of the Group’s 
+industry-leading two-phase current technology to 
+secure the existing performance of notebooks, 
+gaming, desktops, VGA, Smartphone, etc. We will 
+proactively introduce liquid-cooling technology 
+while continuing to expand its cooling product 
+business, such as AI computing, cloud computing, 
+HPC, self-driving cars, and charging devices, aiming 
+to boost medium- and long-term operational 
+growth. 
+● High-performance vapor chamber: The vapor 
+chamber is capable of conducting thermal 
+energy away from the chip faster than heat pipes 
+during high-speed computing, and effectively 
+reducing the chip temperature. As the demand 
+for computing power increases continuously, the 
+penetration rate of vapor chambers will also be 
+enhanced continuously. 
+● Liquid cooling: The Company has developed the 
+liquid cooling technology from single chip to complete systems, which includes closed liquid cooling modules and Immersion Boiler 
+modules with single double pump options. The Group also provides customers with complete machine liquid-cooling system design 
+planning in response to different space and power consumption demand. This includes customized parallel or series Cold Plate module 
+design, Rack, Manifold, and Liquid to Air and Liquid to Liquid CDU RPU HRU customized design solutions with hot-swapping function.  
+Meanwhile, the firmware developed by Auras includes the Redfish standard specification for remote monitoring and management of the 
+host system to meet the demand for high-power computing and thermal energy such as supercomputers, AI computing, edge computing, 
+and big data processing, in response to the global net zero policy. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+15 
+ 
+1.4 Vision and Mission 
+“Innovation, Persistence, and Mutual Prosperity” are the core corporate values of Auras. We strive to achieve 100% customer satisfaction 
+through continuous innovation, and create a win-win situation between the Company and customers. We aspire to become a technology leader 
+in the industry. “Seeking knowledge” of Great Learning in “The Book of Rites” is the business philosophy of Auras and also defines our principle 
+in the course of doing business, meaning that everything must be figured out and by adhering to being motivated, we must overcome obstacles 
+and eventually achieving our goal. We strive for perfection pursue the truth and satisfaction in everything, just as we constantly improve our 
+cooling technology and provide customized total solutions to achieve a win-win situation with our customers. 
+Corporate Culture “Servant Leadership” 
+● Listening to the voices of all stakeholders and putting them into practice 
+● A virtuous cycle that benefits others while also benefiting others. 
+● Encouraging flexible adjustments, and striving to become a problem solver 
+● Learning by doing and realizing what you are doing, encouraging colleagues to have 
+the courage to try and reflect, and treat failures as learning opportunities, and turn 
+mistakes into positive experiences. 
+Corporate Management_“6 Sigma” 
+● DOE (Design of Experiment): We aim to reduce 
+process variation and production costs, as well as 
+shortening development time. We are committed to 
+becoming a pioneer in newly developed markets or new 
+technologies. 
+● TRIZ (Theory of Problem Solving for Innovation, 
+Teoriya Resheniya Izobreatatelskikh Zadatch in Russian) has been introduced and applied to the 
+development of new products and new technologies. 
+● Total Productive Maintenance (TPM): Strengthen the total equipment efficiency and maximize 
+production value with the ultimate goal of zero disasters, zero failures, and zero defects. 
+● TPS (Toyota Production System): The just in time lean production management reduces waste in the 
+production process and maximizes value creation. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+16 
+ 
+ 
+ 
+ 
+2.1 Sustainable Development 
+Strategies and Main Axes 
+2.2 Sustainable Issue 
+Management 
+Sustainable Management 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+17 
+ 
+2.1 Sustainable Development Strategies and Main Axes 
+ 
+In 2022, Auras Technology established the Sustainability Task Force to incorporate sustainability into the consideration of corporate 
+operations. By reviewing the framework of corporate governance, environmental and social management, and applying sustainable strategies 
+to promote innovation, we are committed to becoming a more outstanding enterprise. The Company’s sustainability context is rooted in its 
+business philosophy of “innovation, persistence, and mutual prosperity” and the philosophy of “seeking knowledge” to create a positive social 
+impact through technological innovation and collaboration with value chain partners. 
+In order to realize the Company’s vision and mission, we have adopted Administration, Upgrade, Retention, Accounting, and Sustainability as 
+the five major axes (AURAS) of sustainable development to guide the Company’s sustainable development and growth and gradually establish 
+a comprehensive sustainable development strategy. 
+ 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+18 
+ 
+2.2 Sustainable Issue Management 
+To fulfill corporate social responsibilities and achieve the goals for sustainable development, the Board of Directors of Auras Technology has 
+passed the “Sustainable Development Best Practice Principles,” which clearly define (1) implementation of corporate governance, (2) 
+development of a sustainable environment, (3) maintenance of social welfare, (4) strengthening of the four main principles of corporate 
+sustainability information disclosure as the highest guiding principle for the promotion of sustainable development. Each year, the Chairman 
+reports to the Board of Directors the implementation performance of corporate sustainability and social responsibility, as well as the plans and 
+goals for the next year. While pursuing sustainable operations and profitability, we also value the environment, society, and corporate 
+governance and incorporate them into corporate management guidelines and operating activities. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+19 
+ 
+ 
+ 
+ 
+ 
+3.1 Identification of Material 
+Issues 
+3.2 Stakeholder Identification and 
+Communication 
+3.3 Results of Materiality 
+Identification 
+3.4 Material Issue Matrix 
+3.5 Impact of Material Issues 
+Material Issues 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+20 
+ 
+3.1 Identification of Material Issues 
+ 
+Auras Technology identifies material issues based on the 2021 GRI Standards and the EU Double Materiality Principle, and evaluates issues 
+from the perspectives of internal and stakeholders. This approach helps Auras Technology integrate its sustainability strategy and enhance its 
+long-term ESG performance. Through questionnaires of senior executives and stakeholders, the positive and negative impacts of issues are 
+collected. The impact index is calculated by the sustainability team to identify and manage material issues. The purpose is to ensure that the 
+content of the sustainability report meets the principles of inclusiveness, materiality, and completeness of stakeholders. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+21 
+ 
+3.2 Stakeholder Identification and Communication 
+Based on the five principles of AA1000 SES: Dependency, responsibility, tension, influence, and diverse perspectives, Auras 
+Technology identifies the most influential stakeholders, including employees shareholders customers suppliers external personnel 
+of the organization (government, media, NGOs, etc.), and communicates through various channels to clarify the expectations of 
+stakeholders. 
+Stakeholder Engagement 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+22 
+ 
+3.3 Results of Materiality Identification 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+23 
+ 
+ 
+3.4 Material Issue Matrix 
+Our sustainability team introduced a materiality matrix analysis, where the vertical axis represents “Auras’ positive and negative impacts,” 
+the balance axis represents “positive and negative economic, environmental, and people impacts,” and the size of the issue represents 
+“stakeholders’ concern.” The “degree of materiality” is defined through stakeholder consensus, and the following are the definition of 
+materiality as high, medium to low, and the management strategy: 
+• 
+High Materiality: Set targets, plan and implement strategies, and regularly track them. 
+• 
+Medium Materiality: Formulate strategies and take charge of departmental management exclusively. 
+• 
+Low Materiality: Slight impact and a monitoring mechanism is in place. 
+ 
+2023 Auras Material Issue Changes: 
+Maintain materiality 
+• Labor relations, salary and benefits 
+• Talent attraction, cultivation, and retention 
+• Operational and financial performance 
+• Technological innovation and market 
+deployment 
+• Corporate governance, compliance with 
+laws and regulations, and ethical corporate 
+management 
+Change to materiality 
+• Water resource and waste management 
+• GHG management 
+• Sustainable supply chain management 
+• Occupational health and safety 
+• Information security 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+24 
+ 
+3.5 Impact of Material Issues 
+Auras’ sustainability team is composed of based on the Company’s sustainability axis, including administration, upgrade, retention, 
+accounting and sustainability. The following is an explanation of the material issues: “what they mean to us,” “hotspots of impact on the value 
+chain,” “contribution of SDGs,” and “corresponding GRI Indicators”: 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+25 
+ 
+Material Issue Management 
+ESG has been incorporated into the Company’s key corporate management strategies. The Corporate Governance and Sustainable 
+Management Committee conducts analysis according to the materiality principle of the Sustainability Report, communicates with internal 
+and external stakeholders, reviews domestic and foreign research reports and documents and integrates evaluation data from various 
+departments and subsidiaries. The report focuses on the corporate sustainability of AURAS and includes five major aspects: administration, 
+upgrade, retention, accounting, and sustainability. The Company also implements risk management policies for supervision and control, and 
+adopts specific action plans to reduce the impact of related risks, create consistent sustainable communication languages, and convey Auras 
+Technology’s sustainable influence and important commitment to the environment and society. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+26 
+ 
+ 
+ 
+AURAS Sustainability 
+Goals 
+⚫ Administration 
+⚫ Upgrade 
+⚫ Retention 
+⚫ Accounting 
+⚫ Sustainability 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+27 
+ 
+4.1 AURAS Sustainability Goals 
+Administration 
+Material 
+Issues 
+Policies and Commitments 
+2023 Targets 
+2023 Implementation Highlights 
+2023 
+Performance 
+Corporate 
+Governance 
+Auras attaches great importance to corporate governance and complies 
+with the “Corporate Governance 3.0 Blueprint for Sustainable 
+Development” promulgated by the FSC. We are committed to enhancing 
+corporate sustainable development and strengthening international 
+competitiveness in the market, moving towards the development of an 
+outstanding sustainable enterprise. The five major implementation policies 
+are to strengthen the functions of the Board of Directors, protect the rights 
+and interests of shareholders, enforce legal compliance, enhance 
+information transparency, and create energy-saving and cooling business 
+opportunities. By doing this, we will be able to achieve corporate 
+sustainability and create common benefits and prosperity for stakeholders. 
+Corporate governance 
+evaluation score in the 
+range of 36-50% of TPEx-
+listed companies 
+1. Appointed one female director. 
+2. The implementation of the Board diversity policy is 
+disclosed on the Company’s official website and 
+annual report at the same time. 
+3. Participate in at least two corporate investor 
+conferences every year, and disclose the complete 
+conference audiovisual information at least twice a 
+year. 
+4. Appointed a chief corporate governance to ensure 
+the stockholders’ rights and enhance the 
+functionality of the Board. 
+5. To strengthen the promotion of sustainable 
+development, in addition to preparing the 
+Sustainability Report in accordance with the GRI 
+standards issued by the Global Reporting Initiative, 
+the Company also discloses relevant ESG 
+information with reference to the SASB standards. 
+Achieved 
+Compliance 
+with laws and 
+regulations 
+We have established a diverse legal compliance education and training 
+system to help board members and officers understand the required laws 
+and regulations. At the same time, we also make every effort to 
+comprehend the laws and regulations of other countries as the Company's 
+operational strategies are deployed to effectively guard the Company's 
+operational risks. At the same time, we review all operating procedures 
+with the highest standards and constantly pay attention to the latest legal 
+developments to ensure legal compliance and reduce the risk of the 
+Company violating the law. 
+For all directors and 
+independent directors to 
+meet the requirements for 
+further education hours. 
+New directors and independent directors took further 
+education for at least 12 hours, and the re-elected 
+directors and independent directors took further 
+education for at least 6 hours, meeting the requirements 
+of “Directions for the Implementation of Continuing 
+Education for Directors and Supervisors of 
+TWSE TPEx Listed Companies.” 
+100% 
+completion 
+rate 
+Ethical 
+Corporate 
+Management 
+Auras has clearly established that the HR unit is responsible for the 
+formulation, implementation, and supervision of policies and regulations 
+for ethical corporate management, as well as the establishment of good 
+corporate governance and risk control mechanisms. Through the code of 
+ethical conduct, work rules, confidentiality and integrity pledge, and 
+declaration of conflict of interest, Auras is committed to creating business 
+environment for sustainable development and ensure the implementation 
+of the Ethical Corporate Management Best Practice Principles. Meanwhile, 
+we have established and improved the reporting and appealing procedures 
+to protect whistleblowers. 
+For employees and 
+suppliers to sign the 
+Confidentiality and 
+Integrity Pledge 
+1. The entire Group had 2,224 new employees in 2023, 
+and all signed the Confidentiality and Integrity 
+Pledge when reporting for work. 
+2. The supplier signed the Confidentiality and 
+Integrity Pledge before logging in to the supplier 
+qualification system. 
+Achieved 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+28 
+ 
+Information 
+security 
+We are committed to protecting the confidentiality, integrity, and 
+availability of customer and corporate data. We vow to comply with 
+relevant laws and regulations and establish a comprehensive information 
+security management system that includes measures such as identity 
+verification, data encryption, and network protection. In addition to 
+continuously strengthening information security awareness training for 
+employees, we also regularly conduct risk assessments and security 
+vulnerability scanning, and update security measures in a timely manner to 
+prevent various security threats and attacks. We are committed to 
+handling and reporting information security incidents in a timely manner, 
+and continuously improving information security management to ensure 
+the security and reliability of customer and company information. 
+Thai-Horng Factory 
+introduced the 
+information security 
+management system and 
+passed external 
+verification. 
+Thai-Horng Factory established an information security 
+management system and obtained the ISO 27001 
+certificate. 
+Obtained 
+ 
+Upgrade 
+Material 
+Issues 
+Policies and Commitments 
+2023 Targets 
+2023 Implementation Highlights 
+2023 
+Performance 
+Technological 
+innovation 
+and market 
+deployment 
+With the spirit of seeking knowledge, we continue to innovate and advance new 
+technology research and development to strengthen the Company’s competitive 
+advantages in the market. At the same time, we also provide flexible and 
+customized production/design to ensure that products and services can meet 
+customer needs to the greatest extent, and create a win-win situation with 
+customers. 
+1. Actively introduce 
+liquid cooling 
+technology and 
+continue to expand 
+the business of 
+cooling products. 
+2. Actively engage in 
+R&D and 
+strengthen the R&D 
+team 
+1. Provide a complete range of liquid-cooling-
+related products, including liquid-cooling 
+plates, pumps, liquid-cooling distribution units 
+(CDUs), and manifolds. 
+2. Provide customized comprehensive liquid 
+cooling technology, whether water-to-air or 
+water-to-water cooling solutions, can quickly 
+and effectively meet customer cooling needs. 
+3. NTD 678,018 thousand of R&D expenses 
+invested 
+Achieved 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+29 
+ 
+Retention 
+Material 
+Issues 
+Policies and Commitments 
+2023 Targets 
+2023 Implementation Highlights 
+2023 
+Performance 
+Talent 
+attraction, 
+cultivation, 
+and retention 
+Auras’ talent attraction, cultivation, and retention policy is committed to 
+providing employees with sound development platforms and benefits, thereby 
+establishing a positive corporate culture. We are committed to motivating 
+employees to realize their potential through continuous training and career 
+development opportunities to achieve personal growth and the Company’s 
+common growth. At the same time, we pay attention to the work-life balance 
+of our employees, provide flexible work arrangements, health benefits, and 
+create a pleasant work environment. We will actively listen to the views of our 
+employees, constantly improve the management system, and establish a fair 
+and impartial evaluation mechanism to ensure that our employees are 
+rewarded and recognized for their hard work. 
+1. Organize activities to enhance 
+employees’ sense of well-being 
+and actively create a pleasant 
+and healthy work environment. 
+2. Provide training opportunities 
+to assist employees in their 
+continuous growth. 
+3. Actively listen to the views of 
+employees 
+1. A Family Day was arranged in Taipei 
+with various experiential activities 
+planned. The Company paid the full 
+registration fee for a road run in 
+Taipei, with a total of 114 people 
+taking part. 
+2. Organized various education and 
+training courses, totaling 97,285 hours 
+of education and training for the entire 
+Group. 
+3. Held a labor-management meeting 
+every quarter. 
+Achieved 
+Labor 
+relations, 
+salary and 
+benefits 
+Auras is committed to establishing a harmonious labor-management 
+relationship and promotes win-win results and common development through 
+communication and negotiation. We are committed to providing competitive 
+salaries and benefits to stimulate the enthusiasm and creativity of employees, 
+and fair evaluation and rewards based on employees’ performance and 
+contribution. We pay attention to the work-life balance of our employees, 
+provide a flexible working system and diverse welfare measures, and care 
+about their health and well-being. At the same time, we are committed to 
+establishing a fair and equitable remuneration system and benefit distribution 
+mechanism to protect the rights and interests of employees and jointly 
+promote the long-term development and stability of the Company. 
+1. Provide competitive salaries 
+and benefits. 
+2. Distribute incentive bonuses to 
+encourage employees to make 
+long-term contributions and 
+grow together. 
+3. Provide diversified welfare 
+measures 
+1. Regular assessments and salary 
+adjustments. 
+2. Distribute dividends and year-end 
+bonuses to employees 
+3. Distribute gifts and birthday bonuses 
+on three major festivals, and organize 
+employee trips. 
+Achieved 
+Occupational 
+health and 
+safety 
+Auras places the highest importance on occupational health and safety, and is 
+firmly committed to ensuring the health and safety of all employees at work. 
+We will actively enforce relevant laws and regulations, constantly improve and 
+strengthen the occupational health and safety management system, and 
+provide the necessary training and resources to ensure that employees 
+understand and comply with the safety operations. We will establish an 
+effective hazard identification and risk assessment mechanism and take 
+necessary measures to reduce and control various hazardous factors in the 
+workplace. At the same time, we encourage employees to actively participate 
+in occupational health and safety management, provide reporting and 
+feedback mechanisms, and timely handle and resolve potential safety hazards 
+and problems at work. We will spare no effort to protect the physical and 
+mental health of employees, create a safe and healthy work environment, and 
+realize the common development of employees and the Company. 
+1. Protect the physical and mental 
+health of employees 
+2. Continue to improve and 
+strengthen the occupational 
+health and safety management 
+system. 
+3. Reduce the hazards to the 
+safety and health of employees 
+and provide them with a safe 
+and healthy working 
+environment. 
+1. Regularly organize employee physical 
+checkups, provide colleagues with free 
+on-site health checkup services, and 
+conduct workplace safety interviews. 
+2. Guangzhou Factory, Kunshan 
+Factory, Chongqing Factory and Thai-
+Horng Factory have obtained the ISO 
+45001 certificate for the occupational 
+safety and health management system. 
+3. Regularly hold fire emergency drills to 
+enhance the fire safety awareness of all 
+employees. 
+Achieved 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+30 
+ 
+ 
+Accounting 
+Material Issues 
+Policies and Commitments 
+2023 Targets 
+2023 Implementation Highlights 
+2023 
+Performance 
+Operational 
+and financial 
+performance 
+In addition to establishing a sound and stable financial management system and ensuring 
+the accuracy and reliability of financial information, we will continue to optimize 
+operational processes and reduce costs to enhance corporate competitiveness. At the same 
+time, we are committed to risk management and capital structure optimization to ensure 
+the controllability of financial risks. We will periodically conduct financial assessments 
+and risk analysis, adjust business strategies in a timely manner, in order to respond to 
+market changes and challenges, and maximize profits. 
+Continue to optimize 
+operational processes and 
+reduce costs. 
+Consolidated revenue: NTD 12,712,629 
+thousand 
+Gross profit margin: 23.64% 
+Profit 
+ 
+ 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+31 
+ 
+ 
+Sustainability 
+Material 
+Issues 
+Policies and Commitments 
+2023 Targets 
+2023 Implementation Highlights 
+2023 
+Performance 
+Water 
+resource and 
+waste 
+management 
+Auras is committed to environmental protection, resource conservation, and the 
+practice of sustainable development. We are committed to taking effective 
+measures to reduce the waste and pollution of water resources and improving 
+the utilization rate of water resources through scientific management and 
+technological innovation. At the same time, we will promote waste reduction, 
+resource utilization and circular economy to reduce the negative impact of waste 
+on the environment. Comply with relevant laws and regulations and establish a 
+comprehensive waste management system, including classified collection, 
+treatment, and disposal, to ensure the safety and environmental protection of the 
+waste disposal process. Furthermore, we raise the environmental awareness of 
+our employees and the general public through environmental protection 
+publicity and education so that we can participate in actions to protect the earth. 
+Organize ESG education and 
+training courses to improve 
+employees’ environmental 
+protection awareness. 
+Six 3-hour ESG training courses 
+were held. A total of 57 employees 
+from across the Group participated, 
+for a total of 1,026 training hours. 
+Quantified 
+GHG 
+management 
+Auras is committed to reducing carbon emissions and promoting sustainable 
+development. Reduce GHG emissions through technological innovation and 
+energy efficiency improvement, and actively participate in carbon neutralization 
+initiatives. We continuously monitor, report and assess emissions to ensure 
+compliance with international standards and regulatory requirements. At the 
+same time, we actively carry out environmental protection education and 
+promotion to raise the awareness of environmental protection from the 
+perspective of the Company to employees and their families, as well as suppliers, 
+making the greatest contribution to climate change. 
+Conduct GHG inventory 
+checks and engage an 
+external third party to 
+perform verification. 
+The year 2023 is set as the baseline 
+year. The Taiwan headquarters and 
+factories (Guangzhou Factory, 
+Kunshan Factory, Chongqing 
+Factory, Anhui Factory, and Thai-
+Horng Factory) have completed 
+third-party verification according to 
+the ISO14064-1:2018 GHG 
+inventory standard. 
+Certificates 
+obtained 
+Sustainable 
+supply chain 
+management 
+Besides striving to establish a reliable, transparent, and sustainable supply chain 
+system, we also work with suppliers to promote environmental friendliness, 
+social responsibility, and sustainable economic development, and strictly comply 
+with relevant laws and regulations to ensure compliance in all aspects of the 
+supply chain. fair and equitable trading. At the same time, we actively evaluate 
+suppliers’ implementation of environmental, social, and governance practices, 
+and provide support and training in a timely manner to help them improve their 
+sustainable development standards. Furthermore, by establishing a risk 
+management mechanism, we are able to assess the challenges and risks the 
+supply chain may face, ensuring the stability and sustainability of the supply 
+chain. 
+Conduct supplier 
+evaluations on a regular 
+basis 
+Conduct monthly, quarterly, and 
+annual supplier evaluations. 
+Achieved 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1 Corporate Governance, Compliance 
+With Laws and Regulations, and 
+Ethical Corporate Management 
+5.2 Information Security 
+5.3 Risk Management 
+Administration 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+33 
+ 
+5.1 Corporate Governance, Compliance With Laws and Regulations, and Ethical Corporate 
+Management 
+5.1.1 Sustainability Governance 
+5.1.1.1 Organizational Structure of Sustainable Governance 
+To promote and achieve the vision for sustainability, the Company has the “Sustainable Development Taskforce” in place to promote work 
+related to corporate risk management, corporate social responsibility, and climate change adaptation. Through diverse and smooth 
+communication channels, we can understand the thoughts and needs of stakeholders and use them as an important reference for formulating 
+the Company’s sustainability policy. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+34 
+ 
+ 
+Roles of the Board of Directors 
+With the Board of Directors as the highest governance unit, Auras Technology abides by laws and regulations and internal regulations such as 
+the Company’s Articles of Incorporation. This ensures that the Company’s business philosophy is adhered to and that the Company has an 
+internal control system in place to review corporate governance. By doing so, stakeholders can be informed of important company information 
+in a timely manner. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+35 
+ 
+ 
+5.1.1.2 Sustainability Promotion and Management Process  
+The Board of Directors is the Company’s highest governing body. In addition to carrying out its business in accordance with the laws and regulations and 
+the resolutions of the shareholders’ meeting, the Board of Directors also monitors the Company’s strategic plans, annual financial reports and quarterly 
+financial reports, the evaluation of the effectiveness of the internal control system, the appointment (dismissal) of the CPAs, and the managers. 
+In 2018, the Board of Directors passed the “Sustainable Development Best Practice Principles” during the Board of Directors meeting to regulate the 
+Company’s promotion of sustainable development, attention to the rights and interests of stakeholders, and emphasis on the environment, society and 
+corporate governance while pursuing sustainable operations and profits, also give due consideration to the environment, society and corporate governance. 
+In order to improve the management of sustainable development, the Corporate Governance and Sustainable Management Committee is responsible for 
+proposing and implementing sustainable development policies, systems or related management guidelines and specific promotion plans, and regularly 
+reporting to the Board of Directors. 
+To respect the rights and interests of stakeholders, we set up a stakeholder section on our website. The Investor Relations Unit is responsible for answering 
+unscheduled calls or letters from investors or shareholders. By doing this, we are able to understand the reasonable expectations and needs of stakeholders 
+through proper means of communication. We also respond to important sustainability issues of concern to stakeholders. in an appropriate manner. 
+ 
+Report Quality Management 
+External consultants provide guidance and coordinate the direction of the sustainability report. The Sustainability and Corporate Governance Office is 
+responsible for distributing questionnaires to collect stakeholders’ opinions and compiling the 
+relevant contents of the report. The content of each chapter of the report is reviewed by the 
+head of each department for correctness of the content and information, and then submitted 
+to the Board of Directors for approval. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+36 
+ 
+5.1.1.3 Corporate Governance and Sustainable Management Committee 
+In pursuing the vision and mission of the ESG policy, the Company established the “Corporate Governance and Sustainable Management 
+Committee” Task Force in 2018. This committee was renamed the “Corporate Governance and Sustainable Development Committee” by the 
+Board in January 2022, which is the supreme decision-making center of the Company in sustainable development. These two and a number of 
+senior officers in different areas of specialization jointly review the core competence of the Company in operation, and map out the mid- to long-
+term sustainable development plan.  
+The “Corporate Governance and Sustainable Management Committee” performs the function as the platform for vertical integration and 
+horizontal connection in cross-function communication. The Committee identifies the issues of sustainability pertinent to the operation of the 
+Company and to the concern of the stakeholders through its quarterly sessions and the issue-oriented task force; map out related strategies and 
+action plans, budgeting for different organizations and for sustainable development related issues; design and execute the annual plans; and 
+follow up with the result for assuring the strategy of sustainable development can be translated into practice in the routine operation of the 
+Company. The Task Force reports to the chairman from time to time on the results of the implementation of sustainable development and future 
+work plans, and reports to the Board of Directors on the status of compliance at least once a year.  
+ 
+ 
+Scope of Duties: 
+1. Formulation of policies and systems for the Company’s sustainable development and net zero emissions. 
+2. The Company’s sustainable development includes the formulation of goals, strategies, and implementation plans for 
+sustainable governance, ethical corporate management, and environmental and social aspects. 
+3. Follow-up, examination, review, and revision of the implementation and effectiveness of the Company’s sustainable 
+development and net-zero emissions. 
+4. Collection and compilation of views from stakeholders, and identification and management of the impacts of material topics. 
+5. Content output of the ESG report and disclosure of relevant information. 
+6.  Review of the direction and goals set by each responsible unit for sustainable development in corporate social responsibility, corporate 
+governance, labor-management relations, public safety, environmental protection, social welfare, supplier management, risk management, 
+product design, customer and shareholder rights and interests, and specific promotion plans. 
+ . Focus of the issues of concern to all stakeholders, including shareholders, customers, suppliers, employees, the government, non-profit 
+organizations, communities, and the media, and supervising the communication plan. 
+8. Advocacy and implementation of the Company’s ethical corporate management and risk management, and implementation and supervision of 
+the relevant work; fostering and strengthening of the organization and system of corporate governance. 
+9. Other matters that the Committee shall handle according to the Articles of Incorporation, relevant internal regulations of the Company, 
+regulations of the competent authorities, or resolutions of the Board of Directors. 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+37 
+ 
+5.1.1.4 Governance Roadmap 
+Auras Technology spontaneously values corporate governance and is 
+committed to complying with the “Corporate Governance 3.0 Blueprint 
+for Sustainable Development” issued by the FSC to enhance the 
+sustainability of the Company and strengthen the connection with the 
+international capital market. This will help Auras move towards being an 
+all-round cooling solutions provider. 
+ 
+Protecting the rights and interests of shareholders 
+The Company has set up spokespersons and acting spokesperson systems 
+to ensure the timely and fair disclosure of any information that may 
+affect shareholders’ decision-making. A dedicated mailbox has also been 
+set up to receive shareholders’ suggestions, questions, and disputes. 
+ 
+Equal Treatment of Shareholders 
+The Company values the right of shareholders to know, strictly abides by the regulations on the disclosure of information. 
+Moreover, the Company also provides shareholders with constant and real-time information on its finance, business operations, 
+insider shareholding and corporate governance status through MOPS or the Company’s website. 
+To treat shareholders equally, various types of information are disclosed in English at the same time. To protect the rights and 
+interests of shareholders and ensure equal treatment of shareholders, the Company prohibits insiders from trading securities 
+against non-public information. 
+ 
+Strengthening the structure and operation of the Board of Directors 
+The composition of the Company’s Board of Directors is diverse, and none of the directors is a spouse or relative within the second 
+degree of kinship. Furthermore, the Company has set up a Corporate Governance and Sustainable Management Committee and a 
+Growth Strategy Committee. 
+ 
+Enhancement of Information Transparency 
+The Company has official websites in both English and Chinese to disclose information related to finance, business, and corporate 
+governance. The Company’s financial statements and annual reports are available in both Chinese and English.
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+38 
+ 
+5.1.2 Structure and Functioning of the Board of Directors 
+5.1.2.1 Board Members Board Structure and Mechanisms 
+According to the Company’s “Corporate Governance Principles”: the composition of the Board of Directors shall be diversified, and that 
+except that the directors who concurrently serve as the Company’s managers shall not exceed one-third of the directors, the Company shall 
+propose appropriate diversification goals regarding its own operation, business type and development. Furthermore, as a means to enhance 
+the independence of the Board of Directors, at least two independent directors shall be established, with no fewer than one third of the total 
+number of directors. The company values the importance of gender equality in the composition of the board of directors and aims to increase 
+the number of female directors to account for more than 30% of the board of directors. Currently, there are eight male directors accounting 
+for 88.89% and one female director accounting for 11.11% on the board. The company strives to increase the number of female directors until 
+achieving the set goal in the future. The implementation of cultural diversity among the Board of Directors is as follows: 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+39 
+ 
+5.1.2.2 Board of Directors Meetings and Attendance 
+A total of five board meetings were held in 2023. For matters listed in Article 14-3 of the Securities and Exchange Act, as well as for other 
+board meetings for which independent directors have objected or qualified their opinions and have been recorded or declared in writing, it is 
+necessary to state the date, session, the motion discussed, independent directors’ opinions and how the Company has responded to such 
+opinion. There was no such situation in 2023. Furthermore, during the Board of Directors discussions on the distribution of year-end bonuses 
+and employee remuneration to managers on January 18 and August  , respectively, the Chairman, Mr. Lin Yu-Shen, recused himself from the 
+resolution as his own interests were involved as he serves as the manager of the Company, and did not participate in the resolution. 
+For board meetings, the agenda shall be included in the notice to be given to all directors at least   days in advance. The meeting affairs unit 
+shall draft the agenda for the board meeting and provide sufficient meeting materials to be sent together with the meeting notice. Audio 
+recordings of all Board meetings shall be recorded and retained for at least five years. They must bear the signature or seal of both the chair 
+and the minute taker, and a copy of the minutes shall be distributed to each director within 20 days after the meeting. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+40 
+ 
+5.1.2.3 Corporate Governance 
+We uphold the spirit of “Corporate Governance,” enhance the operation and duties of the Board of Directors, and formulate an audit system for 
+supervision and management to fulfill the Company’s management responsibilities. With the business philosophy of “seeking knowledge,” we adhere to the 
+principles of corporate governance, insist on information disclosure and operational transparency, and strive to enhance the Company’s operating 
+performance to ensure shareholders’ rights and interests. 
+According to Article 1  of Auras’ Articles of Incorporation, members of the Board of Directors are elected at the shareholders’ meeting. Directors (including 
+independent directors) are subject to the nomination system and will be elected from among the candidates in the shareholders’ meeting, 
+and are eligible for re-election. To optimize the operation of the Board of Directors, it is formed by 9 directors with rich professional 
+experience in the fields of entrepreneurial leaders, electronic technology, venture capital financial experts, and business academics. At 
+least one meeting is held every quarter to review business performance and discuss important strategic decisions. In 2023, a total of 5 
+Board of Directors meetings were held, with important resolutions announced on the MOPS of the Taiwan Stock Exchange in real 
+time. In addition, a corporate governance section has been set up on the Company’s official website to provide relevant information 
+such as the Company’s Articles of Incorporation and Board of 
+Directors’ Rules of Procedure. 
+In addition, according to the “Directions for the Implementation of Continuing Education 
+for Directors and Supervisors of TWSE TPEx Listed Companies,” newly appointed 
+directors or independent directors are required to take at least 12 hours of continuing 
+education during the year they take office and it is advised that they take at least 6 hours 
+each year after the year they take office. Independent directors are required to complete 
+at least 6 hours of continuing education per year during their term of office. In 2023, all 
+directors and independent directors met the requirement of continuing education hours, 
+with an average of 8.6  hours of continuing education hours per person. The relevant 
+continuing education status is published on the MOPS. 
+Moreover, with a high degree of self-discipline, the directors of Auras Technology who 
+have an interest in a proposal of the Board meeting or the juristic person on whose behalf 
+they or they represent, to the extent that the interests of the Company may be 
+detrimental to the interests of the Company, such directors shall recuse themselves from 
+the discussion and voting, and may not exercise voting rights on behalf of other directors. 
+The directors also exercise self-discipline and mutual support among themselves, taking 
+into account the ethical principle of avoiding conflict of interest, in order to effectively 
+protect the interests of the Company. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+41 
+ 
+Internal Audit 
+The Internal Audit Office is an independent unit under the Board of Directors. The appointment or dismissal of the Chief Internal Auditor is 
+approved by the Board of Directors. The internal auditors faithfully perform their duties in an objective and fair position, and the Chief Internal 
+Auditor also attends the Board meeting as a non-voting participant to report according to the laws and regulations. The Internal Audit Office 
+presents audit reports and the follow-up report on corrective action and preventive cation to the Independent Directors on a monthly basis, and 
+also reports to the Audit Committee routine session held at least once quarterly on the pursuit of internal audit and audit findings, and related 
+follow-up actions. Under special circumstances, the internal audit department will report to the members of the Audit Committee at once. 
+The certified public accountants serving as Independent Auditors of the Company will report to the Audit Committee in its quarterly session 
+on the findings of financial audit and review, and engage in communication with the members on mandatory issues. Under special 
+circumstances, the Independent Auditors will report to the members of the Audit Committee at once, but no such thing occurred in 2023. 
+Furthermore, the Chief Internal Auditor, the Independent Auditors, and the Independent Directors liaise with one another from time to time 
+as needed. The channel of communication is barrier free. 
+ 
+Chief Corporate Governance 
+To ensure that the Company abides by laws, regulations, rules and ethical standards during 
+the operation of the Company, so as to protect the interests of the Company 
+and shareholders. On March 8, 2023, the Board of Directors passed a 
+resolution to appoint the Company’s Legal Manager as the Chief Corporate 
+Governance and the highest executive in charge of corporate governance-
+related affairs. The Chief Corporate Governance is mainly responsible for 
+supervising and managing the Company’s governance structure and processes 
+to ensure the Company’s efficient operation, transparency, and accountability. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+42 
+ 
+5.1.2.4 Functional Committees 
+Audit Committee Operations and Attendance 
+At Auras, we are committed to improving the Company’s governance 
+system, enhancing the fair presentation of financial statements of the 
+Board of Directors, the selection (dismissal) and the independence and 
+performance of CPAs, the effective implementation of internal control and 
+compliance with relevant laws and regulations, as well as the professional 
+supervision of risk control of the Company. Given this, we established an 
+Audit Committee in 2021 to replace the original supervisor system. 
+ 
+According to Auras’ “Audit Committee Charter,” the committee members 
+shall be composed of 4 independent directors of the Board of Directors, at 
+least one of whom has expertise in accounting or finance. An independent 
+director is elected by all members to serve as the convener and meeting 
+chair. 
+A total of 5 Audit Committee meetings were held in 2023, and no 
+independent directors had to recuse themselves due to conflicts of interest. 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+43 
+ 
+Operation of the Remuneration Committee 
+In order to improve the remuneration system for the directors and managers of Auras 
+Technology, the Company has established the “Remuneration Committee Charter” according 
+to Article 3 of “Regulations Governing the Appointment and Exercise of Powers by the 
+Remuneration Committee of a Company Whose Stock is Listed on the Taiwan Stock Exchange 
+or the Taipei Exchange” for compliance. The Remuneration Committee was formed December 
+31, 2011. 
+The Remuneration Committee consists of 3 members in accordance with the “Remuneration 
+Committee Charter,” and Mr. Liu Fu-Han was unanimously elected as the convener of the 
+Remuneration Committee. 
+The duties of the Committee are to regularly review the remuneration policy and performance 
+evaluation of the directors and managers of Auras Technology from a professional and objective 
+perspective, and make recommendations to the Board of Directors for its reference. According to 
+the “Remuneration Committee Charter,” at least two meetings are held every year. A total of 3 
+meetings were held in 2023. For the Remuneration Committee’s charter, please refer to the 
+Company’s and the MOPS websites. 
+ 
+ 
+Growth Strategy Committee 
+In addition to the functional committees of the Audit Committee and the Remuneration 
+Committee, Auras Technology has also set up a Growth Strategy Committee to coordinate, 
+integrate and effectively utilize the Company’s resources, promote the improvement of the quality 
+yield, efficiency, improvement, optimization of operations, and cost performance to enhance the 
+Company’s overall core competitiveness. The Growth Strategy Committee consists of all 
+Independent Directors, Vice Presidents Chen Chih-Wai and Chang Chih-Hui and Chief 
+Accounting Officer, Yen Pei-Hsu, and Vice President Chen Chih-Wei serves as the convener and is 
+responsible for coordinating the execution of the Growth Strategy Committee. The Growth 
+Strategy Committee convenes at least two meetings a year and may hold a meeting at any time as 
+necessary. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+44 
+ 
+5.1.2.5 Board of Directors Performance Evaluation 
+Company passed the “Guidelines for Self-assessment or Peer-assessment of the Board of Directors.” The internal board 
+performance evaluation shall be carried out at least once a year. The internal evaluation period of the Board of Directors shall be at 
+the end of each year, and the evaluation shall be carried out at the end of each year. Carry out the performance evaluation of the 
+board of directors of the previous year in the first quarter of each year, which includes the overall operation of the board of 
+directors and the performance of individual directors. 
+ 
+ 
+2023 Board of Directors Performance 
+Evaluation: 
+1. Evaluation period: January 1 to 
+December 31, 2023.  
+2. Results of the internal self-evaluation of 
+the overall performance of the Board of 
+Directors: The evaluation results are 
+favorable.  
+3. Results of the internal self-evaluation of 
+the board members: The evaluation 
+results are favorable. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+45 
+ 
+5.1.3 Corporate Governance, Compliance With Laws and Regulations 
+The Company has established various internal regulations in accordance with the standards of laws and regulations governing public companies, and has 
+been constantly monitoring the changes in laws and regulations by the competent authorities to make adjustments. Adhering to this spirit, all subsidiaries 
+within the Group shall comply with such regulations. In addition, to implement the Company’s core values, we abide by a high degree of professional ethics, 
+and ensure that employees can strictly follow the Company’s professional ethical standards when engaging in daily work and business, so as to maintain the 
+Company’s reputation. Therefore, the Company has arranged legal education and training courses in the Company’s internal education and training system. 
+The content and items of confidentiality obligation are discussed briefly, as well as the penalties for breach of confidentiality obligation. In doing this, 
+employees can better understand the confidentiality obligations and the seriousness of violations, so as to avoid unnecessary losses of the Company. The 
+Company’s management team has been paying close attention to any domestic and foreign policies, laws, and regulations that may affect the its finances and 
+business. We have established relevant risk management procedures, and improved the knowledge of employees on legal affairs through continuous education 
+and training. 
+At Auras, we comply with the laws and regulations of each operating location, with regulatory compliance as the basic requirement. If any violation is 
+discovered, the responsible unit will clarify the cause of the violation, discuss and formulate improvement measures to prevent related incidents from 
+recurrence. 
+In 2023, the Company followed the laws and regulations and there were no major violations of laws or regulations. (Definition of major violation: 
+According to the regulations of TWSE, a case of major violation is defined as the amount of fine exceeding NTD 1 million)  
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+46 
+ 
+5.1.4 Ethical Corporate Management 
+Sustainable Development Strategies and Best Practice Principles 
+To implement the Company’s ethical conduct and ethical 
+management, and for the benefit of the Company’s sustainability, we 
+have established various codes of conduct which are conveyed on a 
+regular basis. These codes include the “Corporate Governance Best 
+Practice Principles” and “Sustainable Development Best Practice 
+Principles,” so that employees have a clearer direction in dealing with 
+stakeholders. 
+Based on the business philosophy of integrity, transparency, and 
+accountability, the Company has formulated policies centering on 
+integrity, and has sound corporate governance and risk control 
+mechanism in place to create a sustainable business environment. The 
+Company has formulated the “Ethical Corporate Management and Complaints Reporting Best Practice Principles.” Meanwhile, the “Rules of 
+Procedure for Board of Directors Meetings” has defined the system of avoiding conflicts of interests for directors. In addition, the “Work 
+Rules” have listed that employees shall not receive gifts. The Company’s suppliers shall all sign the “Confidentiality and Integrity Pledge.” 
+The Board of Directors and the management level shall all sign the “Statement of Not Violating the Ethical Corporate Management 
+Principle,” which serves as the basis for implementing ethical corporate management. We adhere to operational transparency and request 
+suppliers to sign the “Integrity Pledge.” 
+ 
+In order to maintain the order and stability of the society and the factory, 
+protect the personal rights and interests of employees who refuse to 
+participate in improper or unethical conduct and whistleblowers, 
+encourage employees refusing to participate in improper and immoral 
+conduct, and reporting the complaints of suppliers and customers, Also, 
+the improper conduct to be reported including any conduct in violation of 
+social ethics and laws and regulations, or any act not complying with RBA 
+standards. The company has the “Procedures for Complaint and 
+Whistleblower Protection and Management.” 
+All function heads of the Company are responsible for the establishment and supervision of the implementation of the ethical corporate 
+management policy and preventive plans. The audit department is responsible for the supervision of the practice of ethical corporate 
+management and inspection, and reports to the Board once annually. 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+47 
+ 
+5.2 Information Security 
+Committed to promoting digital transformation, Auras Technology has introduced a complete information security 
+management mechanism to ensure the accuracy and availability of information processing and the security of information-
+related systems, equipment, and networks. We implement internal information security drills and education and training 
+on a periodic basis. This is aimed to enhance colleagues’ awareness and vigilance in information security, ensuring customer 
+and product information security. 
+In order to maintain the continuous operations of the Company and protect its important business information operations, 
+in the event of a major disaster, vandalism, or equipment failure where the Company’s operations are affected, contingency 
+measures are effectively initiated to reduce the damage to a tolerable level. Therefore, we have established the Information 
+Security Management System with reference to the ISO 2 001 standard. 
+ 
+2023 achievements in the promotion of information security measures: 
+1. Introduced an email protection, endpoint protection, identity protection, and group endpoint computer 
+patch management system. 
+2. Promoted information security promotion of email protection, endpoint protection, identity 
+authentication protection, and information security health check. 
+3. Shared and promoted information security cases, as well as 1-hour online information security general 
+education and training for employees from time to time. 
+4. Introduced ISO 2 001:2022 and obtained certification. Our employees have also obtained information 
+security certificates such as ISO 2 001 Lead Auditor. 
+5. Performed weekly virus scans and updated virus 
+patterns automatically. Vulnerability scans were 
+performed twice a year to patch information security 
+loopholes. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+48 
+ 
+5.3 Risk Management 
+In addition to risk response plans that may affect financial performance, the Company’s risk management also includes environmental and 
+information risk assessments and emergency response plans. The concept of prevention is embedded in the corporate culture to eliminate 
+identifiable and avoidable risks as much as possible. This is aimed to minimize potential losses from operational disruptions. Therefore, we are 
+deeply aware that uncertain risks such as natural disasters and accidents have a significant impact on the Company’s production and operation 
+and employee safety. Only by facing the scope of disaster risk management with a proactive attitude of preventive management, and through 
+stringent risk management plans and the implementation of safety regulations and management can the highest standards of safety be achieved. 
+We ensure that the Company is able to quickly resume normal operations after a disaster (including fire, earthquake, typhoon, water and power 
+outage, war, political unrest, terrorist attack, food poisoning, notifiable disease, environmental pollution, etc.) to minimize the loss of the property 
+of the Company and customers, while maintaining the Company’s reputation and employee safety. 
+In 2023, Auras took out commercial fire insurance, cargo transportation insurance, product liability insurance and public liability insurance. 
+This way, we ensure that the risk of damage or loss of the insured property caused by unforeseen and unpredictable accidents can be minimized 
+during the insurance period. Through insurance planning and the payment of fixed insurance premiums, the operational risks are transferred 
+and the possible losses minimized. 
+Furthermore, in addition to regulating and addressing major risks faced by various business operations in terms of sales market, production 
+operations, human resource planning, new product development progress, and financial and accounting control controls, aside from the existing 
+systems, more proactive measures have been taken. We are committed to developing more advanced and more sensitive procedures and 
+standards for risk supervision, assessment and control to balance safety and efficiency. We have also adopted more economical business 
+operation models, such as strengthening the establishment of information systems and enhancing the capability of early warning and monitoring. 
+In addition, in order to maintain the continuous operations of the Company and protect its important business 
+information operations, in the event of a major disaster, vandalism, or equipment failure where the Company’s 
+operations are affected, contingency measures are effectively initiated to reduce the damage to a tolerable level. 
+Therefore, we have established the Information Security Management System with reference to the ISO 2 001 standard. 
+Moreover, we introduced the ISO 2 001 management system in 2022 to improve our information security system. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+49 
+ 
+Business Continuity Management (BCM) Systems 
+In 2023, Auras Technology introduced its Business Continuity Management Systems (BCMs), and passed 
+external verification in January 2024 to obtain the ISO 22301 certificate. 
+Purpose 
+Our Business Continuity Management System (BCMs) is a key 
+tool we use to identify, assess, and manage business continuity 
+risks. The establishment of the BCMs can help cope with various 
+operational impacts, enhance the response capability, and 
+accelerate the response speed. In particular, factors such as 
+frequent disasters, geopolitical changes, and shortages of key 
+components may increase the risk of supply chain disruption. 
+Contingency measures and recovery plans are planned in advance 
+to facilitate timely response and quick recovery in the event of an operational disruption to 
+minimize damage, ensuring the maximum interests of key stakeholders. 
+The main function of BCMs is to protect the Company’s operations from disasters and accidents. 
+BCMs can protect the organization in the event of a “disruption” and reduce the possibility of disruptions, to prepare for, to respond to, and to 
+recover from disruptions. By adopting BCMs, we are able to protect the Company and fulfill its contractual obligations to customers, fulfilling 
+its social responsibilities and contributing to the local community and economy. Through BCMs, we can comprehensively and systematically 
+identify, assess, and manage various risks that may affect the Company’s sustainable development, thereby ensuring that we can continue to 
+maintain corporate stability and sustainability. 
+Import process 
+The BGM system was launched in July 2023, which spans all functional units in the Company, including audit, legal affairs, information, 
+finance, HR administration, research and development, marketing, procurement, quality assurance, and other units. These units work 
+together to determine the relevant internal and external issues, and integrate and implement the ISO22301 BCM system. In the course of the 
+introduction, we arranged a total of 8 BCM-related training courses, conducted internal audits, while formulating 1 BCM manual and 56 
+BCM-related procedures and rules. 
+Through BCMs, we have established mechanisms to monitor various risks, including supply chain monitoring and control of situations that 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+50 
+ 
+may affect our community relations or negatively impact the environment. We regularly conduct BCM-related risk assessments, and 
+formulate and implement relevant preventive measures and contingency plans to ensure that our sustainable operations will not be 
+unexpectedly affected. After identifying possible risks, we will work with relevant departments to formulate effective countermeasures to 
+reduce losses and impacts. This includes regular training and drills to ensure that all employees can respond quickly and effectively in the face 
+of crises. Risk management for sustainability is not an one-off activity, but a continual improvement process. Our BCMs include regular 
+reviews and assessments to ensure that our strategies and measures remain effective. At the same time, we also encourage our employees and 
+stakeholders to make improvement suggestions to continuously improve our risk management level. 
+ 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+51 
+ 
+ 
+  
+ 
+ 
+ 
+6.1 Technological Innovation 
+and Market Layout 
+Upgrade 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+52 
+ 
+6.1 Technological Innovation and Market Layout 
+For many years, Auras has been adhering to the spirit of “seeing knowledge” and continuously investing in the research and development of 
+energy-saving cooling technologies. We have also advanced liquid cooling technology to provide customers with total cooling solutions. As early 
+as 2012, we began to invest money and manpower in the R&D of liquid cooling technology for IBM technology transfer. 
+ 
+After a decade of hard work, our liquid cooling 
+technology has been widely adopted alongside 
+the rapid development of AI. We have become 
+a complete liquid cooling technology cabinet 
+system supplier from a manufacturer of air-
+cooled module. With the expansion of AI 
+applications and the increasing computing 
+demand, it is expected that the running speed 
+of CPUs and GPUs will constantly rise in the 
+future, and the thermal design power (TDP) 
+will continue to increase. To meet the different 
+needs of customers, Auras provides customized 
+comprehensive liquid cooling systems. Whether 
+it is water-to-air or water-to-water cooling 
+solutions, we can quickly and effectively meet 
+customers’ cooling needs. Auras offers rear 
+door heat exchanger (RDHx), in other words 
+air-cooling and liquid-cooling technology, to 
+allow customers to directly add RDHx to the 
+data cabinet without a major change to the 
+infrastructure of the existing data center. The cooling effect of the rack reduces customers’ introduction costs. 
+To strengthen customer loyalty, we provide a complete range of liquid-cooling-related products, including liquid-cooling plates, pumps, liquid-
+cooling distribution units (CDUs), manifolds, and other customized designs. We also have a one-stop manufacturing process in place to accelerate 
+the introduction of liquid cooling technology of our customers.  
+Global warming has exacerbated the intensity and frequency of extreme weather, a wake-up call to all walks of life to face the crisis of climate 
+change. Due to the threat of extreme climates, the concept of sustainable development has become more popular among governments and 
+businesses around the world in recent years. In particular, the net zero proposal proposed by various governments has become the focus of 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+53 
+ 
+heated global debate. Governments around the world have been promoting relevant policies and calling on enterprises to face the importance 
+of ESG implementation in the course of developing their businesses. In response to global carbon reduction policies, energy-efficient liquid 
+cooling solutions will become the mainstream. 
+ 
+Auras’ liquid cooling technology can effectively solve the problem of high power consumption and thermal energy in data centers, big data, edge 
+computing and artificial intelligence. This not only optimizes the power utilization efficiency (PUE) 
+from over 1.5 to below 1.1 to reduce energy consumption and thus operating costs, but also effectively 
+increases the computing power per unit area. It is expected that liquid cooling technology will become 
+an important cooling solution for AI server computing in the next 2 to 3 years, and can also be applied 
+to automotive, charging, and energy storage equipment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+54 
+ 
+R&D status 
+We are actively investing in R&D and reinforcing the strength of our R&D team. Overall, it is expected that the R&D expense will continue to 
+increase with the Company’s business growth and the multidimensional development of the product line. Our R&D strategy: 
+⚫ Expanding the management team, arranging core products, establishing the Company’s own key technics and patents, and continuously 
+devoting to the R&D of new-generation products to pursue head leading in technology. 
+⚫ Increasing the ability to design products, establishing the developing technology of standardization and modulization, decreasing the time 
+period and cost in developing, and increasing the time with which new products are sent on the market and the price competitiveness. 
+ 
+2023 R&D Achievements 
+⚫ 
+Research plan for cooling optimization 
+of AI PC high-end gaming laptops 
+⚫ 
+Research plan for high-performance 
+composite super-large duct heat-
+dissipating module device 
+⚫ 
+Development of matrix 
+superconductor anti-gravity AI GPU 
+heat-dissipating 
+⚫ 
+High-performance enhanced matrix 
+superconductor with vapor chamber 
+AI GPU cooling application 
+⚫ 
+Development of AI accelerating and optimizing cooling systems for self-driving cars 
+⚫ 
+Research on 3DVC technology applied to heat dissipation over 1,000W for AI GPGPU 
+⚫ 
+Provides a closed loop air-to-liquid heat exchange system to the liquid-cooled artificial intelligence 
+systems equipped with training and reasoning capabilities 
+⚫ 
+All-metal liquid-cooled plate modules applied to the liquid-cooled artificial intelligence systems 
+equipped with training and reasoning capabilities 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+55 
+ 
+ 
+ 
+ 
+Retention 
+ .1 Talent Attraction, Cultivation, and 
+Retention 
+ .2 Labor Relations, Wages and 
+Benefits 
+ .3 Workplace Health and 
+Safety 
+ .4 Social Welfare 
+Participation 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+56 
+ 
+ .1 Talent Attraction, Cultivation, and Retention 
+ .1.1 Global Talent 
+Over the years, Auras Technology has adhered to a corporate culture of innovation and vision, 
+implemented human-centered management, and established a sound labor-management relationship with 
+employees. We follow the “Labor Standards Act” and “Gender Equality in Employment Act” and other 
+national regulations in hiring employees. We comply with the principles of openness and fairness and do 
+not treat or discriminate employees on the basis of their race, religion, color, nationality, age, gender, sexual 
+orientation, appearance, facial features, marital status, physical and mental disabilities, political stance, 
+or other factors. Our employment, benefits, training and promotion opportunities for all employees are 
+fair and just and do not treat them differently. We are committed to creating an equal and friendly working 
+environment free from discrimination and harassment 
+As of the end of 2023, Auras had 4,951 employees worldwide, with a male to female ratio of 55.42:44.58; 
+in terms of regions, Taiwan accounted for 5.0 %, Mainland China 89.09%, and other regions (Thailand 
+and the U.S.) 5.84%. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+57 
+ 
+Age Distribution of Employees 
+ 
+ 
+Recruitment of Local Talent 
+In order to accelerate Auras’ development goals and demonstrate its core values, 
+the Company maintains the organization’s local flexibility and vitality by hiring 
+local talent as a management system that adapts to local conditions. Auras has 4 
+factories in Mainland China (Kunshan, Guangzhou, Chongqing, Hefei) as the 
+production centers. In 2020, in response to customer demand, the Thailand 
+Factory was established. We not only dispatch Taiwanese executives to pass on 
+management experience, but are also committed to cultivating local talent, hoping 
+to have a positive impact on the local area. In the past three years, the average 
+ratio of local supervisors in overseas factories has reached more than  2%. 
+In terms of overseas production sites, the proportion of Auras’ local employees 
+holding supervisory positions has been increasing year by year. In 2023, local 
+employees continued to hold  5% of supervisory positions. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+58 
+ 
+Auras Human Rights Policy 
+To fulfill our corporate social responsibilities and protect the basic human rights of all employees, customers, and stakeholders, Auras 
+Technology complies with the United Nations’ Universal Declaration of Human Rights, the Global Compact, and the International Labor 
+Organization Convention. This policy is established to ensure that internal and external members of the Company are treated fairly and with 
+dignity to eliminate any human rights violations. 
+The Company recognizes and voluntarily follows internationally recognized human rights standards such as the “United 
+Nations Universal Declaration of Human Rights,” “United Nations Global Compact,” “United Nations Guiding Principles on 
+Business and Human Rights,” and the “United Nations International Labor Organization.” We have adopted the “Auras 
+Technology Human Rights Management Policy” and 
+respect the protections stipulated in the Human 
+Rights Convention. The Policy is posted on the 
+Company’s website. At Auras Technology, we prohibit 
+any form of discrimination, forced labor and child labor, and do not 
+hinder employees’ freedom of association. In terms of the environment, 
+we are committed to improving environmental safety and hygiene for 
+our employees in accordance with the laws and regulations to protect 
+the safety of our employees and effectively reduce the risk of 
+occupational accidents. 
+In addition, we adhere to the four principles of communication, 
+protection, correction, and supervision to protect the rights of 
+stakeholders, thereby building the foundation of Auras’ business 
+ethics. Auras actively advocates for the protection of labor’s human 
+rights. In addition to announcing the Labor and Human Rights 
+Protection Statement and the prohibition of workplace discrimination 
+and harassment on our internal and external websites, we also 
+voluntarily include labor and human rights-related issues in the 
+corporate ethics training course for new employees. By doing this, we 
+are able to construct the foundation of Auras’ corporate ethics. In 2023, there was no occurrence of human rights violations. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+59 
+ 
+Talent Recruitment 
+The growth of Auras relies on the continuous contribution of employees. To strengthen its growth momentum, the Company actively employs 
+professionals at all levels. Auras treats applicants of different race, gender, age, religion, nationality, or political stance equally and recruits employees 
+through an open and fair selection process based on the merits of the job and the position. In actual practice, Auras complies with government 
+regulations and the Electronic Industry Citizenship Coalition. In order to protect the personal information of applicants and avoid employment 
+discrimination, we have adopted and implemented the management procedures related to employee appointment. Moreover, we mainly collect job-
+related information from the applicants during the interview stage. 
+Auras values the diversity of its employees and actively recruits talent from all over the world through various online talent recruitment platforms 
+(104 Talent Bank, headhunter companies), including Mainland China and Thailand. 
+ 
+During the recruitment process, information gaps are eliminated through open and transparent vacancy announcements, and talent from all walks 
+of life is entitled to a fair selection opportunity. The hiring executive and professional personnel conduct individual competency evaluations and 
+jointly select suitable talent. We have established a comprehensive new student training, promotion management and employee welfare system, 
+encouraging employees to explore career development, so as to strengthen the Company’s strength for sustainable growth. For employees 
+transferred to other units or regions, the Company conducts thorough prior communication, provides education and training, as well as allowances 
+and subsidies depending on the work location to protect the rights and interests of employees. After appointing new employees, Auras will introduce 
+them to the workplace on the day of their arrival. We accompany new employees to various departments for introductions. Counselors must be 
+assigned by each department to help the new employees adapt to the unfamiliar environment and provide them with guidance and assistance on the 
+job. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+60 
+ 
+ .1.2 Talent Cultivation 
+We firmly believe that the only way to stimulate the vitality of R&D and manufacturing is to actively attract and retain talent, enhance the 
+Company’s global competitiveness, and maintain long-term competitive advantages. We are convinced that the success of the enterprise comes 
+from the joint efforts of all employees. Only by recruiting like-minded talent can we create brilliant future together. Therefore, we insist on 
+employing talented people on the basis of their ability and placing them in the most suitable positions. This is the core principle of Auras so as 
+to make good use of talent, and it is also the specific policy for enabling talent to realize their ambitions. 
+In 2023, the gender distribution of global newcomers was 58% male and 42% female; the age distribution of global new employees is mainly 
+those under 29 years old ( 4%), and those between 30-49 years old (26%). 
+ 
+ 
+ 
+In order to reduce the turnover rate of newcomers, the top HR supervisor personally 
+interviews them after they have been with us for one month, concerning about the work, 
+workplace, supervisor leadership, the atmosphere among colleagues, as well as whether they 
+have settled in or whether there are difﬁculties they face. In doing this, we improve the 
+retention rate of the newcomers. In 2023, the turnover rate of new employees was 5%, a 
+decrease of 2 percentage points from 2022. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+61 
+ 
+Education and Training 
+To assist supervisors and colleagues at all levels in the continuous growth, Auras has designed comprehensive 
+functional training programs, including new employee training, professional advancement training, and 
+supervisor training. We help employees continuously learn and grow through diverse learning approaches. At 
+the same time, the concept of corporate ethics is also introduced to organize relevant training courses to 
+cultivate the key capabilities of employees. In 2023, the total number of education and training hours across 
+the Group reached 9 ,285. Based on the total number of employees, each person received an average of about 
+19 hours of training. 
+In the annual interview on performance, the supervisors and the employees jointly discuss and map out the 
+individual annual capacity development program. Through routine review and feedback, the Company assists the employees to map out the 
+best tailor-made career development program. Auras is committed to making an effort to nurture every employee so that they can develop 
+alongside the Company. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+62 
+ 
+ 
+6 Sigma 
+Newcomers of Auras Technology will receive the 6 Sigma training course in the first year. The 
+program will be implemented in a project-based manner, and the related logics and tools will be 
+applied. DMAIC (Define, Measure, Analyze, Improve, and Control) of the 6 Sigma will be applied 
+through a clear problem statement to identify the root cause and implement effective corrective 
+measures. 
+Besides bringing significant benefits to the project, 6 Sigma also helps the Company cultivate many 
+outstanding talented people through a series of e-learning courses, physical courses, and project 
+training. In 2023, the total number of workshop training hours of the 6 Sigma physical course was 88, 
+with 166 person-times of training. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All the talent development courses, project technology 
+implementation, and performance of 6 Sigma focus on the 6 
+Sigma Project Management System. Meanwhile, a project 
+sharing mechanism has been established in the system to 
+effectively pass on the wisdom of Auras. This is an important 
+mechanism adopted by the Company to continuously optimize 
+the organization and practice sustainable development. In 
+addition, 6 Sigma-related activities are held from time to time. 
+Through these activities, the concept of 6 Sigma can be more 
+deeply integrated into our employees’ daily work. 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+63 
+ 
+ .2 Labor Relations, Wages and Benefits 
+ .2.1 Remuneration to Employees 
+Auras Technology has established an overall remuneration policy, structure, and performance reward method, which are 
+based on a comprehensive consideration of academic qualifications, length of service, experience, and job responsibilities to 
+attract, motivate, reward, and retain outstanding talent. At Auras Technology, we do not discriminate on the basis of gender, 
+and we comply with the employee safety and company standards and regulations of corporate responsibility, so that the 
+employee salary structure is reasonable and fair, thereby motivating employees to create better performance. According to 
+Article 2  of the Company’s Articles of Incorporation, if the Company has profits (i.e., pre-tax income minus remuneration 
+distributed to employees, directors), it shall appropriate 3%-15% as remuneration to employees, and the remuneration shall be distributed 
+either in stocks or cash as resolved by the Board of Directors. The parties to be distributed include the employees of the affiliates who satisfy 
+certain criteria. The Company participates in the market salary survey annually, and makes salary adjustment for the employees with reference 
+to salary standards in the market, economic trends and individual performance of the employees to maintain the overall competitiveness of its 
+salary package. 
+ 
+We value the rights and benefits of employees, share profits 
+and surpluses with employees, and maintain a good working 
+environment, including comprehensive physical and mental 
+care for all ethnic groups: 
+(1) Auras is committed to providing employment 
+opportunities for people with disabilities. Every year, the 
+number of people to be hired meets the regulatory 
+requirements We tailor-make suitable job positions and 
+environmental facilities. 
+(2) There are projects for the selection, breeding and 
+retention, cultural integration, health and safety of foreign 
+colleagues. 
+(3) The female empowerment of a friendly workplace 
+approach is facilitated, so that employees of all genders can 
+work with peace of mind. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+64 
+ 
+  
+ 
+ 
+ .2.2 Workplace Equality 
+In order to maintain an equal and safe working environment, Auras insists on treating all employees equally in hiring, salary, employment 
+opportunities, rewards and punishments, and in the work process. We do not discriminate based on personal circumstances (e.g., race, gender, 
+sexual orientation, age, physical or mental disabilities, etc.) Auras strictly prohibits all forms of sexual harassment and intimidation. At the 
+same time, we have announced the “Employee Code of Conduct” on our official website and intranet, consisting of the key points related to 
+sexual harassment prevention, complaint, investigation and handling, as well as the relevant standards of sexual harassment prevention, 
+complaint, and punishment. Employees may file a complaint via the hotline (02-8990-1653 #202), fax (02-8990-4129), or email: 
+Richard_Wu@auras.com.tw. In cases where gender-based discrimination or sexual harassment is involved, Auras will establish a “Sexual 
+Harassment Complaint Prevention and Appraisal Committee” in accordance with the law to conduct fair and rigorous investigation and 
+review of relevant cases, strictly protecting the privacy of victims and assisting investigators from coercion during the process. If employees 
+are found to have violated the regulations after investigation, they will be punished according to the investigation results and the employee 
+reward and punishment guidelines to ensure equal rights in the workplace. In 2023, there were no cases of sexual harassment at any of our 
+domestic and overseas locations. We will continue to promote sexual harassment prevention, complaint filing, and disciplinary regulations 
+through various channels. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+65 
+ 
+ .2.3 Benefits and Entitlements 
+We value employee remuneration and benefits and are committed to establishing a comprehensive and fair remuneration and benefit system. The Company 
+adopts a competitive salary policy at each operating location, with reference to peer standards and economic conditions. The appointment, salary and benefits 
+of employees are evaluated based on their professional ability, education background, work experience and performance. Remuneration adjustments after 
+joining the Company are based on a comprehensive consideration of personal performance, market conditions, and contributions. For overseas employees, 
+we not only set reasonable and competitive salaries considering the local labor market conditions, but also distribute long-term and short-term incentives 
+and bonuses according to local regulations, industry standards and the Company’s performance to encourage employees’ long-term contributions and 
+common growth. The Company’s remuneration system is not affected by an individual’s gender, race, age, religious beliefs, or political stance. We are 
+committed to establishing a harmonious labor-management relationship within the legal framework to realize sustainable operations. 
+In addition, we actively create a pleasant and healthy working environment and spare no effort in caring for and taking care of our employees. Employees’ 
+sense of well-being is enhanced through diversified welfare measures and various leisure activities. The Company also provides travel allowances and 
+encourages employees to participate in group trips and club activities organized by the Employee Welfare Committee. The goal is to allow employees and 
+their families to enjoy life together, relieve work stress, and achieve personal physical and mental balance as well as work and family harmony. 
+Auras’ employee welfare policy is shown in the table below: 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+66 
+ 
+ .2.4 Happy Workplace 
+Taipei Headquarters - lunch dinner parties 
+Auras regularly organizes meal activities for employees to gather and spend time together. We carefully prepare 
+delicious food and beverage for everyone to enjoy while enhancing communication and affection among 
+colleagues, boosting team cohesion, elevating the work atmosphere and employee happiness.  
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+67 
+ 
+Taipei Headquarters 
+Charity Road Run 
+To encourage colleagues to maintain a 
+healthy body and implement 
+environmental protection and take 
+part in the Love the Earth activity, 
+the chairman led all supervisors of 
+Taipei headquarters to participate in 
+the National Geographic Cup - World 
+Earth Day road run on April 23, 2023. 
+The full registration fee was paid by 
+the Company. A total of 114 people 
+participated in the road run, 
+including 34 people participating in 
+the 4km recreational group,  8 people 
+participating in the 9km challenge 
+group, and 2 people participating in 
+the 21km half marathon group. 
+ 
+Family Day 
+To thank our colleagues for their hard work and to allow their family members to have a deeper understanding of and involvement in the 
+Company’s culture and activities, Auras Taipei held a Family Day at Puxin Ranch on May 20, 2023. An assortment of experiential activities 
+were arranged on the day, such as 
+realistic puzzle-solving games, archery 
+adventure games, and DIY activities, 
+allowing employees to arrange 
+activities independently and 
+participate freely. 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+68 
+ 
+Guangzhou Factory 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+69 
+ 
+Kunshan Factory 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+70 
+ 
+Happy Workplace 
+Chongqing Factory 
+ 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+71 
+ 
+Happy Workplace Thai-Horng Factory 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+72 
+ 
+ .3 Workplace Health and Safety 
+ .3.1 Health Care 
+In addition to regularly inviting excellent health checkup medical institutions to provide health checkups for 
+employees, we also arrange health checkups for new employees, expatriates, and senior executives. We provide 
+benefits that are more generous than the government’s regulations. For employees with abnormal health checkup 
+results, we conduct long-term follow-up management through medical institutions and provide physicians’ 
+consultation to ensure that their health is properly looked after. 
+ 
+Parenting Friendly Workplace 
+In accordance with Article 31 of the “Occupational Safety and Health Act” and other relevant laws and regulations, 
+Auras has formulated the maternal health protection policy to provide a safe, hygienic and healthy working 
+environment for pregnant, postpartum and breastfeeding female employees. After serving for the Company for six 
+months, employees are entitled to apply for unpaid 
+parental leave until their child reaches the age of 3. 
+The period of unpaid parental leave lasts until the child reaches the age of 3 but is 
+subject to a maximum of two years. Employees can continue to participate in the 
+original social insurance during the childcare leave without pay. In 2023, only one 
+person from the Taiwan headquarters applied for unpaid parental leave, who was 
+also reinstated before the end of the year. 
+ 
+Smooth Communication Channels 
+To promote harmonious labor-management relations and realize sustainable 
+development, we have established transparent, effective, and multidirectional 
+communication channels, and welcome the sharing of valuable opinions from all 
+employees. This includes setting up employee grievance mailboxes, including the 
+reporting mailbox for violations of professional ethics and the prohibition of 
+workplace violence. We actively listen to our employees’ needs and expectations and 
+respond to their concerns in a timely manner. 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+73 
+ 
+Annual Employee Health Checkup 
+Employee health is the foundation for the sustainable development of 
+the Company. To ensure the physical and mental health of employees 
+and implement the concept of preventive medicine, Auras 
+headquarters and domestic and overseas factories organize employee 
+health checkups regularly every year. According to the needs of 
+colleagues, we also provide customized self-funded test items. 
+Employees are informed of their health status through health 
+checkups, and they can help them take good care of themselves or seek 
+medical attention in a timely manner. We also arrange for 
+professional physicians to give employees one-on-one health 
+consultation if they have health-related questions or problems. 
+ 
+Heat Stroke Drill for Employees 
+Due to climate change, heat waves are hitting the 
+world. The temperature of the earth continues to 
+rise, and new high temperature records continue 
+to be set in various places. 
+In many areas, the high temperatures in summer can 
+easily cause harm to the human body, including 
+conditions such as heat stroke. We organized a heat 
+stroke drill to improve employees’ resilience against heat 
+stroke. By simulating emergency situations in a high-
+temperature environment, employees are taught to 
+recognize the symptoms of heat stroke, ways to avoid 
+heat injuries, and first aid measures. The drill not only 
+improved the employees’ resilience, but also reinforced 
+the Company’s attention and protection for the health of 
+the employees. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+74 
+ 
+Food Poisoning Drill for Employees 
+We keep a close eye on our employees. In order to 
+help employees prevent and cope with food poisoning 
+and thereby reduce the health risks, the food 
+poisoning drill was specially arranged. 
+ 
+ 
+Red Cross First Aid Training 
+We have arranged a Red Cross first aid 
+training session. The content included 
+basic first aid knowledge, such as CPR 
+(cardiopulmonary resuscitation), trauma 
+management, and emergency treatment. 
+The course aimed to educate employees on 
+how to provide basic first aid in the event 
+of an emergency. By doing this, our 
+employees are equipped with the skills and 
+knowledge to deal with accidents, injuries, 
+or unexplained health problems. 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+75 
+ 
+ .3.2 Workplace Safety 
+At Auras, workplace safety is our top priority. We have adopted the “Safety and Health Work Rules” in accordance with the Occupational 
+Safety and Health Act and the regulations of our customers and relevant organizations. We are committed to reducing the hazards to the safety 
+and health of employees and providing them with a safe and healthy working environment. 
+ 
+ 
+The specific measures are as follows: 
+1. 
+The office is equipped with a surveillance system and access control facilities to strictly control personnel access to ensure their personal 
+safety. 
+2. 
+In terms of the office environment, dedicated personnel are assigned to 
+maintain the office environment every day, disinfect the office regularly, 
+and perform regular renovations to update the internal equipment. 
+3. 
+We pay attention to public safety and health of the office at all times and 
+set up lactation rooms. 
+4. 
+Workplace monitoring is performed every six months to ensure a healthy 
+and comfortable working environment. 
+5. 
+We regularly provide safety and health education and training. 
+ 
+6. 
+Health checkups are provided for employees every year. 
+7. 
+We conduct periodic firefighting training, and hold firefighting, reporting 
+and evacuation training every six months. 
+8. 
+Fire equipment is inspected and reported on an annual basis. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+76 
+ 
+Fire Drill 
+In order to fulfill the social responsibility of building a safe factory area, we enhance the fire safety awareness of all employees according to the 
+relevant national laws and regulations. Employees are provided with training so that they are familiar with evacuation routes in the factory in 
+case of emergency. In doing this, employees are able to master the correct use of fire equipment in the factory, and have preliminary firefighting 
+knowledge. This way, employees have the ability to properly escape and rescue themselves in the event of a fire. We conduct a fire emergency 
+drill every year. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+77 
+ 
+Employee Forklift Accident Drill 
+Employee forklift accident 
+drills improve employees’ 
+awareness and skills in safe 
+forklift operation, reduce the 
+possibility of forklift 
+accidents, ensure the safety of 
+employees and facilities, and 
+improve work efficiency and 
+productivity. 
+ 
+ 
+ 
+ 
+VOC Equipment Fire Drill 
+VOC equipment fire drill is a 
+training activity to cope with 
+the possible fires of volatile 
+organic compound (VOC) 
+equipment. Employees will 
+learn how to respond to fire 
+quickly and effectively with 
+fire simulation. This will help 
+improve the employees’ 
+emergency awareness and 
+response capabilities, reduce 
+losses in the event of fire, and 
+ensure the safety of personnel 
+and equipment integrity. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+78 
+ 
+Occupational Health, Safety and  
+A series of occupational health, safety and hygiene education 
+and training courses are conducted every year. Workplace 
+health education and training can enhance employees’ 
+awareness of and value their physical and mental health, help 
+them learn to live a healthy lifestyle, improve work efficiency 
+and quality of life, reduce work stress and absenteeism caused 
+by health problems, and build a positive work environment and 
+teamwork atmosphere. 
+ 
+Through workplace safety training, employees will improve 
+their ability to identify potential hazards in the 
+workplace, learn to comply with safety regulations 
+and implement safety measures, to reduce accident 
+risks and ensure a healthy and safe workplace. 
+ 
+To ensure a clean and safe working 
+environment, education and training on 
+garbage sorting are arranged to develop 
+the concept of how to properly dispose 
+of garbage and waste, contributing to 
+the earth. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+79 
+ 
+ 
+ 
+ .4 Social Welfare Participation 
+ 
+At Auras Technology, we firmly believe that business is 
+not only about economic interests, but also about giving 
+back to society, maintaining the environment, and 
+enhancing the overall well-being of society. By taking 
+part in social welfare activities, we not only fulfill our 
+corporate social responsibility, but also grow together 
+with the community to jointly build a better future. 
+With the goal of caring for the underprivileged, thriving 
+communities and neighborhoods, and supporting 
+industrial development, we are committed to caring for 
+the underprivileged groups and providing them with 
+supplies. It is hoped that through relevant activities, we 
+will fulfill our corporate social responsibility and 
+contribute to the underprivileged groups. 
+We actively participate in community activities, devote 
+resources to support local education, environmental 
+protection, health, and culture, and are 
+committed to solving various problems 
+faced by communities and improving 
+their overall quality of life. By 
+collaborating with non-governmental 
+organizations and community groups, 
+we are committed to improving the 
+quality of life of community residents 
+and promoting social equity and 
+inclusiveness. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+80 
+ 
+ 
+ 
+Community Engagement Projects: 
+1. 
+Environmental Initiatives: 
+We support environmental protection projects and actively participate in 
+environmental 
+education 
+and 
+advocacy 
+to 
+promote 
+environmental 
+sustainability. 
+2. 
+In-kind donations to nursing homes 
+We regularly donate daily necessities to nursing homes to help disadvantaged groups improve their 
+living conditions and increase the joy and comfort of life. 
+3. 
+Grants for disadvantaged groups 
+In addition to in-kind donations, grants are another important part of our social welfare engagement 
+program. We pay special attention to those students from poor families or with special circumstances, and establish scholarships to 
+support their studies. The distribution of these scholarships can reduce their financial pressure and enable them to smoothly complete 
+their studies. By providing financial aids, we are able to help outstanding but financially disadvantaged students to complete their 
+studies and pursue their dreams. 
+Through in-kind donations and scholarships, we remain committed to supporting community development, education, and 
+disadvantaged groups, as well as social equity and sustainable development. 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+81 
+ 
+ .4.1 
+Auras Charity Foundation 
+With the belief of giving back to society with what is taken from the society, the chairman of Auras Technology, 
+Mr. Lin Yu-Shen, initiated the establishment of the “Auras Charity Foundation,” registered in March 2023. 
+The purpose of the Foundation is to show kindness to the people and be benevolent to the people. The intention is 
+to care for society and help disadvantaged groups, promote social harmony and handle other related social 
+welfare and public welfare matters, and organize with a purpose to donate to social welfare and charity groups. 
+The Foundation actively establishes partnerships with government agencies, non-profit organizations, businesses, 
+and academia to jointly foster the development of social welfare undertakings. In addition, we also encourage the 
+employees to actively take part in the Foundation’s public welfare activities to gather more social forces to 
+participate in public welfare undertakings. 
+The establishment of the Foundation will be an important measure for Auras Technology to fulfill its corporate 
+social responsibility, which will also further inspire all sectors of society to participate in public welfare 
+undertakings and jointly promote social harmony and progress. 
+ 
+ 
+Tree Planting Event 
+To actively participate in environmental protection and ecological conservation, 
+Auras held a tree planting event on the coast outside Keelung Chaojing Park on 
+2023 11 18. The event was sponsored by Auras Charity Foundation and co-
+organized by Auras Technology. We called on community residents and company 
+employees to bring their families along. A total of 144 people participated in this 
+activity, and 400 saplings were planted. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+82 
+ 
+We chose to plant two local shrub species with strong adaptability and 
+the characteristics of water retention, soil consolidation, and increase of 
+ecological diversity in Keelung Chaojing Park. 
+On one beautiful morning, everyone came to Keelung Chaojing Park 
+and launched a tree planting event. Guided by their parents, the 
+children tapped the soil with their small hands to learn how to plant a 
+tree carefully. The Company’s employees worked together, watering 
+and cleaning the soil to ensure that every tree can grow healthily. With 
+laughter and a joyous atmosphere, we collectively planted 400 strains of 
+beach naupaka and rhaphiolepis umbellata to complete the tree 
+planting activity and contribute to the environment. 
+ 
+ 
+ 
+ 
+ 
+We will continue to monitor the growth of these trees and carry out 
+regular watering and pruning to ensure their robust growth. 
+ 
+ 
+This tree planting event is not only an environmental protection action, 
+but also a beautiful moment of family reunion and teamwork. We 
+believe that the growth of every tree will bear witness to our efforts and 
+care, injecting a steady stream of green vitality into the local 
+environment. Thank you to all the partners who participated in the 
+event. We look forward to working together to create a better 
+environment and future! 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+83 
+ 
+ 
+ 
+ 
+ 
+8.1 Operational and 
+Financial Performance 
+Accounting 
+Accounting 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+84 
+ 
+8.1 Operational and financial 
+performance 
+Auras’ consolidated net operating revenue was NTD 12, 12,629 
+thousand in 2023, a decrease of 8.26% from NTD 13,856,991 
+thousand in 2022. However, due to the increase in the proportion 
+of operating income from applications with high gross profit, the 
+gross operating margin was NTD 3,004,923 thousand. The gross 
+profit margin also increased from the previous year to 23.64%. 
+The net profit after tax was NTD 1,239,244 thousand and the 
+earnings per share was NTD 14.28. 
+Furthermore, the average dividend payout rate of Auras’ over 
+the past 4 years has been over 40%. We will continue to uphold 
+the spirit of innovation, perseverance, and mutual prosperity, 
+actively plan the scope of product application for the next 3 to 5 
+years. We will also keep on strengthening the Company’s product competitiveness, hoping to create the greatest benefits for shareholders, 
+customers and employees and enjoy future operating results together. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+85 
+ 
+ 
+ 
+ 
+9.1 Environmental 
+Sustainability 
+9.2 GHG Reduction 
+Management 
+9.3 Water Resource and Waste 
+Management 
+9.4 Sustainable Supply Chain 
+Management 
+ 
+Sustainability 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+86 
+ 
+9.1 Environmental Sustainability 
+In view of the current global situation, severe issues such as climate change, extreme weather events, excessive resource consumption, and energy 
+shortages have become top-of-the-line issues of all enterprises. Upholding the concept of sustainable development, Auras Technology fulfills its 
+responsibilities as a corporate citizen and continues to develop green products. We actively invest in waste reduction and pollution prevention, and 
+pursue the best efficiency of energy, water and other resources. Moreover, through supply chain management, we work together with industry 
+partners to control environmental risks, reduce environmental impact, and jointly protect the earth. 
+To achieve a balance between environmental protection and corporate sustainability, Auras has actively invested in environmental protection 
+projects, such as designing hazardous substance free (HSF) products and implementing RoHS-compliant lead-free processes. We deeply recognize 
+the influence that businesses have on the environment, 
+and continue to strive for a win-win situation for both 
+the environment and the Company. 
+At Auras Technology, we are committed to promoting 
+environmental sustainability in the cooling industry. We 
+are well aware of the challenges of climate change and 
+resource scarcity, so our sustainable development 
+strategy focuses on carbon emission reduction and 
+resource utilization efficiency. In recent years, we have 
+focused on the R&D and application of liquid cooling 
+technology to replace traditional air cooling systems to 
+reduce energy consumption and carbon emissions. 
+Auras 
+Technology 
+proactively 
+promotes 
+energy 
+conservation and carbon reduction measures, including 
+the improvement of energy efficiency in the production 
+process and the use of renewable energy. We strive to 
+reduce waste generation, implement effective waste 
+management and recycling, and continue to optimize the 
+efficiency of water resources. 
+We firmly believe that a win-win situation between 
+corporate development and environmental protection 
+can be achieved through innovative technology and sustainable management practices, making positive contributions to the establishment of a better 
+future. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+87 
+ 
+9.2 GHG Management 
+GHG Inventory Method 
+In line with Taiwan’s Pathway and Strategy for Net Zero by 2050, Auras Technology has set 2023 as the 
+baseline year in order to effectively promote climate-related management and measures. The Company has 
+performed a greenhouse gas inventory starting from the year of 2023 every year and to have the third-party 
+verification completed in accordance with the ISO 14064-1:2018 greenhouse gas inventory standard. 
+ 
+Auras Technology complies with ISO 14064-1:2018 GHG inventory standard, adopts the operational 
+control approach to set organizational boundaries. The significance of indirect emission sources is evaluated 
+according to external disclosure requirements, the Company’s level of controllability, data quantification 
+methods, and the availability of coefficients is used as the criteria to determine whether Categories 2 to 6 
+are included in the inventory. The verification is performed by an external third party. Starting in 2023, we 
+will conduct an annual GHG inventory to regularly assess and control the organization’s GHG emissions. 
+ 
+The organizational boundary for the current year 
+included the second and third floors of the Taiwan headquarters and external warehouses. The 
+assurance range included Category I (fixed emission sources, mobile emission sources, fugitive 
+emission sources, and process emission sources), Category II (outsourced power), Category III 
+(upstream transportation and business travel), Category IV (product purchase, outsourced fuel 
+and energy resources, and waste treatment and removal). Category V and Category VI were 
+identified as insignificant emission sources according to the greenhouse gas inventory 
+significance assessment standard. Therefore, they were not included in this year’s inventory. 
+GHGs include carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons 
+(HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6), and nitrogen trifluoride ( NF3) - a 
+total of   GHGs. 
+We mainly adopt the emission factor method, which involves multiplying activity data by an 
+emission factor and global warming potential (GWP) to convert them into carbon dioxide 
+equivalent (CO2e), which is measured in metric tons of carbon dioxide equivalent (tCO2e) as the unit. We select the appropriate sources of emission 
+factors according to the emission type, including the latest “Greenhouse Gas Emission Factor Management Table” (version 6.0.4) announced by the 
+Environmental Protection Administration, Executive Yuan, the latest annual electricity carbon emission factors announced by local governments, and 
+the emissions announced by the IPCC. For the GWP value, the value announced by the IPCC (IPCC Sixth Assessment Report) was adopted.  
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+88 
+ 
+ 
+GHG Inventory Results 
+In 2023, Auras’ total GHG emissions were 263,828.968  tCO2e, and measured in total revenue (NTD million), the emission intensity was 20. 499 
+(tCO2e NTD million). In terms of the emission ratio of each category, category 4 is the Company’s most important emission source (66.98%), which comes 
+from the indirect GHG emissions from the purchased raw materials. Give this, the Company will perform an assessment on the emissions from the 
+procurement of raw materials, and will seek other low-carbon procurement methods to achieve GHG reduction. The second largest source of emissions was 
+Category 2 purchased electricity (28. 9%). To reduce electricity consumption, we not only promote energy-saving policies in offices and factories, but also 
+implement energy-saving technological transformations for major energy-consuming equipment. 
+GHG Emissions Analysis Table: 
+ 
+ 
+Note 1: 
+The locations of this inventory include Taipei Headquarters, four factories in China (Guangzhou Factory, Kunshan Factory, Chongqing Factory, Anhui Factory), 
+and Thai-Horng Factory. 
+Note 2: 
+The GHG emission data of this inventory are all externally verified. 
+ 
+ 
+Unit: Tons of CO2e 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+89 
+ 
+ 
+GHG Reduction Management 
+In recent years, countries around the world have established a consensus 
+on the control of GHG emissions. Given this, it is essential for enterprises 
+to reduce GHG together. As we pay attention to global climate change are 
+committed to the fulfillment of our corporate citizenship responsibilities, 
+we have joined forces with National Taiwan University of Science and 
+Technology on an ESG project for a period of three years. In these three 
+years, we will implement ISO 14064-1 GHG Inventory, ISO 1406  Product 
+Carbon Footprint, and ISO 50001 Energy Management systems to 
+facilitate the implementation of effective carbon reduction improvements 
+in the future. These systems will ensure the effective management of GHG 
+emissions to further enhance the Company’s favorable green image. 
+In line with Taiwan’s Pathway and Strategy for Net Zero by 2050, Auras 
+Technology has set 2023 as the first year of carbon reduction, and achieve 
+net-zero by 2050. 
+ 
+GHG Policy Statement 
+ Auras Technology is committed to: controlling energy demand in the area of operation and control, as well as conducting GHG 
+emission inventories, and actively promoting the continuous improvement plans and 
+activities of GHG emission reduction measures based on the inventory results. This 
+will reduce the environmental and climate impacts due to global warming as a result 
+of greenhouse gas emissions. We also are committed to practicing the environmental 
+protection concept of energy saving, environmental protection, and permanent and 
+sustainable development. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+90 
+ 
+9.3 Water Resource and Waste Management 
+In order to effectively handle the environmental impact of waste gas, wastewater, harmful substances and other substances generated 
+from the operation of the process, pollution control facilities have been set up, and air pollution control measures, such as proper 
+treatment of wastewater (sewage), waste recycling, and waste reduction, etc., moving towards environmental friendliness. 
+ 
+Environmental Compliance 
+In 2023, Auras Technology did not violate any environmental 
+protection laws and regulations. 
+ 
+9.3.1 Water Resource Management 
+The Company has been concerned about the issues of water conservation and environmental protection for many years. In terms of 
+water-saving plans, we start from the comprehensive implementation of water conservation in daily life to 
+maximize the benefits of the available water resources. Although the Taipei Headquarters has no plans to 
+recycle wastewater or recycle rainwater, internal advocacy has been strengthened to promote the concept of 
+water conservation. 
+To meet customer requirements, the Company’s production sites use 100% tap water, with a total water 
+intake of 415.2 million liters in 2023. Furthermore, due to the manufacturing process, no industrial 
+wastewater is produced; only domestic wastewater is discharged, which will not cause adverse impact of water 
+pollution on the environment. 
+We also regularly engage a third-party verification company to test the results of the domestic wastewater 
+discharge of the production sites. So far, the testing results of the domestic wastewater discharged every year 
+have all met the environmental protection requirements. In addition to passing the testing standards, we will 
+continue to accept the strict supervision and management of the relevant laws and regulations of the local government to fully 
+implement the concept of environmental protection of water resources. All wastewater treatment and discharge meet the regulatory 
+requirements of local governments and environmental protection authorities. By adhering to the standards and regulations, we 
+ensure that our impact on the surrounding environment is minimized. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+91 
+ 
+Our production sites are mainly distributed in Guangzhou, Chongqing, Kunshan, Hefei, and Thailand in mainland China. Industrial 
+wastewater generated during the 
+production process is channeled into a 
+wastewater treatment station to be 
+processed through physical and 
+chemical precipitation, contact 
+oxidation sludge reflux, etc., The water 
+treated and recycled is then used for 
+watering of green plants in the factory 
+or for use in toilets. Part of the water 
+that meets the standards is reused for 
+workshop production to achieve zero 
+discharge of industrial wastewater. 
+High-concentration wastewater is first 
+filtered and separated before being 
+treated. 
+The Company continues to improve its 
+wastewater reuse technology to improve 
+the efficiency of water use, reduce water 
+consumption, and contribute to the 
+earth. 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+92 
+ 
+9.3.2 Waste Management 
+In addition to being committed to reducing waste at the source, aside from enhancing 
+the value of existing waste resources, we try our best to adopt recycling methods such 
+as recycling and reuse in compliance with local regulations and existing feasible 
+technologies. By doing so, the waste resources can be recycled, achieving the most 
+effective utilization. 
+Auras Technology has established waste management procedures and set up an 
+accountable unit to control, dispose of, and report the business waste generated by the 
+Company’s operations. The waste disposal methods are all implemented in accordance 
+with the Waste Disposal Act and local regulations. 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+93 
+ 
+ 
+We use paper forms to record the type and quantity of hazardous waste and track the flow of hazardous waste. As hazardous waste 
+cannot be disposed of by the factory due to in-house technical or regulatory requirements, it is removed, transported, and disposed 
+of by external qualified contractors. After obtaining a triplicate form of materials from a waste disposal outsourced to contractor, we 
+verify the consistency of the weight of the waste with the weight measured at the factory. Regular audits are also conducted to ensure 
+that the disposal contractor disposes of business waste in accordance with the Company’s requirements. things. Waste other than the 
+above, such as employee domestic waste, must be removed and disposed of by a qualified disposal organization. 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+94 
+ 
+9.3.3 Environmental Material Flow Information 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+95 
+ 
+9.4 Sustainable Supply Chain Management 
+Supplier selection criteria of Auras include 1) having good business conditions, legal qualifications, having a sound financial system, and requiring good 
+financial status and no history of bad credit; 2) having signed a non-use of hazardous substance guarantee with the Company, and submit the ICP test report 
+of the supplied products; 3) have obtained ISO9001, QC080000, or GP certification are preferred; 4) have not obtained environmental protection-related 
+certifications but have relevant systems; 5) registered capital requirements: suppliers of heat pipes fans stamping parts aluminum extrusion parts die casting 
+parts plastic parts copper tubes must have a registered capital of more than RMB 1 million (inclusive), while other suppliers must have a registered capital 
+of more than RMB 500,000 (inclusive); 6) number of employees: suppliers of heat pipes fans stamping parts aluminum extrusion parts die casting 
+parts plastic parts copper tubes must have 50 (inclusive) or more of employees, while other suppliers must have 20 (inclusive) or more of employees;  ) must 
+not have any record of violation of laws and regulations. 
+Supplier Development, Evaluation, and Assessment Flowchart: 
+ 
+           
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+96 
+ 
+ 
+9.4.1 Policy and Management 
+Auras Technology emphasizes the importance of establishing a sustainable supply chain, and 
+regulates various procedures of supplier management through the “Corporate Social Responsibility 
+Risk Assessment” and other relevant systems. At the same time, suppliers are required to sign the 
+“Integrity Pledge,” “Non-Disclosure Agreement,” “Environmental and Social Responsibility 
+Pledge,” and “Conflict Minerals Reporting Template” as a means to address the issues affecting the 
+supply chain of labor rights, environmental protection, ethics, safety and health risks. By doing so, 
+we are able to reduce the operational risk and costs of ourselves and our suppliers, and work 
+together towards a stable and sustainable future. 
+Suppliers are important partners of Auras’ operations and sustainable development. In terms of 
+supply chain management, besides quality, cost, delivery, technology, and other performance 
+indicators, we are concerned about the supplier’s commitment and performance in CSR-related 
+matters such as labor human rights, energy conservation and carbon reduction, environmental 
+protection, safety and health, business ethics, etc. are also necessary indicators of our concern. 
+Therefore, we work closely with suppliers to encourage them to implement CSR issues in their daily 
+management, implement risk management and sustainable operation plans, jointly pursue 
+corporate sustainable operation, grow together, and build a cooperative framework of mutual prosperity. Sustainable supply chain. 
+ 
+We often select suppliers based on the notion of partnerships. In addition to 
+quality management, design management, and supplier management 
+audits, we also adopt the “Responsible Business Alliance (RBA)”Code of 
+Conduct. 
+We 
+review 
+the 
+suppliers’ 
+management 
+systems 
+and 
+implementation levels in terms of governance, environment, and society, 
+confirm the status of the suppliers’ sustainable development, and whether 
+they are committed to a long-term partnership with Auras. 
+Auras Kunshan Factory has obtained the RBA Silver Certificate, and the 
+Thailand Factory also obtained the RBA Platinum Certificate in 2023. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+97 
+ 
+At the same time, we strengthen the promotion of corporate social responsibility and code of business ethics to suppliers, and take appropriate 
+measures to ensure that suppliers meet legal requirements in terms of environment, health and safety, and labor issues. In addition to ensuring 
+compliance with local minimum wage requirements, and require employees to have adequate remuneration, and suppliers are committed to 
+meeting the highest moral and ethical standards in their business. 
+For the qualified suppliers with which we continue transactions, in order to enhance the overall competitiveness of the supply chain, besides 
+conducting supplier audits on a regular unscheduled basis, factors such as supplier quality, price cost, service level, environmental protection, 
+work safety, and skills are also included. In addition to ensuring their quality standards, we also assist suppliers in exploring the causes of 
+abnormal supply problems and provide necessary counseling in a timely manner. At the same time, we reward suppliers with excellent 
+performance, so that Auras’ supply chain maintains the best competitive edge. 
+The Company explicitly stated the clause of corporate social responsibility and environmental protection in the agreement with suppliers to 
+enhance the responsibilities of the suppliers. It is explicitly stated in the trade agreement binding the Company and the suppliers that if a specific 
+supplier acts in defiance of its corporate social responsibility policy, and causes significant influence on the environment and society with proof 
+of incriminating evidence, the Company shall terminate the agreement. This is the requirement of the Company for the voluntary management 
+of corporate social responsibility of the suppliers. 
+ 
+9.4.2 Procurement of Conflict-Free Materials 
+To fulfill our responsibilities as a corporate citizen, Auras follows the “Regulations Governing the Disclosure of Conflict Minerals” (Rule 1 3p-
+1 of the US Securities Exchange Act of 1934) promulgated by the U.S. Securities and Exchange Commission (SEC). We ensure that the sources 
+of minerals we purchase do not come from high-risk conflict areas. Additionally, through the new supplier introduction evaluation system, we 
+must adopt the requirement that they do not use conflict minerals from conflict areas. For existing suppliers, we actively investigate to confirm 
+specific materials, and request them to sign a conflict minerals consent or declaration to prohibit the use of conflict minerals from conflict areas. 
+We carry out due diligence investigations by comparing with the supply chain, and then inspect whether the smelters upstream of the suppliers 
+are using conflict minerals from conflict areas through the annual auditing of the suppliers and adopt supply chain material backtracking 
+control methods, to reconfirm that conflict minerals from conflict areas are not used, establishing a risk management process for responsible 
+mineral procurement, and conducts responsible mineral audits of suppliers outsourcers on a regular basis. 
+We also require new suppliers to follow and support internationally recognized human rights norms. In addition to requiring new suppliers to 
+provide a Conflict Minerals Reporting Template (CMRT) for review, the “Conflict Minerals Pledge” must be filled out and explicitly included 
+in the supplier contract. In addition, we also expect our suppliers to cooperate with Auras and invite their upstream supply chains to support 
+and comply with the conflict minerals policy. 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+98 
+ 
+Appendix 1: GRI Index Comparison Table 
+Item 
+Indicator 
+Description 
+Chapter Name 
+Page 
+GRI 2: General Disclosures 2021 
+Organization and Reporting Practices 
+ 
+2-1 
+Organizational details 
+About the Report 
+2-3 
+ 
+2-2 
+Entities included in the report 
+About the Report 
+2-3 
+ 
+2-3 
+Reporting period, frequency and contact 
+point 
+About the Report 
+2-3 
+ 
+2-4 
+Restatements of information 
+About the Report 
+2-3 
+ 
+2-5 
+External assurance 
+About the Report 
+2-3 
+ 
+ 
+ 
+Appendix 
+98-106 
+Activities and workers 
+ 
+2-6 
+Activities, value chain and other business 
+relationships 
+1.1 Origin and History of the Company 
+1.2 Company Overview 
+9.4 Sustainable Supply Chain Management 
+9 
+10-13 
+95-97 
+ 
+2-  
+Employees 
+ .1.1 Global Talent 
+56-59 
+ 
+2-8 
+Workers 
+ .1.1 Global Talent 
+56-59 
+Governance 
+ 
+2-9 
+Governance structure and composition 
+5.1.1 Sustainability Governance 
+5.1.2 Structure and Functioning of the Board 
+of Directors 
+33-34 
+38 
+ 
+2-10 
+Nomination and selection of the highest 
+governance body 
+5.1.1 Sustainability Governance 
+5.1.2 Structure and Functioning of the Board 
+of Directors 
+33-34 
+38-44 
+ 
+2-11 
+Chair of the highest governance body 
+5.1.2 Structure and Functioning of the Board 
+of Directors 
+38-44 
+ 
+2-12 
+Role of the highest governance body in 
+5.1.1.1 Organizational Structure of 
+33-34 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+99 
+ 
+overseeing the management of impacts 
+Sustainable Governance 
+5.1.1.2 Sustainability Promotion and 
+Management Process  
+5.1.1.3 Corporate Governance and 
+Sustainable Management Committee 
+ 
+35 
+ 
+36 
+ 
+2-13 
+Delegation of responsibility for managing 
+impacts 
+5.1.1.1 Organizational Structure of 
+Sustainable Governance 
+5.1.1.3 Corporate Governance and 
+Sustainable Management Committee 
+33-34 
+ 
+36 
+ 
+2-14 
+Role of the highest governance body in 
+sustainability reporting 
+5.1.1.2 Sustainability Promotion and 
+Management Process 
+5.1.1.3 Corporate Governance and 
+Sustainable Management Committee 
+35 
+ 
+36 
+ 
+2-15 
+Conflicts of interest 
+5.1.2.2 Board of Directors Meetings and 
+Attendance 
+5.1.2.3 Corporate Governance 
+39 
+ 
+40-41 
+ 
+2-16 
+Communication of critical concerns 
+In 2023, there were no critical concerns that 
+required communication. 
+- 
+ 
+2-1  
+Collective knowledge of the highest 
+governance body 
+5.1.2.3 Corporate Governance 
+40-41 
+ 
+2-18 
+Evaluation of the performance of the 
+highest governance body 
+5.1.2.5 Board of Directors Performance 
+Evaluation 
+44 
+ 
+2-19 
+Remuneration policies 
+Disclosed in the 2023 Annual Report to 
+Shareholders. 
+- 
+ 
+2-20 
+Process to determine remuneration 
+5.1.2.4 Functional Committees 
+42-43 
+ 
+2-21 
+Annual total compensation ratio 
+Disclosed in the 2023 Annual Report to 
+Shareholders. 
+- 
+Strategy, policies and practices 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+100 
+ 
+ 
+2-22 
+Statement on sustainable development 
+strategy 
+Message from the Chairman 
+5-6 
+ 
+2-23 
+Policy commitments 
+5.1.1.4 Governance Roadmap 
+37 
+ 
+2-24 
+Embedding policy commitments 
+5.1.4 Ethical Corporate Management 
+46 
+ 
+2-25 
+Processes to remediate negative impacts 
+9.2 GHG Management 
+9.3 Water Resource and Waste Management 
+9.4 Sustainable Supply Chain Management 
+5.3 Risk Management 
+87-89 
+90-94 
+95-9  
+48-50 
+   
+2-26 
+Mechanisms for seeking advice and raising 
+concerns 
+3.2 Stakeholder Identification and 
+Communication 
+21 
+ 
+2-2  
+Compliance with laws and regulations 
+5.1.3 Corporate Governance, Compliance 
+With Laws and Regulations 
+45 
+ 
+2-28 
+Membership associations 
+Not applicable 
+- 
+Stakeholder engagement 
+ 
+2-29 
+Approach to stakeholder engagement 
+3.2 Stakeholder Identification and 
+Communication 
+21 
+ 
+2-30 
+Collective bargaining agreements 
+Not applicable 
+- 
+GRI 3: Material Topics 2021 
+ 
+3-1 
+Process to determine material topics 
+3.1 Identification of Material Issues 
+20 
+ 
+3-2 
+List of material topics 
+3.4 Material Issue Matrix 
+3.5 Impact of Material Issues 
+23 
+24-25 
+ 
+3-3 
+Management of material topics 
+3.5 Impact of Material Issues 
+24-25 
+GRI 201: Economic Performance 2016 
+ 
+201-1 
+Direct economic value generated and 
+distributed 
+6.1 Technological Innovation and Market 
+Layout 
+8.1 Operational and Financial Performance 
+52-54 
+ 
+84 
+ 
+201-2 
+Financial implications and other risks and 
+Under planning; TCFD education and 
+- 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+101 
+ 
+opportunities due to climate change 
+training conducted in 2023. 
+ 
+201-3 
+Defined benefit plan obligations and other 
+retirement plans 
+Under planning 
+- 
+GRI 204: Procurement Practices (2016) 
+ 
+204-1 
+Proportion of spending on local suppliers 
+9.4 Sustainable Supply Chain Management 
+95-97 
+GRI 303 Water and Effluents 2018 
+ 
+303-1 
+Interactions with water as a shared 
+resource 
+9.3.1 Water Resource Management 
+90-91 
+ 
+303-2 
+Management of water discharge-related 
+impacts 
+9.3.1 Water Resource Management 
+90-91 
+ 
+303-3 
+Water withdrawal 
+9.3.1 Water Resource Management 
+90-91 
+ 
+303-4 
+Water discharge 
+9.3.1 Water Resource Management 
+90-91 
+GRI 305 Emissions 2016 
+ 
+305-1 
+Direct (Scope 1) GHG emissions 
+9.2 GHG Management 
+87-89 
+ 
+305-2 
+Energy indirect (Scope 2) GHG emissions 
+9.2 GHG Management 
+87-89 
+ 
+305-3 
+Other indirect (Scope 3) GHG emissions 
+9.2 GHG Management 
+87-89 
+ 
+305-4 
+GHG emissions intensity 
+9.2 GHG Management 
+87-89 
+GRI 306 Waste 2020 
+ 
+306-1 
+Waste generation and significant waste-
+related impacts 
+9.3.2 Waste Management 
+92-93 
+ 
+306-2 
+Management of significant waste-related 
+impacts 
+9.3.2 Waste Management  
+92-93 
+ 
+306-3 
+Waste generated 
+9.3.2 Waste Management 
+92-93 
+ 
+306-4 
+Waste diverted from disposal 
+9.3.2 Waste Management 
+92-93 
+ 
+306-5 
+Waste directed to disposal 
+9.3.2 Waste Management 
+92-93 
+GRI 308 Supplier Environmental Assessment 2016 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+102 
+ 
+ 
+308-1 
+New suppliers that were screened using 
+environmental criteria 
+9.4 Sustainable Supply Chain Management 
+95-97 
+ 
+308-2 
+Negative environmental impacts in the 
+supply chain and actions taken 
+Regularly conduct supplier evaluations and 
+use qualified suppliers to reduce 
+environmental impact. 
+- 
+GRI 401 Employment 2016 
+ 
+401-1 
+New employee hires and employee turnover  .1 Talent Attraction, Cultivation, and 
+Retention 
+56-62 
+ 
+401-2 
+Benefits provided to full-time employees 
+that are not provided to temporary or part-
+time employees 
+ .2 Labor Relations, Wages and Benefits 
+63-71 
+ 
+401-3 
+Parental leave 
+ .3 Workplace Health and Safety 
+72-78 
+GRI 404: Training and Education 2016 
+ 
+404-1 
+Average hours of training per year per 
+employee 
+ .1 Talent Attraction, Cultivation, and 
+Retention 
+56-62 
+ 
+404-2 
+Programs for upgrading employee skills 
+and transition assistance programs 
+ .1 Talent Attraction, Cultivation, and 
+Retention 
+56-62 
+ 
+404-3 
+Percentage of employees receiving regular 
+performance and career development 
+reviews 
+ .1 Talent Attraction, Cultivation, and 
+Retention 
+56-62 
+GRI 414: Supplier Social Assessment 2016 
+ 
+414-1 
+New suppliers that were screened using 
+social criteria 
+9.4 Sustainable Supply Chain Management 
+95-97 
+ 
+414-2 
+Negative social impacts in the supply chain 
+and actions taken 
+9.4 Sustainable Supply Chain Management 
+95-97 
+GRI 418 Customer Privacy 2016 
+ 
+418-1 
+Substantiated complaints regarding 
+5.2 Information security 
+47 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+103 
+ 
+concerning breaches of customer privacy 
+and losses of customer data 
+5.3 Risk Management 
+48-50 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+104 
+ 
+Appendix 2: SASB Index Comparison Table 
+Sustainability Disclosure Topics and Indicators 
+Orientation 
+General Issue 
+Category 
+Indicator Code 
+Disclosure Indicators 
+Report Content or Description 
+Environment Water 
+Management 
+TC-ES-140a.1  
+Total water withdrawn, total water 
+consumed, percentage of each in 
+regions with High or Extremely High 
+Baseline Water Stress 
+9.3.1 Water Resource Management 
+ 
+Waste 
+Management 
+TC-ES-150a.1  
+Amount of hazardous waste from 
+manufacturing, percentage of 
+hazardous waste, percentage of waste 
+recycled 
+9.3.3 Environmental Material Flow 
+Information 
+Society 
+Labor 
+Practices 
+TC-ES-310a.1  
+Total number of work stoppages 
+No related accidents occurred in 2023 
+TC-ES-320a.1 
+Total recordable incident rate (TRIR) 
+and near miss frequency rate (NMFR) 
+for direct employees and contract 
+employees 
+In 2023, the frequency of disabling 
+injuries was 0%; there were 0 cases of 
+occupational accidents involving 0 
+people (accounting for 0% of the total 
+number of employees at the end of 
+2023). 
+Labor Status 
+TC-ES-320a.2 
+Percentage of entity’s facilities and 
+Tier 1 supplier facilities audited in the 
+RBA Validated Audit Process (VAP) or 
+equivalent 
+9.4.1 Policy and Management 
+ 
+TC-ES-320a.3 
+Non-conformance rates verified by all 
+entities and Tier 1 suppliers are: 
+1) Priority non-conformances 
+2) Other non-conformances 
+9.4.1 Policy and Management 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+105 
+ 
+Economy 
+Product 
+Lifecycle 
+Management 
+TC-ES-410a.1 
+Weight of end-of life products and e-
+waste recovered, percentage recycled 
+9.3.2 Waste Management 
+Raw Material 
+Sources 
+TC-ES-440a.1 
+Description of the management of risks 
+associated with the use of critical 
+materials 
+Establish a non-conflict minerals 
+policy in accordance with the OECD 
+due diligence process, request 
+suppliers to pay attention to, 
+implement and submit relevant 
+information, regularly monitor and 
+ensure 
+Implement the non-conflict minerals 
+policy. 
+ 
+Activity Indicator 
+Indicator 
+Code 
+Disclosure 
+Indicators 
+Report Content or Description 
+Corresponding 
+Chapter 
+Note 
+TC-ES-
+000.A 
+Number of 
+factories 
+1. Taiwan Headquarters 
+2. 4 factories in China (Kunshan Factory, Guangzhou 
+Factory, Chongqing Factory, Hefei Factory) 
+3. Thailand Factory 
+1.2 Company 
+Overview 
+ 
+TC-ES-
+000.B 
+Factory area 
+- 
+- 
+No statistical 
+data 
+TC-ES-
+000.C 
+Number of 
+employees 
+4,951 employees worldwide 
+ .1.1 Global Talent 
+ 
+ 
+ 
+ 
+
+About the 
+Report 
+Message 
+from the 
+Chairman  
+About Auras 
+Technology 
+Sustainable 
+Management 
+Material 
+Issues 
+Sustainability 
+Goals 
+Administration 
+Upgrade 
+Retention 
+Accounting 
+Sustainability 
+Appendix 
+Table of 
+Contents 
+ 
+106 
+ 
+Appendix 3: Sustainability-Related Certificates 
+ 
+ 
+ISO14064-1 certificate
+ISO2 001
+RBA
+Photo
+Certificate
+ISO22301
+Taipei Headquarter
+Guangzhou Factory
+Kunshan Factory
+Chongqing Factory
+Anhui 
+Factory
+Thai-
+Horng
+Factory
+Taipei Headquarter
+Taipei Headquarter
+Thai-Horng Factory
+Guangzhou Factory
+Kunshan Factory
+Guangzhou Factory
+Thai-Horng Factory
+
+ 
+107 
+ 
+ 
+Auras For

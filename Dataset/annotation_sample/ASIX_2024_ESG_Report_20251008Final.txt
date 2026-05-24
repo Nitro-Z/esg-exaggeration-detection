@@ -1,0 +1,3724 @@
+2024 
+ASIX Electronics Corp.
+Sustainability Report
+Issue Date：July 2025
+THIS WAS A TRANSLATION OF THE REPORT FOR THE 2024
+SUSTAINABILITY REORT (“THE REPORT”) OF ASIX ELECTRONICS
+CORPORATION
+(“THE
+COMPANY”).
+THE
+TRANSLATION
+WAS
+INTENDED FOR REFERENCE ONLY AND NO OTHER PURPOSE.
+THE COMPANY HEREBY DISCLAIMS ANY AND ALL LIABILITIES
+WHATSOEVER FOR THE TRANSLATION. THE CHINESE TEXT OF
+THE REPORT SHALL GOVERN ANY AND ALL MATTERS RELATED
+TO THE INTERPRETATION OF THE SUBECT MATTER STATED
+HEREIN.
+
+CONTENTS
+1. Corporate Governance
+   1.1 Management Level 
+17
+   1.2 Business Performance 
+21
+1.3 Integrity and Legal Compliance 
+25
+   1.4 Risk and Management 
+26
+1.5 Information Security Policy and 
+Management 
+29
+2. Innovation and R&D
+2.1 Innovation and R&D
+34
+2.2 Brand Marketing Innovation
+39
+3. Environmental Sustainability
+  3.1 Climate Change Response
+42
+3.2 Energy Use and Greenhouse Gas 
+Inventory 
+44
+3.3 Water, Electricity and Waste 
+50
+2
+July 2025
+CONTENTS
+4. Social Participation
+   4.1 Cultivating Taiwan’s Netcom Talents 
+54
+   4.2 Social Welfare 
+56
+5. Partners for Common Prosperity
+   5.1 Supply Chain Management 
+58
+   5.2 Customer Service 
+73
+6. Friendly Workplace
+   6.1 Salaries and Benefits 
+77
+   6.2 Talent Layout, Cultivation and Development 81
+6.3 Human Rights and Labor-Management  
+Communication 
+84
+6.4 Health and Safety in the Workplace 
+86
+Preface
+⚫About This Report 
+3
+⚫Message from the 
+Management
+5
+⚫About ASIX 
+7
+…………
+Appendix
+⚫Index for GRI
+89
+
+About This Report
+ASIX Electronics Corporation (here in after referred to as ASIX) issues and publishes the 2024
+Corporate Sustainability Report. The content of the report adheres to the principles of pragmatism,
+integrity, openness and transparency, allowing all stakeholders who care about ASIX to have a
+clearer understanding of ASIX investment and results in Environmental, Social and Governance
+aspects.
+3
+July 2025
+About This Report
+Reporting Scope
+The scope of information disclosure in this
+report covers the operations of ASIX’s Taiwan
+Hsinchu headquarters in 2024 (from January
+1 to December 31, 2024), including actions
+and performance results related to corporate
+governance, R&D innovation, environmental
+sustainability, social participation, partners
+prosperity,
+and
+friendly
+workplace
+across
+environmental, social, and governance (ESG)
+aspects.
+Writing Principles
+This report collects ASIXs' ESG and other related issues and
+conducts
+materiality analysis
+to understand the issues
+of
+concern to stakeholders. The writing follows the Core option of
+the Sustainability Reporting Standards (GRI Standards), and
+also refers to the Semiconductor Industry Disclosure Standards
+of the Sustainability Accounting Standards Board (SASB) for the
+preparation and disclosure of the report content.。
+The statistical data disclosed in the report are compiled and
+provided by each unit of ASIX ever year. Financial performance
+data is public information certified by accountants and is
+consistent with the annual report.
+
+Report Audit and Verification
+➢Internal Audit：The contents of the report were submitted by relevant departments and reviewed
+by the unit supervisor, and then complied by the corporate governance unit.
+➢External Verification：The financial data was audited and confirmed by KPMG; in terms of
+management system: The Company has obtained ISO 9001 and ISO 14001 international quality
+certifications.
+Feedback
+In order to continue to maintain good communication with stakeholders, we sincerely welcome you to contact us to
+provide us with your valuable opinions and advice.
+⚫Contact：Mini Tsai, Head of Corporate Governance of ASIX Electronics Corp.
+⚫Contact Address：4F, No. 8, Hsin Ann Rd., Hsinchu Science Park, Hsinchu, Taiwan
+⚫Contact Number：886-3-5799500
+⚫Email：csr@asix.com.tw
+⚫Official Website：https://www.asix.com.tw
+4
+July 2025
+About This Report
+
+Message from the Management
+To Our Partners and Friends who continue to pay attention to the sustainable development of ASIX,
+At ASIX Electronics Corporation, we remain steadfast in the commitment to our founding principles of “Advanced Development, Sincere Services,
+Improve Continuously, and Xtra Quality”. These core values are the cornerstone of our operations, reflecting our dedication to innovation, excellence,
+and responsibility.
+In an era of accelerated global change and increasingly diverse stakeholder expectations, ASIX upholds the highest standards of integrity as we
+pursue long-term sustainable growth. Sustainability is no longer confined to creating economic value -- it requires the integration of “Environmental,
+Social, and Governance” (ESG) considerations into our strategic vision. We recognize our responsibility to society, the environment, and the industry
+ecosystem, and we view sustainability as a vital foundation for our long-term development. We are actively constructing a sustainability management
+framework aligned with international standards to fulfill our corporate social responsibilities and contribute to a sustainable and prosperous future.
+Corporate Symbiosis Partners
+ASIX firmly believes that sustainable corporate development is rooted in strong, transparent, and mutually beneficial partnerships. We are committed
+to fostering enduring relationships built on trust, integrity, and fairness. We actively engage with partners across our value chain, cultivating an
+ecosystem that supports mutual growth and success.
+In light of growing global scrutiny of supply chain practices, ASIX is dedicated to enhancing collaboration with both upstream and downstream
+partners. Through constructive engagement, we aim to embed sustainability principles throughout our supply network, jointly addressing emerging
+challenges and creating a resilient, future-oriented supply chain.
+Environmental Sustainability
+Climate change, resource depletion, and the pursuit of net-zero emissions are the defining challenges of our time. ASIX embraces environmental
+responsibility as a core aspect of our corporate mission. We continuously strengthen our internal environmental governance, implement robust
+management systems, and foster a culture of shared accountability for environmental protection.
+ASIX incorporates environmental sustainability into its operational decision-making, adopting a proactive and preventive approach. By aligning with
+global green and low-carbon transformation trends, we aim to mitigate environmental impacts and establish a solid foundation for co-prosperity
+between business and nature.
+5
+July 2025
+Message from the Management
+
+6
+July 2025
+Message from the Management
+Friendly Workplace
+Human capital is the driving force behind our sustainable development. ASIX is committed to building an inclusive, respectful, and growth-
+oriented workplace culture. We continuously refine our talent development strategies to strengthen organizational resilience, cohesion, and
+competitiveness.
+ASIX believes that employee well-being is essential to long-term success. We strive to provide a safe, equitable, and empowering work
+environment where individuals can reach their full potential. Through comprehensive policies and support systems, we uphold employee rights
+and foster a culture that connects people with purpose, ensuring sustainable growth for both our workforce and our company.
+Taking Responsibility for Social Participation
+As a responsible corporate citizen, ASIX actively engages with society and contributes to the communities in which we operate. By leveraging
+corporate resources and encouraging employee participation, we aim to amplify our social impact and deliver meaningful, long-lasting value.
+Rooted in a spirit of compassion and shared progress, ASIX promotes social inclusion and deepen community involvement. We strive to create a
+positive ripple effect through our actions, working collaboratively with stakeholders to advance collective well-being and sustainable development.
+Looking Ahead
+Amid tightening global sustainability standards and evolving regulatory landscapes, ASIX remains committed to deepening its sustainability
+strategy with a disciplined and forward-looking approach. We are focused on enhancing our resilience, governance, and adaptability to navigate
+complexity and seize future opportunities.
+Looking forward, ASIX will remain anchored in its core values while proactively responding to stakeholder expectations. Through continuous
+governance enhancement, strategic resource integration, and impactful execution, we aim to co-create a sustainable future for both business
+and society.
+President
+Chairman
+James
+David
+
+About ASIX
+7
+July 2025
+About ASIX
+ASIX Electronics Corporation is a professional IC design company specializing in industrial/embedded networking and I/O
+interface solutions. The company’s main products include industrial Ethernet ICs, USB Ethernet ICs, embedded Ethernet ICs,
+I/O interface ICs, RS-232/RS-485 UART transceivers, and network microcontrollers / USB KVM SoCs. ASIX was founded in
+May 12, 1995 and has been listed on Taiwan OTC Stock Exchange (TAIEX code 3169) since November 2009. As of December
+31, 2024, the company employs 77 people.
+At its inception during the rise of the internet, ASIX focused on developing traditional networking control chips, launching a series
+of related products. With the evolution of demand and technology, users increasingly required various network applications,
+bandwidth, speed, synchronization, and real-time capabilities. During this period, ASIX acquired MosChip I/O interface product
+line and Zywyn. These acquisitions accelerated the company's entry into the industrial Internet of Things (IoT) field.
+With core competencies in both hardware and software technology development, ASIX is committed to providing high-quality
+networking control chips that meet customer needs. Through years of solid experience, the company aims to offer more
+economically efficient products and services to its customers in the future.
+
+ASIX Milestones
+8
+July 2025
+About ASIX
+
+Organization Chart
+9
+July 2025
+About ASIX
+Shareholders’ 
+Meeting
+Board Meeting
+President
+R&D 
+Sales/
+Marketing
+Financial
+Administration
+Production/
+Material
+Audit 
+Remuneration 
+Committee
+Audit 
+Committee
+
+10
+July 2025
+About ASIX
+Operating Locations
+4F, No. 8, Hsin Ann Rd., Hsinchu Science Park, Hsinchu, 30078, Taiwan
+Participate in Associations
+➢Taiwan Science and Industry Park Science and Industry 
+Association
+➢National Federation of Small and Medium Enterprises of 
+the ROC.
+➢Taiwan Intelligent Automation and Robotics Association
+➢USB-IF Association
+➢PCI-SIG Association
+➢EtherCAT Technology Group (ETG)
+➢Taiwan Industrial Network Association - ProfiBus & 
+ProfiNet International 
+➢Taiwan RISC-V Alliance
+
+11
+July 2025
+About ASIX
+ASIX Sustainable Architecture
+Board of 
+Directors
+Executive Team
+Chairman/President
+Environmental 
+Dimension
+Environmental 
+Sustainability
+Social 
+Dimension
+Social 
+Participation
+Friendly 
+Workplace
+Governance
+Dimension
+Corporate 
+Governance
+R&D 
+Innovation
+Partner 
+Prosperity
+Climate
+Change
+Response,
+Energy Use
+and
+Greenhouse Gas Inventory, Water, Electricity and
+Waste
+Cultivating
+Taiwan’s
+Netcom
+Talents,
+Social
+Welfare
+Salaries and Benefits, Talent Layout, Cultivation
+and Development, Human Rights and Labor-
+Management Communication, Health and Safety
+in the Workplace
+Management
+Level,
+Business
+Performance,
+Integrity
+and
+Legal
+Compliance,
+Risk
+and
+Management,
+Information
+Security
+Policy
+and
+Management
+Innovation and R&D, Brand Marketing Innovation
+Supply Chain Management, Customer Service
+Management Level
+ESG Dimension
+Execution Focus
+
+12
+July 2025
+About ASIX
+Stakeholder Engagement
+Stakeholders were individuals or groups whose interests were or may be affected by the company's
+economic activities. To ensure that the content of the report was precisely focused and facilitates
+analysis for report users, the management of ASIX identifies seven common types of stakeholders --
+investors, customers, employees, suppliers, government agencies, academic research institutions,
+and non-governmental organizations -- based on the five principles (dependency, responsibility,
+influence, diverse perspectives, and tension) of the AA1000 Stakeholder Engagement Standard (SES).
+To
+provide
+diverse
+communication
+channels,
+ASIX
+has
+established
+a
+dedicated
+mailbox
+(csr@asix.com.tw) in the stakeholder section of the company's website for all stakeholders to contact.
+The company welcomes suggestions from all stakeholders and explains the interactions with
+stakeholders as follows:
+Stakeholders
+Significance to 
+the Company
+Communication Methods and 
+Frequency
+Major Issues
+Company Responses
+Investors
+Providers of 
+company capital
+* Shareholders' Meeting (annually) 
+* Investor briefings (irregular, at 
+least once a year) 
+* Phone/Email (irregular)
+* Economic performance 
+* R&D innovation 
+* Brand and market image 
+* Corporate governance and legal compliance 
+* Risk management
+* Held one shareholders' meeting and 
+one investor briefing in 2024 
+* Immediate responses to investors' 
+various inquiries
+
+13
+July 2025
+About ASIX
+Stakeholders
+Significance to 
+the Company
+Communication Methods and Frequency
+Major Issues
+Company Responses
+Customers
+Partners in 
+adding value and 
+profit for mutual 
+growth
+* Phone/Email (daily) 
+* Meetings (irregular) 
+* Customer satisfaction surveys (annually) 
+* Distributor meetings (biweekly)
+* Customer relations 
+* Economic performance 
+* Brand and market image 
+* Information security and privacy 
+protection
+* Achieved a customer satisfaction score of 4.75 out of 5 in 2024 
+* Immediate responses to customer inquiries and complaints 
+* Utilized multiple channels to promote products/brand/market 
+image
+Employees
+Most important 
+asset, 
+cornerstone for 
+creating 
+maximum value
+* New employee training (irregular/quarterly) 
+* Department meetings (weekly) 
+* Performance reviews (annually/biannually) 
+* Labor meetings (quarterly) 
+* Welfare committee meetings (irregular/quarterly) 
+* Bulletin boards/Email suggestion boxes (irregular) 
+* Complaint and whistleblower channels (irregular)
+* Salary and benefits 
+* Talent attraction and development 
+* Training and development 
+* Economic performance 
+* Occupational health and safety 
+* Human rights and labor relations 
+* Waste management
+* The average non-supervisory salary in 2024 announced in 2025 
+is NT$1.591 million and the median is NT$1.399 million
+* Held four labor meetings in 2024 
+* Provided 36 diverse training courses (264 hours total) in 2024 
+* Spent NT$3.163 million on employee welfare in 2024, including 
+events like annual parties, road runs, domestic and international 
+trips, team building, and birthday celebrations
+Suppliers
+Partners in 
+providing high-
+quality products 
+and services for 
+sustained growth
+* Phone/Email (daily) 
+* Meetings (irregular) 
+* Supplier audits (annually) 
+* Other complaint channels (irregular)
+* Supplier management 
+* Brand and market image 
+* Economic performance 
+* Information security and privacy 
+protection 
+* Human rights
+* Completed supplier evaluations for 2024 
+* Conducted environmental material surveys for suppliers in 2024
+Government 
+Agencies
+Regulatory 
+bodies ensuring 
+compliance with 
+laws and 
+infrastructure
+* Announcements on public information platforms 
+(irregular) 
+* Phone/Email (irregular) 
+* Government briefings (irregular) 
+* Official correspondence (irregular)
+* Corporate governance and legal 
+compliance 
+* Waste management 
+* Environmental regulatory 
+compliance 
+* Risk management
+* Won the 7th Potential Taiwan Mittelstand Award 
+* Attended four government briefings
+* Completed periodic/irregular announcements and filings 
+* Passed ISO14001 audit in 2024 
+Academic and 
+Research 
+Institutions
+Sources of 
+technology and 
+talent 
+development
+* Industry-academic collaborations (irregular) 
+* Summer internships (annually)
+* Industry-academic cooperation 
+* Salary and benefits 
+* Talent attraction and development 
+* Information security and privacy 
+protection
+* Signed industry-academic cooperation agreements with 
+universities 
+* Offered summer internship positions
+* Conduct information security vulnerability scanning and 
+penetration testing in 2024
+Non-
+Governmental 
+Organizations 
+(NGOs)
+Recipients of the 
+company's social 
+welfare efforts
+* Public welfare activities (regular/irregular)
+* Economic performance 
+* Risk management 
+* Information security and privacy 
+protection
+* Regular donations to children's education in mountain areas
+
+14
+July 2025
+About ASIX
+Identification of Major Issues    
+ASIX identifies the major issues for 2024 through
+discussions
+in
+internal
+meetings
+involving
+management
+and
+cross-departmental
+teams.
+These discussions consider the boundaries of
+ASIX‘s risk assessments and the risk evaluations
+of various management systems. Following the
+three steps listed on the right, a materiality matrix
+was created to clearly present the significance of
+each major issue to stakeholders and the impact
+on ASIX. This allows for continuous monitoring of
+trends and developments related to these issues,
+timely
+adjustments
+of
+major
+issues,
+and
+the
+development of response strategies.
+The steps for identifying major issues were as
+follows:
+Step 1
+•Understand the 
+industry/ Organizational 
+context
+•Identifying stakeholders 
+impacting the 
+organization
+Step 2
+•Based on the regulations 
+issued by the competent 
+authorities for the 
+preparation and 
+submission of 
+sustainability reports, the 
+Sustainability Reporting 
+Standards, and the SASB 
+Standard, various issues 
+were summarized and 
+listed across different 
+dimensions.
+•The impact of these 
+summarized issues on 
+stakeholders and the 
+organization was 
+considered.
+Step 3
+•Based on the results of 
+step 2, the listed issues 
+were ranked according 
+to the degrees of 
+importance to 
+stakeholders, the 
+degree of impact on the 
+organization, and their 
+materiality.
+•Nineteen major issues 
+for ASIX in 2024 were 
+selected, and a 
+materiality matrix was 
+completed.
+
+15
+July 2025
+About ASIX
+Major Issues Matrix
+Level of concern of stakeholders
+Impact on the organization
+Economic Performance
+Talent Attraction and Development
+Corporate Governance and Legal 
+Compliance
+Salaries and Benefits
+Customer Relations
+Talent Development
+Labor-Management Relations
+Information Security and 
+Privacy Protection
+Risk Management
+Environmental Compliance
+Waste Management
+Ethics and Integrity
+Human Rights
+Brand Market Image
+R&D and Innovation
+Supplier 
+Management
+Industry-university 
+Cooperation and Social 
+Welfare
+Occupational Health and Safety
+Anti-corruption
+Governance
+Social 
+Environmental
+
+Corporate Governance
+1.1 Management Level
+1.2 Business Performance
+1.3 Integrity and Legal Compliance
+1.4 Risk and Management
+1.5 Information Security Policy and     
+Management
+
+1.1 Management Level
+17
+July 2025
+Corporate Governance
+Board of Directors Selection
+The articles of incorporation of ASIX stipulate that the Board of Directors shall consist of nine members (with at
+least three independent directors). Directors are elected through a candidate nomination system, with
+shareholders electing from a list of director candidates at the shareholders' meeting for a term of three years. The
+professional
+qualifications,
+shareholding,
+concurrent
+positions,
+nomination,
+and
+selection
+methods
+for
+independent directors shall be handled in accordance with the Company Act and the Securities and Exchange Act.
+All members of the Board of Directors generally possess the necessary knowledge, skills, and qualities required
+for their duties. 
+Board of Directors Members
+To enhance the functions of the Board of Directors, ASIX considers diversity and independence in the
+composition of its board members, without restrictions on gender, race, or nationality. The shareholders'
+meeting elected nine directors for the 11th board of directors (including three independent directors). The
+professional backgrounds of the members include engineering, management, and finance, excelling in the
+semiconductor industry with cross-national management experience, technological expertise, supply chain
+management, marketing and business development, risk management, and financial expertise. The Board of
+Directors discusses the critical major events faced by the company and supervises and manages various
+potential challenges through regular and ad-hoc meetings.
+
+18
+July 2025
+Corporate Governance
+List of Nine Members of the 10th Term of Directors：
+Chairman
+Wang 
+Chun-Chi
+Education/Experience
+Chairman of ASIX Electronics 
+Corporation
+National Taiwan University 
+EMBA
+Director
+Yao 
+Te-Chang
+Education/Experience
+Chairman of Yung Chuang 
+Investment Co., Ltd.
+Master's in Electrical 
+Engineering, University of 
+Southern California
+Independent 
+Director
+Wei 
+Jian-Ming
+Education/Experience
+Independent Director of Dachan
+Great Wall Group
+PhD in Computer Science, 
+University of Connecticut
+Director
+Zhan 
+Yong-Da
+Education/Experience
+General Manager of ASIX 
+Electronics Corporation
+Master's in Business 
+Administration, National 
+Taiwan University
+Director
+He 
+Xu-Feng
+Education/Experience
+Deputy General Manager of 
+Airoha Technology 
+MBA, University of Southern 
+California
+Independent 
+Director
+Lin 
+Xiu-Li
+Education/Experience
+Independent Director of Siang Ming 
+Technology
+EMBA, National Chiao Tung 
+University
+Director
+Li 
+Mao-Sheng
+Education/Experience
+Chairman of ZYWYN
+Bachelor's in Electrical 
+Engineering, Tatung University
+Director
+Tsai 
+Bing-Hsien
+Education/Experience
+Deputy Director of Finance 
+Department, MediaTek Inc.
+Master's in Technology 
+Management, National Yang 
+Ming Chiao Tung University
+Independent 
+Director
+Hsu 
+Xi-Yuan
+Education/Experience
+Director of IC PLUS Corp.
+Master's in Electronics Research 
+Institute, National Chiao Tung 
+University
+Note: Directors have not yet completed relevant ESG education and training courses this term and plan to do so next year.
+
+19
+July 2025
+Corporate Governance
+Governance Structure of the Board of Directors
+Board of Directors
+Audit Committee
+Remuneration Committee
+Organization 9 directors (including 3 independent directors) Established in May 2019
+Members: 3 independent directors
+Established in October 2011
+Members: 3 independent directors
+Responsibiliti
+es
+*Maintain smooth communication with the 
+management team
+*Hold regular (quarterly) and irregular 
+meetings to fulfill supervisory responsibilities
+*Assist management in setting corporate goals
+*Establish short-, medium-, and long-term 
+regulations that align with the interests of 
+stakeholders
+*Ensure proper presentation of the company's 
+financial statements
+*Confirm the effectiveness of internal controls
+*Appoint or remove certified public 
+accountants and determine their 
+remuneration
+*Ensure compliance with relevant laws and 
+risk control
+*Review and evaluate the company's 
+employee remuneration system
+*Regularly evaluate the salaries and 
+remuneration of directors and 
+managers
+*Regularly review managers' 
+performance evaluations and salary 
+assessment princip
+Operations
+Held 5 meetings in 2024, with 100% 
+attendance rate
+*Meet at least once each quarter, with ample 
+communication with certified public 
+accountants and internal audit units
+*Held 5 meetings in 2024, with 100% 
+attendance rate
+*Meet at least twice a year
+*Held 2 meetings in 2024, with 100% 
+attendance rate
+Important 
+Meetings
+Information can be found on the Public 
+Information Observatory and the company's 
+annual report disclosed on the company 
+website
+Information can be found on the Public 
+Information Observatory and the company's 
+annual report disclosed on the company 
+website
+Information can be found on the Public 
+Information Observatory and the 
+company's annual report disclosed on 
+the company website
+Performance 
+Evaluation
+Board performance scored 4.9 (Excellent) 
+based on this year’s reviews and self-
+evaluations.
+Audit committee's performance scored 4.9 
+(Excellent) based on this year’s reviews and 
+self-evaluations.
+Remuneration Committee’s 
+performance scored 4.9 (Excellent) 
+based on this year’s reviews and self-
+evaluations.
+
+20
+July 2025
+Corporate Governance
+ASIXs' management team is composed of professional managers who were deeply
+engaged in various fields. They can gather the centripetal force of the company's
+employees, undertake the business indicators of the board of directors, and regularly
+report to the board of directors to achieve company goals and create maximum benefits
+for all shareholders. 
+Management Team
+Wang Chun-Chi
+Chairman
+Education
+National Taiwan University 
+EMBA
+Zhan Yong-Da
+General Manager
+Education
+Master's in Business 
+Administration, National Taiwan 
+University
+Fan Zhen-Feng
+Vice President
+Education
+Master's from the Institute of 
+Technology Management, 
+National Chiao Tung University
+Zhong Yong-Ji
+Vice President of R&D
+Education
+EMBA, National Yang-Ming 
+Chiao Tung University
+Wang Chuan-Jie
+Director of Sales
+Education
+Bachelor's in Information 
+Systems, Chinese Culture 
+University
+Chou Hung-Chang
+Director of Marketing
+Education
+Bachelor's in Engineering, 
+National Cheng Kung University
+Tsai Min-Ling
+Director of Finance
+Education
+Bachelor's in Financial 
+Management, Chung Hua 
+University
+
+21
+July 2025
+Corporate Governance
+1.2 Business Performance
+2024 Operating Results（Using Consolidated 
+Financial Report Information）
+Items
+2024
+2023
+Increase (decrease) 
+Amount
+Revenue
+852,618 
+887,618 
+-35,000 
+Gross Margin
+51%
+53%
+-2 ppts 
+Opeating Expenses
+218,820 
+225,928 
+-7,108 
+Opeating Margin
+25%
+28%
+-3 ppts
+Non-opeating Expenses
+36,336 
+20,745 
+15,591 
+Income tax
+37,956 
+38,966 
+-1,010 
+Net Income
+215,439 
+230,329 
+-14,890 
+Net Income rate
+25%
+26%
+-1 ppts
+Basic EPS(NT$)
+3.42
+3.67
+-0.25
+Unit：NT$1,000
+
+22
+July 2025
+Corporate Governance
+Financial Revenue, Expenses and Profitability in 2024
+Items
+2024
+2023
+Increase (decrease) 
+Amount
+Cash Flow from Operating 
+Activities
+323,135 
+293,385 
+29,750 
+Cash Flow from Investing 
+Activities
+-224,086 
+-36,035 
+188,051 
+Cash Flow from Financing 
+Activities
+-221,445 
+-346,479 
+-125,034 
+Items
+2024
+2023
+Return on Assets (%)
+11.13
+11.4
+Return on Equity (%)
+12.26
+12.95
+Net Profit Margin (%)
+25.27
+25.95
+Earnings after tax Per Share (NT$)
+3.42
+3.67
+Unit：NT$1,000
+
+23
+July 2025
+Corporate Governance
+Diligently Cultivating the Blue Ocean Market, Achieving 
+Consecutive Profits for 25 Years
+ASIX was dedicated to Designing Value-oriented, Technologically Innovative,
+Highly Integrated, and Cost-effective Chip Solutions. The company focuses on
+cultivating high-niche blue ocean markets for industrial/embedded/USB Ethernet chips,
+achieving an outstanding performance of 25 consecutive years of profitability. At
+the same time, ASIX was actively investing in research and development and creating
+job opportunities.
+7.25
+13.18
+13.35
+8.88
+8.53
+3.05
+6.34
+6.66
+3.67
+3.42
+53.10%
+57.24%
+57.26%
+53.45%
+51.00%
+47.00%
+48.00%
+49.00%
+50.00%
+51.00%
+52.00%
+53.00%
+54.00%
+55.00%
+56.00%
+57.00%
+58.00%
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2020
+2021
+2022
+2023
+2024
+Gross Margin (%)
+Revenue (Billion) / EPS (NT$)
+Revenue
+EPS
+Gross Margin
+
+24
+July 2025
+Corporate Governance
+Dividend Policy
+ASIX's dividend policy, as stipulated by the company's articles of incorporation, was determined based on factors such
+as the company's capital and financial structure, operating conditions, profits, and the characteristics and cycles of the
+industry it belongs to, adopting a prudent principle for distribution. The amount distributed shall not be less than 30% of
+the annual after-tax profits, with cash dividends comprising no less than 10% of the total dividends distributed. If there is
+any profit after the annual final accounts, it shall first be used to pay taxes and cover previous losses, followed by a 10%
+allocation to the legal reserve. However, if the legal reserve has reached the company's paid-in capital, this allocation is
+not required. Additionally, special reserves shall be allocated or reversed in accordance with the company's operational
+needs and legal requirements. The remaining profit, after dividend distribution and the inclusion of any undistributed
+profits from the beginning of the year, shall be proposed by the Board of Directors and submitted to the shareholders'
+meeting for approval.
+On February 19, 2025, the Audit Committee reviewed and submitted the 2024 profit distribution plan, which was
+approved by the Board of Directors and proposed for the shareholders' annual meeting's approval, distributing
+NT$3 per share in cash dividends.
+EPS and dividend distribution status over the year:
+Unit：NT$
+2020
+2021
+2022
+2023
+2024
+EPS
+3.05
+6.34
+6.66
+3.67
+3.42
+Dividend
+2.5
+5
+5.5
+3.5
+3
+3.05
+6.34
+6.66
+3.67
+3.42
+2.5
+5
+5.5
+3.5
+3
+0
+1
+2
+3
+4
+5
+6
+7
+2020
+2021
+2022
+2023
+2024
+EPS
+Dividend
+
+1.3 Integrity and Legal Compliance
+25
+July 2025
+Corporate Governance
+Integrity in business operations was fundamental for directors and managers. ASIX has always
+prioritized transparency in information and principled management as its core operating principles. The
+company has established guidelines for ethical business conduct and a code of ethical behavior,
+providing a framework for the management team and employees to follow. Internally, ASIX has a
+comprehensive internal control mechanism, with regular reports to the Board of Directors supervised by
+internal audits. The results of various internal control audits for 2024 were deemed reasonable and
+effective, with no major anomalies or risks identified. The company has maintained fair trading practices,
+with no lawsuits arising from anti-competitive behavior.
+Regular and ad-hoc training sessions were arranged for employees and new hires on ethical behavior
+standards, intellectual property management, insider trading prevention, personal data protection, and
+safeguarding trade secrets. Additionally, the company's external website provides contact emails for the
+spokesperson and supervisors for submitting complaints; to date, no complaints have been received.
+ASIX's operations comply with the "Company Act," "Securities and Exchange Act," "Business Accounting
+Act," "Political Donations Act," "Anti-Corruption Act," "Government Procurement Act," and "Public
+Officials Conflict of Interest Avoidance Act," among other relevant regulations for listed companies. Due
+diligence is conducted before engaging in transactions with upstream and downstream companies to
+minimize risks. The company also has a hotline for reporting conflicts of interest, and all directors signed
+integrity declarations in 2024. For more information, please refer to the relevant sections of the annual
+report available on the company's website and the Market Observation Post System (MOPS).。
+
+1.4 Risk and Management
+26
+July 2025
+Corporate Governance
+Operating
+a
+business
+often
+requires
+facing
+opportunities and risks from both internal and external
+sources. Companies must have a proactive approach
+to
+risk
+management,
+identifying
+and
+addressing
+potential economic, environmental, and social crises
+that
+may
+impact
+operations.
+Effective
+risk
+management
+enables
+stable
+business
+operations,
+reduces the impact and loss from significant risk
+events,
+ensures
+sustainable
+business
+practices,
+protects the rights and interests of all stakeholders,
+and further maintains the company's image.
+ASIX manages enterprise risks, including operational
+management, strategic planning, financial operations,
+climate change, and other risks, through a five-step
+process:
+hazard
+identification,
+risk
+assessment,
+decision-making, implementation, and supervision and
+review. This comprehensive approach ensures that
+the company can mitigate the impact on its operations
+during
+emergencies
+while
+maintaining
+personnel
+safety and protecting shareholders' interests.
+Hazard 
+Identification
+Risk 
+Assessment
+Decision 
+Making
+Implement
+Supervision 
+and Review
+
+27
+July 2025
+Corporate Governance
+Risk Issues and Responses 
+Risk Issues
+Management
+Strategic 
+Planning
+Other Risks
+Climate 
+Change
+Financial 
+Operations
+Issues
+⚫
+Changes in interest rates, exchange rates, and 
+inflation
+⚫
+Financial investments
+⚫
+Strategic investments
+Responses
+⚫
+The finance department conducts natural hedging for 
+foreign positions.
+⚫
+Adopts a conservative investment policy and handles 
+according to internal regulations, such as asset 
+acquisition or disposal procedures, to reduce risk.
+Issues
+⚫
+Low-carbon related policies and regulations
+⚫
+Increased supply chain costs due to climate 
+change
+⚫
+Green products and research and development
+Responses
+⚫
+Develop low-power chips and design products 
+that reduce energy consumption and waste
+⚫
+Actively manage the supply chain
+⚫
+Continuously promote energy and water 
+conservation, and improve resource us 
+efficiency 
+Issues
+⚫
+Customer or supplier compliance
+⚫
+Talent recruitment, training, and development
+⚫
+Information security and intellectual property rights
+Responses
+⚫
+Implement diverse and equal employment policies, provide 
+comprehensive professional training, and offer competitive 
+salaries and benefits to attract talent.
+⚫
+Strengthen information security awareness, establish information 
+security policies, and enhance supervision and control of asset 
+protection
+⚫
+Operate with integrity as the core principle, and prioritize 
+communication with customers and suppliers
+Issues
+⚫
+Technological development, industry trends, 
+and competitors
+⚫
+Market changes and policy or legal changes
+⚫
+Global political and economic situations
+Responses
+⚫
+Regularly monitor technological and industry 
+developments, and establish short、medium, 
+and long-term development strategies
+⚫
+Actively invest in R&D to deepen technical 
+expertise, launch excellent products, and keep 
+an eye on competitors
+⚫
+Meet customer demands, enhance market 
+competitiveness, and maintain and create 
+outstanding operational performance
+Issues
+⚫
+Risks not listed above that could cause 
+significant losses when they occur
+Responses
+⚫
+Management maintains a high level of sensitivity 
+in business operations to respond to various 
+potential risks
+
+Board of Directors
+• To comply with laws, promote policies, and maintain
+operations, it was essential to identify the risks associated
+with
+sustainable
+operations
+and
+ensure
+effective
+risk
+management.
+Audit Unit
+• An independent audit department, which reports directly to the Board
+of Directors, assists the board and management in auditing the
+company’s internal control system deficiencies. It also provides
+improvement recommendations to ensure the effectiveness of internal
+controls.
+Management Level
+• Executing the decisions of the Board of Directors, responsible for
+evaluating risks and auditing various responsible units and
+projects or plans, while also controlling progress and providing
+adaptive command.
+Responsible Unit
+• The person in charge of daily operations was the first-line 
+person in charge of facing risks.  He must prevent, analyze and 
+control risks in the work he was responsible for, so that the 
+relevant work can be carried out effectively.
+28
+July 2025
+Corporate Governance
+Risk Management Organization and Responsibilities
+Board of 
+Directors
+Management 
+Level
+Audit 
+Unit
+Responsible 
+Unit
+
+1.5 Information Security Policy and 
+Management 
+29
+July 2025
+Corporate Governance
+Information Security Policy and Organization
+To ensure the company’s sustained growth and uphold the core value of sustainable
+operations, ASIX has established a clearly defined information security policy and an
+information security management organization, specifying related responsibilities and
+operational procedures. By strengthening all employees’ awareness of information
+security
+and
+implementing
+effective
+management
+of
+security
+equipment
+and
+environments, ASIX ensures the confidentiality, integrity, and availability of its information
+assets. These measures effectively reduce information security risks and protect
+operational stability and corporate reputation.
+CEO
+R&D/
+MIS
+Audit 
+Office
+
+30
+July 2025
+Corporate Governance
+Information Security Management Measures and 
+Resources
+ASIX is committed to implementing robust internal information security management by
+strictly enforcing detailed security protocols and continuously investing in cybersecurity
+equipment to enhance information system safety and data protection, thereby achieving
+effective risk control.
+An annual information security risk assessment is conducted regularly, followed by
+information security management meetings chaired by the Chief Information Security
+Officer (CISO). These meetings comprehensively review risk assessment results and
+discuss relevant cybersecurity issues. When necessary, ad hoc meetings may be
+convened to promptly address potential security risks and incidents.
+In addition, through an internal audit mechanism, ASIX conducts regular annual
+information security audits. Based on the results of risk assessments and audit findings,
+concrete improvement measures are proposed and implemented to ensure continuous
+enhancement and enforcement of the information security management system.
+
+31
+July 2025
+Corporate Governance
+Information Security Incident Handing and Notification
+ASIX has established information security incident handling and notification procedures.
+Designation of personnel are responsible for handling major information security incidents
+and taking necessary countermeasures. In 2024 and as of the date of this Annual, ASIX
+has no major information security incidents, and there is no financial or operational impact
+caused by major information security incidents.
+Specific Information Security Management, Measures 
+and Results
+1. To strengthen the security of its information systems, the company conducted
+vulnerability scanning and penetration testing in 2024 to comprehensively identify
+potential risks and promptly implement patching and defensive measures, thereby
+reducing cybersecurity threats.
+2. The
+company
+has
+initiated
+a
+feasibility
+assessment
+and
+planning
+for
+the
+implementation of the ISO/IEC 27001 Information Security Management System
+(ISMS). Follow-up implementation and guidance mechanisms are being developed to
+enhance the institutionalization of information security management and align with
+international standards.
+
+32
+July 2025
+Corporate Governance
+Items
+Description
+Measures
+Results
+Personnel 
+Security 
+Management
+To ensure information security and 
+prevent confidential information leakage 
+or system damage caused by human 
+factors.
+◎Regular cybersecurity awareness campaigns
+◎Establishment of the "Personnel Information 
+Security Code of Conduct“
+◎Conduct information security education and 
+training
+◎No incidents of information leakage caused by 
+human negligence in the past year
+◎Employees proactively report suspicious emails, 
+demonstrating continuous improvement in 
+cybersecurity awareness
+Assets 
+management
+Effectively identify, classify, inventory, 
+assess risks, and implement protective 
+measures for all information assets to 
+ensure proper management and control.
+◎Establish and classify an information asset 
+inventory
+◎Conduct regular risk assessments to analyze 
+potential threats and vulnerabilities
+◎Perform regular inventory checks and updates of 
+information assets
+◎Implement risk mitigation and continuous 
+improvement for information assets
+Computer 
+security
+management
+Implement computer information security 
+measures to ensure operational stability 
+and protect information assets.
+◎Secure configuration of computer devices
+◎Operating system and software updates
+◎Legally licensed computer software
+◎Endpoint protection
+◎All in-use computers are configured according to 
+standard security settings
+◎Operating systems and software are regularly 
+and properly updated
+◎Endpoint protection is installed
+◎External device control is effectively enforced
+Network 
+security 
+management
+Protect the company's network and data 
+from damage, intrusion, and threats.
+◎Establish the "Network Usage Control Policy" 
+to enforce employee internet usage 
+management
+◎Implement firewall systems
+◎Strengthen network access controls to reduce 
+the risk of malware incidents
+System security 
+management
+Prevent the leakage of company 
+business information.
+◎Implement responsibility-based access control 
+for personnel in each department
+◎Legally authorized
+◎Implement backup mechanisms
+◎Implement the principle of least privilege and 
+ensure the availability of data to avoid data leakage.
+Files
+management
+Ensure company records were properly 
+managed and protected.
+◎Data file version control management
+◎Files permission management
+◎Implement backup mechanisms
+◎Enforce the principle of least privilege and 
+ensure files availability.
+Physical 
+Environment 
+Security 
+Management
+Protect information equipment, system 
+resources, and personnel to prevent 
+risks such as data leakage, equipment 
+damage, or service disruption caused by 
+natural disasters, human interference, or 
+environmental factors
+◎Control physical access
+◎Deploy environmental monitoring equipment
+◎Ensure power supply and disaster recovery 
+support
+◎Effectively prevent unauthorized personnel from 
+entering
+◎Maintain operation of critical systems during 
+◎disasters through backup and UPS mechanisms
+Enhance personnel safety
+
+Innovation and R&D
+2.1 Innovation and R&D
+2.2 Brand Marketing Innovation
+
+2.1 Innovation and R&D
+34
+July 2025
+Innovation and R&D
+Core Competencies
+ASIX's R&D team is well-equipped
+with
+key
+core
+technologies
+in
+industrial and embedded network
+chip design, hardware I/O interface
+bridging,
+and
+software
+and
+firmware
+development,
+ensuring
+ASIX's
+leading
+position
+in
+the
+industrial and embedded Ethernet
+chip market.
+
+35
+July 2025
+Innovation and R&D
+ASIX's Latest Key Technologies
+USB 3.2 to 2.5G Ethernet Chip Key Technologies
+• AX88279
+Industrial Ethernet EtherCAT chip Key Technologies 
+• AX58400/AX58200/AX58100
+The Latest Industrial Ethernet TSN Key Technologies
+• AXM57104A TSN NIC/IPC
+IO-Link Master/Device Software Stack Key Technologies
+• AX58400 EtherCAT to IO-Link Gateway, IO-Link Master/Device Stacks
+Latest TSN + EtherCAT to IO-Link Gateway over TSN Overall Solution
+• AXM57104A TSN IPC + AX58400 EtherCAT to IO-Link Gateway over TSN Solution
+TSN
+
+36
+July 2025
+Innovation and R&D
+Innovative R&D Strategy
+Develop
+new
+generation
+Multi-Gigabit
+Ethernet
+chips
+with
+high-speed
+transmission interface
+Develop
+new
+generation
+of
+highly
+integrated
+and
+high-performance
+EtherCAT & TSN industrial Ethernet chips
+Develop the latest technologies for IO-Link
+smart
+sensor
+communication
+software
+stack
+Develop new generation of I/O interface
+chips
+with
+high-speed
+transmission
+interface
+ASIX continues to innovate and develop the latest key technologies and product applications
+of industrial and embedded Ethernet chip market
+
+37
+July 2025
+Innovation and R&D
+Intellectual Property Strategy
+Strategic Objectives
+•
+Strengthen protection of R&D achievements to ensure sustained innovation
+•
+Leverage intellectual property to enhance market competitiveness and accelerate 
+commercialization
+•
+Motivate research teams to improve innovation efficiency
+Core Strategies
+•
+IP Management
+➢Establish a comprehensive intellectual property rights database for enhanced protection
+➢Implement a global patent portfolio to secure competitive advantage
+•
+R&D Team Incentives
+➢Project bonus system to encourage employees to propose innovative ideas
+➢Patent reward programs to drive technological breakthroughs
+Expected Impact
+• Enhance technological innovation capabilities
+• Improve market competitiveness
+ASIX’s R&D Patent Portfolio
+Country
+Taiwan
+US
+China
+Patents 
+Granted
+17
+7
+4
+
+38
+July 2025
+Innovation and R&D
+Innovation R&D Investment and Results
+ASIX is actively investing in the innovative
+research and development of the latest
+key technologies and product applications
+of industrial and embedded Ethernet chip
+market. Here are the specific results of
+ASIX’s recent innovative R&D investments
+and
+outputs
+in
+new
+products
+and
+technological innovations.
+1,335,476
+887,618
+852,618
+142,858
+117,712
+120,294
+10.70%
+13.26%
+14.11%
+0.00%
+2.00%
+4.00%
+6.00%
+8.00%
+10.00%
+12.00%
+14.00%
+16.00%
+0
+200,000
+400,000
+600,000
+800,000
+1,000,000
+1,200,000
+1,400,000
+1,600,000
+2022
+2023
+2024
+Net Revenue
+R&D Expense
+R&D Expense Ratio (%)
+Year
+Research and Development Achievements
+2022
+Launched New EtherCAT to IO-Link Gateway Solution with ASIX's Own IO-Link 
+Master Software Stack
+2023
+Launched AXM57104 TSN Development Platform
+Launched AX88279 USB 3.2 to 2.5G Ethernet Controller
+Launched AX88179B/AX88772E Driverless USB Ethernet Controllers
+2024
+Launched ASIX IO-Link Device Software Stack Solution
+Launched AX99100A PCIe to Multi I/O (4S, 2S+1P, 2S+SPI, LB) Controller
+
+2.2 Brand Marketing Innovation
+39
+July 2025
+Innovation and R&D
+Expanding Global Market Through Digital Marketing
+ASIX leverages social media and content marketing strategies to enhance brand influence
+and deepen customer engagement. Through diverse digital platforms, the company shares
+technical innovations, product information, and sustainability-related content to boost market
+awareness and customer interaction. Real-time communication mechanisms enable ASIX to
+listen to customer needs and provide expert support, fostering long-term trust.
+Integrating ESG principles into its content strategy, ASIX not only elevates brand value but
+also promotes sustainable applications of smart IoT technologies, co-creating impactful
+market value with its partners and customers. The company actively manages its official
+social media channels to strengthen ASIX’s professional image and global product visibility.
+Through digital marketing, it expands its presence in the global industrial automation sector
+while optimizing resource utilization and minimizing waste.
+By adopting innovative marketing approaches, ASIX reinforces brand momentum, drives the
+adoption of intelligent IoT solutions, and balances long-term sustainability with competitive
+market performance.
+
+40
+July 2025
+Innovation and R&D
+Leveraging Social Media to Build the Company's 
+Professional Brand Image
+Managing ASIX’s global social media
+presence
+across
+platforms
+including
+Facebook,
+Instagram,
+LinkedIn,
+X,
+YouTube, YOUKU, LINE, and WeChat
+to
+strengthen
+brand
+professionalism,
+boost
+product
+visibility,
+and
+support
+industrial automation market expansion
+with a focus on sustainability.
+
+Environmental 
+Sustainability
+3.1 Climate Change Response
+3.2 Energy Use and Greenhouse 
+Gas Inventory
+3.3 Water, Electricity and Waste
+
+3.1 Climate Change Response
+42
+July 2025
+Environmental Sustainability
+Greenhouse Gas Reduction Policy
+In response to growing global concern over climate change and greenhouse gas emissions, ASIX
+recognizes the urgent environmental and societal challenges posed by climate change and embraces
+sustainability as a core value for long-term business development. We believe that true sustainability
+is only possible when businesses thrive in harmony with society and the environment. To meet
+increasingly stringent carbon regulations and global supply chain expectations, ASIX is redefining its
+corporate values. Beyond focusing on core business growth, we are committed to the 3R principles --
+Reduce, Reuse, and Recycle -- integrating environmental responsibility into product design and
+operations to help build a better future.
+We are committed to achieving net-zero carbon emissions by 2050, aligned with the Paris
+Agreement and Science Based Targets initiative (SBTi). Our strategy includes low-carbon design
+innovation, renewable energy procurement, supply chain collaboration, and data-driven carbon
+management. To support this transition, we have launched GHG inventory efforts in line with
+international standards and aim to complete third-party verification by Q2 2026. We also continue
+to promote energy efficiency, green office practices, and environmental stewardship as part of our
+corporate social responsibility.
+In line with the IAF/ISO joint communiqué, we integrated climate-related requirements into our
+ISO Quality and Environmental Management Manual on April 24, 2024, and are developing KPIs
+to systematically monitor climate issues and enhance operational resilience and sustainable
+governance.
+
+43
+July 2025
+Environmental Sustainability
+Paperless Office Implementation for Carbon Reduction
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+Number of Papers
+80107
+53716
+33246
+31821
+29927
+23217
+26895
+80107
+53716
+33246
+31821
+29927
+23217
+26895
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+Paperless Office for Carbon Reduction
+Number of Papers
+80,107 sheets of paper in 2018 (before)
+26,895 sheets of paper in 2024 (-53,212)
+Started in 
+Feb. 2019
+-66.4%
+To advance digital transformation and support office decarbonization, ASIX has implemented
+paperless office measures since February 2019. These include launching an electronic approval system
+and promoting digital documentation. In 2024, paper usage was reduced by 53,212 sheets compared
+to 2018, cutting an estimated 327.78 kg CO₂e -- equivalent to over 1,600 km of vehicle emissions or
+the annual carbon absorption of 27 trees. This achievement reflects ASIX’s ongoing commitment to
+low-carbon operations and sustainable development.
+
+3.2 Energy Use and Greenhouse Gas 
+Inventory
+44
+July 2025
+Environmental Sustainability
+Energy Resource Management Policy
+ASIX was a professional chip design company, engages in product design, research, development, and sales, while the
+production and manufacturing of chips are outsourced to professional foundries. During the company's operations, the
+required energy is mostly for air conditioning and lighting, which are common daily necessities, with electricity being the
+primary energy used.
+Before any external guidance on inventory, the company conducted its inventory and statistical analysis, which showed that
+the main source of emissions was electricity, accounting for over 99% of total emissions. Therefore, the company's plan to
+reduce greenhouse gas emissions focuses on reducing energy usage, improving efficiency, and minimizing energy waste.
+Energy Reduction Policy
+The consensus on energy-saving and carbon reduction not only enhances global industrial competitiveness but also
+significantly contributes to reducing greenhouse gases. The primary electricity usage at ASIX was for air conditioning
+systems. Due to climate change causing annual temperature increases in recent years, the load on air conditioning
+equipment has indirectly increased, leading to higher electricity consumption for air conditioning. However, the
+company continues to promote various energy-saving measures and more efficient energy use to minimize negative
+environmental impacts. Therefore, a good office environment and the concept of employees saving electricity
+resources, along with practical actions like turning off unused equipment, help conserve electrical resources.
+
+45
+July 2025
+Environmental Sustainability
+Promotion Measures: 
+When replacing and purchasing new equipment, priority could be given to energy-efficient design
+products such as:
+Energy Usage and Energy-Saving Goals：
+Future energy-saving plans will continue to be promoted, with electricity savings measured per
+employee each year. In accordance with the company's set goals, individual inventory
+information will be completed and disclosed by 2026, and reduction targets, strategies, and
+related specific action plans will be disclosed by 2027.
+1. Chilled water main units for air conditioning
+systems.
+2. Replacing lighting sources with LED lamps.
+3. Computers and network equipment  in IT 
+server room.
+4. High-efficiency UPS (Uninterruptible Power
+Supply) systems.
+5. Continuously keeping up with the latest
+energy-saving technologies and products.
+Replacing lighting sources with LED lamps
+
+46
+July 2025
+Environmental Sustainability
+Number of LED Lamp
+Replacements
+2023
+2024
+4-foot LED Lamp
+3
+6
+2-foot LED Lamp
+6
+7
+* 4-foot traditional lamps (38W*3) replaced with 4-foot LED lamps (20W*3)
+* 2-foot traditional lamps (18W*4) replaced with 2-foot LED lamps (10W*4)
+Energy-Efficient Lighting Upgrade Toward Net-Zero 
+Emissions
+To enhance energy efficiency and support low-
+carbon operations, ASIX continued its efforts
+to enhance energy efficiency by replacing
+traditional
+fluorescent
+tubes
+with
+LED
+lighting across office areas in 2024. This
+upgrade reduced total power consumption
+by approximately 548 watts and is expected
+to
+lower
+annual
+carbon
+emissions
+by
+714.46 kg CO₂e — equivalent to over 3,500
+kilometers
+of
+vehicle
+travel
+or
+the
+yearly
+carbon absorption of 60 trees. The initiative
+lowered electricity costs and reinforced our
+commitment
+to
+energy
+efficiency,
+carbon
+reduction,
+and
+progress
+toward
+net-zero
+operations.
+
+47
+July 2025
+Environmental Sustainability
+Driving Sustainable Upgrades with Green-Certified IT 
+Equipment
+In
+line
+with
+our
+commitment
+to
+environmental
+sustainability, ASIX invested NT$5 million in 2024 to
+upgrade
+its
+IT
+server
+room
+infrastructure.
+This
+initiative included the deployment of the NetApp
+FAS2750 storage system, certified with the NetApp
+Green Label, and the Cisco Catalyst 9200L-24T-G
+managed switch with Energy Efficient Ethernet (EEE)
+support. These upgrades replaced outdated, energy-
+intensive equipment, enhancing network stability and
+data security while demonstrating our dedication to low-
+carbon operations throughout digital transformation.
+NetApp FAS2750 FAS System
+Cisco Catalyst 9200L-24T-G Management Switch
+Energy-Efficient Ethernet (EEE)
+
+48
+July 2025
+Environmental Sustainability
+Greenhouse Gas Carbon Emissions Inventory
+Scope of Inquiry :4F, No.8, Hsin Ann Rd., Hsinchu Science Park, Hsinchu, Taiwan
+Greenhouse gas 
+self-inventory 
+results over the 
+past three years
+Attribute
+Category
+Items
+Unit
+2022
+2023
+2024
+Input
+Energy
+Gasoline
+Liters
+2
+2
+2
+Liters
+Liters
+300
+300
+800
+Diesel
+Non-renewable energy generation 
+equipment production
+kWh
+518.34
+525
+541.8
+Purchased 
+Electricity
+Renewable energy generation 
+equipment production (also know as 
+green electricity)
+kWh
+None
+None
+無
+Refrigerant (R22)
+KG
+128
+128
+128.63
+Refrigerant (410A)
+KG
+12
+12
+12
+Water 
+Resources
+Tap Water
+tons
+1,498
+1,985
+2,157
+Year 2024
+CO2
+CH4
+N20
+HFCs
+SF6
+NF3
+Emissions (tcno2e)
+278.2
+0
+0
+0.121
+0
+0
+%
+99.90%
+0%
+0%
+0.1%
+0%
+0%
+Year 2023
+CO2
+CH4
+N20
+HFCs
+SF6
+NF3
+Emissions (tcno2e)
+267.4
+0
+0
+0.121
+0
+0
+%
+99.90%
+0
+0
+0.1%
+0
+0
+Year 2022
+CO2
+CH4
+N20
+HFCs
+SF6
+NF3
+Emissions (tcno2e)
+264.1
+0
+0
+0.121
+0
+0
+%
+99.90%
+0
+0
+0.1%
+0
+0
+
+49
+July 2025
+Environmental Sustainability
+Attribute
+Category
+Regulatory or 
+International 
+Standard 
+Identification
+Items
+Unit
+2022
+2023
+2024
+Outpue
+Greenhouse 
+Gas
+ISO14064-1
+(a)Direct greenhouse gas emissions and 
+removals (Category 1)
+ton
+CO 2 e
+0.826
+0.552
+1.735
+(b)Indirect greenhouse gas emissions 
+from imported energy (Category 2)
+ton
+CO 2 e
+263.83
+267.22
+277.88
+(c)Indirect greenhouse gas emissions 
+from transportation (Category 3)
+ton
+CO 2 e
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+(d)Indirect greenhouse gas emissions 
+from product use (Category 3)
+ton
+CO 2 e
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+(e)Indirect greenhouse gas emissions 
+related to product use (Category 3)
+ton
+CO 2 e
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+(f)Indirect greenhouse gas emissions 
+from other sources (Category 3)
+ton
+CO 2 e
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+No need to disclose 
+at this time
+Water 
+Pollution 
+Control Act
+Water Pollution 
+Control Act
+Process wastewater
+Metric tons/year
+None
+None
+None
+Domestic water
+Metric tons/year
+1,498
+1,985
+2,157
+ton
+CO 2 e
+0.27
+0.355
+0.353
+Waste
+Waste Disposal 
+Act
+Industrial waste - general
+ton
+0.17
+0.17
+0.27
+Industrial waste - hazardous
+ton
+0.0386
+0.0101
+0.00874
+Recyclable waste: paper / iron, aluminum 
+/ plastic, including PET bottles
+ton
+0.451
+0.5687
+0.366
+Recycling
+Wastewater recycling
+km3
+None
+None
+None
+
+3.3 Water, Electricity and Waste
+50
+July 2025
+Environmental Sustainability
+Disclosure of Water and Electricity Usage
+During the company's operations, the energy required was mostly for air conditioning
+and lighting, which were general civil needs, with electricity being the primary energy
+used. The water and electricity usage for the past three years was as follows:
+Category
+Items
+Unit
+2022
+2023
+2024
+Energy
+Diesel
+Non-renewable energy generation 
+equipment production
+kWh
+518.34
+525
+541.8
+Purchased 
+Electricity
+Renewable energy generation 
+equipment production (also know 
+as green electricity)
+kWh
+None
+None
+None
+Water 
+Resources
+Tap Water
+tons
+1,498
+1,985
+2,157
+
+51
+July 2025
+Environmental Sustainability
+Water Resource Energy-saving Goals：
+The goal was to reduce water usage per employee each year.
+Water Resource Management Policy
+Valuing and protecting water resources was a priority for ASIX. As a non-manufacturing
+company, we do not use water in production processes. During company operations, water
+was sourced from the municipal water supply, without the use of groundwater or other
+sources, and only generates general domestic wastewater. Therefore, water usage was not
+a major issue for our company.
+Promotion measures were as follows：
+1. Educate employees on the concept of saving water resources and encourage practical actions
+such as turning off taps.
+2. Implement an immediate reporting mechanism to promptly repair any damaged or leaking water
+supply equipment to avoid water wastage.
+3. Adjust the water output of supply devices or use water-saving valves, and adopt sanitary
+equipment with water-saving certification.
+4. Maintain water quality in cooling towers by adding chemicals, thereby reducing the frequency of
+cleaning the towers and minimizing large-scale water usage.
+
+52
+July 2025
+Environmental Sustainability
+Waste Management Policy
+The main waste generated was domestic waste. Management and reduction measures
+include entrusting general domestic waste to professional and qualified disposal
+companies, which transport it to incineration plants for burning. Recyclable resource
+waste was handed over to recycling companies for resource recovery and reuse,
+reducing environmental pollution and harm.
+According to the results of our self-inventory, the greenhouse gas emissions from waste
+treatment were a very small portion of the company's total greenhouse gas emissions.
+The inventory results show that the company's waste mainly consists of recycled
+cardboard boxes and photocopy paper.
+The waste statistics for the past three years were as follows：
+Category
+Regulatory or International 
+Standard Identification
+Items
+Unit
+2022
+2023
+2024
+Waste
+Waste Disposal Act
+Industrial waste - general
+ton
+0.17
+0.17
+0.27
+Industrial waste - hazardous
+ton
+0.0386
+0.0101
+0.00874
+Recyclable waste: paper / iron, 
+aluminum / plastic, including 
+PET bottles
+ton
+0.451
+0.5687
+0.366
+
+Social Participation
+4.1 Cultivation Taiwan’s Netcom 
+Talents
+4.2 Social Welfare
+
+4.1 Cultivating Taiwan’s Netcom Talents
+54
+July 2025
+Social Participation
+Through
+industry-academia
+cooperation
+and joint project development with domestic
+universities and related academic institutions,
+ASIX
+aims
+to
+continue
+expanding
+employment
+opportunities
+and
+cultivating
+more
+outstanding
+network
+communication
+talents in Taiwan, thereby enhancing Taiwan's
+network communication capabilities.
+ASIX officially launched an industry-academia collaboration project with National Yang Ming
+Chiao Tung University at the end of 2023. , aiming to drive innovation and advancements in 
+network communication through technology research and talent development. This
+collaboration integrates corporate industry expertise with academic research capabilities,
+enabling joint research initiatives that enhance industry competitiveness and cultivate
+outstanding network communication professionals.
+Industry-Academia Cooperation with NYCU
+相片來源: 師範大學物理系網站
+
+55
+July 2025
+Social Participation
+Seeking Industry-Academia-Research and Cross-Field 
+Partnerships
+Since our establishment, ASIX has trained over 200 network communication professionals
+in Taiwan. The talents trained by the company were now key figures in the network
+communication industry.
+
+4.2 Social Welfare
+56
+July 2025
+Social Participation
+ASIX regularly donates to local mountain area kindergarten children and irregularly
+purchases coffee from Man Fair social Enterprise Limited Company and Children Are
+Us Foundation, the charity organization, as well as Mid-Autumn Festival gifts from
+disadvantaged groups. In cooperation with the Advantech Foundation, the company
+has established an art corridor and set up an invoice donation box for charity
+organizations, encouraging employees to donate invoices generously.
+
+Partners for Common 
+Prosperity
+5.1 Supply Chain Management
+5.2 Customer Service
+
+5.1 Supply Chain Management
+58
+July 2025
+Partners for Common Prosperity
+ASIX is adhere to the principle of sustainable operation, upholding beliefs such as compliance
+with regulations, fulfilling social responsibilities, and coexisting in an environmentally friendly
+manner. The company establishes positive interactions with its supply chain based on these
+principles. ASIX supply chain management policies focus on aspects such as human rights
+conduct guidelines, procurement policies, supply product quality management, green product
+management (including hazardous/restricted substances), and responsible minerals. Suppliers
+are required to protect labor rights, monitor supply quality, avoid using minerals sourced from
+armed conflict and human rights violation areas (Conflict Affected and High-Risk Areas
+(CAHRAs)), comply
+with green product
+regulations,
+and refrain from using hazardous
+substances, as well as sign related assurance declarations. The company prioritizes local
+sourcing and has an emergency response mechanism of the second sources to build a
+sustainable supply chain, reducing impacts on nature and the environment. This approach
+fosters close professional collaboration and creates a win-win long-term partnership with
+suppliers.
+
+59
+July 2025
+Partners for Common Prosperity
+Supplier Code of Conduct Management
+ASIX place great importance on human rights issues
+among suppliers, monitoring and investigating whether
+suppliers treat their workers well and maintain ethical
+standards
+between
+employers
+and
+employees.
+Suppliers are required to ensure non-discrimination,
+prohibition of child labor, no forced labor, freedom of
+association,
+compliance
+with
+labor
+laws,
+and
+no
+exploitation of worker wages, while also providing a
+safe working environment. To safeguard the safety of
+the working environment, ensure employees are treated
+with
+dignity
+and
+respect,
+and
+adhere
+to
+ethical
+standards, we conduct supplier investigations based on
+the Responsible Business Alliance (RBA) standards
+and require compliance with relevant regulations. In
+2024,
+the
+investigation
+results
+showed
+100%
+compliance, with no reported incidents of human rights
+violations between employers and employees. In 2025,
+we will continue to monitor and ensure that suppliers
+adhere to these conduct guidelines.
+
+60
+July 2025
+Partners for Common Prosperity
+Procurement Policy
+• ASIX is an IC design company, so our primary procurement method involves ordering ICs and
+commissioning the production of finished IC products. Our supply chain is mainly composed of
+renowned domestic wafer foundries, assembly and testing factories. At the same time, our
+suppliers hold
+various
+management
+standard certifications,
+such as ISO 9001 Quality
+Management System, IATF 16949 Automotive Quality Management System, ISO 14001
+Environmental Management System, QC 080000 Hazardous Substance Process Management
+System, and ISO 45001 Occupational Health and Safety Management System, among others.
+This indicates that . ASIX supply chain possesses sufficient resources, product technology
+capabilities, environmental management (green factories), and occupational safety measures to
+meet ASIX needs.
+• ASIX is adhere to the principle of local sourcing, procuring from locations within or near our
+operational areas. This approach helps reduce the carbon footprint from material and product
+transportation and lowers energy consumption. To mitigate the risk of potential procurement
+shortages, our supply chain also has a Second Source mechanism in place to ensure 100% on-
+time delivery and customer satisfaction.
+
+61
+July 2025
+Partners for Common Prosperity
+綠色管理
+• ASIX implements a strict evaluation process for the procurement goods delivered by suppliers.
+Evaluations are conducted quarterly and annually, and are included in indicators such as
+quality objectives, KPIs, risk assessments, and opportunity evaluations.
+• The content and weight of the quarterly supplier performance evaluation are as follows:
+1. Product Quality (50%)
+2. Issuance of Non-Conformance Reports or Corrective and Preventive Action Reports (20%)
+3. Compliance with Green Product Regulations (20%)
+4. Supplier Cooperation and Service Attitude (10%)
+• Evaluation Criteria:
+1. Excellent Supplier (Above 91 points)
+2. Qualified Supplier (81 to 90 points)
+3. Reassessment Required (70 to 80 points)
+4. Non-Qualified (Below 69 points)
+Supplier Evaluation Criteria
+
+62
+July 2025
+Partners for Common Prosperity
+綠色管理
+The 2024 annual statistical report, the evaluation scores for each supplier were compiled by
+each assessment item, including quarterly scores and average scores per quarter. The results
+show that all suppliers are rated as Excellent Suppliers (above 91 points), with
+outstanding performance in all evaluation categories.
+Supplier Evaluation Results 
+Note: 0 means that there were no shipments in the current quarter.
+
+63
+July 2025
+Partners for Common Prosperity
+綠色管理
+The 2024 annual statistical report, the statistical results of Incoming Quality Control (IQC)
+for supplier shipments by quarter show that there were no returns of batches for any
+supplier. The number of rejected Lot was 0 ( Reject Lot Rate = 0%)
+Supplier Delivery Quality
+
+Evaluation items for outsourcing 
+ASIX implements a rigorous evaluation system for key outsourcing regarding the delivery of
+outsourced products. Evaluations are conducted on a quarterly and annual basis and are
+incorporated into quality objectives, KPIs, and risk and opportunity assessments.
+The performance evaluation criteria and their respective weightings for
+quarterly assessments of
+outsourced products are as follows:
+1. Outsourcing product quality (25%)
+2. Whether nonconformity reports or corrective/preventive actions have been issued (15%)
+3. Whether the outsourcing has any violations of green product regulations (25%)
+4. Outsourcing on-time delivery rate (25%)
+5. Outsourcing company cooperation and service attitude (10%)
+•
+Rating Explanation:
+1. Excellent Qualified Contractor (91 points and above)
+2. Qualified Contractor (81–90 points)
+3. Re-evaluation Needed (70–80 points)
+4. Not Qualified (Below 69 points)
+64
+July 2025
+Partners for Common Prosperity
+
+Outsourcing Delivery Quality
+The 2024 annual statistics of incoming quality control (IQC) for major outsourcing purchase
+batches by quarter show that no batches were rejected each quarter, with zero
+rejected batches (rejection rate 0%).
+65
+July 2025
+Partners for Common Prosperity
+
+Outsourcing Delivery Assessment
+In 2024, the delivery rate of major outsourcing production batch of the on-time delivery rate
+was evaluated in each quarter, and the statistical results showed that the actual
+delivery rate in each quarter was 100%.
+66
+July 2025
+Partners for Common Prosperity
+
+67
+July 2025
+Partners for Common Prosperity
+綠色管理
+ASIX focuses on the operational status, quality system management, and engineering
+capabilities of its key suppliers. Therefore, each year, self-assessment checklists or on-site
+audits at the suppliers' locations are utilized. In the 2024 evaluation, the average score of the
+5 major suppliers was 88.8 points. Among them, two suppliers were rated as Excellent
+Suppliers, and three suppliers were rated as Qualified Suppliers.
+The annual evaluation items and their respective weightings for suppliers are as follows:
+1.Operational Status (30%)
+2.Quality System Management (40%)
+3.Engineering Capabilities (30%)
+Evaluation Criteria:
+1.Excellent Supplier (Above 91 points)
+2.Qualified Supplier (81 to 90 points)
+3. Reassessment Required (70 to 80 points)
+4. Non-Qualified (Below 69 points)
+Annual Supplier Evaluation
+
+68
+July 2025
+Partners for Common Prosperity
+Green Product Management
+• ASIX ensures compliance with international green product regulations by establishing the Green
+Product
+Management
+Procedure
+(S0202QA04)  
+and
+Material
+Approval
+Procedure
+(S0102QA03)This procedure rigorously controls compliance from the product design phase
+through to the use of raw materials, manufacturing processes, and packaging materials, adhering
+to regulations on hazardous substances and restricted materials, with the aim of eliminating the
+use of harmful substances.
+• The raw materials used in ASIX supply chain and the products manufactured are 100% compliant
+with the European Union’s Restriction of Hazardous Substances Directive (Directive 2011/65/EU
+and Directive (EU) 2015/863) and the EU REACH Regulation: "Registration, Evaluation,
+Authorization, and Restriction of Chemicals" (REACH). This ensures compliance with customer
+green
+product
+requirements
+and
+international
+green
+product
+standards,
+contributing
+to
+environmental protection and reducing the environmental impact of products, while enhancing
+product competitiveness.
+
+69
+July 2025
+Partners for Common Prosperity
+EU RoHS 2.0 Restricted Substances Survey
+ASIX regularly reviews third-party test reports (e.g., from SGS) for the raw materials used in the IC
+(integrated circuit) products provided by suppliers, to ensure compliance with the EU RoHS 2.0
+Restriction of Hazardous Substances Directive. The regulated concentration limits are as shown in
+the table below. After review, it has been confirmed that all raw material test reports for
+products in 2024 are 100% compliant; no restricted substances exceeding concentration
+limits were found, meeting regulatory requirements.
+Restricted Substances 
+Maximum Allowable 
+Concentration
+1
+Lead / Lead compounds
+0.1%  (1000ppm)
+2
+Cadmium / Cadmium compounds
+0.01% (100ppm)
+3
+Mercury / Mercury compounds
+0.1%  (1000ppm)
+4
+Chromium VI (Cr6+) compounds
+0.1%  (1000ppm)
+5
+Polybrominated Biphenyls (PBBs)
+0.1%  (1000ppm)
+6
+Polybrominated Diphenyl Ethers (PBDEs)
+0.1%  (1000ppm)
+7
+Di-(2-ethylhexyl)phthalate (DEHP)
+0.1%  (1000ppm)
+8
+Butyl benzyl phthalate (BBP)
+0.1%  (1000ppm)
+9
+Dibutyl phthalate (DBP)
+0.1%  (1000ppm)
+10 Diisobutyl phthalate (DIBP)
+0.1%  (1000ppm)
+
+70
+July 2025
+Partners for Common Prosperity
+EU REACH SVHC Survey
+ASIX regularly audits the IC (integrated circuit) products provided by suppliers to determine if they contain SVHCs
+(Substances of Very High Concern). SVHCs are chemicals that pose significant risks to the environment and human
+health due to their high toxicity. According to Article 58 of the REACH Regulation, the European Chemicals Agency
+(ECHA) identifies SVHCs among:
+• Category 1 and 2 carcinogens, mutagens, and reproductive toxins (CMR substances)
+• Persistent, Bioaccumulative, and Toxic substances (PBT) and very Persistent and very Bioaccumulative
+substances (vPvB)
+• Substances with similar hazards, such as endocrine disruptors
+These substances are selected through a review and assessment process conducted by ECHA.
+The regulation requires that if a product meets both of the following conditions, it must be
+reported to
+ECHA :
+1. The concentration of SVHCs (Substances of Very High Concern) in the product exceeds 0.1% (w/w).
+2. The total amount of SVHCs manufactured or sold within the EU exceeds one ton per year.
+• As of 2024, there are 242 SVHCs listed (the 32th update of the REACH Candidate List.). The
+audit results confirm compliance, with no instances of SVHC concentrations exceeding the
+limit or quantities exceeding one ton that would necessitate reporting.
+
+71
+July 2025
+Partners for Common Prosperity
+Conflict-Free Minerals Policy
+• To achieve responsible mineral sourcing, ASIX has established a Conflict-Free Minerals
+Policy. We commit to thoroughly investigating our supply chain to ensure that metals
+such as Gold (Au), Tantalum (Ta), Tungsten (W), Cobalt (Co), and Tin (Sn) are not
+sourced from conflict zones or obtained through illegal smuggling by non-state armed
+groups or illegal factions from the Democratic Republic of the Congo (DRC) or
+surrounding conflict-affected regions. Additionally, metals exported from the following
+countries do not meet the "Conflict-Free" standard: Democratic Republic of the Congo
+(DRC), Rwanda, Uganda, Burundi, Tanzania, and Kenya (as recognized by the United
+Nations Security Council as sources of minerals from the DRC).
+• ASIX declares that all metals used in products sold to customers and in our downstream
+supply chain comply with Conflict-Free Minerals standards (DRC Conflict-Free). We
+continuously monitor supplier mineral sources using the Conflict Minerals Reporting
+Template (CMRT) and the Extended Mineral Reporting Template (EMRT). We conduct a
+100% investigation of products and will fully re-evaluate and adhere to our commitment
+to responsible mineral sourcing whenever there are updates to the investigation
+templates or changes to the smelter lists. This ensures diligent due diligence in
+compliance with the Conflict-Free Minerals standards.
+
+72
+July 2025
+Partners for Common Prosperity
+Responsible Minerals Investigation
+ASIX conducts responsible mineral sourcing investigations based on the Conflict Minerals
+Reporting Template (CMRT) and the Extended Conflict Minerals Reporting Template (EMRT)
+issued by the Responsible Minerals Initiative (RMI). In 2024, investigations of suppliers showed
+100% compliance, with all used metal minerals listed on the approved smelter list. In 2025,
+we will continue to perform due diligence and require suppliers to regularly update their
+investigation information. If any non-compliant smelters are identified, we will strictly monitor the
+suppliers' corrective actions and ensure that they switch to compliant smelters.
+
+5.2 Customer Service
+73
+July 2025
+Partners for Common Prosperity
+ASIX places long-term collaboration at the core of its customer
+relationship management policy, working closely with supply
+chain partners—including foundries, design service providers,
+and packaging and testing houses—to ensure stable chip supply,
+high quality, and competitive pricing.
+The company is committed to building lasting relationships with
+key customers by delivering high-performance, cost-effective chip
+solutions along with prompt and professional technical support to
+meet customer needs efficiently.
+To enhance customer service, ASIX has implemented a feedback
+tracking system for technical issues, ensuring that its sales,
+support, and R&D teams can respond in real time to customer
+input. Weekly cross-functional meetings are held to review and
+resolve
+issues,
+significantly
+improving
+the
+effectiveness
+of
+technical
+support.
+According
+to
+ASIX’s
+2024
+customer
+satisfaction survey, overall customer satisfaction exceeded
+90%.
+ASIX’s market channel strategy targets Taiwan, Mainland China,
+Europe, the Americas, and Japan. Centered on customer value,
+the company continues to expand its market competitiveness
+through innovative product technologies and timely technical
+support that earn customer trust.
+Leveraging 
+MediaTek
+Group's brand 
+and resources
+Reorganizing the 
+global supply 
+chain and 
+expanding into 
+the New 
+Southbound 
+market
+Expanding into 
+the new industrial 
+Ethernet chip 
+market
+Cultivate long-
+term cooperative 
+relationships with 
+key customers
+
+74
+July 2025
+Partners for Common Prosperity
+ASIX is driven by customer needs, delivering high-value, competitively priced products
+through a stable supply chain, innovative technologies, and professional services. The
+company has established a customer feedback system that enables the sales, technical
+support, and R&D teams to promptly capture and respond to customer needs, ensuring
+consistent service quality. Annual customer satisfaction surveys are conducted, covering
+areas such as service performance, delivery lead time, product quality, and environmental
+practices. ASIX continuously refines its technical support processes to enhance customer
+satisfaction and strengthen long-term partnerships.
+Customer Relationship Management Strategy
+Customer Needs
+Sales customer visits
+Distributor local visits
+FAE technical support
+Email
+Online technical 
+support form
+ASIX forum/community 
+platform
+Customer 
+Satisfaction
+Propose optimal solutions
+Meet customer product needs
+Weekly sales/FAE 
+regular meetings
+Customer technical issue 
+feedback tracking system
+Report to the R&D team
+Customer feedback
+Customer Service
+Dedicated sales/distributors 
+Service window
+Dedicated FAE technical 
+support
+Service window
+Complete development 
+kits/technical documentation
+Professional R&D team 
+Engineering technical support
+Protection of customer 
+confidential information
+Annual customer 
+satisfaction survey
+
+75
+July 2025
+Partners for Common Prosperity
+ASIX conducts annual customer satisfaction surveys covering key areas such as service
+quality, delivery lead time, product quality, and environmental initiatives to assess how well
+customer needs are being met and to continuously enhance its services. The insights
+gathered are used to improve technical support, supply chain management, and product
+development, ensuring the delivery of high-quality and competitive solutions.
+In addition, the company actively responds to customer feedback by optimizing delivery
+schedules
+and
+environmental
+measures,
+thereby
+improving
+overall
+satisfaction
+and
+strengthening long-term partnerships.
+According to the 2024 survey responses, ASIX achieved an average customer
+satisfaction score of 4.75 out of 5 points. No complaints regarding breaches of
+customer privacy were reported during the year.
+Customer Satisfaction Survey
+Service Quality
+Delivery Lead Time
+Product Quality
+Environmental Initiatives
+Total
+Score
+Average 
+(Out of 5 
+Points)
+Sales 
+Service 
+Attitude
+Instant 
+FAE 
+Service
+Effective 
+FAE 
+Services
+Delivery 
+On Time
+Flexible
+Delivery 
+Date 
+Delivery 
+Date 
+Satisfactory
+Product 
+Quality
+Product 
+Delivery 
+Quality
+RMA/
+Customer 
+Complaint 
+Handling
+QA 
+Support
+Environmentally 
+Friendly 
+Operation 
+Indeed
+Compliance 
+with 
+International 
+Regulations
+Environmental 
+Protection 
+Operations 
+Satisfactory
+4.78 
+4.74 
+4.65 
+4.78 
+4.83 
+4.78 
+4.83 
+4.83 
+4.78 
+4.78 
+4.65 
+4.65 
+4.70 
+61.78 
+4.75 
+
+Friendly Workplace
+6.1 Salaries and Benefits
+6.2 Talent Layout, Cultivation and 
+Development
+6.3 Human Rights and Labor-
+Management Communication
+6.4 Health and Safety in the 
+Workplace
+
+6.1 Salaries and Benefits
+77
+July 2025
+Friendly Workplace
+Compensation System
+ASIX plans comprehensive performance evaluations annually to serve as the basis for promotions and salary
+adjustments. According to the Company's Bylaws, 10% to 25% of the pre-tax net profit was allocated for employee
+compensation, sharing business results with all employees to provide an incentive-based compensation system.
+Employee salaries standards do not differ based on race, gender, age, or other factors.
+Please refer to Page 15 of the Annual Report for the remuneration policy of the highest governance unit and senior
+management.
+In 2025, the Taiwan Stock Exchange announced the 2024 average and median salaries of full-time employees in non-
+supervisory positions for listed companies. ASIX reported amounts of 1,591 thousand NTD and 1,399 thousand
+NTD, respectively. Overall, the company's employee compensation has ranked well within the semiconductor
+industry in recent years.
+Salary and benefits information categories
+2023
+2024
+Difference
+Employee benefits expenses
+169,048 
+167,927 
+-1,121 
+Total salaries of full-time employees not holding supervisory positions
+98,558 
+101,797 
+3,239 
+Average salaries of full-time employees not holding supervisory positions
+1,590 
+1,591
+1 
+Median salaries of full-time employees not holding supervisory positions
+1,392 
+1,399 
+7 
+*Due to the decrease in revenue in 2023, employee remuneration provisions would decrease, resulting in a decrease in wages and benefits.
+Unit：NT$1,000
+
+78
+July 2025
+Friendly Workplace
+Employee Welfare Measures
+➢Gifts and condolences for major holidays, Labor Day, birthdays, weddings, and childbirth.
+➢Tea time break / birthday parties, club activities, regular and occasional gatherings, year-end parties,
+employee raffles, and discounts at partner stores.
+➢Regular health check-up subsidies, labor and health insurance, and group insurance for all employees.
+➢Domestic and international employee travel.
+➢Regular subscriptions to various books, magazines, and newspapers; guaranteed parking spaces for all
+employees.
+➢Flexible work hours, family care leave, parental leave when necessary, and subsidies for further education
+
+79
+July 2025
+Friendly Workplace
+Items
+2023
+2024
+Gifts for employees
+305,000 
+521,736 
+Weddings and funerals/emergency relief funds 
+and birthday celebrations for employees
+78,400 
+71,100 
+Year-End party expenses*
+1,566,823 
+1,716,910 
+Travel subsidy for employees
+753,813 
+853,709 
+Team building expenses
+626,905 
+-
+Total
+3,330,941 
+3,163,455 
+
+80
+July 2025
+Friendly Workplace
+Retirement System and Implementation
+ASIX has established an employee retirement plan in accordance with labor standards laws
+and labor retirement regulations. The application, payment standards, and payment methods
+for pensions are handled in accordance with the Labor Standards Act. The old pension system,
+processed under the Labor Standards Act, was fully settled and paid off between 2017 and
+2020 to 2024.
+Additionally, since July 2005, the company has been consulting employees and contributing
+pensions to employee retirement accounts according to the Labor Pension Act. All matters
+related to employee retirement are handled in compliance with relevant regulations.
+
+6.2 Talent Layout, Cultivation and 
+Development
+81
+July 2025
+Friendly Workplace
+Talent Deployment
+In 2024, ASIX had 77 employees, all of whom were full-time personnel. To strengthen its
+R&D and management capabilities, the company has always regarded a robust human
+resources layout and structure as the cornerstone of advancing R&D technology and the
+principle of generational management, with a particular emphasis on the quality of its
+workforce. The company appropriately employs local personnel to enhance community
+recognition. Regarding workplace distribution, 92% of employees are located at the
+company's operation base in Hsinchu, while the remaining 8% are overseas employees
+mainly providing business and technical support.
+2024 ASIX Employee Information:
+Employment 
+contract
+Employment 
+type
+Male
+Female
+Total
+Regular staff
+Full time
+63
+14
+77
+Part time
+0
+0
+0
+Sub-total
+63
+14
+77
+Temporary 
+personnel
+Full time
+0
+0
+0
+Part time
+1
+0
+1
+Sub-total
+1
+0
+1
+Male
+82%
+Female
+18%
+Regular 
+Staff
+99%
+Temporary 
+Personnel
+1%
+
+82
+July 2025
+Friendly Workplace
+Master
+40%
+Bachelor
+52%
+Specialist
+4%
+High School
+4%
+Educational 
+Distribution
+< 3 years
+20%
+3-6 Years
+14%
+6-10 Years
+14%
+> 10 Years
+52%
+Professional 
+Experience
+< 30 Years Old
+22%
+30-50 Years 
+Old
+58%
+> 51 Years Old
+20%
+Age 
+Distribution
+男性
+78%
+女性
+22%
+主管性別
+比例
+R&D
+44%
+Engineering 
+and 
+Technology
+19%
+Administrative 
+Support and 
+Management
+16%
+Marketing & 
+Business
+14%
+Production 
+Materials
+7%
+Job Ratio
+2024
+Employee Analysis 
+Situation
+
+83
+July 2025
+Friendly Workplace
+Talent Cultivation and Development
+ASIX provides comprehensive employee training programs,
+with well-planned pre-job training, on-the-job training, and
+further education tailored for each type of job function. In line
+with
+the
+company's
+operational
+goals
+and
+the
+career
+development plans of its employees, the company aims to
+cultivate various professional and managerial talents needed
+for the future organization. Employees were encouraged to
+pursue further education and enhance their foreign language
+skills, with subsidies provided. Additionally, diverse learning
+methods are offered, including internal and external physical
+and digital materials and courses, giving employees more
+opportunities for learning.
+Training Situation in 2024:
+Items
+Number of 
+Sessions
+Total 
+Participants
+Total 
+Hours
+New Employee Training
+0
+0
+0
+Professional Skills Training
+30
+41
+189
+Managerial Skills training
+2
+15
+45
+General training
+4
+11
+30
+Total
+36
+67
+264
+*No new employee in 2024, and each employee receives 3.5 hours of 
+training on average
+
+6.3 Human Rights and Labor-Management 
+Communication
+84
+July 2025
+Friendly Workplace
+Human Rights Management and Key Issues
+The core principles of equality, non-discrimination, and international human rights law were indispensable elements of
+corporate social responsibility. To align with global standards and ensure human rights protection, ASIX has adopted
+various international human rights conventions to formulate its human rights policies. These policies include promoting
+anti-discrimination and equality, protecting privacy rights, preventing forced labor and managing working hours, prohibiting
+child labor, and assisting employees in maintaining their physical and mental health as well as work-life balance.
+Item for Human Rights
+Targets
+Specific Practices
+Anti-Discrimination and 
+Advocacy for Equality
+Employees/
+Suppliers
+*Eliminate discrimination in externally published job vacancy information to ensure equal employment opportunities.
+*Comply with labor laws and regulations set by the government and competent authorities, and implement relevant norms and policies.
+*Strengthen internal promotion and adherence to international human rights conventions, such as the right to work and gender equality, and 
+prohibit discrimination.
+*Hiring units only provide selection criteria (without requirements on race or gender) and do not discriminate against applicants.
+Privacy Protection
+All Stakeholders
+*Implement security protection measures for the collection, processing, and management of stakeholders' personal data, such as access control, 
+theft prevention, and leakage prevention.
+*Conduct regular information security education and awareness programs.
+*Restrict access to personal resume-related data (files).
+*Set access permissions for the employee personal database (system).
+Prevention of Forced 
+Labor and Working Hours 
+Management
+Employees/
+Suppliers
+*Comply with labor laws and regulations set by the government and relevant authorities. If overtime is required, obtain consent from the employees 
+and relevant unit supervisors, and apply for overtime or compensatory leave according to the law to ensure that employees are not forced to work.
+*Regularly review the employee attendance system and send notifications to remind supervisors to be aware of employees' working conditions, 
+managing abnormal working hours.
+*Require suppliers not to violate labor laws and regulations set by the government and relevant authorities.
+Prohibition of Child Labor
+Employees
+Ascent Electronics only accepts applicants aged 18 and above for interviews. After hiring, the company verifies the employees to ensure that no 
+child labor is employed.
+Supporting Employees in 
+Maintaining Physical and 
+Mental Health and Work-
+Life Balance
+Employees
+*Encourage employees to participate in club activities to increase interpersonal interactions.
+*Organize domestic and international travel, team-building activities, and family day events to promote work-life balance.
+*Implement monthly on-site occupational health services and annual on-site occupational medical services.
+
+85
+July 2025
+Friendly Workplace
+Labor-Management Communication
+Harmonious labor-management relations are ASIX's most important asset. The company
+creates a harmonious work environment by providing employees with opportunities for
+continuous learning, a safe and enjoyable workplace, meaningful work, and excellent
+compensation and benefits. In addition to informal communication channels, ASIX has
+established diverse formal communication methods, enabling employees to fully express their
+opinions and receive prompt responses from relevant departments. Together, they work to
+create a better work environment. Since its establishment, the company has not experienced
+any major labor disputes.
+Communication 
+Channels
+Email
+Labor-Management 
+Meetings
+Employee Welfare 
+Committee
+Complaints or Reports
+Issues
+Company-related 
+Opinions
+Labor Relations and 
+Working Conditions
+Employee Welfare
+Dishonest Business 
+Practices
+Frequency
+Anytime
+Quarterly
+Quarterly
+Anytime
+Number of Instances 
+in 2023
+71
+6
+6
+0
+Number of Instances 
+in 2024
+80
+6
+6
+0
+
+6.4 Health and Safety in the Workplace
+86
+July 2025
+Friendly Workplace
+Healthy Workplace Environment
+ASIX provides fitness equipment and space for employees to exercise, regularly organizing
+various activities (such as birthday parties, dinners, domestic and international trips, year-end
+parties, road runs, and team-building events) to encourage employees to stay active and healthy.
+The company arranges for contracted medical units to offer monthly one-on-one professional
+consultations on-site, and employees are entitled to health check leave and health check subsidies.
+The medical units to offer one-on-one 
+professional consultations on-site
+Department Dinner
+Mid-Autumn Festival 
+Barbecue
+
+87
+July 2025
+Friendly Workplace
+Foreign travel
+Year-End party
+Camping
+Marathon run
+Domestic travel
+
+88
+July 2025
+Friendly Workplace
+Safe Working Environment
+(1) Maintenance and Inspection of Equipment:
+a.
+According to the Labor Safety and Health Regulations, CO2 concentration and other work environment tests
+must be conducted every six months by qualified contractors. In 2024, these tests were completed in April and
+October, with a detected value of 653 ppm, complying with the regulation of being below 5,000 ppm.
+b.
+In compliance with fire safety regulations, a certified fire safety inspection company was commissioned on
+May 24, 2024, for a fire safety inspection, and the results were reported to the competent authority on May 26.
+c.
+A qualified electrical consulting firm was commissioned in January and July 2024 to conduct high and low
+voltage power system inspections. The results met the regulations, and the relevant data was communicated
+to Taiwan Power Company ( Taiwan Power Company ).
+d.
+The building management committee has engaged a qualified contractor to perform monthly elevator
+maintenance, ensuring safe and normal use at all times.
+(2) Insurance：
+a.
+In January 2024, the renewal process for free group accident insurance, medical insurance, occupational
+injury insurance, and major medical insurance for employees was completed.
+b.
+In October 2024, the renewal of commercial fire insurance and public area liability insurance for the office
+premises was completed. Property and inventory insurance was also renewed to ensure the safety of the
+company and its employees.
+
+Appendix – GRI Index
+89
+July 2025
+Appendix
+GRI 2 General Disclosures 2021
+GRI Universal 
+Standards Declaration
+Following the GRI standards, the 2023 sustainability report was 
+published, covering the period from January 1, 2023 to December 
+31, 2023.
+GRI1 Version Used
+GRI1: Foundation 2021
+GRI Industry Standards 
+Application
+Not applicable
+Material 
+Topic
+GRI Standards Indicator
+Corresponding Chapter/ 
+Explanation
+Omit 
+Explanation
+Pages
+Organization and Reporting Practices
+2-1
+Organizational details
+Preface- About this report
+3
+2-2
+Entities included in the 
+organization's sustainability 
+reporting
+Preface- About this report
+3
+2-3
+Reorting period, frequency 
+and contact point
+Preface- About this report
+3
+2-4
+Restatements of information
+Not applicable
+2-5
+External assurance
+Preface- About this report
+4
+2-6
+Activities, value chain and 
+other business relationships
+Preface-About ASIX
+5.1 Supply chain 
+management
+12
+58
+2-7
+Employees
+6.2 Talent layout, cultivation 
+and development
+81
+2-8
+Workers who are not 
+employees
+6.2 Talent layout, cultivation 
+and development
+81
+Material 
+Topic
+GRI Standards Indicator
+Corresponding 
+Chapter/ Explanation
+Omit 
+Explanation
+Pages
+Governance
+2-9
+Governance structure and 
+composition
+1.1 Management Level
+17
+2-10
+Nomination and selection of the 
+highest governance body
+1.1 Management Level
+17
+2-11
+Chair of the highest governance 
+body
+1.1 Management Level
+17
+2-12
+Role of the highest governance 
+body in overselling the 
+management of impacts
+1.1 Management Level
+17
+2-13
+Delegation of responsibility for 
+managing impacts
+1.1 Management Level
+17
+2-14
+Role of the hightst governance 
+body in sustainability reporting
+1.1 Management Level
+17
+2-15
+Conflicts of interest
+1.3 Integrity and Legal 
+compliance
+25
+2-16
+Communications of critical 
+concerns
+1.1 Management Level
+17
+2-17
+collective knowledge of the 
+highest governance body
+1.1 Management Level
+19
+2-18
+Evaluation of the performance of 
+the highest governance body
+1.1 Management Level
+19
+2-19
+Remuneration policies
+1.1 Management Level
+19
+2-20
+Process to determine 
+remuneration
+1.1 Management Level
+19
+2-21
+Annual total compensation ratio
+Salary information 
+was confidential to 
+ASIX and therefore 
+not disclosed
+
+90
+July 2025
+Appendix
+GRI 3 重大主題 2021
+Material Topic
+GRI Standards Indicator
+Corresponding Chapter/ 
+Explanation
+Pages
+Economic 
+Performance
+201-1 Direct economic value generated and 
+distributed
+1.2 Business Performance
+21
+201-3 Defined benefit plan obligations and 
+other retirement plans
+6.1 Salaries and Benefits
+80
+Talent 
+attraction and 
+development
+401-1 New employee hires and employee 
+turnover
+6.1 Salaries and Benefits
+77
+401-2
+Benefits provided to full-time 
+employees that are not provided to 
+temporary or part-time employees
+6.1 Salaries and Benefits
+77
+404-1 Average hours of training per year per 
+employee
+6.2 Talent layout, cultivation 
+and development
+81
+Salary and 
+benefits
+202-1
+Rations of standard entry level wage by 
+gender compared to local minimum 
+wage
+6.1 Salaries and Benefits
+77
+Corporate 
+governance 
+and legal 
+compliance
+205-1 Operations assessed for risks related to 
+corruption
+1.3 Integrity and Legal 
+compliance
+25
+205-2 Communication and training about anti-
+corruption policies and procedures
+1.3 Integrity and Legal 
+compliance
+25
+205-3 Confirmed incidents of corruption and 
+actions taken
+1.3 Integrity and Legal 
+compliance
+25
+Talent 
+development
+401-1 New employee hires and employee 
+turnover
+6.2 Talent layout, cultivation 
+and development
+81
+404-1 Average hours of training per year per 
+employee
+6.2 Talent layout, cultivation 
+and development
+83
+Information 
+security and 
+privacy 
+protection
+418-1
+Substantiated complaints concerning 
+breaches of customer privacy and 
+losses of customer data
+1.5 Information Security 
+Policy and Management
+6.3 Human Rights and 
+Labor-Management 
+Communication
+29
+84
+Risk 
+management
+3-1
+Process to determine material topics
+Preface- About ASIX
+1.4 Risk and Management 
+14
+26
+3-2
+List of material topics
+Preface- About ASIX
+1.4 Risk and Management 
+14
+26
+3-3
+Manage of material topics
+Preface- About ASIX
+1.4 Risk and Management 
+14
+26
+Material 
+Topic
+GRI Standards 
+Indicator
+Corresponding 
+Chapter/ Explanation
+Pages
+3-1
+Process to determine 
+material topics
+Preface- About ASIX
+14
+3-2
+List of material topics
+Preface- About ASIX
+14
+3-3
+Manage of material 
+topics
+Preface- About ASIX
+14
+GRI Standard Disclosure: Material Topics
+Material 
+Topic
+GRI Standards Indicator
+Corresponding 
+Chapter
+Omit 
+Explanation
+Pages
+Strategy, Policies and Practices
+2-22
+Statement on sustainable 
+development strategy
+Preface- Message from 
+the Management
+5
+2-23
+Policy Commitments
+1.3 Integrity and Legal 
+compliance
+6.3 Human Rights and 
+Labor-Management 
+Communication
+25
+84
+2-24
+Embedding policy commitments
+1.3 Integrity and Legal 
+compliance
+6.4 Health and Safety in 
+the Workplace
+25
+86
+2-25
+Process to remediate negative 
+impacts
+Preface- Message from 
+the Management
+1.3 Integrity and Legal 
+compliance
+5
+25
+2-26
+Mechanisms for seeking advice and 
+raising concerns
+Preface- About this report
+3
+2-27
+Compliance with laws and 
+regulations
+1.3 Integrity and Legal 
+compliance
+25
+2-28
+Membership associalions
+Preface- About ASIX
+7
+Stakeholder Engagement
+2-29
+Approach to stakeholder 
+engagement
+Preface-About ASIX
+12
+2-30
+Collective bargaining agreements
+ASIX does not have a labor union （Since the
+company was small, there was no need to establish a
+trade union.）
+GRI 3 Material Topics 2021
+
+91
+July 2025
+Appendix
+Material Topic
+GRI Standards Indicator
+Corresponding Chapter/ 
+Explanation
+Pages
+R&D and 
+innovation
+3-1
+Process to determine material topics
+Preface- About ASIX
+2.1 Innovating and R&D
+14
+34
+3-2
+List of material topics
+Preface- About ASIX
+2.1 Innovating and R&D
+14
+34
+3-3
+Manage of material topics
+Preface- About ASIX
+2.1 Innovating and R&D
+14
+34
+Ethics and 
+integrity
+205-1 Operations assessed for risks related to 
+corruption
+1.3 Integrity and Legal 
+compliance
+25
+205-2 Communication and training about anti-
+corruption policies and procedures
+1.3 Integrity and Legal 
+compliance
+25
+205-3 Confirmed incidents of corruption and 
+actions taken
+1.3 Integrity and Legal 
+compliance
+25
+GRI Standard Disclosure: Voluntary Disclosure Topics
+GRI Standards Indicator
+Corresponding Chapter/ 
+Explanation
+Pages
+306-1
+Waste generation and significant waste-
+related impacts
+3.2 Energy use and 
+Greenhouse gas inventory
+44
+306-2
+Management of significant waste-related 
+impacts
+3.2 Energy use and 
+Greenhouse gas inventory
+44
+306-4
+Waste diverted from disposal
+3.2 Energy use and 
+Greenhouse gas inventory
+44
+403-1
+Occupational health and safety 
+management system
+6.4 Health and Safety in the 
+Workplace
+88
+403-2
+Hazard identification, risk assessment, and 
+incident investigation
+1.4 Risk and Management 
+6.4 Health and Safety in the 
+Workplace
+26
+88
+403-3
+Occupational health services
+6.4 Health and Safety in the 
+Workplace
+86
+403-4
+Worker participation, consultation, and 
+communication on occupational health and 
+safety
+6.4 Health and Safety in the 
+Workplace
+88
+403-5
+Worker training on occupational health and 
+safety
+6.4 Health and Safety in the 
+Workplace
+88
+403-6
+Promotion of worker health
+6.4 Health and Safety in the 
+Workplace
+86
+403-7
+Prevention and mitigation of occupational 
+health and safety impacts directly linked by 
+business relationships
+6.4 Health and Safety in the 
+Workplace
+86
+403-8
+Workers covered by and occupational health 
+and safety management system
+6.4 Health and Safety in the 
+Workplace
+86
+※For sustainability and climate-related issues that must be disclosed in
+accordance with Article 4-1, Paragraph 1 of the Sustainability Reporting
+Regulations: Please refer to Pages 22-23 of the annual report.
+
+ASIX Electronics Corporation
+4F, No. 8, Hsin Ann Rd. Hsinchu Science Park, Hsinchu 30078, Taiwan
+TEL: +886-3-5799500
+https://www.asix.com.tw
+sales@asix.com.tw

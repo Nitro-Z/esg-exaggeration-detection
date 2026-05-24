@@ -1,0 +1,5495 @@
+ESG Report
+Wisdom
+Marine Group
+2021
+
+2 0 2 1
+Wisdom Marine Group
+ESG Report
+
+In order to realize its corporate social responsibilities and promote its competitive advantages based 
+on sustainable development, Wisdom Marine Lines Co., Ltd. ( hereinafter referred to as “ Wisdom 
+Marine” or the “Company”) has compiled this “ESG Report” (hereinafter referred to as the “Report”), 
+which discloses the Company’s strategies, achievements, and future objectives concerning corporate 
+governance, as well as the economy, environment, and society.
+Editorial Principles
+This report is prepared in accordance with the core option of the GRI Standards issued by the Global 
+Reporting Initiative (GRI), the Report discloses information according to the Marine Transportation 
+Standards 2018 issued by the Sustainability Accounting Standards Board (SASB), and provides an 
+index of indicators for review.
+Reporting Period and Circulation Cycle
+The 2021 ESG Report was published in June 2022 and the disclosure period is between 1 January 2021 
+and 31 December 2021. The Company’s ESG report is issued annually. The publication date of the 2020 
+annual report was June 2021, and that of the 2022 annual report is expected to be June 2023.
+Reporting Scope
+The financial and non-financial information in the Report concerns the group as a whole and includes 
+the subsidiaries of Wisdom Marine Lines (see Chapter 1.1 Company Overview).
+Information and Data Quality Management
+All information and data in the Report have been compiled and checked by the ESG members of each of 
+the Company’s departments, reviewed and approved by the ESG Committee to ensure the correctness 
+of the disclosed information, and reported to the Board of Directors (the Board) on a regular basis. The 
+financial data in the Report are based on the consolidated financial report issued by Ernst & Young 
+Taiwan, and are expressed in the United States Dollar, unless otherwise specified.
+Contact
+Administration Department
+Address / Room 711, 7th Floor, No. 237, Fu-Hsing South Road Sec. 2, Taipei, Taiwan
+Tel / (02) 2755-2637
+Email / ir@wisdomlines.com.tw
+Website / http://www.wisdomlines.com.tw/
+About this Report
+C o n t e n t s
+About this Report
+03
+Message from the Chairman
+04
+1  About Wisdom
+1.1 Company Profile
+1.2 Governance Structure
+1.3 Sustainable Business Policies
+ 
+and Philosophies
+1.4 Economic Performance
+1.5 Disclosure of Climate-related
+ 
+Financial Information
+06
+2  Risk Management and 
+ Stakeholder Engagement
+2.1 Risk Assessment and Control 
+2.2 Stakeholders Engagement 
+2.3 Material Topics
+2.4 Participation in External Organizations 
+22
+3  Shipping Management
+3.1 Supply Chain Management 
+3.2 Maritime Safety
+3.3 Transport Quality
+3.4 Investment in Eco Ships 
+44
+4 Marine Environment
+ Sustainability
+4.1 Energy
+4.2 Emissions
+4.3 Environmental Impact
+ 
+of the Transport Process
+4.4 Compliance with Environmental Laws
+ 
+and Regulations
+59
+5 Talent Development
+5.1 Management of Shore-based Staff
+5.2 Seafarer Management
+72
+SASB Content Index
+GRI Content Index
+87
+About this Report
+03
+
+Message from Chairman
+I. External Operating Environment
+2021 was a fruitful year for bulk shipping. As the COVID-19 pandemic gradually stabilizes, governments 
+worldwide encouraged consumption and investment to stimulate their economy, driving up the demand 
+for dry bulk vessels. However, port quarantine and closure, as well as delayed seafarer arrangements 
+under the pandemic still affected the ship turnover and logistics operations, further causing supply and 
+demand imbalances in the already strained ship transport industry. Since it takes a long time to build a 
+new ship, it is still difficult to rapidly increase the supply in shipping capacity in the short and medium 
+terms. Therefore, the freight rates for dry bulk carriers of different type also gradually increases along 
+with gradually rising investment and consumption in various countries. In October 2021, the BDI once 
+surpassed 5,500 points, its highest level since 2008.
+The imbalance between the supply and demand of dry bulk vessels has been exacerbated by the downturn
+caused by the COVID-19 pandemic in 2020, as well as the years-long market downturn and dampened 
+investor confidence. In recent years, the new environmental laws and regulations have also increased 
+the newbuilding costs and uncertainties. In 2021, while high freight rates in the dry bulk shipping market 
+offered more attractive incentives for investors, container shipowners invested more in building ships, 
+which had higher unit prices. Most builders’ still see container carriers and LPG ships making up the bulk 
+of their new orders at present., and growth in dry bulk ship orders is limited. Environmental initiatives, which 
+continue to be driven by global warming, also cast uncertainty in future investment directions.
+The shipping industry has been facing more and more environmental regulatory requirements on ballast 
+water and the emissions of nitrogen oxides and sulfur, etc. in recent years. Currently, the environmental 
+protection and energy-saving standards of newbuilding have improved considerably from the past. At a 
+time when the issue of global warming is becoming increasingly pressing, the following major issue 
+that affects the shipping industry is carbon emissions. Uncertainties surrounding the forthcoming
+implementation from 2023 of the Energy Efficiency Existing Ship Index (EEXI) and the Carbon Intensity 
+Index (CII) are looming with regard to the division of responsibilities and response strategies in the 
+industry chain, which is likely to subsequently impact the supply side, such as vessel speed reduction. 
+The pace of global carbon reduction has not slowed down. Currently, there are still initiatives such as the 
+2050 net-zero emissions, the EU carbon tax, and the fuel carbon tax, which all have supporters. In addition
+to enhancing its energy-saving equipment, the shipping industry must also consider the possibility of 
+alternative fuels in order to potentially achieve the goal of zero carbon emissions. However, the use of 
+alternative energy sources such as LNG is subject to vessel design. At a time when the future standards 
+remain unclear, there is also significant uncertainty about the direction of investment in newbuilding, and 
+the willingness to invest in newbuildings is also repressed to a certain extent. At the end of 2021, the 
+number of newbuilding orders only amounted to only 6.5% of the total orders, while bulk carriers older 
+than 20 years already accounted for 10.1% of the total number of bulk carriers. The supply shortfall was 
+actually the highest in recent years. It may be difficult to alleviate the underlying situation of a supply 
+shortfall for dry bulk vessels in the short term.
+II. Operating Results in 2021
+In 2021, the Company had a total of 7 newbuilding, sold 10 vessels, and added 1 management vessel. 
+The Company’s operating fleet underwent a net annual decrease of 2 vessels, and the total number at 
+the end of the year was 134. The 7 newbuilding included 2 Kamsarmax, 1 Supramax, 3 Handysize, and 
+1 LPG carrier. The sold vessels were mostly small and older Handysize, except for 1 Kamsarmax.
+In 2021, the bulk shipping market continued the upward trend in the second half of 2020. Slowly rising 
+BDI helped the Company renew a series of contracts and allowed our self-operated fleet to benefit as 
+well. The Company’s operating profit margin increased from an average of 28.0% in the first quarter to 
+52.0% on average in the fourth quarter. In 2021, due to greater market volatility, the Company’s operatin
+strategy was mainly to maintain flexibility. Apart from fixing longer and index-linked contracts with long 
+term clients, the Company kept the length of most fixed rate charters to one year or under. The Company’s
+revenue for the year amounted to USD 686.1 million, up 69.3% year on year, net operating profit was 
+USD 296.2 million, surging nearly sixfold from the previous year, and operating profit margin reached 
+43.2%, a record high.
+In terms of non-operating income and expenses, while it sold a total of 10 vessels, most were old and in 
+total US$2.36 million were recognized in losses. During the year, the charterer terminated the charter of 
+five vessels and paid compensation due to long-term operational considerations. The Company also 
+recognized impairment in consideration of long-term income prospects, with USD 28.9 million in the 
+related net non-operating income. With sufficient operating funds, the Company also reduced its liabilities
+at the same time. At the end of 2021, the Company’s asset-liability ratio reached 57.9%, down some 10% 
+year on year, and its total annual interest expense also declined by USD 10 million compared to the
+previous year. In 2021, the Company's net profit before tax amounted to USD 296.4 million, and its earnings
+per share of $11.09 were the highest since its listing.
+Operating Plans for 2022
+The Company expects to have 6 more newbuilding delivered in 2022, including 3 Kamsarmax and 3 
+Handysize, all of which are built by Japan’s premier shipyards, such as JMU, Tsuneishi, and Onomichi. 
+The upcoming vessels will include 3 eco-ships that comply with the Tier III NOx emission standards.
+The Company expects the market to remain stable in 2022, in which it will be
+able to continue with a more flexible chartering strategies and a combination
+of mainly shorter terms and index linked. If the difference between the long-
+term charters and the spot price narrows, the Company will also consider
+locking some long term fixed rate charters. Although there have been more
+activities on the second hand market, they still do not sufficiently reflect the
+recent freight levels, so if the selling prices of vessels are dis-satisfactory, the 
+Company will remain on continuing operations.
+Benefiting from an increase in its operating cash flow, the
+Company will continue to reduce its debt ratio; however,
+since most of its shipping loans are long-term liabilities, it 
+will still prioritize the repayment of its short-term liabilities.
+Aside from that, concerning the necessary equipment
+investments for carbon reduction and other environmental
+requirements after 2023, the Company is also discussing
+medium-term solutions with its long-term clients. This is so
+that the Company will further meet the challenges of the
+post-COVID-19 era by ensuring its long-term competitiveness
+in terms of financial and environmental compliance.
+ 
+Chairman
+Message from Chairman
+05
+04
+Message from Chairman
+Message from Chairman
+
+NT$7.5 billion
+(USD 240 million)
+NT$19.2 billion
+(USD 690 million)
+163 shore 
+seafarers,
+2,623 nautical 
+seafarers
+134 vessels 
+with 6.7 million 
+in total tonnage
+7 million
+nautical miles
+39.6
+million tons
+Capital
+Revenue
+Number of 
+employees
+Fleet size
+Sailing
+mileage
+Tonnage
+Cape
+110,000 or more 
+3
+Panamax
+67-109,999 
+29
+Supramax
+50-66,999 
+28
+Handysize*
+30-49,999 
+35
+Small Handy
+29,999 or less 
+35
+Other
+LPG carriers, RoRo ships, container ships,
+passenger ships, etc. 
+4
+Vessel type
+Deadweight tonnage (DWT)
+Number 
+of ships
+SDG 8 Dignified Work and Economic Growth
+Contributions and Highlights /
+● The Company’s net operating profit for 2021 amounted to USD 295.6 million,
+ and net profit was USD 295.1 million.
+1
+1.1 Company Profile |07
+1.2 Governance Structure |09
+1.3 Sustainable Business Policies
+ 
+ and Philosophies |13
+1.4 Economic Performance |16
+1.5 Disclosure of Climate-related
+ 
+Financial Information |19
+1.1 Company Profile
+Wisdom Marines Lines Co., Ltd. is the parent company of Wisdom Marine Group ( the Group ). The
+Company is mainly engaged in ship chartering and management, and mitigates market risks through a 
+diversified fleet and flexible operating model.
+At the end of 2021, the Company’s fleet consisted of 134 vessels with a total tonnage of 6.7 million. The 
+vessels were mainly bulk carriers ranging from Handysize to Capesize models, providing stable, safe, 
+and high-quality transportation services.
+*Reclassified 10 Handysize vessels (< 30,000 DWT) as Small Handy in 2021.
+Note: Up until the end of 2021.
+About Wisdom
+07
+1 About Wisdom
+
+1999
+2008
+2013
+2017
+2010
+2014
+2018
+Established Wisdom Marine Lines S.A. in Panama.
+Wisdom Marine Lines, a holding company, was established in the 
+British Cayman Islands.
+Wisdom Marine Lines was listed on the Taiwan Stock Exchange.
+The global depository receipts issued by Wisdom Marine Lines 
+were listed on the Main Board of the London Stock Exchange.
+Wisdom Marine Lines’ fleet size reached 100.
+Wisdom Marine Lines’ first corporate social responsibility (CSR)
+report was published (2016 annual report).
+Wisdom Marine Lines was ranked the top 5% in “Corporate
+Governance Evaluation” by the Taiwan Stock Exchange.
+Major events
+1.2.1 Board of Directors
+The Company’s fleet sails to ports across the world, with a total of 7.0 million nautical miles and 3,554 
+port visits in 2021. Among them were 15 port stops in the last 20 countries in the Corruption Perceptions 
+Index (CPI) ranking, with no legal actions or financial losses caused by bribery or corruption. In 2021, the 
+Company’s fleet carried a total of 39.6 million tons of grain, coal, iron ore, log, steel, cement, fertilizer, and 
+other dry bulk goods, mainly including about 8.8 million tons of grain and about 7.9 million tons of coal.
+The Company’s top management in corporate governance and operation strategy is the Board of Directors
+(the Board), which has nine members, including 5 independent directors (accounting for 55.56%) and 2 
+female members (composing 22.22%). The board members have professional knowledge and diversified
+backgrounds. For details, please refer to p.11 of the Company’s 2021 annual report. The Shareholders’ 
+Meeting was completely re-elected on May 21, 2021, and held a total of 11 Board meeting in 2021. For 
+details, please refer to p.15 of the Company’s annual report for 2021.
+Wisdom Milestones
+1.2 Governance Structure
+Shareholders’ Meeting
+Remuneration Committee
+Nominating Committee
+Other functional
+committees and
+working groups
+Audit Committee
+Board of Directors
+Chairman
+President
+Chief Technology 
+Officer
+Supply Dept.
+ISM Dept.
+Administration
+Dept.
+Technical Dept.
+Seaman
+Affairs Dept.
+Business &
+Operation Dept.
+Finance Dept.
+Chief Operating 
+Officer
+Chief Financial 
+Officer
+Singapore Branch
+Auditing Office
+09
+08
+1 About Wisdom
+1 About Wisdom
+
+1.2.2 Functional Committees
+The Audit Committee is composed of five independent directors. In 2021, the committee held a total of 
+11 regular meetings. For details, please refer to p.19 of the Company’s annual report for 2021.
+The committee’s main duties are as follows:
+◆ Fair presentation of the Company’s financial reports.
+◆ Select and dismiss certified public accountants for the Company, and review their independence and
+ performance.
+◆ Effectively implement the Company’s internal control system.
+◆ Compliance with relevant laws and regulations by the Company.
+◆ Manage and control the Company’s existing or potential risks.
+In order to establish good corporate governance, the Company has formulated its corporate governance 
+codes and set up a corporate governance group to assist the Board in various operations.
+The Board’s main duties are as follows: 
+◆ Determine the Company’s operational and financial business strategy.
+◆ Audit the Company’s Internal control and operating results.
+◆ Approve the Company’s major transactions and investments.
+◆ Approve the Company’s important Human Resources arrangements.
+◆ Fundraising and legal compliance matters for the Company’s Taiwan listing.
+Audit Committee
+The Remuneration Committee comprises of five independent directors, who held a total of two meetings 
+in 2021. For details, please refer to p. 22 of the Company’s annual report for 2021.
+The committee’s main duties are as follows:
+◆ Establish and periodically review the directors’ and management’s annual and long-term performance
+ targets, as well as the Company’s remuneration policies, systems, standards, and structures.
+◆ Periodically assess the directors’ and management’s performance in relation to the Company’s objectives,
+ and determine the content and amounts of their individual remuneration packages.
+Remuneration Committee
+The Nomination Committee comprises of two directors and three independent directors, who held a 
+total of two meetings in 2021. For details, please refer to p. 23 of the Company’s annual report for 2021.
+The committee’s main duties are as follows:
+◆ Develop criteria for the background diversity and independence required of the Company’s Board 
+ members and senior management, such as their expertise, techniques, experience, and gender, as well
+ as seeking, reviewing, and nominating candidates for the Company’s Board and senior management.
+◆ Establish and develop organizational structures for the Company’s Board and various committees,
+ assess the performance of the Board, committees, directors, and senior managers, and assess the
+ independence of independent directors.
+◆ Establish and periodically review the further study plans of the Company’s directors, and succession
+ plans for the Company’s directors and senior managers.
+Nominating Committee
+In October 2017, the Company established the Corporate Social Responsibility Committee, which was 
+subsequently abolished on March 25, 2022 to abide by the law, and newly established the ESG Committee,
+for which the convenor was appointed by the Board and the members by the convenor to promote 
+sustainability of the environment, society and the Company’s corporate governance In 2021, the ESG 
+Committee held a total of one meeting; on October 29, 2021, the committee reported to the Board on the 
+committee’s operations and continuation; on December 10, 2021, the committee reported to the Board 
+on the committee’s progress in communication with stakeholders.
+The committee’s main duties are as follows:
+◆ Drive the implementation of the Company’s sustainability policy according to its operational strategy
+ formulated by the Board.
+◆ Draft and formulate concrete plans for the Company’s sustainable policy.
+◆ Check and continue the Company’s communication with stakeholders, as well as organizing information
+ on sustainable development trends.
+◆ Publish ESG reports for the Company and make disclosures as required by law.
+ESG Committee
+The Safety Management Committee is composed of a leader dispatched by the Board, and other members
+appointed by the leader. In 2021, the committee held a total of four meetings.
+The committee’s main duties are as follows:
+◆ Develop a safety management audit plan and track the implementation.
+◆ Review safety management audit results and vessel deficiencies.
+◆ Implement internal audits for the Company’s safety management, evaluate the energy efficiency of its
+ safety management system, and revise its safety management system.
+◆ Organize the latest information on safety management and related regulations.
+◆ Regularly report to the Board on the Company’s safety management-related issues.
+Safety Management Committee
+11
+10
+1 About Wisdom
+1 About Wisdom
+
+1.2.3 Business Ethics Policy
+The Convener will select suitable individuals for the business needs to form the Business Ethics Team. 
+The Company has established the Business Ethics Team, consisting of suitable personnel selected by 
+the Convener appointed by the Board of Directors. The Business Ethics Team is responsible for devising 
+the Ethical Management Policy and submit it to the board of directors for approval and ensuring the 
+ethical management policy is enforced. The business operations shall comply with the Policy, and 
+prevent employees from abusing of authority to obtain benefits in an improper way, resulting in damage 
+to the interests of the Company.
+Business shall be conducted with integrity and self-discipline and subject not 
+only to the laws and regulations. In the absence of specific guidelines, good 
+judgment shall be exercised to consider if the behaviors are aligned with basic 
+ethical principles and open to criticism, true to specific roles, and uphold the 
+company’s reputation.
+1. Offering and acceptance of bribes are prohibited.
+2. Political donations must comply with the law and subject to the approval of
+ the Board.
+3. Charitable donations must comply with the law and subject to the approval
+ of the Board.
+4. Acceptance of gifts, business entertainment, or any forms of gratitude must
+ be transparent and in line with normal social etiquette.
+5. Infringement of the trademarks, patents, copyrights, and other intellectual
+ property rights of the Company or others is prohibited.
+6. Business activities must comply with the law and follow “internal control
+ procedures” to assess counterparty risk.
+7. Efforts must be made to prevent business activities  prejudicing stakeholders’
+ interests. Identification of stakeholders should be done regularly and the
+ communication channels should be kept open.
+8. Conflicts of interest should be disclosed and avoided.
+9. Employees must follow the Work Rules to maintain the confidentiality of trade
+ secrets and sensitive business information.
+Code of 
+Conduct
+1. The Audit Committee shall oversee the effectiveness of the accounting system
+ and internal control system.
+2. The Remuneration Committee shall take directors and managers’ ethical
+ conducts into account when reviewing their performance and remunerations.
+3. Internal audits should follow the audit plans of the Internal Control Procedures.
+ Unethical behaviors shall be reported to the Board upon discovery.
+4. The Human Resources Section of the Administration Department shall
+ ensure the employees are fully aware of the Business Ethics Policy and sign
+ a statement of compliance. Training and awareness programs shall be
+ organized when required to help employees understand the policy.
+5. In accordance with the “whistle-blowing system” on the Company’s website,
+ internal and external personnel may submit a request for investigations. The
+ Auditing Office shall initiate an investigation and take necessary measures.
+6. External accountants and professionals shall be engaged to carry out an
+ audit when necessary.
+7. Disciplinary actions will be taken in accordance with the Work Rules against
+ Employees who violate this policy.
+Preventive
+measures 
+against
+misconduct
+The Company’s sustainability policy is centered on operational activities. It considers possible major 
+impacts in accordance with the risk management policy (see Section 2.1 for details), and considers 
+major issues that stakeholders focus on (see Section 2.2 for details). The Board shall formulate operational
+strategies that integrate sustainable development with the core business, and the shore and marine 
+personnel shall work together to execute shipping planning and management to ensure vessel safety 
+and operational stability, and reduce the environmental impact of the Company’s operations. The
+Sustainability Committee shall check the implementation and disclose any relevant results in the Report.
+1.3 Sustainable Business Policies
+ 
+and Philosophies
+13
+12
+1 About Wisdom
+1 About Wisdom
+
+The Company promotes sustainable development with the three main axes of “sustainable operations”, 
+“shipping management” and “environmental protection”, and links with the United Nations' Sustainable 
+Development Goals (SDGs) to promote the Company’s competitive advantages based on sustainable 
+development.
+Sustainable Operation
+Shipping Management
+Environmental Protection
+Economic
+Performance
+Employment
+Maritime Safety
+Transport Quality
+Investment
+in Eco Ships
+Energy
+Emissions
+Environmental 
+Impact During 
+Transportation
+Environmental 
+Compliance
+In the fluctuating 
+bulk shipping 
+climate, a robust 
+operating model
+is used to create 
+long-term value for 
+shareholders.
+Create a
+harmonious
+working
+environment
+compliant with
+the law, so that 
+employees can 
+work with peace of 
+mind under the 
+Company’s 
+support.
+To enhance the 
+safety awareness 
+of the Company’s 
+employees,
+in order to reduce 
+the risk of incidents
+and achieve the 
+safety of ships, 
+personnel, cargo, 
+and the
+environment.
+To optimize routes 
+and transit
+times to ensure 
+that the quality 
+and quantity of 
+cargo are not
+compromised.
+Comply with 
+international 
+environmental 
+regulations and 
+actively adopt 
+new designs and 
+energy-saving
+and eco-friendly 
+equipment to 
+create a
+industry-leading 
+green fleet.
+To improve the Company’s energy 
+efficiency to enhance its fleet
+competitiveness and reduce the 
+emissions of greenhouse gas (GHG) 
+and other pollutants, as well as 
+environmental impacts.
+Combat marine 
+pollution, protect 
+the marine 
+environment, and 
+reduce the 
+impact on the
+environment
+during
+transportation.
+Violations of 
+environmental 
+laws and
+regulations may 
+result in high 
+fines and
+nterruption of
+ship operations, 
+resulting in 
+economic losses 
+and damage to 
+the Company’s
+corporate image.
+1.4
+Section
+for details
+GRI Index
+Corrsponding
+SDGs
+Significance
+Material 
+Topic
+Three
+Major Axes
+5
+3.2
+3.3
+3.4
+4.1
+4.2
+4.3
+4.4
+201-1
+401-1~3
+⸺
+⸺
+⸺
+302-1~3
+307-1
+305-1~4
+305-6~7
+⸺
+1 About Wisdom
+15
+14
+1 About Wisdom
+1 About Wisdom
+
+1.4 Economic Performance
+1.4.2 Operational Overview
+In 2021, the bulk shipping market continued the upward trend in the second half of 2020. Slowly rising 
+BDI helped the Company renew a series of contracts and allowed our self-operated fleet to benefit as 
+well. The Company’s operating profit margin increased from an average of 28.0% in the first quarter to 
+52.0% on average in the fourth quarter. In 2021, due to greater market volatility, the Company’s operating 
+strategy was mainly to maintain flexibility. Apart from fixing longer and index-linked contracts with 
+long-term clients, the Company kept the length of most fixed rate charters to one year or under. The 
+Company’s revenue for the year amounted to USD 686.1 million, up 69.3% year on year, net operating 
+profit was USD 296.2 million, surging nearly sixfold from the previous year, and operating profit margin 
+reached 43.2%, a record high.
+In terms of non-operating income and expense, while the Company sold a total of 10 vessels in 2021, 
+most were old and in a total USD 2.36 million were recognized in losses. During the year, the charterer 
+terminated the charter of five vessels and paid compensation due to long-term operational considerations.
+The Company recognized impairment while considering the long-term revenue prospects, and the related
+net non-operating income was USD 28.9 million. In the whole year, the Company’s net operating profit 
+was approximately $295.6 million, whereas its net profit after tax amounted to approximately $295.1 million.
+A
+Purpose
+To tackle operating expenses and repayments and generate long-term stable returns for shareholders
+by maintaining stable operating revenues, operating profit margins, and operating cash flows.
+B
+Policy
+The operating model focuses primarily on timed chartering and the operation of the spot 
+market secondarily; reducing the risk of default by carefully selecting tenants with a good 
+reputation; building an operating fleet mainly composed of eco ships to promote the Company’s
+competitiveness based on sustainable development.
+D
+Evaluation and Adjustment of Management Approach
+The Company uses long-term financial performance as an indicator of economic performance, 
+to see whether its operating model is in line with the objectives of stabilizing revenue, exerting 
+a buffer effect in times of recession, and signing favorable charter parties in a timely manner 
+when the economy rebounds. 
+In recent years, the Company has achieved an average gross profit of about 40% for its
+newbuilding eco-ships, which is more competitive than the 30% on average for the entire fleet 
+in the past. In 2021, the Company benefited from the recovery of global economic activities and 
+the high demand for dry bulk vessels. In the same year, the average operating profit rate of 
+seven of the Company’s eco-ships, which newly joined the Company’s fleet, was 46%, resulting 
+in revenues totaling USD 30 million for the Company. Currently, the economic performance 
+management policy is operating smoothly and there is no adjustment plan.
+C
+Management Approach
+1. Maintain financial stability and do not pursue speculative gains.
+2. Continuously invest in eco ships and maintain a young fleet.
+3. Safeguard shareholders’ rights and interests, and improve information
+ transparency.
+Commitment
+The Company has a reporting system, which is published on its official website
+(http://www.wisdomlines.com.tw/wisdom/php/contact_cg4.php) and is handled
+by the Audit Office. Reports can be made by internal and external personnel, 
+and the Audit Office will file, report and investigate the case, as well as report 
+the results to the general manager or Board.
+Grievance 
+Mechanism
+Board: Approve major contracts, as well as vessel investments and disposal.
+Business & Operation Department: Ensure stable operations and smoothclient
+communication to understand market conditions.
+Finance Department: Prepare financial reports, as well as scheduling and 
+planning for the use of the Company’s finances.
+Investor Relations: Explain the Company’s financial position to shareholders, 
+the media, and potential investors.
+Set up offices in Singapore, Tokyo, and Rotterdam, as well as coordinating the
+needs of local lessees and ship operations with zero jet lag.
+Responsibility
+& Resource
+Short-term goals:
+1. Dispose of vessels to maintain the fleet’s operational efficiency.
+2. Invest in newbuilding eco ships to make ME-hosted eco ships account for 
+up more than 50% of the fleet by the end of 2022.
+Medium to long-term goals:
+1. Optimize the fleet data reporting system to quantitatively analyze fleet
+ operations and adjust operating policies.
+2. Build a 100% eco-friendly and energy-efficient green fleet.
+Goal and 
+Target
+C
+Management Approach
+1. In 2021, the Board approved 11 newbuilding construction contracts.
+2. In 2021, 11 vessels were disposed of.
+3. The Company publish monthly earning explaining performance changes.
+4. In 2021, the Company organized a total of six investor conferences.
+Specific 
+Action
+1.4.1 Management Approach
+17
+16
+1 About Wisdom
+1 About Wisdom
+
+Unit: USD
+1.4.3 Direct Economic Value Generated and Distributed 
+As recommended by the TCFD, the Company assesses the risks, opportunities, and financial impacts 
+associated with climate and conducts analysis with reference to the TCFD framework:
+Revenue:
+Net operating revenue+interest revenue+gains (losses) 
+from disposal of property, plants, and equipment
+452,106,427
+405,789,216
+684,046,669
+Payment for capital contributors:
+Interest expenses, dividend payments1, preferred stock
+dividends
+89,239,917
+77,144,585
+72,856,686
+Employee salaries and benefits:
+Employee salaries, dividends, bonuses, employee
+benefits (pensions and insurance) 
+2,124,028
+2,179,259
+3,881,485
+Payments for domestic and foreign governments:
+Hire tax (excluding deferred tax), penalties
+564,340
+537,649
+597,455
+Generated direct economic value-
+Distributed direct economic value
+28,141,704
+(22,976,078)
+223,066,286
+Operating costs:
+Costs arising from operational activities
+332,036,438
+348,903,801
+383,644,757
+Generated direct economic value
+Retained economic value
+Distributed direct economic value
+2
+0
+1
+9
+Y e a r
+2
+0
+2
+1
+2
+0
+2
+0
+A
+Governance
+In the Company, the Board is responsible for formulating the Group’s operating strategy, and the
+Chairman is responsible for supervising the implementation of the strategy, and comprehensively
+considering the impact of climate issues on the Group’s operating strategy. Under the Board is 
+the ESG Committee, which consolidates the Company’s strategies and actions on climate-related
+issues and risks, reports to the Board, and prepares ESG reports.
+The Company’s ISM Department is responsible for paying attention to international laws and 
+regulations related to climate, formulating compliance standards accordingly, and then incorporating
+them into the Ship Safety Management System or notifying the ships and relevant departments 
+of the standards. The management announces climate-related risks and regulations through the 
+Company’s monthly executive meeting. Each of the Company’s units will recommend and send 
+members to the ESG Committee to discuss climate-related topics.
+a. Substantial risks: Delays or accidents due to a single weather event.
+Short-term 
+impacts
+a. Substantial risks: The impact of climate change on a vessel’s operational risks
+ and insurance costs.
+b. Transformation risks: Regulatory changes in response to climate change issues;
+ adjustment of ship design and construction costs in response to climate 
+change issues.
+Mid-term
+impacts
+a. Substantial risks: Climate change-induced changes in routes and port hydrology,
+ which affect the navigable and berthing areas of ships; fuel changes in response
+ to climate change issues; changes in climate change affecting crop production
+ and trade patterns.
+b. Transformation risks: Increased client requirements for ship emissions; capital 
+market or bank requirements on climate impacts; impact of climate topics on 
+brand value.
+Long-term
+impacts
+B
+Strategies
+The possible impacts of climate issues on the Company can be divided into
+Operating revenue
+447,510,914
+405,138,553
+686,165,180
+Operating profit
+110,245,939
+50,831,972
+295,576,904
+Net income before tax
+71,688,268
+4,318,251
+295,716,504
+Earnings per share (NTD)
+3.30
+0.15
+11.05
+2
+0
+1
+9
+2
+0
+2
+0
+2
+0
+2
+0
+Unit: USD
+The Company’s investment in newbuildings mainly focuses on eco ships, which are widely appreciated 
+by charterers due to their good operating efficiency. In recent years, the Company’s new vessels can 
+reach about 40% in its average profit margin, which is better than the Company’s overall fleet average.
+Average operating 
+margin for fleet
+25%
+27%
+43%
+13%
+Average operating 
+margin for newbuilding
+36%
+39%
+46%
+35%
+2
+0
+1
+9
+Averag over 
+the last 
+three years
+2
+0
+2
+1
+2
+0
+2
+0
+Note 1: The Company’s calculated disclosed dividend payment for capital contributors mainly consists
+ 
+of cash dividends. The stock dividend is not included in the calculation because it cannot be
+ 
+digitized to specifically measure the stock value. In 2019, the Company distributed cash dividends
+ 
+using its additional paid-in capital. In 2020, the Company distributed cash dividends and stock
+ 
+dividends using its additional paid-in capital. The amount of the dividends converted into capital
+ 
+totaled USD 5,745,838, which was not included in the calculation. In 2021, the Company distributed
+ 
+cash dividends with its additional paid-in capital and surplus.
+1.5 Disclosure of Climate-related
+ 
+Financial Information
+19
+18
+1 About Wisdom
+1 About Wisdom
+
+It is difficult to clearly attribute operational accidents to climatic factors; 
+accidents and delays may also be caused by seafarer operations, mechanical
+maintenance, simple weather problems, etc. However, by reviewing and 
+investigating into the accidents by the Business & Operation Department 
+and the ISM Department, the Company may still assume climate impact 
+was the cause from the trend of the accidents.
+Substantial
+risks
+They are mainly operational impacts, controlled by the ISM Department and 
+the Business & Operation Department.
+Short-term
+risks
+Transformation
+risks
+1. They are mainly related to the implementation progress of international 
+laws and regulations; the compliance methods and costs shall be jointly 
+examined by the Company’s Industry and Commerce Department, ISM 
+Department, and external consultant companies, as well as ship surveyors
+ associations. There are many factors that affect the costs of newbuilding, 
+and the risk of price changes due to the enforcement of laws and regulations
+ is still not easy to assess separately. 
+2. The impact of climate change issues on the Company’s clients, capital 
+markets, banks, and brand value depends on continuous communication 
+between the relevant units and stakeholders.
+They affect vessel investment decisions and the Company’s business 
+configuration, whose overall planning is carried out by the Board following 
+consideration.
+Medium-
+to long-term
+risks
+C
+Risk Management
+The Company’s risk management team identifies and evaluates risks according to the Company’s
+risk management policy, and then instructs the relevant units to take different treatment methods
+based on the nature of the risks. Climate-related risks are controlled by the ISM Department and 
+the Business & Operation Department, and are reported to the Board following discussions and 
+assessments by representatives of relevant units at the executive meeting and the ESG Committee.
+B
+Strategies
+The climate impact on the Company’s business, strategy, and finances is mainly due to the risk of
+operational disruption, possible increase in operating costs, increased regulatory compliance costs
+and vessel expenditure, and the need to pay more attention to climate impact financially. Climate
+issues have a significant impact on the Company’s investment in newbuildings and disposal strategy.
+As the Company continues to invest in eco-ships with high specifications, it is expected that the 
+impact of climate-related issues on the Company relative to other companies in the industry 
+should be lower. However, there are currently no appropriate tools to assess the specific 
+impacts of different climate scenarios.
+D
+Indicators and Goals
+In its evaluation of the short-term real risks related to climate, the Company conducts
+comprehensive assessments and case reviews based on the loss of operating days of the whole 
+fleet, and analyzes whether the percentage influence of climate factors has increased. In 
+response to the possible changes in newbuilding and equipment costs caused by regulatory 
+changes, the Company also constantly pays attention to and evaluates the possible impacts.
+The Company adopts EEDIs consistent with international conventions and
+introduces indices such as the EEXI and CII, which assess existing topics 
+between ships and climate issues. The Company continuously checks the 
+energy consumption and emissions of its fleet, and discloses related details in 
+its sustainability reports.
+Quantitative 
+indices
+To initially focus on compliance with laws and regulations, and then further 
+review the specific performance of increasing investment in newbuilding and 
+refitting ship equipment to further reduce environmental impact.
+Specific 
+objective
+21
+20
+1 About Wisdom
+1 About Wisdom
+
+2
+I_01 Risks from Technological Changes 
+Annual Report 7.6.5
+As technology changes and environmental awareness grows, vessel 
+specifications and equipment are constantly changing. In response to 
+technological changes, the Company risks financially by ordering
+newbuilding or retrofitting, which results in increased capital expenditure;
+failure to update the fleet may result in a decline in the Company’s 
+competitiveness or inability to continue operations.
+TEC
+Description
+Department in charge
+Risk Management
+and Stakeholder
+Engagement
+2.1 Risk Assessment and Control |23
+2.2 Stakeholders Engagement |37
+2.3 Material Topics |40
+2.4 Participation in External Organizations |42
+2.1 Risk Assessment and Control
+The Company has established a Risk Management Team in accordance with the Risk Management Policy
+adopted by the Board. The team manages risks by following the process below:
+The Company’s risk assessment report is as follows:
+Risks
+identification
+The risk management team performs risk identification. The scope of
+identification includes business activities conducted by the Company and its 
+subsidiaries. The aspects of identification shall include industry, finance, 
+operation, environment, social, and corporate governance.
+Risks
+identification
+For risks deemed material, the risk management team will, based on the nature
+of the risks, task the appropriate parties to manage the risks and/or implement
+response measures.
+Inventory 
+and reporting
+The risk management team takes inventory of management Financial Conditions,
+Business Results and Risk Analysis 91 of the risks, and delivers a status 
+report on the risk management policy to the board of directors at least once 
+a year.
+Materiality 
+assessment
+The risk management team evaluates identified risks in terms of likelihood 
+and impact to determine the materiality.
+Definition: External risks connected to the operating environment that is
+ 
+inherent in the industry.
+Boundary: The assessment and disclosure includes the holding company
+ 
+and its subsidiaries.
+Industry Risks
+SDG 17 Sustainability PartnershipGrowth
+Contributions and Highlights /
+● The Company continuously learns the latest technologies and expertise 
+in its partnerships with ABS, BV, DNV, LR, NK, and other shipbuilding 
+associations.
+23
+2 Risk Management and Stakeholder Engagement
+
+F_01 Interest Rate Risks 
+Annual Report 7.6.1
+Due to the characteristics of the sector, the Group has a high capital 
+need, so its financing amounts are relatively high; and due to the long-
+term characteristic of ship financing, the Group’s interest expenses will 
+change with fluctuations in market interest rates.
+FIN
+Description
+Department in charge
+Definition: Risk of financial loss due to external environment or internal
+ 
+management.
+Boundary: The assessment and disclosure includes the holding company
+ 
+and its subsidiaries.
+Financial Risks
+I_01 Risks from Technological Changes 
+Annual Report 7.6.5
+Capital expenditure
+Risk indicator
+Probability: medium / impact: medium
+Risk assessment
+Management policy
+1. The Group works closely with the International Association of
+ Classification Societies and technical consultancy firms, and has an
+ internal ISM Department and Technical Department, which constantly
+ follow changes in ship technology and regulations.
+2. The Group enjoys good relationships with its partnered shipyards
+ and has maintained a consistent shipbuilding policy over the years.
+ Therefore, it should be able to stabilize its capital expenditure in
+ response to risks from technological changes.
+I_02 Market Volatility Risks
+BDI, bunker prices
+Risk indicator
+Probability: mid-high / Impact: high
+Risk assessment
+Management policy
+1. Freight fluctuation: The Group adopts a floating mechanism linked to
+ freight Indices, which enables the Group to enjoy high hire rates when
+ the freight indices are high; while the indexes are expected to fall, the
+ Group can use its contractual hire conversion terms to convert the
+ floating hires to fixed amounts in accordance with the Forward Freight
+ Agreements (FFA) to reduce the risks from hire volatility.
+2. Bunker price fluctuation: The Group’s main revenue is derived from
+ time charters. According to the Group’s time charter contracts, the
+ bunker costs must be borne by the charterer. Therefore, an increase in
+ bunker prices does not cause a direct impact. At the same time, the
+ Group’s proportion of eco-ships is gradually growing, which better
+ manifests the fleet's competitiveness in the era of high bunker prices.
+The Group’s revenue is largely affected by the Baltic Dry Index (BDI) ,
+which is driven by bulk freight, and the hire indices for different vessel 
+types. Also, changes in oil prices also affect the operating costs of the 
+Company’s self-operated ships.
+BIZ
+Description
+Department in charge
+I_04 Risks from Industry Competition
+The world’s newbuilding ratio; the Group’s proportion of Eco Ships
+Risk indicator
+Probability: mid-low / Impact: mid-low
+Risk assessment
+Management policy
+1. There are no inherent obstacles to entry into the bulk shipping sector,
+ and newbuilding orders worldwide may increase or decrease due to
+ market conditions, affecting the supply, demand, and economic
+ conditions of the shipping industry.
+2. While the risk of market fluctuation brought about by excessive
+ competition is inevitable, the Group can consolidate its market position
+ by establishing a high-quality, energy-efficient fleet for differentiation.
+There are no obvious legal or technical barriers to entering the bulk 
+carrier industry worldwide; the Group’s projects must also face
+competition from other carriers.
+BIZ
+Description
+Department in charge
+I_03 Risks from Sectoral and Policy Changes  
+Annual Report 7.6.5
+All factors affecting global cargo shipment will have an impact on the 
+environment of the bulk shipping industry, such as trade wars,
+protectionism, economic sanctions, global production and demand 
+situations for bulk commodities like grains and minerals, international 
+political and economic situations, and geopolitical factors.
+BIZ
+Description
+Department in charge
+I_03 Risks from Sectoral and Policy Changes  
+Annual Report 7.6.5
+Overseas economic and trade policies, and geopolitics
+Risk indicator
+Probability: medium / Impact: low to mid-high
+Risk assessment
+Management policy
+1. The Group’s transactions are mainly with international carriers, with
+ its business scope unlimited to specific regions and routes, which can
+ mitigate the impact of regional policy changes on the Group’s operations.
+2. The Group remains concerned about changes in international politics
+ and economies and irregularly adjusts its navigation routes in response
+ to situational changes. The Group communicates with charterers to
+ avoid certain sailing areas in response to wars or economic sanctions.
+25
+24
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+F_02 Exchange Rate Risks 
+Annual Report 7.6.1
+Exchange rate sensitivity analysis, loan currency distribution, derivative
+financial instruments checklist.
+Risk indicator
+Probability: mid-high / Impact: medium
+Risk assessment
+Management policy
+1. The Group’s ship financing periods mostly range from eight to fifteen
+ years, with amortization of principal in installments. The risks from
+ exchange rate fluctuations are spread over the years of the financing
+ period.
+2. Most of the Group’s financing contracts have a “currency conversion”
+ clause, which allows the Group to apply for a change of currency in
+ response to changes in exchange rates.
+3. The Group can also use derivative financial instruments to adjust its
+ exchange rate exposure.
+The Group’s operating revenue and costs are mostly denominated in 
+US dollars, so exchange rate changes have little impact on the Group’s 
+revenue. The Group’s exposure to exchange rate risks mainly comes 
+from its borrowings in foreign currencies for the financing of ships, which
+is mainly affected by the exchange rate fluctuations of the Japanese yen.
+As for the Group’s corporate bonds denominated in Taiwanese dollars, 
+they are mainly affected by the exchange rate fluctuations of the New 
+Taiwanese dollar.
+FIN
+Description
+Department in charge
+F_01 Interest Rate Risks 
+Annual Report 7.6.1
+Interest rate sensitivity analysis, loan currency distribution, derivative
+financial instruments checklist.
+Risk indicator
+Probability: mid-high / Impact: medium
+Risk assessment
+Management policy
+1. The Group is a reputable listed company with stable operations, and
+ has business dealings with a large number of financial institutions in
+ Taiwan and abroad, so it enjoys strong financial bargaining powers,
+ and can compare different financing options and models to reduce
+ its financing costs.
+2. In order to reduce the Group’s exposure to fluctuations in US dollar
+ interest rates, some of its long-term loans are denominated in the
+ Japanese yen. In addition to being able to take advantage of Japanese
+ financial institutions’ lower interest rates for the Japanese currency,
+ this can also lower interest rate risks from concentrating on loans
+ denominated in US dollars.
+3. Derivative financial instruments of Interest Rate Swap (IRS) may hedge
+ against exchange rates.
+4. The Group does not have any fixed interest financial liabilities at fair
+ value ( which are included in income statements ), nor does it use
+ derivative financial instruments to hedge its debt obligations, so
+ changes in interest rates on settlement dates will not have a significant
+ impact on its profits and losses.
+F_03 Inflation Risks 
+Annual Report 7.6.1
+Price indices, operating costs
+Risk indicator
+Probability: medium / Impact: mid-low
+Risk assessment
+Management policy
+The Group’s charter party agreements are fixed-term and the charter 
+party may be adjusted upon renegotiations to reflect general cost 
+increases in the sector.
+Inflation may cause increases in ship and oil prices, salaries, and
+operating expenses, which may in turn increase the Group’s operating
+costs.
+BIZ
+Description
+Department in charge
+F_05 Risks from Lending Funds to Others 
+Annual Report 7.6.2
+Checklist for loan to others
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+1. The Group has Procedures Loan to Others, and shall handle relevant
+ matters in accordance with its provisions.
+2. All intercompany loan has been approved by the Board of the Group
+ and complies with the relevant limits.
+3. To date, there have been no other lending events except for the
+ intercompany loan among the Group’s wholly-controlled subsidiaries
+ and their subsidiaries.
+Risk of loans default due to non-performance by counter-parties.
+AUD、FIN
+Description
+Department in charge
+F_06 Risks from Endorsement and Guarantee 
+Annual Report 7.6.2
+Management policy
+1. The Group has Procedures for Endorsement and Guarantee, which
+ provides endorsement guarantees only to companies with which it has
+ business dealings and direct or indirect shareholdings of more than 50%,
+ and which directly or indirectly own 50% of the Group’s shares.
+Risk of loans defaults due to non-performance by endorsed parties.
+AUD、FIN
+Description
+Department in charge
+F_04 Risks of Engagement in High-risk, High-yield Investment Annual Report 7.6.2
+Balance sheets
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+The Group focuses on its operations in the industry and is not engaged 
+in investment in other high-risk sectors or investment objects.
+Financial risks arising from borrowed investments in high-risk sectors 
+or investment objects.
+FIN
+Description
+Department in charge
+27
+26
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+Definition: Risks arising from internal management, resource placement,
+ 
+or external factors in the course of operating activities.
+Boundary: The assessment and disclosure includes the holding company
+ 
+and its subsidiaries.
+Operational Risks
+F_07 Risks from Financial Derivatives Transactions 
+Annual Report 7.6.2
+Checklist for financial derivative instruments
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+1. The Group has management procedures relating to derivative
+ transactions, with trading limits in addition to hedging transactions,
+ each of which is reviewed by the Board.
+2. The Group mainly trades in financial derivative instruments for
+ hedging purposes and avoids trading commodities for trading purposes.
+The Group entered into financial derivatives transactions that may pose 
+a risk of gain or loss due to fluctuations in the relevant market.
+AUD、FIN
+Description
+Department in charge
+O_01 Risks from Concentrated Procurements 
+Annual Report 7.6.9
+Top 10 suppliers and proportions
+Risk indicator
+Probability: mid-low / Impact: low
+Risk assessment
+Management policy
+1. In the Group’s operations, only the cost of fuel and lubricant account
+ for a significant portion of its annual operating costs.
+2. Lubricant: The Group works with four or five international lubricant
+ suppliers on a long-term basis to diversify risks.
+3. Fuel: The Group considers the fuel prices and suppliers at different
+ bunkering ports, and makes purchases through fuel brokers or directly
+ from suppliers in order to diversify sources.
+Excessive procurement from a single supplier may affect ship operations
+in the event of supply interruptions.
+SUP
+Description
+Department in charge
+O_02 Risks from Concentrated Sales 
+Annual Report 7.6.9
+Top 10 clients and proportions
+Risk indicator
+Probability: mid-low / Impact: low
+Risk assessment
+Management policy
+1. The Group works with reputable Japanese and European charterers
+ on a long-term basis, which reasonably diversifies the Group’s charter
+ party expiration and hire agreement.
+2. The Group also continued to explore the market for new clients, in
+ order to diversify its risks from concentrated sales.
+Excessive concentration of sales to a single client may result in financial
+losses or revenue reduction for the Company as a result of the client’s 
+default or adjustment of business policies.
+BIZ
+Description
+Department in charge
+O_03 Risk of Default by Charterers
+Management policy
+1. The Group’s long-term clients are all world-class carriers with sound
+ financial conditions.
+2. For new clients, in addition to their financial credibility, the Group
+ carefully assesses the partner’s motivation and ability to perform the
+ contract, as well as understanding their operating performance and
+ reputation, through its long-term cooperative intermediaries and
+ charterers.
+Charterers’ inability to perform their contract and pay their hire regularly
+due to their own financial difficulties or other factors will impact the 
+Group’s revenue.
+BIZ
+Description
+Department in charge
+F_08 Liquidity Risks
+Cash and cash equivalents, estimated cash flow
+Risk indicator
+Probability: medium / Impact: mid-high
+Risk assessment
+Management policy
+1. The Group’s cash flow requirements for both newbuildings contracts
+ and financing contracts have a fixed term. In addition to the annual
+ budget, the Group prepares cash flow estimates for the next three
+ months each week to correctly estimate cash flow movements, so
+ that response can be made in advance in the event of insufficient
+ liquidity.
+2. The Group relies heavily on operating cash flows for its cash liquidity,
+ so there is a real risk of continued liquidity consumption when the
+ market environment is unsatisfactory. Hence, the Group has also
+ established revolving credit lines for working capital with a number
+ of major banks to meet its liquidity shortfalls.
+3. The Group has long-term partnerships with its financing banks and
+ shipyards, with which it can negotiate the adjustment of repayment
+ and payment schedules when necessary, in order to improve its
+ medium-term liquidity.
+4. The Group’s significant assets are ships, which may also be sold to
+ improve its medium-term liquidity.
+In addition to the cash flows required for its day-to-day operations,
+the Group has significant cash liquidity requirements for its capital
+expenditure on newbuildings and the repayment of principal and interest
+on ship financing. Insufficient liquidity may result in the Group’s default 
+and damage its credibility.
+FIN
+Description
+Department in charge
+F_06 Risks from Endorsement and Guarantee 
+Annual Report 7.6.2
+List for endorsement and guarantee
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+2. All endorsement guarantees within the Group have been approved by
+ the Board of the Group and comply with the relevant limits.
+29
+28
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+O_04 Risk of Liabilities to Third Parties
+The liability insurance loss rate for shipowners
+Risk indicator
+Probability: mid-high / Impact: mid-low
+Risk assessment
+Management policy
+1. All of the Group’s ships are covered by Protection & Indemnity (P&I)
+ insurance from the P&I Club.
+2. The Group also promotes safety awareness and reduces accidents
+ by strengthening the training and management of its relevant personnel.
+The Group may be exposed to third party liabilities from ships’ operations.
+Common circumstances include seafarer casualties, claims for cargo 
+damage, and clean-up due to pollution.
+BIZ、ISM
+Description
+Department in charge
+O_07 Information Security Risks
+NA
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+1. The Group has established an Information Security Group to identify
+ risks related to information security and formulate specific management
+ plans.
+2. There are no significant risks associated with manually operating
+ critical on-board equipment, and there are restrictions on internet
+ communications on board.
+3. The office system also has relevant security measures such as fire
+ walls and backups.
+Improper information security management may result in financial or 
+reputational losses due to communication delays, file losses, trade 
+secret leaks, hacker attacks, etc.
+ADM
+Description
+Department in charge
+O_08 Expected Benefits and Potential risks from M&As Annual Report 7.6.7
+NA
+Risk indicator
+NA
+Risk assessment
+Management policy
+At present, the Group has no merger and acquisition plans. If the Group
+has such plans, they must pass the assessment based on the Group’s 
+significant asset acquisition and disposal procedures.
+Mergers and acquisitions may pose financial risks due to overestimated
+benefits.
+ADM
+Description
+Department in charge
+O_05 Risk of Ship Damage
+Loss rate for H&M insurance
+Risk indicator
+Probability: mid-low / Impact: mid-low
+Risk assessment
+Management policy
+1. All of the Group’s ships are covered by Hull & Machinery ( H&M )
+ insurance.
+2. The Group promotes safety awareness and reduces accidents by
+ strengthening the training and management of its relevant personnel.
+3. The Group arranges regular maintenance, navigation repairs, dock
+ repairs, etc. to ensure its ships’ seaworthiness.
+4. If risks from regional navigation are heightened due to a war, the Group
+ also responds in a timely manner by avoiding having its fleet navigate
+ in relevant high-risk areas.
+There is a risk of machinery failure, hull damage, or ship sinking due to 
+natural factors like the weather, and human factors including improper 
+ship handling and wars.
+BIZ、TEC、ISM
+Description
+Department in charge
+O_03 Risk of Default by Charterers
+Charterers’ ability to pay hires on time, market changes, clients’ credibility
+Risk indicator
+Probability: medium / Impact: mid-low
+Risk assessment
+Management policy
+3. Hire payments for time charterparties are all collected in advance,
+ and the risks from receivables remain controllable.
+4. Disputes over the breach of charterparty and unpaid fuel charges by
+ charterers may pose legal risks to the Group, but the Group has
+ subscribed to marine litigation insurance, which will assist the Group
+ in seeking compensation from charterers in the event of default.
+O_06 Risk of Piracy
+Access to high-risk areas as defined by Best Management Practices
+Version 5 (BMP5).
+Risk indicator
+Probability: low / Impact: medium
+Risk assessment
+Management policy
+1. The Group works with individual charterers to minimize such risks by
+ avoiding dangerous waters or nearshore voyages where the ship’s
+ route may pass through less safe waters or countries.
+2. If the Group’s ships need to navigate through high-risk areas, they will
+ be accompanied by the country’s armed escort fleet or otherwise
+ engage the escort of armed guards, and the Group will purchase
+ various insurance policies for the voyage.
+3. The Group’s relevant departments provide up-to-date anti-piracy
+ information on its ships at any time and assist ship Captains in
+ familiarising themselves with various anti-piracy measures and
+ relevant safety regulations.
+Robbery of property or ransom piracy still occurs in some areas, and 
+pirates may cause seafarer casualties, property losses or hull damage, 
+and disruption of the ship’s operations.
+BIZ、ISM
+Description
+Department in charge
+31
+30
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+E_01 Risks from Climate Change
+Climate change can lead to drastic changes in weather, which can lead 
+to risks such as navigation hazards, shipping delays, and port entry and
+exit delays for ships. Global warming has caused Arctic ice to melt, sea 
+levels to rise, deterioration of coastal erosion and changes in seafloor 
+sedimentation patterns, and a lack of immediate updates of chart
+information may lead to a shipwreck.
+ISM
+Description
+Department in charge
+NA
+Risk indicator
+Probability: mid-low / Impact: mid-low
+Risk assessment
+Management policy
+The Group gives its ships appropriate weather information or weather 
+guidance to reduce their chances of entry into areas of severe weather.
+Definition: Risks of rising costs that the Group has to invest on coping with 
+ 
+climate change and the implementing of environmental laws and
+ 
+regulations.
+Boundary: The assessment and disclosure includes the holding company
+ 
+and its subsidiaries.
+Environmental
+Risks
+  
+Annual Report 7.6.8
+O_09 Expected Benefits and Possible Risks from Plant Expansion
+NA
+Risk indicator
+NA
+Risk assessment
+Management policy
+The Group is a shipping company and has no need for factory expansion;
+therefore, it is not exposed to such risks.
+The expansion of the plant may have financial related risks as the benefits
+do not meet expectations.
+ADM
+Description
+Department in charge
+  
+Annual Report 7.6.3
+O_13 Risks from R&D Programs and Expected R&D Investment
+NA
+Risk indicator
+NA
+Risk assessment
+Management policy
+The Group is a professional shipowner company and does not have a 
+technological R&D department. Therefore, it is not exposed to such risks.
+The cost and failure of R&D plans will pose financial risks.
+ADM
+Description
+Department in charge
+O_10 Risks from Fleet Ageing
+The average age for the Group’s fleet and ships worldwide
+Risk indicator
+Probability: mid-high / Impact: low
+Risk assessment
+Management policy
+The Group orders newbuilding each year and dispose old ships in 
+a timely manner based on market conditions. There have yet to be 
+concerns about an ageing fleet.
+An Ageing fleet will reduce the Company’s competitiveness and affect 
+its long-term business performance.
+ADM、BIZ
+Description
+Department in charge
+O_11 Risk of Operational Interruption
+Number of off-hire days, and the involved amounts
+Risk indicator
+Probability: medium / Impact: mid-low
+Risk assessment
+Management policy
+1. The Group regularly arranges ship maintenance and improves its
+ seafarer contingency repsonse through education and training.
+2. The Group has established a contact network and crisis management
+ mechanism to resume normal operations in the shortest time possible.
+3. The Group has purchased insurance for most of its ships against the
+ loss of hire due to hull damage, as well as hire losses and operational
+ interruptions caused by a war.
+The Group occasionally experienced short-term operational disruptions
+due to local regulations, legal calims, machiner failures, etc., which led 
+to the suspension of hire or other losses.
+BIZ、ISM
+Description
+Department in charge
+O_12 Risks from Imbalance between Operational Scale and Workforce
+An imbalance between the Company’s operational scale and workforce 
+will reduce its operational efficiency. It may also increase the Company’s
+staff turnover, as a result affecting its staff training in the medium to 
+long term.
+ADM
+Description
+Department in charge
+O_12 Risks from Imbalance between Operational Scale and Workforce
+Ship-to-seafarer ratio, staff turnover
+Risk indicator
+Probability: mid-low / Impact: low
+Risk assessment
+Management policy
+1. The Group focuses on employee benefits. In addition to meeting the
+ employment conditions and three festival bonuses under the Labor
+ Standards Act, it also has multiple benefit measures in place, and
+ holds regular labor meetings to maintain communication with its
+ employees.
+2. The Group continues to recruit relevant talent in line with its operational
+ expansion. In addition to posting talent recruitment information on
+ the major human resources websites, the Group also holds talent
+ recruitment talks on campuses to ensure that the company has
+ sufficient operating personnel.
+33
+32
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+S_01 Turnover Risk of High-ranking Personnel
+The Company’s operations rely on the experience and professionalism 
+of senior managerial officers. Their high turnover will make the Company’s
+operations inefficient or affect its corporate image.
+ADM
+Description
+Department in charge
+Situations surrounding the departure of senior managerial officers
+Risk indicator
+Probability: mid-low / Impact: medium
+Risk assessment
+Management policy
+Following their assessment, the Remuneration Committee and the Board
+have established a reasonable remuneration system for the Company’s 
+management.
+S_03 Risks from Infectious Diseases
+Infectious diseases will affect the health of the Company’s seafarers, 
+resulting in the shortage of seafarers. Regional infectious diseases and 
+epidemic prevention measures may cause crew change difficulties, 
+increase operating costs, and even disrupt operations.
+SMA
+Description
+Department in charge
+Number of seafarer infection cases, number of working hours lost due 
+to infectious diseases, travel expenses for seafarer changeovers.
+Risk indicator
+Probability: mid-high / Impact: mid-high
+Risk assessment
+Management policy
+1. In addition to promoting on-board safety and health management, the
+ Group also reduces unnecessary contact between its seafarers and
+ shore personnel.
+2. In order to cope with infection risks and the crew change need, the
+ Group checks the epidemic prevention measures and voyage schedule
+ of each port every week, and selects the appropriate time and place to
+ arrange for crew change, as well as offering subsidies to the seafarers.
+  
+Annual Report 7.6.6
+S_04 Impact of Corporate Image Change on Enterprise Crisis Management
+Changes in the Company’s corporate image can cause a public
+relations crisis, which may affect the Group’s stock price and its team
+cohesiveness, or even affect the Group’s relationships with its clients.
+However, since the Group’s clients are all international enterprises, the 
+risk of general negative news affecting client relations is low.
+ADM
+Description
+Department in charge
+NA
+Risk indicator
+Probability: mid-low / Impact: low
+Risk assessment
+Management policy
+1. The Group engages professional public relations consulting firms to
+ advise public relations operations in due course.
+2. Attaching great importance to its corporate governance and employee
+ benefits, the Company has a good corporate image.
+S_02 Turnover Risk of High-ranking Personnel
+A high seafarer turnover will reduce seafarer familiarity with the 
+Group’s ships and management regulations, indirectly undermining its 
+management quality. It may also reflect that the Group’s salaries for its 
+seafarer are inappropriate, resulting in difficulty in seafarer recruitment
+and thus affecting the quality of its seafarer. If the percentage of 
+seafarers of a single nationality is too high, changes in the country’s 
+political and economic situation may cause difficulties in crew change 
+or hiring seafarers.
+Description
+S_02 Turnover Risk of High-ranking Personnel
+SMA
+Department in charge
+Turnover rate and nationality percentages of seafarers
+Risk indicator
+Probability: high / Impact: mid-high
+Risk assessment
+Management policy
+1. The Group currently cooperates with a number of seafarer manning
+ agencies based in different countries on the recruitment of seafarers,
+ and selects, checks, and talks with them according to the requirements
+ of different ship types to ensure the quality of the Group’s seafarers.
+2. In recent years, the Group has expanded its recruitment of Vietnamese,
+ Bangladeshi, and Indian seafarers to balance its percentage of
+ seafarers of all nationalities, in order to reduce the impact on operation
+ due to the excessive proportion of seafarers of certain nationalities.
+Definition: Risks related to stakeholder interaction and corporate social
+ 
+responsibility.
+Boundary: The assessment and disclosure includes the holding company and
+ 
+its subsidiaries.
+Social Risks
+E_02 Risks from Changes in Environmental Laws and Regulations
+Enforcement timetable, ship compliance inventories
+Risk indicator
+Probability: high / Impact: medium
+Risk assessment
+Management policy
+1. The Group focuses on the enforcement directions of environmental
+ regulations and communicates closely with classification societies to
+ respond early and reduce the impact of related legal and regulatory
+ implementation.
+2. The Group examines its ships’ current conditions for compliance or
+ to develop specific improvement plans.
+3. The Group continuously invests in newbuilding Eco Ships and evaluates
+ its investments in energy-saving equipment.
+In recent years, the International Maritime Organization (IMO) has been 
+promoting environmental laws and regulations such as sulfur and 
+carbon reduction. Failure to comply with them will affect the ship’s 
+speed limits and even seaworthiness.
+ISM
+Description
+Department in charge
+35
+34
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+Definition: Risks associated with the corporate structure, share structure,
+ 
+and management.
+Boundary: The assessment and disclosure includes the holding company
+ 
+and its subsidiaries.
+Corporate
+Governance Risk
+G_01 Risk from Legal Differences between Places of Registration
+ 
+and Listing
+Shareholder Protection Checklist for Foreign Issuer’s Country of
+Registration.
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+The Group engages Taiwanese legal advisers to amend its articles of 
+association and other relevant provisions to protect the interests of its 
+shareholders in accordance with laws and regulations such as Taiwan’s 
+Securities and Exchange Act and Company Law, and the Group’s 
+listing undertakings to the extent permitted by the laws of the Cayman 
+Islands, as well as communicating regularly with the relevant authorities.
+Risks arising from applicable laws and regulations that differ between 
+the Cayman Islands and the Republic of China.
+ADM
+Description
+Department in charge
+  
+Annual Report 7.6.10
+G_02 Risks from Significant Transfers or Exchanges of Equity
+Shareholders’ register and Shareholding Distribution
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+The Group’s shareholding structure is stable, with its chairman and 
+affiliates together holding a stable controlling shareholding, hence there
+has been no significant transfer of equity.
+The significant transfer of equity may affect the Group’s operating rights,
+resulting in changes in the Group’s management and operating strategies.
+ADM
+Description
+Department in charge
+G_03 Risks from Changes in Operating Rights 
+Annual Report 7.6.11
+Shareholdings by operators, abnormal changes to the Board
+Risk indicator
+Probability: low / Impact: low
+Risk assessment
+Management policy
+The Group’s chairman, Mr. Lan, has long invested his efforts in its
+operations, so the shareholding situation is stable. There is currently 
+no sign of a change in the Group’s ownership.
+Changes in the Company’s operating rights may result in abnormal 
+changes in its management and operating strategies, thus affecting the 
+long-term stability in its client and labor relations.
+ADM
+Description
+Department in charge
+  
+Annual Report 7.6.4
+G_04 Risks from Important Domestic and Foreign Policy Changes
+Major policy evaluations
+Risk indicator
+Probability: mid-low / Impact: mid-low
+Risk assessment
+Management policy
+1. The Group is incorporated in the Cayman Islands, while its operating
+ entity Wisdom Marine Lines S.A. is domiciled in Panama. The Cayman
+ Islands have financial services as its main economic activity, whereas
+ Panama is the world’s leading ship registry country, with an open
+ economy and no foreign exchange controls. The two places offer a
+ stable political and economic environment.
+2. The Group is listed in Taiwan, which is a mature and stable capital
+ market.
+3. The Group’s major clients are domiciled in the European Union and
+ Japan, which have an institutionalized, mature political system. There
+ have been no policy changes sufficient to have a significant impact
+ on the Group.
+4. Various local ordinances have been amended with respect to the ports
+ where the Group’s fleet is docked. However, prior to entering a port,
+ the Group always works with local agents to ensure legal compliance.
+ There are no circumstances where unclear regulations have caused
+ a significant financial impact.
+Significant changes in market policies and laws in Cayman, Panama, 
+and Taiwan may affect the Group’s financial operations.
+ADM
+Description
+Department in charge
+2.2 Stakeholders Engagement
+2.2.1 Identification of Stakeholders
+Wisdom Marine Lines follows the five principles of the AA1000 Stakeholder Engagement Standard-
+Reliance, Responsibility, Influence, Diverse Perspectives, Tension, in identifying potential stakeholder 
+groups. Through discussions with working groups, the stakeholders were identified based on their 
+relationships with Wisdom Marine Lines’ operations. The weight of each stakeholder groups’ judging 
+themes was obtained following communication frequency, dependence, and influence evaluations. Eight 
+categories of key stakeholders were identified. In order of weight, they are seafarer, employees, clients, 
+suppliers, regulatory authorities, investors, the media, and insurance companies.
+37
+36
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+Stakeholder
+Importance
+Communi-
+cation 
+channels 
+and 
+frequency
+Topics of 
+concern
+Steady transport 
+quality relies on 
+the professional 
+services and safety
+consciousness of 
+the seafarer.
+Phone: Irregular
+Email: Daily
+Ship Visit: Irregular
+Wisdom Monthly:
+Once a month
+Channels of 
+complaint:
+Any time
+・ Maritime Safety
+・ Transport Quality
+・ Investment in
+ Eco Ships
+・ Training and 
+ Education
+・ Human Rights
+ Assessment
+Seafarer
+Good fleet
+management is 
+based on the 
+expertise and 
+teamwork of 
+shore-based staff.
+Announcement:
+Irregular
+Email: Irregular
+Interview: Irregular
+Labor meetings:
+Quarterly
+Appeal channels:
+Any time
+・ Employment
+・ Labor /
+ Management
+ Relations
+・ Maritime Safety
+・ Occupational
+ Health and Safety
+・ Diversity and 
+ Equal
+ Opportunities
+Employee
+By purchasing
+insurance, Wisdom 
+Marine Lines can 
+mitigate some of its 
+operational risks and 
+receive anti-loss 
+advice, education, 
+and training from the 
+insurance company.
+Ship Visit: Irregular
+Email: Irregular
+Workshop: Irregular
+Education and 
+training: Irregular
+External audit:   
+Irregular
+・ Maritime Safety
+・ Transport Quality
+・ Investment in
+ Eco Ships
+・ Environmental
+ Impact During
+ Transportation
+・ Human Rights
+ Assessment
+Insurance
+company
+Clients’ hires for 
+vessels and 
+payments for 
+transport are the 
+main sources of 
+revenue for 
+Wisdom Marine 
+Lines.
+Phone: Irregular
+Email: Irregular
+In-person visit:
+Irregular
+・ Transport Quality
+・ Maritime Safety
+・ Environmental
+ Impact During
+ Transportation
+・ Environmental
+ Compliance
+Client
+Ship management 
+and maintenance 
+rely on close 
+cooperation 
+between Wisdom 
+Marine Lines and 
+its suppliers.
+Phone: Irregular
+Email: Irregular
+In-person visit:
+Irregular
+Appeal channels:
+Any time
+・ Maritime Safety
+・ Investment in
+ Eco Ships
+・ Environmental
+ Impact During
+ Transportation
+・ Materials
+・ Transport Quality
+Supplier 1
+Wisdom Marine Lines 
+maintains good 
+interaction with the 
+media and establishes
+important bridges of 
+communication with 
+the public.
+Phone: Irregular
+Press releases:
+Once a month
+Interview: Irregular
+Investor conference:
+more than twice
+per yeare
+・ Maritime Safety
+・ Transport Quality
+・ Investment in
+ Eco Ships
+・ Economic
+ Performance
+・ Environmental
+ Impact During
+ Transportation
+Media
+Wisdom Marine Lines 
+is owned by its all 
+shareholders and 
+follows a stable 
+operating mode
+in creating profits for 
+its shareholders.
+Phone: Irregular
+Email: Irregular
+Appeal channels:
+Any tim
+Investor conference:
+more than twice
+per yeare
+・ Investment in
+ Eco Ships
+・ Environmental
+ Compliance
+・ Economic
+ Performance
+・ Emissions
+・ Maritime Safety
+Investor
+The policy formulation
+by regulatory
+authorities has
+a significant impact 
+on the Company’s 
+operations.
+Phone: Irregular
+Email: Irregular
+Official
+correspondences:
+Irregular
+・ Economic
+ Performance
+・ Energy
+・ Emissions
+・ Water
+・ Effluents and Waste
+Regulatory 
+authority 2
+2.2.2 Communication with Stakeholders
+The importance of various types of stakeholders and their issues of concern, communication channels
+with Wisdom Marine Lines, and communication frequencies are summarized below.
+Note 1: Shipyards, repair dock yard, materials, spare parts, etc.
+Note 2: Registered flag states, listing authorities, labor authorities, pollution prevention units, etc.
+39
+38
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+In 2018, eight types of stakeholders were invited to fill in the questionnaires to 
+investigate their levels of interest in 28 topics. A total of 282 questionnaires 
+were collected, of which 246 were valid questionnaires. In addition, the “Shock 
+Level Questionnaire” was completed by the working group and senior supervisors
+to assess the impact of various issues on the economy, environment, and society.
+A total of eight questionnaires were collected. After summing up the levels of 
+interest and impact, a material topic matrix was created, which identified nine 
+material topics with a high level of concern. For details, please refer to Section 
+2.3.2 Material topic Matrix.
+2
+Prioritization 
+Once the ESG Report has been prepared, the working group conducted a final 
+review of the content to ensure that it has not been misrepresented. Prior to the 
+publication of the next annual report, the material topics and their sequencing 
+will be revisited to ensure the completeness, responsiveness, and inclusiveness
+of the annual material topics.
+4
+Review
+2.3 Material Topics
+2.3.1 Identification of Material Topics
+Wisdom Marine Lines’ process for identifying Material Topics is as follows:
+2.3.2 Material Topics Matrix
+After the level of interest and impact were comprehensively assessed, a matrix of material topics 
+was created as follows:
+2.3.3 Disclosure Scope of Material Topics
+The 28 material topics were classified into three categories according to the stakeholders’ level of 
+concern and the impact of the themes on the Company’s operations, and are divided into three categories:
+low, medium, and high levels of concern. The following nine material topics of high concern were set 
+as follows:
+In accordance with the GRI Standards, considering the characteristics of the 
+shipping industry and referring to the material topics of the industry, the working
+group summarized 28 topics of interest to Wisdom Marine Lines after discussions
+with external consultants and internal senior executives.
+1
+Identification
+Since there was no essential change in the operating environment, and taking 
+into account the continuity of data tracking, the ESG report for this year continues
+the same material topics in the same order, and responds to the nine material 
+topics in the corresponding chapters. For details on the reporting scope, 
+please refer to Section 2.3. 3 Material topics Reveal Boundary Table.
+3
+Validation
+14
+18
+15 16
+17
+19
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+High
+High
+Low
+Stakeholders’ level of concern
+Impact level
+Human Rights Assessment
+14
+Freedom of Association 
+and Collective Bargaining
+15
+Non-discrimination
+16
+Labor / Management 
+Relations
+17
+Effluents and Waste
+18
+Anti-corruption
+19
+Medium level of concern
+Materials
+1
+Water and Effluents
+2
+Biodiversity
+3
+Supplier Environmental 
+Assessment
+4
+Socioeconomic
+Compliance
+13
+Market Presence
+5
+Occupational Health
+and Safety
+6
+Diversity and Equal 
+Opportunities
+8
+Training and Education
+7
+Forced or
+Compulsory Labor
+9
+Supplier Social
+Assessment
+11
+Local Communities
+10
+Customer Privacy
+12
+Low level of concern
+Energy
+21
+Environmental Compliance
+23
+Employment
+24
+Environmental Impact During 
+Transportation
+28
+Transportation Quality
+27
+Investment in Eco Ships
+25
+Maritime Safety
+26
+Emissions
+22
+Economic Performance
+20
+Material topic Boundaries
+High level of concern
+Within
+the organization
+Wisdom 
+Investors
+Clients
+Suppliers
+Outside
+the organization
+41
+40
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+2.4 Participation
+ 
+in External Organizations
+Wisdom Marine Lines uses its internal assessment to manage risks, and stakeholder consultations to 
+understand their reasonable expectations and needs. At the same time, the Company also actively 
+participates in external organizations to keep abreast of the latest trends in sustainable operations,
+shipping management, and environmental protection, and adjust its sustainable strategy as appropriate 
+to improve the effectiveness of its sustainable development promotion.
+Organization name
+Participation status
+American Bureau of Shipping (ABS)
+Member
+Bureau Veritas (BV)
+Member
+CR Classification Society (CR)
+Director
+Det Norske Veritas (DNV)
+Chairman of the Taiwan committee
+Lloyd’s Register (LR)
+Member
+Nippon Kaiji Kyokai (NK)
+Member
+National Chinese Seamen’s Union
+Member
+The Britannia Steam Ship Insurance Association Limited
+Member
+Organization name
+Participation status
+The Japan Ship Owners’ Mutual Protection & Indemnity Association
+Member
+Assuranceforeningen Skuld
+Member
+The Swedish Club
+Member
+Norwegian Hull Club
+Committee member
+The North of England Protecting & Indemnity Association Limited
+Member
+The United Kingdom Mutual War Risks Association Limited
+Member
+The London Maritime Arbitrators Association
+Committee member
+43
+42
+2 Risk Management and Stakeholder Engagement
+2 Risk Management and Stakeholder Engagement
+
+Shipping
+Management
+3
+3.1 Supply Chain Management |45
+3.2 Maritime Safety |50
+3.3  Transport Quality |53
+3.4 Investment in Eco Ships |57
+3.1 Supply Chain Management
+The Company’s vessels are mainly constructed by Japanese shipyards, and consultants are appointed 
+to supervise the production. At the construction stage, the vessel’s specifications are certified by a ship 
+classification society for compliance with international conventions. Before vessel delivery, registration 
+with flag state must be done to obtain necessary certificates issued by flag state to get ready for sailing.
+After vessel’s delivery for operation, the flag state and the classification society will periodically renew 
+certificates to ensure the seaworthiness. During the operations, it depends on the cooperation of suppliers,
+seafarer manning agencies, insurance companies, and dock yards to ensure smooth operations and 
+achieve stable maritime transportation.
+To keep the operational efficiency of fleet, the Company prioritizes the disposal of vessels aged more 
+than 15 years by finding buyers in the second-hand market or selling to shipbreakers for scrapping.
+● Flag state: Certificate renewal
+● Ship classification society: Certificate renewal, certification for 
+  
+seaworthiness
+● Supplier: Supply materials and spare parts
+● Seafarer manning agency: Recommend suitable seafarers
+● Insurance company: Loss prevention inquiries and compensation
+● Dock yard: Ship maintenance
+Ship
+operations
+Shipyards
+● Consultancy company: Construction supervision for newbuilding
+● Classification society: Vessel certification
+● Flag state: Vessel registration,certificate Issuance
+● Banking: Financing
+Second-hand 
+market
+Scrapping
+SDG 8 Dignified Work and Economic Growth
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — In 2021, 
+the Company conducted an average of eight drills and four trainings 
+per vessel per month. More than 20 hours per month and about 240 
+hours per year.
+● In 2021, the Company had an average 2.13 deficiencies in each Port 
+State Control Inspection (PSC Inspection), with a detention rate of 2.6%.
+ The performance was rated “medium” for Tokyo MOU standards.
+SDG 17 Sustainability PartnershipGrowth
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — Continued
+ business expansion under the highest principle of “integrity”, the
+ Company has established long-term partnerships with leading
+ international shipping companies, such as Viterra , NYK, “K” Line,
+ and MOL.
+SDG 12 Responsible Consumption and Productio
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — The
+ Company’s long-term investment in eco-friendly, energy-saving vessels
+ with advanced specifications, of which vessels equipped with a ME
+ main engine accounted for 48% at the end of 2021.
+3 Shipping Management
+45
+
+The navigation and operational conditions of vessels are highly correlated with their initial design. 
+Hence, new eco ships designed by Japanese shipyards with pollution prevention equipment are adopted
+by the Company preferentially with a view to improve operational efficiency and reduce environmental 
+pollution. On the basis of long-term cooperation, quotations and specifications for newbuildings 
+offered by Japanese shipyards are competitive, and both parties can fully communicate on the new 
+vessel design and new regulations. After delivery of vessel, Japanese shipyards offer good after-sales 
+services including warranties, delivery of spare parts, technical support, and arrangement for technician’s
+on-board services.
+The survey of a vessel by a classification society begins with the construction of the newbuilding, including
+drawing approval, the equipment installation review, the testing of hull outfitting, approval for calculation 
+of hull structural strength, the on-site construction quality survey, the survey of draught marks, and 
+performance test of main engine and generators, etc., to ensure that the vessel and its on-board facilities
+comply with the SOLAS and MARPOL standards, and then issue CLASS and related certificates for 
+seaworthiness. The regular surveys to be carried out after delivery of vessel for operation include: A
+( annual surveys ), B intermediate surveys ( to be conducted around every two or three years ), and C 
+special surveys (to be performed every five years).
+In order to ensure the fulfillment of the international conventions and the maintenance of seaworthiness of
+vessels, IMO member states require that registered vessels obtain various survey reports and certificates
+issued by authorized classification societies.
+The International Association of Classification Societies (IACS) was jointly founded by 11 classification 
+societies to establish various ship construction rules and survey standards. At present, the five classification
+societies with which the Company cooperates are ABS, BV, DNV, LR, and NK all of which belong to the IACS.
+International
+Safety
+Management Code 
+(ISM Code)
+International
+Ship and Port 
+Facility Security 
+Code (ISPS Code)
+International
+Convention for
+the Safety of Life
+at Sea (SOLAS)
+International
+Convention for
+the Prevention of 
+Pollution from 
+Ships (MARPOL)
+Maritime
+Labour
+Convention 2006 
+(MLC 2006)
+3.1.1 Shipyards
+In accordance with the requirements of the rules for steel ships and the international conventions, two 
+bottom surveys must be carried out within five years, and the interval between the two surveys must not 
+exceed 36 months. The bottom survey must be carried out by taking the vessel into the repair dock 
+yard’s dry dock or floating dock for the survey and maintenance of the bottom structure. The Company’s 
+fleet travels on routes across the world. Before the dock repair, it is necessary to discuss with the charterer
+the time and place for the vessel handover, confirm the docking space, and whether the repair dock yard 
+has relevant technical certificates. The dock repair schedule and method shall be evaluated and discussed
+by the repair dock yard and Technical Department, and records shall be kept relating to the repair dock 
+yard’s repair quality, schedule controllability, repair technology, and coordination of communication. If 
+the repair dock yard and its staff have relevant certificates, and the maintenance quality meets the 
+survey standards of a ship classification society, it shall be included in the Company’s priority list for 
+future inquires of repair quotation.
+3.1.3 Repair Dock Yard
+The International Maritime Organization (IMO) is a specialized agency of the United Nations responsible 
+for Maritime Safety and the prevention of marine and atmospheric pollution from vessels. The IMO has 
+formulated various international conventions to regulate the safety of ships, personnel, and the environment
+(pollution prevention and control). The main regulations are listed below:
+3.1.2 International Maritime Organization
+ 
+and Classification Societies
+Certified by the International Association of Classification 
+Societies and international management certificates.
+Qualification certificates for shipyard engineering personnel,
+such as welder’s certificates.
+Location
+Price
+Schedule
+Collaborate with Charterer for vessel’s delivery and
+redelivery times without affecting vessel’s next voyage.
+Good progress control in the dockage period, which 
+should be in line with the schedule.
+Collaborate with Charterer for vessel’s delivery and
+redelivery location.
+Voyage length of bareboat.
+The quotes for repair works suit the Company’s budget.
+Assessment area for repair dock yards
+International 
+certification
+3 Shipping Management
+47
+3 Shipping Management
+46
+
+● Whether the supplier is legally registered.
+Legitimacy
+● Whether the supplier is registered with
+ the ISSA.
+ISSA registration
+● Items, quantities, and times for delivery 
+meet the Company’s order requirements.
+● The delivery quality is in line with the 
+agreement between the two parties, which 
+reduces the proportion of returns
+ and exchanges.
+● Improvement policy for poor delivery quality.
+Obligational performance
+● Expertise for promptly providing accurate 
+answers to the Company’s inquiries.
+● Provide technical support and solutions.
+● The products or services provided meet the 
+contractual requirements.
+Expertise
+The purchase and supply for the Company’s fleet depend on the seafarer’s reported needs and the 
+vessel’s existing supplies, and are arranged by the Company’s Supply Department at the convenient port
+to accommodate the charterer for their designated route.
+The Company procures marine paints, chemicals, and lubricating oils from its regular suppliers to maintain
+stability in prices and service quality. The purchase of other supplies is based on the purchase nature 
+and the Company’s evaluation results on the prices, service quality, and delivery time of its partnered 
+suppliers, which are required to comply with the Company’s integrity operation policy. The suppliers 
+must conduct open and transparent transactions, and the Company’s staff must not offer, directly or 
+indirectly, any promise or demand or accept any form of illegitimate benefits, so that the Company and 
+its suppliers can jointly fulfill their corporate social responsibilities. For environmental protection 
+purposes, the Company purchases its marine supplies locally as a principle to reduce the carbon emissions
+generated during transportation.
+With its routes located across the globe, the Company gives priority to its long-term partnerships suppliers
+for emergency purchases. If there are no long-term partnerships suppliers in the port, the Company shall 
+select a supplier registered with the International Ship Suppliers & Services Association (ISSA) and 
+assess the supplier on its legality, supply capacity, and so on in accordance with the Company’s
+“Evaluation Form for New Manufacturer Partners.”
+Founded in 1955, the ISSA is an international association representing nearly 2,000 suppliers worldwide, 
+with its members serving more than 500 locations. Suppliers registered with the ISSA must have various 
+ISO certifications (e.g. ISO 9001 Quality Management Systems, ISO 14001 Environmental Management 
+Systems, and ISO 45001 Occupational Health and Safety Management Systems) and various ethical 
+standards (e.g., hostile price-cutting competition, exaggeration of product details, joint monopoly,
+defamation of competitors, poaching their competitors’ employees are prohibited).
+3.1.4 Suppliers
+Evaluation of New Suppliers
+In accordance with the process procurement procedure, the Company will establish a supplier contact 
+list according to the category of purchased items, sign the contract after evaluation, and conduct irregular
+performance assessments. The Company’s seafarer shall proactively report to the Company on their 
+supply condition, or the Company will send a material assessment form to be completed on board as a 
+reference for the future cooperation.
+Evaluations of the Existing Suppliers
+● Supply capacity, the stock status and
+ storage size of the port / area.
+● Whether the products provided meet the
+ Company’s quality requirements / needs.
+● Whether the supplier have sufficient
+ supply experience.
+Supply capacity
+● The supplier reputation in the industry.
+● Whether the supplier have relevant
+ environmental certifications for
+ its production and service processes?
+● The supplier’s promotion of
+ sustainable development.
+Others
+● Flexibility to change order details or
+ delivery times.
+● Provide flexibility to resolve disputes as 
+they arise.
+● Correct billing content, which minimizes the
+ percentage of corrections.
+Collaboration
+● Timeliness and accuracy
+ in daily business cooperation.
+● Capability to meet urgent needs.
+● Quotation competitiveness.
+Operational performance
+3 Shipping Management
+49
+3 Shipping Management
+48
+
+(a) The death or serious injury 
+5
+(b) Seafarers lost 
+11
+ 
+(missing, jumping into the water)
+(c) Ships lost or abandoned 
+−
+ 
+(ships failing to return to port)
+(d) Damage to the vessel caused 
+4
+ 
+by external forces or malfunctions,
+ 
+affecting its seaworthiness
+(e) Damage to the vessel caused 
+6
+ 
+by external forces or malfunctions,
+ 
+which does not affect its seaworthiness
+(f) Causing damage to the environment 
+1
+ 
+(involving less than 50 metric tons
+ 
+of pollutants)
+(g) Causing severe damage 
+−
+ 
+to the environment (involving more
+ 
+than 50 metric tons of pollutants)
+2 0 2 1/ 1/ 1~ 2 0 2 1/ 12 / 3 1
+Number of occurrences in 2021
+Total 27
+Percentage of major incidents 
+( a, c, g ) 19%
+The Company’s fleet complies with the relevant regulations on hull structure, safety equipment, emergency
+response procedures, etc., and formulates various drills and training plans according to the SOLAS, 
+including helicopter rescue, man overboard rescue, enclosed space rescue, abandon ship drill, G / E and 
+M / E failures, ship collisions, shipboard flooding, bombs, pirate attacks, stowaways, etc., in order to 
+familiarize with the emergency handling processes in the event of an accident, thus minimizing damage 
+and losses. In 2021, the Company required each vessel conducts 8 drills and 4 trainings per month on 
+average, with an average of over 20 hours and approximately 240 hours per year. 
+In addition, for navigation in high-risk areas, such as the Somalia seas, where pirates are currently rampant,
+the Company has hired armed guards, joined group transit or naval escort to minimize the risk of an attack.
+In 2021, the Company’s fleet experienced a total of 27 shipping safety incidents, of which 19% were 
+major incidents, five involved fatalities or serious injuries, two seafarers dying of sicknesses, one  
+suicide, and two industrial injuries. To prevent future work-related injuries, the Company issues safety 
+management notices and adds relevant safety equipment to avoid the recurrence of similar incidents.
+3.2.2 Shipping Safety Management
+3.2 Maritime Safety
+A
+Purpose
+To enhance the safety awareness of crews, in order to reduce the risk of incidents and achieve 
+the safety of vessels, personnel, cargo, and the environment.
+B
+Policy
+In order to enhance safety awareness and promote safe operations, the Company has established
+a Safety Management System (SMS) for all seafarers and shore staff members to comply with.
+D
+Implementation Assessment and Adjustment Plans
+for Management Policy
+According to the Company’s evaluations of its performance in port inspections, there is currently
+no need to adjust its safety management policy.
+C
+Management Approach
+1. Comply with the International Convention for the Safety of Life at Sea (SOLAS).
+2. Comply with the International Safety Management Code (ISM Code).
+3. Hold regular Safety Management Committee meetings to review incidents
+ and regulations related to maritime safety, which are then reported to the
+ Board of Directors.
+Commitment
+1. In 2021, 3 Safety Management Committees were held.
+2. In 2021, 1 internal audit and 2 external audits were conducted.
+3. In 2021, 17 safety management notices were issued and SMS were updated
+ twice.
+Specific 
+action
+Board of Directors: Appoint a convener for the Safety Management Committee.
+Safety Management Committee: Comprised of the heads of relevant departments
+as convened by the convener to review safety incidents and procedures.
+ISM Department: Manage shipping safety, update SMS content according to 
+laws and regulations, as well as the Company’s actual needs, conduct internal
+audits and issue safety management notices.
+Technical Department: Supervise vessel maintenance and repair, as well as 
+tracking class condition projects.
+Business & Operation Department: Oversees vessel operations.
+Seaman Affairs Department: Responsible for the recruitment, management, 
+and embarkation and debarkation arrangements for seafarers.
+Responsibility
+& Resource
+1. To improve port inspection performance.
+2. To reduce the occurrence of ship incidents.
+Goal and 
+Target
+3.2.1 Management Approach
+3 Shipping Management
+51
+3 Shipping Management
+50
+
+WISDOM
+Tokyo MOU avg.
+Average number of deficiencies
+found per inspection
+3.3 Transport Quality
+A
+Purpose
+To optimize routes and transit times, in order to ensure that the quality and quantity of cargo are 
+not compromised.
+B
+Policy
+1. The Company complies with regulations related to cargo transportation to ensure that the
+ loading of cargo does not cause safety concerns to the vessel.
+2. The Company formulates an adequate stowage plan prior to cargo loading operation  confirms
+ cargo quality, monitors the loading process, and then records the quantity and loading situation
+ of the cargo.
+3. During the voyage, the Company carries out cargo hold monitoring, cargo condition logging or
+ ventilation work according to the cargo nature, as well as recording weather, meteorology, and
+ the vessel’s speed and fuel consumption.
+4. The Company also monitors cargo discharge operation.
+C
+Management Policy
+1. Comply with the International Maritime Solid Bulk Cargoes Code (IMSBC
+ Code) and International Maritime Dangerous Goods Code (IMDG Code).
+2. Periodical maintenance of the fleet  to ensure their cargo hold watertightness
+ and cleanliness.
+3. The Company’s onshore personnel maintain a constant contact with vessel’s
+ crew and provide supports in preparations for cargo operation.
+Commitment
+3.3.1 Management Approach
+In the event of an accident or major mechanical failure, if the seaworthiness and safety of the vessel may 
+be affected, a classification society shall be contacted for an provisional survey, which shall be carried 
+out by a ship surveyor to determine whether the ship condition is safe for navigation or list class conditions
+to be improved, and recommend any required repairs or replacement of spare parts.
+As of December 31, 2021, the Company’s fleet had 50 outstanding class conditions, which will be rectified
+before the due dates.
+In 2021, the Company’s fleet undergone PSC Inspection for a total of 340 times, of which defects were 
+identified in 170 inspections. Total 723 deficiencies were identified, and averaged 2.13 per inspection, 
+leading to a detention rate of 2.6%. Compared with the average 2.41% and 2.93% in the Tokyo MOU, the 
+Company’s performance was at a medium level, and was a slight improvement compared with 2020.
+Provisional Vessel Survey
+Annual Performance in PSC Inspection
+The IMO authorizes port states to establish a port state control (PSC) to carry out safety inspections on 
+board ships, issue deficiency report on non-compliance, require improvements for vessels, as well as 
+reviewing the situation and then proposing preventive measures. In severe cases, the port state will 
+detain the ship, which may not depart until the non-compliance has been rectified.
+Port states in different regions have established organizations similar to alliances to strengthen their 
+inspection efficiency and standardize inspection standards.  For example, the Tokyo MOU covers 20 
+port states in the Asia-Pacific region, and the Paris MOU mainly covers European Union member states. 
+Port states of the same alliance will share the inspection history of vessels to facilitate their tracking of 
+records about their past defects and to perform rechecks to confirm that the required rectification work 
+has been carried out.
+With regard to PSC Inspection, the Company’s shore personnel send various circulars, self-inspection 
+forms for vessels, and other precautionary notices in accordance with the guidelines of the Ship Safety 
+Management System, and instruct the vessels to complete a pre-examination during their voyage, so as 
+to pass their upcoming inspections after they arrive at the ports and avoid being detained due to major 
+deficiency.
+Self-inspection Process:
+3.2.3 Port State Control Inspection
+The vessel receives voyage 
+instructions about the port it 
+is approaching.
+The Captain instructs the 
+seafarers to carry out a self 
+inspection.
+Company’s PIC sends a note 
+to the Captain.
+The Company guides the 
+crew to rectify the deficiency.
+The Captain reports the self 
+inspection results to the 
+Company.
+Detention rate 
+2.32
+1.85
+2.34
+1.82
+1.80
+1.96
+2.41
+2.96%
+3.13%
+2.93%
+2.54%
+2.10%
+2.10%
+2.60%
+4.10%
+2.13
+2018
+2019
+2020
+2021
+2018
+2019
+2020
+2021
+3 Shipping Management
+53
+3 Shipping Management
+52
+
+D
+Implementation Assessment and Adjustment Plans
+for Management Policy
+In 2021, the Company’s fleet maintained a low cargo claim rate of 1.4%, and its pass rate of the 
+first hold inspection was 97.8%. Based on these two indicators, the Company’s transport quality
+shows a stable trend over the long term. At present, the Company has no plan to modify its
+management policy.
+C
+Management Policy
+Irregularly arrange lectures on claims procedure and loss prevention.
+Specific 
+action
+The fleet is equipped with daily report system StormGeo, which provides 
+real-time weather information on the ship’s location, speed, and weather 
+conditions; it also provides sailing route and voyage time optimization.
+Safety Management Committee: In charge of review and deliberate on major 
+cargo transportation issues.
+Business & Operation Department: Monitor the loading, discharging and 
+transportation of cargo, and conduct educational training based on the loss 
+prevention team’s collected case study results.
+Seaman Affairs Department: Enhance crews’ expertise in loading and
+transporting of different cargoes.
+Technical Department: Oversee and maintain sound vessel conditions.
+Responsibility
+& Resource
+1. To maintain the fleet’s first-time pass rate in pre-loading hold inspections.
+2. To maintain fleet’s current low cargo shortage and damage rate.
+3. To monitor the cargo in-transit time in accordance to the charter party speed.
+Goal and 
+Target
+In order to ensure the complete transportation of cargo on each voyage, the operational personnel from 
+the Company’s Business & Operation Department will provide voyage’s relevant information on the 
+cargo on the voyage via mail, telephone, etc., reminding the vessel’s crew on the cargo characteristics, 
+cargo loading precautions, cargo moisture content testing, cargo temperature monitoring, and port 
+specific regulations, etc.
+The Company’s in-house electronic notice board system is also equipped with a loss prevention archive 
+for its employees to independently educate and train themselves, such information can also be shared 
+with the sea crews; staffs are also encouraged to participate in relevant seminars to hone their professional
+skills in transport management.
+In 2021, the Company’s first-time pass rate in hold inspections was 97.8%, of which vessels failed their 
+first cargo hold inspection on 25 voyages, mainly due to insufficient hold maintenance and cargo 
+residues. Cargo residues are the charterer’s responsibility under a time charter and should be cleared 
+by charterers. The Company has also strengthened supervision measures for cleaning tools inventory 
+checks and cargo hold maintenance procedures to improve the cargo hold maintenance standard.
+Pre-loading Preparations
+The Company’s fleet complies with international regulations such as the IMSBC Code and IMDG Code. 
+While the vessel’s safety is prioritized, the fleet loads and discharge cargo based on the vessel type and 
+cargo characteristics, and carries out flexible adjustments after considering the specific needs of the 
+charterer and market requirement.
+In order to improve management efficiency, since 2017, the Company has implemented the daily-reporting
+meteorological system developed by meteorological navigation company StormGeo. The system enables
+Company to obtain the vessel’s location through the Automatic Identification System (AIS) and onshore 
+automatic identification system, and can provide real-time meteorological information based on the 
+vessel’s real time location.
+In 2021, the Company’s fleet suffered cargo damage and shortage on a total of 16 voyages, with the 
+cargo damage occurrence rate reaching 1.4%. Analysis shows that the main reason for the cargo losses 
+this year was due to the detection errors and mishandlings of the vessels’ draft survey. The Company 
+has strengthened educational training in draft survey procedures. 
+Transport Quality Management
+3.3.2 Cargo Transport
+Pass rate
+2018
+2019
+2020
+2021
+98.0%
+96.2%
+96.8%
+97.8%
+Cargo damage rate
+2018
+2019
+2020
+2021
+1.0%
+1.4%
+1.4%
+1.3%
+3 Shipping Management
+55
+3 Shipping Management
+54
+
+In 2021, the Company’s fleet was capable of operating for a total of 49,595 days, and the number of 
+effective operation (revenue-generating ) days was 47,958 days (about 97% ). Routine drydocking 
+accounted for about 1.5% of the total ineffective operation days. Due to the pandemic, the proportion of 
+replacing seafarers to the maximum operational days was extended by about 0.6%. The remaining 
+losses mainly stemmed from mechanical failure and seafarer injuries and illnesses. With regard to 
+mechanical failure, the Company has strengthened its supervision for routine maintenance of ships. For 
+seafarer injuries and illnesses, the Company will continue to monitor the implementation of industrial 
+safety assurance, crews’ health management, and pandemic prevention measures for vessels at port.
+The Company invests in eco ships with advanced
+specifications for the long term, and actively adopts new 
+designs and energy-saving, eco-friendly equipment, 
+aiming to reduce greenhouse gas emissions and improve 
+energy efficiency. It also complies with international
+environmental regulations and builds a leading green fleet 
+in the industry.
+As of the end of 2021, for the Company’s fleet classified by 
+Engine Type ( excluding the manage-only vessel ), new 
+eco-ships with the ME type main engine accounted for 
+48%. Including Company’s newbuilding vessels under 
+construction, such new type of eco-ships with ME main 
+engine are expected to make up 54% of the Company’s 
+fleet in 2024.
+Operational Management
+Measurement differences
+Errors in instruments for shore
+scaling, and errors in the ship’s
+cargo quantity as measured
+by its draft survey at the 
+loading and discharging ports.
+11
+Weather factors
+For example, the cargo can 
+be damaged by sudden rain 
+during discharging.
+1
+Others
+For example, the charterer 
+requires the discharge of a 
+specific quantity of cargo at 
+different ports, resulting in a 
+cargo shortage at subsequent
+discharging port.
+1
+Cargo characteristics
+For example, grains with 
+high moisture content are 
+prone to moldiness and 
+deterioration.
+3
+Improper cargo stowage
+For example, failure to lash 
+and tie steel or mechanical 
+equipment during loading 
+or discharging.
+0
+Fleet suffered 
+cargo damage 
+and shortage
+in 2021
+Total 16
+In the event of cargo damage or shortage, the Shipowners’
+Protection and Indemnity Club ( P&I) should be contacted
+by the following procedure:
+1. The shipowner and P&I send surveyors to the site to confirm the extent of cargo damage.
+2. The shipowner instructs the Captain to sign a letter of protest for the claimant.
+3. The shipowner confirms the investigation report issued by the inspector and preliminarily 
+assesses the cargo damage situation, including the amount involved.
+4. With the assistance of P&I, the shipowner discusses the solution with the claimant.
+5. If a settlement cannot be reached, both parties will be going through legal procedures.
+3.4 Investment in Eco Ships
+3.4.1 Green Fleet
+1
+2
+3
+4
+5
+7
+8
+6
+9
+Ships are specially designed to reduce wave-making resistance.
+ 
+The windlass, cable crane, and hatch cover are driven by electric
+ 
+motors to reduce fuel consumption and contamination.
+Smooth coatings are used in exterior paint to reduce navigational 
+resistance.
+Electronic fuel injection systems are adopted to reduce fuel 
+consumption compared to traditional diesel engines.
+Ballast water treatment systems are installed to reduce the impact 
+of the marine environment.
+The DUET + Fin & MT-FAST & NCF system is adopted for propellers
+to increase propulsion efficiency.
+Exhaust boilers and heat waste reclamation systems are adopted 
+to increase reuse of the heat waste from the ship’s main engines.
+The exposure of the living quarters’ front to winds is decreased to 
+reduce wind resistance and fuel consumption.
+1
+2
+3
+4
+5
+7
+8
+6
+9
+Proportion of vessels
+with ME engines in the
+Wisdom fleet
+2021
+2024
+48%
+54%
+3 Shipping Management
+57
+3 Shipping Management
+56
+
+The Energy Efficiency Design Index (EEDI) measures a vessel’s carbon emissions per nautical mile of 
+voyage with every ton of cargo and is related to the main engine, mechanical energy efficiency technology,
+hull, equipment, etc. The standard level in the EEDI, which should be reached by each vessel, is calculated
+by classification societies based on the vessel type and equipment, and is documented in the International
+Energy Efficiency Certificate (IEEC).
+According to Annex VI of the MARPOL, the keel laid date between 2013 and 2014 (Phase 0) shall be 
+subject to the EEDI calculation. The lower the EEDI value, the higher the energy efficiency of the vessel 
+design. The Phase I requirements shall be met by vessels with its keel laid date between 2015 and 2019, 
+the Phase II standards by those keel laid date from 2020 to 2024, and the Phase III ones by those keel 
+laid date from 2025. The efficiency requirements differ from Phases I to III, with the required energy 
+efficiency improvements increasing by 10% by phase.
+The Company’s purchase of newbuilding adheres to the principle of environmental protection and energy
+conservation, reducing carbon emissions by vessels from the design. Currently, 19 of the Company’s 
+vessels meet the Phase I standards. From 2022 to 2024, of the Company’s upcoming 17 newbuilding, 
+fivewill meet the Phase I standards and 12 the Phase II requirements. In general, larger vessels with 
+similar main engines can achieve higher energy efficiency due to their large cargo capacity. For years, 
+the Company’s newbuilding has exceeded the standard EEDI value, with an average EEDI value for the 
+Company’s seven new vessels reaching 6.89 in 2021, higher than the standard value of 7.44.
+3.4.2 Energy Efficiency Design Index (EEDI)
+Standard EEDI value
+Actual EEDI value
+Unit: gram-CO2/ tonne-mile
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+5.62
+4.78
+5.54
+4.59
+4.69
+3.80
+7.12
+6.50
+7.44
+6.97
+5.14
+4.71
+4.64
+4.06
+14
+10
+10
+8
+8
+4
+7
+Number of newbuilding
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+4
+SDG 3 Good Health and Well-being
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — In
+ compliance with Appendix I of the MARPOL— Prevention of Pollution
+ by Oil, the Company implements oil pollution management, and
+ transparently uncovers and reviews incidents of non-compliance with
+ environmental laws and regulations for improvements. The Company 
+had only 1 oil spill incident in 2021.
+SDG 13 Climate Action
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — The
+ Company improved its ship management quality by collecting data 
+through the StormGeo system, analyzing the navigation efficiency of 
+its fleet, and measuring its greenhouse gas emissions.
+SDG 14 Life Below Water
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — At the
+ end of 2021, the Company accounted for 94% of the fleet equipped
+ with ballast water treatment systems in compliance with the
+ international convention on the ballast water management.
+4.1 Energy |60
+4.2 Emissions |64
+4.3 Environmental Impact
+of the Transport Process |67
+4.4 Compliance with Environmental Laws
+and Regulations |71
+Marine Environment
+Sustainability
+3 Shipping Management
+58
+
+4.1 Energy
+A
+Purpose
+To improve the Company’s energy efficiency to enhance its fleet competitiveness and reduce 
+the emissions of greenhouse gas (GHG) and other pollutants, as well as environmental impacts.
+B
+Policy
+The Company aims to comply with relevant international regulations, monitor its fleet’s energy 
+consumption and emissions, dispose old and less energy-efficient ships, and invest in 
+eco-ships. As long as safety and charter times are unaffected, the Company will coordinate with 
+charterers in adjusting the voyage speed for energy conservation purposes.
+D
+Implementation Assessment and Adjustment Plans
+for Management Policy
+In 2021, the Company’s EEOI value was 12.21, a slight improvement from 2020. The proportion 
+of eco-ships to the Company’s fleet also continued to rise to 48%, so there is no need to adjust 
+its management policy for the time being.
+C
+Management Approach
+1. Comply with Annex VI of the International Convention for the Prevention of 
+ Pollution from Ships ( MARPOL ) — Regulations for the Prevention of Air
+ Pollution from Ships.
+2. Execute the Ship Energy Efficiency Management Plan.
+3. Continuously invest in energy-saving ships and eliminate old ships.
+Commitment
+1. As of the end of 2021, the Company’s entire fleet complied with the EEXI.
+2. By the end of 2021, simulated evaluations based on the Carbon Intensity 
+Indicator (CII) were completed for the Company’s whole fleet (calculated 
+using 2020 sailing data).
+Specific 
+action
+ISM Department: Supervise vessels in their compliance with various
+environmentallaws and regulations.
+Technical Department: Supervise routine maintenance and repair of the 
+Company’s fleet.
+Business & Operation Department: Supervise the daily operations of vessels 
+and their fuel consumption.
+Responsibility
+& Resource
+1. To continuously improve the Company’s fleet performance in relation to the 
+Energy Efficiency Operational Indicator (EEOI).
+2. To continuously increase the proportion of eco-ships to the Company’s fleet.
+3. To have fleet-wide operations meet the regulatory standards in the Energy 
+Efficiency Existing Ship Index (EEXI) from 2023.
+Goal and 
+Target
+4.1.1 Management Approach
+The Company’s headquarters regularly promote energy-saving concepts to their employees through 
+internal announcements, and select equipment that are more eco-friendly and energy-saving, include 
+gradually replacing lighting equipment with LED light tubes from 2019, and adding heat insulation and 
+sun protection films to their windows reduce the indoor temperature rise, indirectly reducing their need 
+for air-conditioning.
+A.Energy-saving Measures by Headquarters
+In accordance with the Ship Energy Efficiency Management Plan (SEEMP) issued by the IMO, the Company’s
+fleet implements energy management plans, in which they adjust their optimal speed based on voyage 
+needs, as well as reducing their energy use and environmental pollution without affecting the vessel’s 
+life cycle. The specific measures are as follows:
+B.Ship Energy Efficiency Management Plan
+4.1.2 Energy Management
+● The Captain liaises closely with the port agent to ensure instant 
+communication in case of changes in the ship’s voyage plan.
+● The Captain adjusts the port arrival time based on the berthing 
+schedule provided by the port agent. 
+Instant
+communication
+● The Captain reviews the energy usage on board, plans energy 
+conservation policies, and raises the awareness of the seafarer to 
+conserve energy.
+● The Chief Engineer lists the equipment that can be turned off 
+during the berthing period.
+● The vessel’s entire seafarer jointly reviews the benefits of energy-
+ saving actions every month.
+Instant
+communication
+● The Chief Engineer judges the vessel’s optimal speed by using the
+ “Ship Speed-Main Engine Speed-Fuel Consumption” comparison
+ table.
+● The Captain and charterer confirm the speed requirements for the 
+voyage.
+● The Captain, charterer, and shipowner discuss the optimal speed 
+to improve the energy efficiency.
+● The Captain adjusts the vessel’s speed according to the weather 
+and sea conditions.
+Ship speed 
+optimization
+61
+4 Marine Environment Sustainability
+4 Marine Environment Sustainability
+60
+
+Heavy Fuel Oil (HFO)
+Ship
+6,386 
+0
+0
+Very low sulphur fuel oil (VLSFO)
+0
+10,648 
+5,772 
+Marine gas oil (MGO) / marine diesel oil (MDO)
+240 
+1,082
+1,718 
+Total (ton)
+6,626
+11,730 
+7,490 
+Electricity consumption
+Taipei office
+226,145 
+241,478 
+233,945 
+Petrol (liter)
+Business vehicle
+4,400
+4,400
+4,400
+Total energy consumption
+282,307
+517,778
+332,553
+Proportion of HFO
+96%
+90%
+76%
+Proportion of renewable energy source use
+0%
+0%
+0%
+Energy use (GJ)
+281,350
+516,765
+331,657
+Total voyage distance (nautical mile)
+115,243
+111,180
+94,111
+Total cargo load (ton)
+486,016
+1,102,568
+261,701
+Energy intensity (GJ / ton-nautical mile)
+2.53
+2.86
+3.52
+2 0 1 9
+I t e m
+A c t i v i t y  D a t a
+2 0 2 1
+2 0 2 0
+The operation modes of the Company’s fleet can be broadly divided into two categories: time charters 
+and voyage charters. The daily hire is paid by the charterer for the time charter period. The shipowner 
+instructs the Captain to sail in accordance with the charterer’s voyage instructions, and the charterer is 
+responsible for purchasing fuel and managing energy use. The voyage charter is based on the loading 
+and unloading location designated by the cargo owner, and is planned by the Company for the voyage 
+as well as fuel purchase and consumption management.
+Divided by operational control in energy use, “internal energy use” includes oil consumed by the Company’s
+fleet on its controlled voyages, petrol used by business vehicles, and electricity consumed by the Company’s
+Taipei headquarters (the electricity consumption area is measured 3,381 square meters, including four 
+floors, of which two floors are chartered-in and the other two for use by the headquarters). “External 
+energy use” includes the fuel oil consumed by ships during time charters and the manage-only vessel.
+4.1.3 Energy Use
+4.1.4 Energy Efficiency Operational Indicator (EEOI )
+A.Internal Energy Use
+Energy use (GJ)
+20,043,237
+26,664,915
+24,997,214
+Total voyage distance (nautical mile)
+6,294,351 
+7,042,430
+7,041,289 
+Total cargo load (ton)
+41,517,537
+49,935,035 
+39,328,442
+Energy intensity (GJ / ton-nautical mile)
+3.18
+3.79
+3.55
+Total energy consumption
+20,043,237
+26,664,915
+24,997,214
+Proportion of HFO
+94%
+93%
+94%
+Proportion of renewable energy source use
+0%
+0%
+0%
+Heavy Fuel Oil (HFO)
+Ship
+445,760
+14,823
+12,447 
+Very low sulphur fuel oil (VLSFO)
+1,184 
+551,497
+521,985 
+Marine gas oil (MGO) / marine diesel oil (MDO)
+24,472 
+40,027
+34,063 
+Total (ton)
+471,416
+606,347
+568,495 
+2
+0
+1
+9
+Item
+A c t i v i t y  D a t a
+2
+0
+2
+1
+2
+0
+2
+0
+B.External Energy Use
+The Energy Efficiency Operational Indicator (EEOI) measures the carbon emissions per unit of cargo 
+and distance travelled by vessels. The lower the EEOI value, the better the operational efficiency, 
+which can be optimized when the vessel is fully loaded and sailing at economic speed. The Company’s
+operation mode is mainly based on charters, and it has no fixed schedules and routes for bulk shipping.
+The loading and discharging port, cargo capacity, sailing speed, and routes must be planned in
+accordance with the clients’ voyage instructions, and are not controlled by shipowners. Changes in 
+the EEOI value do not represent the fleet’s actual operational efficiency.
+2 0 1 9
+11.93
+2 0 2 0
+12.29
+2 0 2 1
+12.21
+Average EEOI for fleet
+In order to effectively implement the goal of gradually reducing the carbon intensity of the shipping 
+industry, the IMO passed two new regulations at the MEPC 76 meeting in June 2021, namely the Energy 
+Efficiency Existing Ship Index (EEXI) and the Carbon Intensity Index (CII), which will take effect on 1 
+January 2023. 
+4.1.5 Energy Efficiency Existing Ship Index ( EEXI ) 
+ 
+and Carbon Intensity Index ( CII ) 
+63
+4 Marine Environment Sustainability
+4 Marine Environment Sustainability
+62
+
+The EEXI regulations mandate that regardless of the construction year, vessels with their first international
+air pollution prevention survey conducted after 1 January 2023, shall be subject to the validation of its 
+calculated EEXI value and require the International Energy Efficiency Certificate (IEEC). The calculated 
+EEXI value for each vessel is required to be at least 20% higher than the reference value.
+The CII regulations require that from January 1, 2023, all vessels on international routes should calculate 
+their CII value based on the annual voyage distance, fuel consumption, and other data, and compare 
+it with the reference value to determine the ratings of each vessel, ranging from A to E. If its rating has 
+been D or E for three consecutive years, an improvement plan must be proposed to the flag state.
+The Company has been following the development of these two new regulations since 2021 and began 
+to check the compliance of the whole fleet with the EEXI regulations after the resolution of the MEPC 76 
+meeting in mid-2021. In 2022, it cooperated with the shipyard and the main engine manufacturer to carry 
+out the vessel’s main engine speed adjustment (EPL, Engine Power Limitation) in order to achieve the 
+goal of the whole fleet complying with the EEXI regulations from 2023.
+The Company divides greenhouse gases in and outside the organization by operational control. Main 
+sources of Scope 1 emissions are fuel consumed by vessels on voyages controlled by Wisdom, and also 
+include personnel activities, refrigerant refills for the fleet, and use of company vehicles. Main source of 
+Scope 2 emissions is purchased electricity at the headquarter. Main sources of Scope 3 emissions are 
+fuel consumed by vessels on time-charter or managed by Wisdom on behalf of third parties. Voluntary 
+inventories have been completed for Scope 1, Scope 2, and Scope 3 emissions according to ISO 14064-1.
+4.2 Emissions
+4.2.1 Greenhouse Gas Emissions
+The Company’s fleet has the Engine International Air Pollution Prevention (EIAPP) and technical files 
+(Technical File) for NOx management. It also manages sulphur oxides and ozone-destroying substances 
+according to the Company’s Safety Management System.
+The MARPOL Annex VI requires that newbuilding whose keel was laid between 2000 and 2010 comply 
+with the phase I regulations for NOx emissions, those between 2011 and 2015 should abide by Phase II 
+regulations, and those from 2016 phase III ones. The control over NOx emissions becomes stricter by 
+phase.
+According to the IMO’s sulphur limitation regulations, except for vessels equipped with qualified scrubbers,
+the sulphur content of merchant marine fuel around the global shall not exceed 0.5%. As of the end of 2021,
+the Company had installed scrubbers on three ships, with the other ones fully powered by low-sulphur 
+fuel with less than 0.5% sulphur content.
+As required by laws and regulations to reduce damage to the ozone layer, the Company uses
+environmentally friendly refrigerants on most of its vessels. Only a few vessels constructed during the 
+transitional period use non-environmentally friendly refrigerants. As of the end of 2021, the Company 
+had 12 such vessels, whose total filling capacity for non-environmentally friendly refrigerants was 190kg.
+4.2.2 Air Pollutant Emissions
+The Company’s greenhouse gas emissions are mainly from scope 1 and 3. Based on the IMO reduction 
+strategy, the Company has adopted Annual Efficiency Ratio (AER) as the measurement for the carbon 
+emission intensity, set 2008 as the base year, targeted to reduce carbon emission intensity by at least 
+55% by 2030 and at least 80% by 2040.
+4.2.3 Reduction Target
+Scope 1
+27,843
+43,974 
+30,733 
+Scope 2
+121
+123 
+ 117 
+Total of Scope 1 and Scope 2
+27,963
+44,097
+30,851
+Scope 3
+1,470,284 
+1,912,251
+1,792,783
+Metric ton
+(CO2e)
+2
+0
+1 9
+I t e m
+2 0
+2 1
+U n i t
+2 0
+2 0
+Note 1:  Scope 1 and Scope 3 emissions are estimated mainly by fuel use. The emission coefficients are
+ 
+based on IMO MEPC.245 (66). The emission coefficient for Scope 2 purchased electricity is
+ 
+calculated according to the most recent electricity emission coefficient published by the Bureau
+ 
+of Energy of MOEA. GHG types: carbon dioxide, methane, nitrous oxide, hydrochlorofluorocarbons,
+ 
+perflourocarbons, and sulphur hexafluoride. 
+Note 2: The emission coefficient for fuel oils is 3.114 for HSFO, 3.151 for LSFO and 3.206 for other fuel oils.
+Note 3: The electricity emission coefficient was 0.533, 0.509, and 0.502 (kg CO2/ kWh) in 2019, 2020, and
+ 
+2021 respectively.
+NOx
+662.56
+1,172.99
+748.98
+Estimate by BIMCO Shipping KPI formula—
+oil consumption x NOx emission factor
+PM10
+12.05
+22.22
+14.42
+Estimated by formula—
+fuel consumption x PM10 emission factor
+Ton
+Sulphur oxide
+357.86
+107.56
+59.44
+Estimate by formula—
+oil consumption x sulphur content of
+oil products x sulphur oxide emission factor
+2 0 1 9
+E m i s s i o n s
+R e f e r e n c e
+2 0 2 1
+Unit
+2 0 2 0
+Ozone-depleting substances
+Non-eco-friendly refrigerant
+R-22
+478
+228
+190
+Kg
+Eco-friendly refrigerant
+R-404A、R134A、R407C
+1,604
+1,656
+2,015
+2019
+I t e m
+2021
+Unit
+R e m a r k
+2020
+65
+4 Marine Environment Sustainability
+4 Marine Environment Sustainability
+64
+
+Base Year
+(1) Adopt Annual Efficiency Ratio (AER) as the
+ 
+measurement for the carbon emission intensity.
+(2) Set 2008 as the base year, targeted to reduce
+ 
+carbon emission intensity by at least 55% by
+ 
+2030 and at least 80% by 2040.
+Wisdom Marine’s Reduction Target 
+2008
+2021
+2030
+2020
+2019
+2040
+AER
+(gCO2/dwt/nm)
+% reduction compared
+to the base year
+2.00
+0.00
+4.00
+6.00
+8.00
+10.00
+12.00
+14.00
+16.00
+18.00
+20.00
+100%
+0%
+20%
+40%
+60%
+80%
+Now
+reduced 42%
+Reduce 80%
+by 2040
+2008
+2030
+2021
+2040
+reduce
+55%
+reduce
+80%
+The AER of the Company’s fleet in 2008 was estimated to be 19.64 according to the Fourth IMO GHG 
+Study 2020. Starting from 2019, the fleet’s actual AER has been collected by the reporting system. The 
+Fleet’s average AER for 2021 was 11.65, reduced about 42% compared to 2008. Compared to the previous
+two years, 2021’s AER was slightly higher mainly due to lower fleet turnover rate, resulting from the 
+prolonged quarantine period and the delays in port operations.
+In order to achieve the target, the Company will continue to invest in high-specification eco-ships and 
+adopt new designs and energy-saving equipment to reduce emissions and improve energy efficiency. 
+On the operational side, the Company will implement energy-saving actions in accordance with the Ship 
+Energy Efficiency Management Plan (SEEMP) to optimize sailing speed, reduce energy consumption 
+and reduce environmental pollution. 
+4.3 Environmental Impact
+ 
+of the Transport Process
+A
+Purpose
+To combat marine pollution, protect the marine environment, and reduce the impact on the 
+environment during transportation.
+B
+Policy
+The Company aims to comply with international laws and regulations, establish standard 
+disposal procedures for waste and ballast water generated during transportation, such as 
+sewage, household garbage, etc., to avoid oil spill incidents, and insure against relevant risks to 
+cover cleaning and compensation costs incurred in the event of incidents.
+C
+Management Approach
+1. Comply with Appendix I of the MARPOL — Prevention of Pollution by Oil.
+2. Comply with Annex IV of the MARPOL — Regulations for the Prevention of
+ Pollution by Sewage from Ships.
+3. Comply with Annex V of the MARPOL — Regulations for the Prevention of
+ Pollution by Garbage from Ships.
+4. Comply with the International Convention on Civil Liability for Bunker Oil
+ Pollution Damage (Bunker Convention).
+5. Comply with the International Convention for the Control and Management
+ of Ships’ Ballast Water and Sediments.
+6. Insure against the shipowner’s responsibilities and pollution clean-up, and
+ employ an emergency response team in specific waters in accordance with
+ the law.
+Commitment
+ISM Department: Supervise vessels in complying with various environmental 
+laws and regulations, arrange regular surveys by classification societies, and 
+vessel visit irregularly to conduct audits.
+Technical Department: Supervise routine maintenance and repair of the 
+Company’s fleet.
+Business & Operation Department: Oversee the day-to-day operations of 
+vessels.
+Responsibility
+& Resource
+1. Implement legal and regulatory requirements.
+2. Zero legal and regulatory violations.
+Goal and 
+Target
+4.3.1 Management Approach
+Base Year
+67
+4 Marine Environment Sustainability
+4 Marine Environment Sustainability
+66
+
+The water sources of the Company’s fleet include freshwater manufactured by seawater desalination 
+machines and purchased onshore. The former is mainly for everyday on-board washing and cooking, 
+while the latter is mainly for consumption by seafarers. The Company’s sewage management follows 
+Annex IV of the MARPOL—Regulations for the Prevention of Pollution by Sewage from Ships, and divides
+everyday water into three types for management: “oil-containing water”, “sewage water”, and “gray 
+water”. Hold washing water and deck water are collected by special pipelines to storage tanks, and then 
+discharged to the sea at an appropriate distance from the shore after the vessel leaves the port. If the hold 
+washing water contains substances harmful to marine life, they will be discharged at an appropriate port.
+The disposal measures of the Company’s fleet based on the sewage category are as follows:
+B.Sewage Management
+● The Captain was informed of an oil spill from seafarers.
+● The Captain sounds the alarm for all seafarers to be prepared for an 
+oil spill emergency.
+● The Captain informs port authorities, companies, and nearest port 
+agencies.
+Report
+● As the situation stabilizes, the Captain and Chief Engineer investigate
+ the cause of the accident.
+● The captain report the investigation results, corrective actions and 
+preventive measures.
+Investigate 
+and improve
+With oil spill a major environmental issue in the shipping industry, the Company follows Appendix I of the 
+MARPOL in managing oil spills from vessels, and developing procedures for handling oil spill.
+4.3.2 Oil Pollution Management
+D
+Implementation Assessment and Adjustment Plans
+for Management Policy
+In 2021, the Company’s feet had one minor ship pollution incident (please see Section 4.4 for 
+details), in which a small amount of oil-polluted water accidentally mixed with ballast water and 
+flowed into the sea. The Company’s evaluation of the incident showed that the cause of the 
+accident was not human error, so there is currently no plan to adjust its management policy.
+Summon
+a team
+● The Company summons an emergency team to discuss measures to 
+be implemented on board.
+● The Captain summons all seafarers and implements oil spill handling 
+measures in accordance with the emergency arrangement form and 
+the Company’s recommendations.
+Record
+● The Captain records the time of occurrence, actions taken and the 
+end time of the entire accident in the deck logbook.
+● Reports are prepared in accordance with the safety management 
+regulations for review by relevant authorities.
+● Reduce oil spill: Transfer residual oil to other oil tanks and clean oil 
+spills on the deck use oil-absorbing materials.
+● Controlling the area of the oil spill: Determine whether a second or 
+third layer of oil boom is required, taking into account on-site weather
+ factors, such as wind, waves, currents, and tides.
+● Recovery of oil spills: Dispose the used oily materials and recover 
+oil spills to an oil pollution recovery organization in coastal countries.
+Action
+The Company’s headquarters regularly promotes the concept of water conservation to their employees 
+through internal announcements, and gradually chooses water-saving products, including upgrading the 
+hardware equipment of the toilets during the renovation in 2019, and installing induction faucets and 
+toilets with the feature to control the amount of flush water. In recent years, the water use situation 
+was as follows:
+A.Water Resources Used by Headquarters
+4.3.3 Water Resources Management
+After being treated by an Oily Water Separator, the bilge will be discharged
+into the sea as long as the oil content alarm confirms that the oil content 
+has dropped to 15ppm. If the treatment performance does not meet the 
+standards, the discharge will be stopped. To ensure the effectiveness of 
+the oil content alarm, a calibration test should be arranged every five years.
+Bilge
+Ships are equipped with a sewage treatment plant or sewage storage 
+tanks, which, following appropriate crushing and sterilization, will 
+discharge sewage at an appropriate distance from the shore and at a 
+suitable speed in accordance with the law.
+Sewage
+Newbuilding equipped with gray water storage tanks to store the gray 
+water generated at the port. After leaving the port, the vessel will discharge
+gray water into the sea at an appropriate distance to avoid pollution of 
+the port.
+Gray water
+Year
+Water consumption
+1,804
+2 0 1 9
+1,806
+2 0 2 0
+1,543
+2 0 2 1
+69
+4 Marine Environment Sustainability
+4 Marine Environment Sustainability
+68
+
+In following the Annex V of the MARPOL—Regulations for the Prevention of Pollution by Garbage from 
+Ships, the Company’s fleet mainly divides the waste generated during the voyage into five types for
+management: “plastic waste”, “food waste”, “household and work waste”, “burning ashes” and “cargo 
+residue”. The Company has also established rules for waste management in the polar zones (latitude 
+66.5° and above) according to IMO regulations, but in fact the fleet’s operations has not been carried 
+out in those zones.
+Each vessel follows instructions on the diagram about the standard configuration of garbage cans specified
+by the Company’s SMS in classifying all kinds of garbage into different colors of garbage cans, classifying
+garbage into different categories, setting up a centralized place on the afterdeck, and disposing of it in 
+accordance with the regulations. According to the regulations, plastic waste and other waste prohibited 
+from being disposed of into the sea should be disposed of onshore. In 2021, the total amount of waste 
+disposed of onshore amounted to 1,057 cubic meters.
+4.3.4 Waste Management
+The Baltic Sea, the North Sea, the coastal area within 200 nautical miles of North America, and the 
+Caribbean Sea are included in the sulphur oxide emission control area in accordance with Annex VI of 
+the IMARPOL—Regulations for the Prevention of Air Pollution from Ships. Ships sailing in this area must 
+use fuel with less than 0.1% in sulphur content. In 2021, the Company’s fleet sailed and docked in the 
+emission control areas for a total of 2,842 days.
+The Company’s fleet operates in compliance with international conventions, works to protect the marine 
+environment, and transparently uncovers and reviews incidents of non-compliance with environmental 
+laws and regulations for improvements. The Company’s only two violations of environmental laws and 
+regulations in the past two years are disclosed below.
+4.3.6 Sailing in Emission Control Area
+According to the International Convention for 
+the Control and Management of Ships’ Ballast
+Water and Sediments (BWM), vessels should 
+be equipped with a ballast water treatment 
+system to remove microorganisms from ballast
+water or to exchange ballast water in the ocean
+as required to reduce the damage caused by 
+microbial migration.
+As of 2021, the Company’s fleet is already 
+equipped with an on-board ballast water 
+treatment system, 94% of whose treated 
+ballast water meets the standards. Only 6% of
+those without such a system met the standard
+in the ballast water exchange. The Company 
+will continue to install ballast water treatment 
+systems according to the docking schedule.
+4.3.5 Ballast Water Management
+Ballast water discharge
+19,349,371 ton
+94%
+Vessels with the
+treatment system
+Plastic waste
+ 616 
+ 619
+512
+Cubic meter
+Food waste
+108
+ 81
+93
+Household and work waste
+496
+1,111
+404
+Burning ashes
+26 
+25
+25
+Cargo residues
+6
+65
+23
+Total
+1,252
+1,901
+1,057
+2019
+Abandoned waste item
+2021
+U n i t
+2020
+4.4 Compliance with Environmental Laws
+ 
+and Regulations
+Y e a r
+E v e n t
+2 0 2 0
+● M.V. In 2019, while unloading goods at the port of Ube, Japan, M.V. Bizen discharged 
+ballast water, causing its oil and water to be pumped out and discharged into the sea as 
+the outlet valve of the drain pot in its engine room was abnormally loose.
+ Upon discovering abnormal oil spill on the surface of the sea, the seafarer on duty on 
+the deck immediately notified the engine room to stop the operation and reported the 
+spill to the port authority as soon as possible.
+ On February 25, 2020, the Japanese port authority completed an investigation into the 
+incident and imposed a fine of JPY700,000. This incident was about accidental spill 
+caused by equipment failure.
+ The spill was estimated to amount to less than 0.1 metric tons.
+2 0 2 1
+● When loading cargo at the Swedish port of Halmstad on February 23, 2021, M.V. Amis 
+Leader was notified by the port authority that there was oil on the sea around the vessel, 
+and the engine stopped the relevant discharge operations immediately.
+ An investigation found that the sewage valve of the vessel’s engine room was blocked 
+by cement and did not close properly. As a result, a small amount of bilge from the 
+bottom of the engine room accidentally mixed with the ballast water that was being 
+discharged into the sea.
+ On April 20, 2021, the port Authority completed the investigation and closed the case after
+ imposing a fine of NT$200,000 (SEK 71,400).
+ The spill was estimated to total less than 0.02 metric tons.
+2021
+71
+4 Marine Environment Sustainability
+4 Marine Environment Sustainability
+70
+
+Talent
+Development
+5.1 Management of Shore-based Staff |73
+5.2 Seafarer Management |82
+“Shore-based staff” and “Seafarers” are important assets indispensable for the Company’s stable
+operations, with the former managed by the Administration Department and the latter by the Seaman 
+Affairs Department. In compliance with relevant regulations, the two departments formulate appropriate 
+management policies, appraisals, remunerations, and rewards based on their managed workers’ duties, 
+and cultivate maritime transport talents, so as to realize the goal of sustainable operations through
+accumulated and inherited practical experience. 
+5
+5.1 Management of Shore-based Staff
+A
+Purpose
+To create a harmonious workplace for both the Company’s employees and management, so that 
+its employees can carry out their duties with peace of mind under the Company’s support.
+B
+Policy
+The Company aims to comply with the Labor Standards Act and relevant labor ordinances, as 
+well as establishing its internal management system in accordance with laws and regulations. 
+The Company will establish communication channels between its employees and management 
+and adjust its regulations based on their communication results. The Company enhances its 
+employees’ focus through its benefits for new staff members, such as guaranteed annual salary 
+and allowances for the three festivals (New Year, Dragon Boat Festival, and Mid-Autumn Festival)
+and maternity leave.
+C
+Management Approach
+1. Comply with labor laws and regulations such as the Labor Standards Act,
+ Act of Gender Equality in Employment, Occupational Safety and Health Act,
+ Prevention of Sexual Harassment Act, and the Regulations of Leave-Taking
+ of Workers.
+2. Formulate relevant employee work rules, health and safety work rules,
+ and regulations for the prevention, compliant, and punishment of sexual
+ harassment in the workplace.
+3. Hold quarterly labor-management meetings to discuss labor-related issues.
+4. The Company runs a transparent employee management system, with related
+ information announced in the Company’s internal announcement column.
+Commitment
+Short-term goals:
+1. To fully comply with the labor acts and fulfill the goal of zero punishment
+ throughout the year.
+2. To establish a training system promoted by internal regulations and conduct
+ training on labor rights, gender equality, and occupational safety and health.
+Medium to long-term goals:
+1. To reduce labor disputes.
+2. To help employees accumulate their practical experience for their professional
+ for sustainable corporate development.
+Goal and 
+Target
+5.1.1 Management Approach
+SDG 8 Dignified Work and Economic Growth
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — The
+ Company’s shore-based staff grew steadily in size, with 0% and 2% 
+year-on-year jumps in 2021 and 2020 respectively.
+● The return rate of parental leave and retention rate were both 100% in 
+2021 and 2020.
+SDG 10 Reduced Inequalities
+Contributions and Highlights /
+● The Company’s contributions and performance highlights — The 
+Company’s talent selection and employee policy are both equal and 
+fair, irrespective of race, gender, age, and social origin.
+73
+5 Talent Development
+
+C
+Management Approach
+1. The Company’s department heads will raise matters for discussion at executive
+ meeting.
+2. Labor representatives will raise matters for discussion at labor-management
+ meeting.
+3. Appeals are made to the Human Resources Division by telephone or e-mail.
+4. Report to the Audit Office through the Company’s reporting system.
+5. Complaints about sexual harassment in the workplace can be filed through 
+ the Company’s sexual harassment hotline and dedicated mailbox.
+Grievance 
+Mechanism
+1. In 2021, the Company was randomly checked by the labor office, which found
+ no defects.
+2. In 2021, the Company completed the election for its second Labor Committee.
+3. The Company reviewed its regulations for the prevention, compliant, and
+ punishment of sexual harassment in the workplace , and then announcing
+ the results.
+4. In response to the pandemic, the Company established and implemented a
+ staggered shifts to protect the health and safety of its employees.
+Specific 
+Action
+Board of Directors: Approval for the Company’s systems, regulations, and 
+employee remunerations.
+General Manager: Review of the Company’s systems, regulations, and 
+employee remunerations.
+Administration Department: Review and amendment of the Company’s
+management systems and regulations.
+Department heads: Implement the Company’s management systems and 
+regulations.
+Responsibility
+& Resource
+D
+Evaluation and Adjustment Plan for Management Approach
+The Company complies with the Labor Standards Act and relevant laws and regulations, and 
+adjusts various internal regulations accordingly to reduce labor disputes and improve employee 
+rights and benefits. The current management approach of labor-employment relations is effective,
+thus, adjustment is not needed for the time being. 
+The Company’s talent recruitment is made mainly through advertisements on recruitment websites. 
+After passing the Company’s CV screening and two interviews, the successful job candidate should 
+confirm their start date with the Company, which will then issue an employment notice.
+The Company’s talent selection and employee policies are based on the principles of equality
+and fairness, and do not differ by race, gender, age, and social origin, in an effort to avoid workplace
+discrimination.
+Talent Recruitment
+In 2020, all staff in the Company’s Taipei headquarters and Kaohsiung office were regular employees. In 
+2021, one new part-time employee was employed. Based on its business needs, the Company’s workforce
+grows year by year. In 2021, there were more male employees among the Company’s senior executives, 
+accounting for 66%, and more female employees among its mid-ranking executives, composing 60%. 
+Overall, the numbers of male employees and female employees among mid-ranking and senior executives
+were comparable. In the future, the Company will continue adhering to the principle of equal promotion 
+opportunities for male employees and female employees when adjusting ranks.
+Diversity and Equality in Workplace
+5.1.2 Employee Overview
+I t e m
+T o t a l
+F e m a l e
+M a l e
+F e m a l e
+T o t a l
+M a l e
+C a t e g o r y
+I t e m
+Percentage
+F e m a l e
+M a l e
+F e m a l e
+Percentage
+M a l e
+C a t e g o r y
+By ranking
+24
+8
+12
+8
+20
+16 
+Senior executive1
+35
+21
+16 
+18
+34 
+14
+Mid-ranking executive2
+104
+75 
+32
+77
+109
+29
+General employees
+By age
+9
+1
+7
+1
+8
+8
+Aged 60 and older
+Total
+153
+104
+60
+103
+163
+59
+Percentage
+100%
+64%
+37%
+63%
+100%
+36%
+Average age 
+37.48
+34.76
+40.98
+34.12
+36.65
+42.27
+Average length of service (year)
+7.94
+7.97
+6.82
+7.19
+7.06
+7.89
+6 
+1
+6
+1
+7
+5
+Aged 50-59
+28
+12
+12
+13
+25
+16 
+Aged 40-49
+83
+64 
+22
+60
+82 
+19
+Aged 30-39
+37
+26
+13
+28
+41
+11
+Aged 20-29
+0%
+0
+0
+0
+0%
+0
+Doctorate / PhD
+By the 
+highest 
+academic 
+qualifica-
+tion
+28%
+28
+18
+30
+29%
+18
+Master / MPhil
+67%
+74
+36
+71
+66%
+35
+University
+5%
+2
+6
+2
+5%
+6
+High school
+0%
+0
+0
+0
+0%
+0
+Below high school
+Workforce composition
+2 0 2 1
+2 0 2 0
+Note 1: Senior executive: from manager or above.
+Note 2: Mid-ranking executive: from assistant supervisor to deputy manager.
+75
+74
+5 Talent Development
+5 Talent Development
+
+The ratio of employee turnover the company is one of the important indicators of employee policy. The 
+Company aims to maintain a reasonable and healthy ratio of employees joining and leaving the Company.
+Newcomer Rate and Departure Rate
+The Company complies with the International Bill of Human Rights, the domestic labor laws and regulations,
+and the Company’s human rights policies, and does not offer different salaries and positions to its 
+employees due to their gender, age, nationality, or race. The Company’s overall remuneration policy and 
+remuneration levels are evaluated and supervised by the Remuneration and Compensation Committee, 
+composed of independent directors. Employee salaries are adjusted annually by reference to the market 
+rates and economic trends. There is also a bonus payment method. The bonus system includes the 
+provision of annual bonuses for senior employees, and the guarantee of a 15-month annual salary and a 
+5-month full-term bonus after three years of service for newcomers. In 2021, the Company’s average monthly
+salary for its employees was NT$58,874/person, about 5.2% higher than 2020’s average of NT$55,958/person.
+Employee Remunerations
+The benefit system is a key factor in maintaining the quality of work and life. Therefore, the Company 
+provides a diversified benefit policy, which allows its employees to develop their professional talents 
+without worries while achieving the abundance and fullness of life.
+Benefit System
+In order to enable employees to care for their work and family and raise their children without any 
+worries, during the three stages of pregnancy, childbirth, and upbringing, the Company provides various 
+protection measures, such as prenatal examination leave, maternity leave, paternity leave, parental 
+leave, and maternity assistance, and regards the implementation of childcare leave, reinstatement rates 
+and retention rates as important indicators of its fertility policy.
+Parental Leave
+5.1.3 Remuneration and Benefits System
+Age / sex distribution
+T o t a l
+F e m a l e
+M a l e
+F e m a l e
+T o t a l
+M a l e
+2
+0
+1
+0
+1
+2
+Aged 60 and older
+1
+0
+2
+0
+2
+1
+Aged 50-59
+0
+0
+0
+0
+0
+0
+Aged 40-49
+0
+0
+2
+3
+5
+0
+Aged 30-39
+6
+5
+4
+3
+7
+1
+Aged 20-29
+Total new employees (A)
+9
+5
+9
+6
+15
+4
+Gender percentage
+100%
+56%
+60%
+40%
+100%
+44%
+Number of departed new employees (B)
+1
+1
+1
+1
+2
+0
+Newcomer rate = (A-B)/total employees
+5%
+4%
+13%
+5%
+8%
+7%
+New employee
+2 0 2 1
+2 0 2 0
+Age / sex distribution
+T o t a l
+F e m a l e
+M a l e
+F e m a l e
+T o t a l
+M a l e
+2
+0
+2
+0
+2
+2
+Aged 60 and older
+1
+0
+0
+1
+1
+1
+Aged 50-59
+1
+1
+0
+0
+0
+0
+Aged 40-49
+1
+1
+2
+1
+3
+0
+Aged 30-39
+4
+2
+2
+3
+5
+2
+Aged 20-29
+Total departures (A)
+9
+4
+6
+5
+11
+5
+Gender percentage
+100%
+44%
+55%
+45%
+100%
+56%
+Turnover = (A)/total employees
+6%
+4%
+10%
+5%
+7%
+8%
+Employee turnover
+2 0 2 1
+2 0 2 0
+Labor insurance, health insurance, life insurance ( employee group 
+insurance, accident insurance ), medical insurance ( hospitalization 
+insurance), and disability insurance (occupational accident insurance).
+Insurance
+In principle, the Company references the retirement system under
+the Labor Standards Act. However, after measuring its manpower 
+requirements, it may extend its contracts with employees who have 
+reached retirement age by increasing the retirement age or re-employing
+them as consultants.
+Retirement 
+system
+Year-end bonus, Dragon Boat bonus, Mid-Autumn bonus, performance
+bonus, annual salary increments, guaranteed 15-month annual salary for
+newcomers, and a 5-months full-term bonus issued upon the completion
+of the first three years of service.
+Remuneration 
+system
+Paid annual leave and sick leave totaling 3 days each, annual leave, 
+prenatal examination leave, maternity leave, paternity leave, and 
+parental leave.
+Leave
+Employee check-ups, no handling fee for 99 inter-bank withdrawals or 
+remittances per month from employees’ salary transfer accounts, 
+work uniforms.
+Others
+Gift boxes for the three festivals, birthday gift, birthday cake, and 
+year-end lucky draw.
+Gifts
+Sports subsidy, maternity subsidy, hospitalization subsidy, marriage 
+subsidy, funeral subsidy.
+Subsidy
+A recreational allowance is annually issued to all departments for 
+recreational activities.
+Leisure
+Staff canteen, library, and nursing rooms.
+Facility
+Irregular share subscription options for employees.
+Share subscription
+by employees
+77
+76
+5 Talent Development
+5 Talent Development
+
+The Company’s employee benefit expenses over the past three years are summarized in the following 
+table. Please refer to the annual consolidated financial report for details on the amounts of net defined 
+benefit liabilities, retirement benefit costs and the amount of retirement benefits appropriated.
+Employee Benefits
+Adhering to the new system for labor pensions, the Company makes a monthly contribution of no less 
+than 6% of the employee’s monthly wages and save it in their personal pension account established at 
+the Bureau of Labor Insurance. For the remaining related matters, the Company handles them in accordance
+with laws and regulations.
+In addition, as it recognizes its employees’ previous length of service at the Company, for those who 
+choose the old system, the Company will, in compliance with the Labor Standards Act, make a monthly 
+provision valued at 2% of the employee’s monthly salary from the Company’s pension reserve fund, and 
+deposit it in their Bank of Taiwan account responsible for handling pension receipts and payments, 
+storage and use in the name of the Supervisory Committee of Labor Retirement Reserve.
+Pension Scheme
+The Company’s Employee Benefits Committee is composed of eight representatives appointed by each 
+of the Company’s departments. The committee is headed by the general manager, who will appoint a 
+general secretary to assist in arranging meetings and other related matters.
+The committee’s major tasks involve gift boxes for the three festivals, monthly employee birthday gift 
+money and boxes, maternity allowances, funeral gratuity, hospitalization gratuity, etc. In 2021, the
+Company’s benefits expenditure totaled NT$819,451.
+Employees’ Welfare Committee
+The Company attaches great importance to the development of its employees’ professional and general 
+skills. In addition to holding internal education and training for newcomers from time to time, all of the 
+Company’s department heads will serve as lecturers to explain the operations and expertise of their 
+department. Also, the Company encourages its employees to participate in external study activities or 
+invite external units to give lectures to the Company’s staff.
+In 2021, the Company’s employees received a total 287.25 hours of training, a decrease from the previous
+year, mainly due to the impact of the Covid-19 pandemic in 2021. In the same year, the Company had 43 
+trainees, accounting for 26% of its employees, who received an average 1.8 hours’ training.
+Education and Training
+5.1.4 Education, Training, and Career Development
+C a t e g o r y
+T o t a l
+F e m a l e
+M a l e
+F e m a l e
+T o t a l
+M a l e
+5
+5
+0
+2
+2
+0
+Actual number of parental leave 
+users in the Current year
+3
+3
+0
+2
+2
+0
+Number of people who should
+be reinstated after parental leave 
+in the Current year (A)
+3
+3
+0
+2
+2
+0
+Actual number of employees 
+reinstated after parental leave
+in the current year (B)
+3
+3
+0
+4
+4
+0
+Actual number of employees 
+reinstated after parental leave
+in the previous year (C)
+3
+3
+0
+4
+4
+0
+Number of employees actually 
+reinstated after parental leave in the
+previous year and still in the 
+Company’s employment 12 
+months afterward (D)
+Reinstatement rate = B/A
+100%
+100%
+NA
+100%
+100%
+NA
+Retention rate = D/C
+100%
+100%
+NA
+100%
+100%
+NA
+I t e m
+2 0 2 1
+2 0 2 0
+1,909,174
+3,579,977
+Salary expense
+142,425
+170,812
+Insurance expense
+59,869
+68,223
+Pension expense
+67,791
+62,473
+Other employee benefit expenses
+2,179,259
+3,881,485
+Total
+Employee benefit expenses
+2 0 2 1
+2 0 2 0
+Unit: USD
+Education and training
+2 0 2 1
+2 0 2 0
+287
+Total training hours
+187
+101
+415
+231
+184
+Total
+All employees
+Female
+Male
+Total
+Female
+Male
+1.8
+Number of training hours per employee1
+1.8
+1.7
+2.5
+2.2
+3.1 
+43
+Number of participants in training
+24
+19
+82
+44
+38
+26%
+Percentage of employees participating in training2
+33%
+39%
+50%
+43%
+63%
+ 
+Note 1: Average number of training hours = total training hours/total employees.
+Note 2: Percentage of employees participating in training = number of participants in training/total employees.
+79
+78
+5 Talent Development
+5 Talent Development
+
+At the end of each year, the Company’s employees will complete their self-assessment and submit it to 
+their department heads for review. The department heads shall decide whether to conduct one-on-one 
+talks with their workers to understand their work situation for the year and suggestions for their work. 
+Then, the department heads will fill in the assessment and appraisal documents, suggest potential 
+salary and position adjustments, and submit them to the Human Resources Division of the Management 
+Department for the centralized organization. After review by the Remuneration Committee, the division 
+will handle the matters.
+Appraisal and Promotion
+◆ Various safety measures, such as access control, firefighting equipment, emergency evacuation routes,
+ and alarm systems, are introduced.
+◆ Elevators, firefighting facilities, etc. in the office buildings are regularly maintained.
+◆ Safety equipment is placed in accordance with regulations, and the accumulation of items is prohibited
+ on the escape routes, which should be kept clear.
+◆ Labor insurance, employment insurance, and universal health insurance are handled in accordance
+ with the law, and group life insurance and accident insurance have been added.
+In 2021, the distribution of employee grades and education and training categories is shown in the 
+table below:
+Since 2018, the Company has provided a budget of NT$3,000 per existing employee and NT$1,300 per 
+newcomer for them to undergo a check-up to understand their health conditions. In 2021, 12 of the
+Company’s employees completed their health screening.
+Employee Check-ups
+The Company evaluates its workplace health and safety management performance based on its employees’
+absence rate and disability injuries. In 2020 and 2021, no incidents of disability injuries happened among 
+the Company’s employees at its Taipei headquarters and Kaohsiung office. In 2021, the Company’s overall
+absence rate stood at 1.37%, and the rate was higher for its female employees than their male counterparts.
+The main reason was that the Company’s female employees enjoyed many more types of leave relating 
+to childbirth.
+Employee Absence Rate and Disability Injuries
+Safety Measures in Workplace
+5.1.5 Occupational Health and Safety
+Senior executive
+Mid-ranking executive
+low-ranking executive
+General employee
+24
+15
+7
+8
+25
+33
+22
+52
+103
+Total training 
+hours
+Course category
+ Management
+ skills
+ Expertise
+ Regulatory  
+ updates
+5
+3
+4
+7
+8
+2
+11
+20
+5
+Number of 
+participants in 
+training
+Average number 
+of training hours 
+per participant
+2.9
+2.3
+6.0
+3.6
+4.1
+4.0
+4.7
+5.1
+4.4
+Department’s
+Consolidation
+Employee’s
+Self-Evaluation
+Head of
+Department’s Review
+Promotion and
+personnel transfers
+Remuneration
+Committee
+Employee absence statistics
+2 0 2 1
+2 0 2 0
+Total
+Item
+Female
+Male
+Total
+Female
+Male
+63%
+Sick leave
+63%
+63%
+295
+248
+47
+518
+Days absent1 (A)
+481
+38
+490
+443
+47
+37,802
+Total number of working days due2 (B)
+24,254
+13,548
+35,564
+23,876
+11,688
+1.37%
+Absence rate (A/B)
+1.98%
+0.28%
+1.38%
+1.86%
+0.40%
+262
+Maternity leave
+262
+－
+168
+168
+－
+9
+Menstrual leave
+9
+－
+15
+15
+－
+25
+Prenatal examination leave
+25
+－
+12
+12
+－
+Note 1: Absence days = total number of absence hours for all employees/7 (7 hours per day).
+Note 2: The total number of working days due includes absence days.
+81
+80
+5 Talent Development
+5 Talent Development
+
+5.2 Seafarer Management
+5.2.1 Overview of Seafarer
+At present, the Company cooperates with 17 seafarer manning agencies on the recruitment of seafarers, 
+and the screening processes are separate for officers and ratings. In the recruitment of officers, candidates
+are firstly provided by seafarer manning agencies. In the first stage, the Business & Operation Department
+conducts resume screening. In the second stage, interviews are conducted. The Business Department 
+is responsible for reviewing applications for Captain and Chief Officer and the Technical Department for 
+reviewing the practical experience and business abilities of applicants for Chief Engineer. Only those 
+who have passed all the screenings can be employed. Ratings are selected by the Seaman Affairs 
+Department directly according to the manpower requirements of each type of vessel, and the department
+will review applicants’ license qualifications and conduct interviews.
+Seafarer Recruitment
+At the end of 2021, the Company had a total of 2,623 seafarers, most of them were Chinese. Since 2020, 
+under the impact of the Covid-19 pandemic, the boundaries of various countries have been closed and 
+flights reduced, making it difficult for crew change, which resulted in widespread overtime services, 
+compromising their productivity and safety. In order to diversify risks, the Company has expanded its 
+employment of Vietnamese, Bangladeshi, and Indian seafarers since 2021 to balance the employment 
+ratio of seafarers of various nationalities. The short-term goal is to reduce the proportion of seafarers of 
+any nationality to less than 50%, to avoid the inability to implement crew change plans due to changes 
+in one single country’s pandemic prevention regulations and border control, and to reduce the possibility
+of operational impact.
+Seafarer Composition
+In order to safeguard its employees’ rights and benefits, the Company has established the following 
+communication and recourse channels:
+5.1.6 Labor Communication
+Find appropriate solutions through discussion between department 
+supervisors regarding labor rights issue and benefits.
+Management
+Meeting
+Labor representatives can put forward labor conditions and labor 
+benefits issues as matters to be discussed in the meeting.
+Labor-management 
+Meetings
+For sexual harassment at the workplace, employees may file a
+complaint to the sexual harrassment prevention hotline or mailbox.
+Sexual Harrassment
+Hotline And Mailbox
+Employees may file a complaint by telephone or e-mail about 
+infringement of personal rights, violation of labor contract, or 
+damage to personal rights caused by other illegal reasons.
+Human Resources 
+Department
+The Audit Office may file report according to the Company’s
+whistleblower system. The office will be responsible for recording, 
+reporting, and investigating the case. The results will be reported to 
+the President or the Board of Directors.
+Auditing Office
+Year
+Seafarer
+compo-
+sition
+Ratings
+962
+258
+247
+6
+－
+41
+Ratings
+862
+481
+29
+2
+16
+199
+Nationality
+Chinese  
+(PRC)
+Vietnam-
+ese
+Burmese
+Taiwanese
+Bangla-
+deshi
+Indian
+2020
+Officers
+826
+132
+62
+11
+－
+15
+1,514
+1,589
+Sub-
+total
+1,046
+2021
+Officers
+606
+309
+15
+12
+13
+79
+1,034
+Total
+2,560
+2,623
+The Company adopts humanized management for its fleet and provides various reward systems, including
+return bonuses, contract bonuses, long service subsidies, etc., to encourage seafarers to continue 
+returning to the Company’s fleet and improve operational stability.
+The Company employs seafarer on a fixed-term contract. If a seafarer applies for disembarkation due to 
+personal factors, emergencies, critical illnesses of their relatives, or other urgent needs, the Company 
+will arrange for them to leave the ship as early as possible; if the seafarer needs medical treatment, the 
+Company will immediately contact the port agent to help make required medical arrangements for them. 
+If the vessel is sailing at sea, the Company will arrange for it to deviate to the nearest port, or arrange for 
+a helicopter to rescue the seafarer, so that they can receive proper medical care—health and safety are 
+the Company’s first priority. Moreover, in order to show its appreciation for its seafarer’s hard work, the 
+Company appropriates extra funds for their meals during the New Year period and at Dragon Boat Festival
+and Mid-Autumn Festival (three festivals).
+5.2.2 Benefit System
+83
+82
+5 Talent Development
+5 Talent Development
+
+5.2.3 Professional Training and Career Development
+Professional Training
+All of the Company’s seafarers must complete at least 6 hours of professional training before 
+embarking on the vessel. They are trained by senior docking Captains / Chief Engineers from 
+seafarer manning agencies, who are responsible for carrying out the “All Seafarer Training 
+Workshop” and “Special Training Workshop for the Captain, Chief Engineer, and Chief Officer”.
+All Seafarer Training Workshop
+The Company’s objectives under its Safety Management System.
+The Company’s safety and environmental policy.
+The Company’s Safety Management System (including safety standards for thermal 
+work, as well as high-altitude and outboard operations).
+Procedure book on seafarer duties.
+The Company’s security policy and precautions (including stairway access control, 
+maintaining safety awareness, restricted areas, ship-wide search operations, types 
+of and control on visitor identification cards, etc.)
+Medicine, drug and alcohol control mechanism.
+Waste and Sewage Treatment Procedures; Environmental Procedures on Oil Pollution
+Prevention.
+Special Training Workshop for the Captain, Chief Engineer,
+and Chief Officer
+Notes on PSC Inspection.
+Ship Maintenance Plan and Safety Equipment Inspection Procedures.
+Emergency Drill Program Procedures.
+Defect Report Protocol.
+The appraisal of the seafarer shall be carried out after three months of their service on board and before 
+their departure from the vessel for vacation. Firstly, the Chief Officer will appraise the deck department, 
+and the Chief Engineer the engine department, and then the Captain will review the appraisals. For 
+promotion, the seafarer should have the license qualification and practical experience required by laws 
+and regulations. The deck department can request the Captain to submit recommendations, and the 
+engine room department the Chief Engineer, and then their recommendations are reviewed and 
+approved by the Company.
+Appraisal and Promotion
+The Chief Officer
+and Chief Engineer’s 
+Assessment
+The Captain /
+Chief Engineer’s
+Recommendation
+The Captain’s Review
+Promotion and
+personnel transfers
+Company’s Approval
+5.2.4 Occupational Health and Safety
+In accordance with the SOLAS, the Company has developed safety drills and training. For details on the 
+implementation, please refer to Section 3.2.2. For various tasks in its daily operations, the Company 
+provides safety equipment including work uniforms, safety shoes, helmets, gloves, and ropes, goggles, 
+earplugs, anti-slip shoes, masks, etc. The seafarer should choose appropriate equipment according to 
+different work needs to protect themselves.
+The work safety standards can be divided into three parts: “before work”, “during work” and “after 
+work”, with the following key points:
+Work Safety Standards
+Before
+work
+● The Chief Officer / 1st Engineer conducts a risk assessment and plans for risk
+ management and control based on the identification results.
+● Work meetings are convened to inform the seafarer of work arrangements and possible
+ hazards at work.
+● For high-risk operations, the Chief Officer / 2nd Engineer controls the risks according 
+to the pre-work checklist.
+● All seafarers are confirmed to be wearing proper safety equipment as required.
+During 
+work
+● The bosun / oiler on duty pays close attention to the seafarer’s status at work.
+● If a seafarer makes a mistake, the bosun and seafarer on duty should immediately 
+correct and report it to the Chief Officer / 2nd Engineer.
+After 
+work
+● Reclaim, examine, and clean all safety equipment.
+● Put back hatch covers, manhole covers, and used mechanical equipment, etc.
+● Conduct work deficiency reviews in accordance with the Company’s management 
+procedures.
+85
+84
+5 Talent Development
+5 Talent Development
+
+In 2021, the Company’s fleet experienced 90 incapacitating injuries, mainly inadvertent injuries at work. 
+To minimize the occurrence of disability injuries, the Company requests its seafarer manning agencies 
+to provide strengthened training for the seafarer in professional skills and safety before their embarking 
+on the vessel, and requires the Captain to supervise the seafarer’s safety implementation at work, to 
+conduct a risk assessment before the performance of work tasks, and to ensure that the seafarer is 
+wearing safety gear when performing tasks with potential dangers, regarding the seafarer’s safety as the 
+first priority.
+Disability Injuries
+10
+9
+Fall
+16
+59
+Others (COVID-19)
+1
+3
+Death
+41
+90
+Disability injury count (A + B)
+8,478
+19,629
+Number of hours lost due to incapacity
+7.00
+15.00
+Lost time incident rate (LTIR)
+1,447.43
+3,270.72
+Severity rate (SR)
+41
+90
+Total number of persons
+5,857,280
+6,001,424
+Total experienced working hours
+40
+87
+Total number of accidents (A)
+1
+3
+Number of fatalities (B)
+11
+16
+Damaged body part (cut / wiped / clipped / pressed / hit etc.)
+1
+2
+Burn
+2
+1
+Contact with harmful substances
+Injury category
+2 0 2 1
+2 0 2 0
+If seafarers has any recourse needs during their service period, they may first follow the relevant procedures
+by submitting an appeal to the responsible person on duty in their department, who shall then report it 
+to their supervisor. The supervisor shall respond to the appeal within five days. If seafarers are dissatisfied
+with the result, they may request to meet with the Captain, who shall handle the appeal himself. The 
+processing of appeals shall be recorded and a copy submitted to the relevant seafarers and, if it cannot be
+resolved on board, the Company, which shall consult with or respond to the seafarers or their designated
+representative within eight days.
+In 2021, a total of 18 appeals were filed, including seafarers' demanding a pay hike, refusing to go to 
+COVID-rampant countries, and inability to take leave due to various national pandemic control measures.
+In addition to communicating with the seafarers on the strengthened pandemic prevention measures 
+and risks, the Company also closely monitored the treatment of seafarers in the industry to adjust the 
+seafarers’ salaries and nationality composition, as well as updating its weekly quarantine regulations for 
+each crew change in different areas, so as to make early plans for the vessel’s route.
+5.2.5 International Maritime Organization
+ 
+and Classification Societies
+SASB Content Index
+TR-MT-120a.1 
+Air emissions of the following pollutants: 
+NOx (excluding N2O), SOx, and
+particulate matter (PM10)
+NOx: 748.98
+SOx: 59.44
+PM10: 14.42
+4.2.2
+TR-MT-320a.1 
+Lost time incident rate (LTIR)
+15.0
+5.2.4
+TR-MT-110a.1 
+Gross global Scope 1 emissions (tons CO2e)
+30,733
+4.2.1
+TR-MT-110a.2 
+Discussion of long-term and short-term
+strategy or plan to manage Scope 1
+emissions, emissions reduction targets, 
+and an analysis of performance against 
+those targets
+The Company has 
+adopted Annual Efficiency
+Ratio (AER) as the 
+measurement for the 
+carbon emission intensity,
+set 2008 as the base 
+year, targeted to reduce 
+carbon emission intensity
+by at least 55% by 2030 
+and at least 80% by 2040
+4.2.3
+TR-MT-110a.3 
+(1) Total Energy consumed (GJ)
+(2) Percentage of heavy fuel oil
+(3) Percentage of renewable energy
+(1) 332,553
+(2) 76%
+(3) 0%
+4.1.3
+TR-MT-110a.4 
+Average Energy Efficiency Design Index
+(EEDI) for new ships
+6.97
+3.4.2
+TR-MT-160a.1 
+Shipping duration in marine protected
+areas or areas of protected conservation
+status (days)
+2,842
+4.3.6
+TR-MT-160a.2 
+Ballast water management
+Percentage of fleet implementing ballast water
+(1) exchange and
+(2) treatment
+(1) 6%
+(2) 94%
+4.3.5
+TR-MT-160a.3 
+(1) Number and
+(2) aggregate volume of spills and releases
+ 
+to the environment
+(1) 1
+(2) <0.02
+4.4
+Accounting 
+Metric
+Chapter
+D a t a  2 0 2 1
+Code & Disclosure Topics
+Greenhouse 
+Gas Emission
+Ecological 
+Impacts
+Employee 
+Health & Safety
+Air Quality
+87
+86
+5 Talent Development
+SASB Content Index
+
+TR-MT-510a.1 
+Number of calls at ports in countries that 
+have the 20 lowest rankings in Transparency
+International’s Corruption Perception Index
+15
+1.1
+TR-MT-510a.2 
+Total amount of monetary losses as a
+result of legal proceedings associated with
+bribery or corruption
+None
+1.1
+TR-MT-540a.2 
+Number of Conditions of Class
+or Recommendations
+As of December 31, 
+2021, the Company’s 
+fleet had 50 outstanding 
+conditions of class, 
+which will be rectified 
+before the due dates.
+3.2.2
+TR-MT-540a.3 
+Number of port state control
+(1) deficiencies and
+(2) detentions
+(1) 170
+(2) 9
+3.2.3
+TR-MT-540a.1 
+(1) Number of marine casualties,
+(2) percentage classified as very serious3
+(1) 27
+(2) 19%
+3.2.2
+Accounting 
+Metric
+Chapter
+D a t a  2 0 2 1
+Code & Disclosure Topics
+Business 
+Ethics
+Accident & 
+Safety
+Management
+Accounting 
+Metric
+Chapter
+D a t a  2 0 2 1
+Code & Disclosure Topics
+2,623
+1.1 
+TR-MT-000.A Number of shipboard personnel
+47,958
+3.3.2 
+TR-MT-000.C Operating days
+134
+1.1 
+TR-MT-000.E Total fleet number
+3,554
+1.1 
+TR-MT-000.F Number of vessel port calls
+6,691,051
+1.1 
+TR-MT-000.D Total Deadweight tonnage (DWT)
+N/A
+N/A
+TR-MT-000.G Twenty foot equivalent unit (TEU)
+7.1
+1.1 
+TR-MT-000.B Total distance travelled by 
+vessels (million nautical miles)
+Activity Metric
+GRI Content Index
+102-9 Supply chain
+45
+3.1 Supply Chain
+ 
+Management
+102-3 Location of
+ 
+headquarters
+About this Report
+03
+102-4 Location of
+ 
+operations
+1.1 Company Profile
+07
+102-1 Name of
+ 
+the organization
+1.1 Company Profile
+07
+102-2 Activities, brands,
+ 
+products,
+ 
+and services
+1.1 Company Profile
+07
+102-8 Information on
+ 
+employees and
+ 
+other workers
+1.1 Company Profile
+5.1.2 Employee Overview
+07
+74
+102-10 Significant changes
+ 
+to the organization
+ 
+and its supply chain
+N/A
+No material 
+changes
+102-14 Statement from
+ 
+senior
+ 
+decision-maker
+Message from
+the Chairman
+04
+102-11 Precautionary
+ 
+Principle or
+ 
+approach
+1.5 Disclosure of 
+ 
+Climate-related 
+ 
+Financial Information
+2.1 Risk Assessment
+ 
+and Control
+19
+23
+102-5 Ownership and
+ 
+legal form
+1.1 Company Profile
+07
+102-12 External initiatives
+N/A
+No involvement in 
+external initiatives
+102-13 Membership of
+ 
+associations
+2.4 Participation in 
+ 
+External Organizations
+42
+102-7 Scale of
+ 
+the organization
+1.1 Company Profile
+07
+102-6 Markets served
+1.1 Company Profile
+07
+General Disclosure
+Disclosure
+GRI Standards
+Page
+Corresponding Chapter
+Omission
+GRI 102:
+General
+Disclosures
+2016
+102-18 Governance
+ 
+structure
+1.2 Governance Structure
+09
+102-40 List of
+ 
+stakeholder groups
+2.2 Stakeholders
+ 
+Engagement
+37
+102-16 Values, principles,
+ 
+standards, and
+ 
+norms of behavior
+1.2.3 Business Ethics 
+ 
+Policy
+12
+89
+88
+SASB Content Index
+GRI Content Index
+
+102-41 Collective bargaining
+ 
+agreements
+N/A
+No collective 
+bargaining 
+agreements
+102-42 Identifying and 
+ 
+selecting
+ 
+stakeholders
+2.2.1 Identification of 
+ 
+Stakeholders
+37
+102-43 Approach to
+ 
+stakeholder
+ 
+engagement
+2.2.2 Communication 
+ 
+with Stakeholders
+38
+102-44 Key topics and 
+ 
+concerns raised
+2.3 Material Topics
+40
+102-47 List of
+ 
+material topics
+2.3 Material Topics
+40
+102-48 Restatements of
+ 
+information
+N/A
+102-49 Changes
+ 
+in reporting
+N/A
+102-51 Date of
+ 
+most recent report
+About this Report
+03
+102-50 Reporting period
+About this Report
+03
+102-55 GRI content index
+GRI Content Index
+89
+102-52 Reporting cycle
+About this Report
+03
+102-45 Entities included
+ 
+in the consolidated
+ 
+financial statements
+1.1 Company Profile
+07
+102-46 Defining report  
+ 
+content and
+ 
+topic Boundaries
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+41
+102-53 Contact point for 
+ 
+questions regarding 
+ 
+the report
+About this Report
+03
+102-54 Claims of reporting  
+ 
+in accordance with 
+ 
+the GRI Standards
+About this Report
+03
+102-56 External assurance
+About this Report
+No external 
+assurance
+03
+General Disclosure
+Disclosure
+GRI Standards
+Page
+Corresponding Chapter
+Omission
+GRI 102:
+General
+Disclosures
+2016
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+1.4 Economic
+ 
+Performance
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+16
+41
+103-2 The management
+ 
+approach and
+ 
+its components
+1.4 Economic
+ 
+Performance
+16
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+1.4 Economic
+ 
+Performance
+16
+201-1 Direct economic
+ 
+value generated
+ 
+and distributed
+GRI 201:
+Economic
+Performance
+2016
+1.4 Economic
+ 
+Performance
+16
+Material Topics
+Economic Performance
+Disclosure
+GRI Standards
+Page
+Corresponding Chapter
+Omission
+GRI 103:
+Management
+Approach
+2016
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+4.1.2 Energy Management
+41
+61
+103-2 The management
+ 
+approach and
+ 
+its components
+4.1.2 Energy Management
+61
+305-1 Direct (Scope 1)
+ 
+GHG emissions
+4.2.1 Greenhouse Gas 
+ 
+Emission
+64
+305-2 Energy indirect
+ 
+(Scope 2)
+ 
+GHG emissions
+4.2.1 Greenhouse Gas 
+ 
+Emission
+64
+305-3 Other indirect
+ 
+(Scope 3)
+ 
+GHG emissions
+4.2.1 Greenhouse Gas 
+ 
+Emission
+64
+305-4 GHG
+ 
+emissions intensity
+4.2.1 Greenhouse Gas 
+ 
+Emission
+64
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+4.1.2 Energy Management
+61
+302-1 Energy
+ 
+Consumption within 
+ 
+the Organization
+4.1.3 Energy Use
+62
+302-2 Energy 
+ 
+consumption outside
+ 
+of the organization
+4.1.3 Energy Use
+62
+302-3 Energy intensity
+4.1.3 Energy Use
+62
+Energy, Emissions
+GRI 103:
+Management
+Approach
+2016
+GRI 302:
+Energy
+2016
+GRI 305:
+Emissions 
+2016
+91
+90
+GRI Content Index
+GRI Content Index
+
+401-1 New employee
+ 
+hires and 
+ 
+employee turnover
+5.1.2 Employee Overview
+74
+401-2 Benefits provided to
+ 
+full-time employees
+ 
+that are not provided
+ 
+to temporary or
+ 
+part-time employees
+5.1.3 Remuneration and 
+ 
+Benefits System
+76
+401-3 Parental Leave
+5.1.3 Remuneration and 
+ 
+Benefits System
+76
+GRI 401:
+Employment 
+2016
+Material Topics
+Disclosure
+GRI Standards
+Page
+Corresponding Chapter
+Omission
+305-6 Emissions of
+ 
+ozone-depleting
+ 
+substances (ODS)
+4.2.2 Air Pollutant
+ 
+Emissions
+65
+305-7 Nitrogen
+ 
+oxides (NOx),
+ 
+sulfur oxides (SOx),
+ 
+and other significant
+ 
+air emissions
+4.2.2 Air Pollutant
+ 
+Emissions
+65
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+4.3 Environmental Impact
+ 
+of Wisdom Marine
+ 
+Lines’ Operations
+41
+67
+103-2 The management
+ 
+approach and
+ 
+its components
+4.3 Environmental Impact
+ 
+of Wisdom Marine
+ 
+Lines’ Operations
+67
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+4.3 Environmental Impact
+ 
+of Wisdom Marine
+ 
+Lines’ Operations
+67
+GRI 103:
+Management
+Approach
+2016
+Energy, Emissions
+Compliance with Environmental Laws and Regulations
+GRI 305:
+Emissions 
+2016
+307-1 Non-compliance
+ 
+with environmental
+ 
+laws and regulations
+GRI 307:
+Environmental 
+Compliance
+2016
+4.4 Compliance with 
+ 
+Environmental Laws 
+ 
+and Regulations
+71
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+5 Talent Development
+41
+72
+103-2 The management
+ 
+approach and
+ 
+its components
+5 Talent Development
+72
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+5 Talent Development
+72
+GRI 103:
+Management
+Approach
+2016
+Labor-employer relations
+Material Topics
+Disclosure
+GRI Standards
+Page
+Corresponding Chapter
+Omission
+Purchase of Eco-ships
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+4.1.2 Energy Management
+41
+61
+103-2 The management
+ 
+approach and
+ 
+its components
+4.1.2 Energy Management
+61
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+4.1.2 Energy Management
+61
+3.4 Investment in
+ 
+Eco Ships
+57
+GRI 103:
+Management
+Approach
+2016
+Non-GRI 
+Topics
+Maritime Safety
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+3.2 Maritime Safety
+41
+50
+103-2 The management
+ 
+approach and
+ 
+its components
+3.2 Maritime Safety
+50
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+3.2 Maritime Safety
+50
+3.2 Maritime Safety
+50
+GRI 103:
+Management
+Approach
+2016
+Non-GRI 
+Topics
+Transport Quality
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+3.3 Transport Quality
+41
+53
+103-2 The management
+ 
+approach and
+ 
+its components
+3.3 Transport Quality
+53
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+3.3 Transport Quality
+53
+3.3 Transport Quality
+53
+GRI 103:
+Management
+Approach
+2016
+Non-GRI 
+Topics
+93
+92
+GRI Content Index
+GRI Content Index
+
+Material Topics
+Disclosure
+GRI Standards
+Page
+Corresponding Chapter
+Omission
+103-1 Explanation of
+ 
+the material topic
+ 
+and its Boundary
+2.3.3 Disclosure Scope of 
+ 
+Material Topics
+4.3 Environmental Impact
+ 
+of Wisdom Marine
+ 
+Lines’ Operations
+41
+67
+103-2 The management
+ 
+approach and
+ 
+its components
+4.3 Environmental Impact
+ 
+of Wisdom Marine
+ 
+Lines’ Operations
+67
+4.3 Environmental Impact
+ 
+of Wisdom Marine
+ 
+Lines’ Operations
+67
+Non-GRI 
+Topics
+103-3 Evaluation of
+ 
+the management
+ 
+approach
+4.3 Environmental Impact
+ 
+of Wisdom Marine
+ 
+Lines’ Operations
+67
+GRI 103:
+Management
+Approach
+2016
+Environmental Impact of the Transport Process
+2 0 2 1
+Wisdom Marine Group
+ESG Report
+94
+GRI Content Index
+
+© 2021 Taiwan All Rights Reserved.
+WISDOM MARINE GROUP
+Address / Rm. 711, 7F, No. 237, Sec. 2, Fu-hsing S. Rd., Taipei 106, Taiwan
+Tel / (02) 2755-2637
+Email / ir@wisdomlines.com.tw
+www.wisdomlines.com.tw/
