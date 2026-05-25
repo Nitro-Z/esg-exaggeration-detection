@@ -1,10 +1,8 @@
 # Detection of Exaggeration in English ESG Disclosures
 ## Evidence from Taiwanese Listed Firms via Machine Learning
 
-Master's thesis, Tamkang University — Department of Management Sciences (English-Taught Program), June 2026.
 
 **Author:** Pham Khac Nam  
-**Advisor:** Distinguished Professor Ruey-Chyn Tsaur
 
 ---
 
